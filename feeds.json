@@ -1,12 +1,19 @@
 {
-  "generatedAt": "2026-10-31T17:56:18.105Z",
+  "generatedAt": "2026-10-31T18:27:23.056Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
-      "updated": "2026-10-31T17:56:13.303Z",
+      "updated": "2026-10-31T18:27:23.056Z",
       "items": [
+        {
+          "title": "Khamzat Chimaev’s undefeated protégé says he’d beat Justin Gaethje today after winning title at 21",
+          "link": "https://bloodyelbow.com/2026/10/31/khamzat-chimaevs-undefeated-protege-says-hed-beat-justin-gaethje-today-after-winning-title-at-21/",
+          "date": "2026-10-31T18:00:00.000Z",
+          "relative": "27 minutes ago",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/10/GettyImages-2230339515-scaled.jpg"
+        },
         {
           "title": "Former UFC star and two-weight champion facing six opponents by himself in no time limit matchup",
           "link": "https://bloodyelbow.com/2026/10/31/former-ufc-star-and-two-weight-champion-facing-six-opponents-by-himself-in-no-time-limit-matchup/",
@@ -41,13 +48,6 @@
           "date": "2026-10-31T13:00:00.000Z",
           "relative": "about 5 hours ago",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2024/11/GettyImages-1162239514-scaled.jpg"
-        },
-        {
-          "title": "How Paddy Pimblett will beat Justin Gaethje if he gets a second chance against him",
-          "link": "https://bloodyelbow.com/2026/10/31/how-paddy-pimblett-will-beat-justin-gaethje-if-he-gets-a-second-chance-against-him/",
-          "date": "2026-10-31T12:00:00.000Z",
-          "relative": "about 6 hours ago",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/01/GettyImages-2258043192-scaled.jpg"
         }
       ]
     },
@@ -55,13 +55,13 @@
       "id": "mmafighting",
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
-      "updated": "2026-10-31T17:56:18.105Z",
+      "updated": "2026-10-31T18:27:23.044Z",
       "items": [
         {
           "title": "Canelo vs. Mbilli video: Bek Nurmaganbet knocks out Marcos Vazquez in violent fashion",
           "link": "https://www.mmafighting.com/boxing/518649/canelo-vs-mbilli-video-bek-nurmaganbet-knocks-out-marcos-vazquez-in-violent-fashion",
           "date": "2026-10-31T15:55:04.000Z",
-          "relative": "about 2 hours ago",
+          "relative": "about 3 hours ago",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/Screen-Shot-2026-10-31-at-11.52.08-AM.png?quality=90&strip=all&crop=0,0,100,100"
         },
         {
@@ -105,7 +105,7 @@
       "id": "sherdog",
       "name": "Sherdog",
       "site": "https://www.sherdog.com/",
-      "updated": "2026-10-31T17:56:13.281Z",
+      "updated": "2026-10-31T18:27:22.981Z",
       "items": [
         {
           "title": "UFC Vegas 123 ‘Moicano vs. Nolan’ play-by-play, results & round scoring",
