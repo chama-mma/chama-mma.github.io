@@ -1,12 +1,19 @@
 {
-  "generatedAt": "2026-10-31T19:57:43.353Z",
+  "generatedAt": "2026-10-31T20:24:47.690Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
-      "updated": "2026-10-31T19:57:43.226Z",
+      "updated": "2026-10-31T20:24:47.583Z",
       "items": [
+        {
+          "title": "Colby Covington leaves door open to MMA return for fights against two of the biggest UFC stars ever",
+          "link": "https://bloodyelbow.com/2026/10/31/colby-covington-leaves-door-open-to-mma-return-for-fights-against-two-of-the-biggest-ufc-stars-ever/",
+          "date": "2026-10-31T20:00:00.000Z",
+          "relative": "25 minutes ago",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/01/GettyImages-1858548747-scaled.jpg"
+        },
         {
           "title": "Former double champion debuts at UFC Vegas 123 eight years after saying MMA was ‘too brutal’ for her",
           "link": "https://bloodyelbow.com/2026/10/31/former-double-champion-debuts-at-ufc-vegas-123-eight-years-after-saying-mma-was-too-brutal-for-her/",
@@ -41,13 +48,6 @@
           "date": "2026-10-31T15:00:00.000Z",
           "relative": "about 5 hours ago",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/08/GettyImages-2203874651-scaled.jpg"
-        },
-        {
-          "title": "UFC contender’s brother called ‘most dangerous teen in the world’ after vicious first-round KO",
-          "link": "https://bloodyelbow.com/2026/10/31/ufc-contenders-brother-called-most-dangerous-teen-in-the-world-after-vicious-first-round-ko/",
-          "date": "2026-10-31T14:00:00.000Z",
-          "relative": "about 6 hours ago",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/10/Alberth-Bahamondes.jpg"
         }
       ]
     },
@@ -55,20 +55,20 @@
       "id": "mmafighting",
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
-      "updated": "2026-10-31T19:57:43.353Z",
+      "updated": "2026-10-31T20:24:47.690Z",
       "items": [
         {
           "title": "Canelo vs. Mbilli Results: LIVE updates of the undercard and main event",
           "link": "https://www.mmafighting.com/boxing/518501/canelo-vs-mbilli-results-live-updates-undercard-main-event",
           "date": "2026-10-31T19:21:54.000Z",
-          "relative": "36 minutes ago",
+          "relative": "about 1 hour ago",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2302193464.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
           "title": "Canelo vs. Mbilli video: Bek Nurmaganbet knocks out Marcos Vazquez in violent fashion",
           "link": "https://www.mmafighting.com/boxing/518649/canelo-vs-mbilli-video-bek-nurmaganbet-knocks-out-marcos-vazquez-in-violent-fashion",
           "date": "2026-10-31T15:55:04.000Z",
-          "relative": "about 4 hours ago",
+          "relative": "about 5 hours ago",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/Screen-Shot-2026-10-31-at-11.52.08-AM.png?quality=90&strip=all&crop=0,0,100,100"
         },
         {
@@ -105,7 +105,7 @@
       "id": "sherdog",
       "name": "Sherdog",
       "site": "https://www.sherdog.com/",
-      "updated": "2026-10-31T19:57:43.336Z",
+      "updated": "2026-10-31T20:24:47.566Z",
       "items": [
         {
           "title": "UFC Vegas 123 ‘Moicano vs. Nolan’ play-by-play, results & round scoring",
