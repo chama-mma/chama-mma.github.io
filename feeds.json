@@ -1,31 +1,38 @@
 {
-  "generatedAt": "2026-11-01T01:50:31.115Z",
+  "generatedAt": "2026-11-01T02:37:18.869Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
-      "updated": "2026-11-01T01:50:31.115Z",
+      "updated": "2026-11-01T02:37:18.804Z",
       "items": [
+        {
+          "title": "Undefeated UFC star loses his 0 as doctor forces stoppage over horrific cut",
+          "link": "https://bloodyelbow.com/2026/10/31/undefeated-ufc-star-loses-his-0-as-doctor-forces-stoppage-over-horrific-cut/",
+          "date": "2026-11-01T01:57:48.000Z",
+          "relative": "40 minutes ago",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/10/GettyImages-2302918163-scaled.jpg"
+        },
         {
           "title": "Mike Perry doesn’t make financial sense right now says BKFC boss in reaction to star moving on",
           "link": "https://bloodyelbow.com/2026/10/31/mike-perry-doesnt-make-financial-sense-right-now-says-bkfc-boss-in-reaction-to-star-moving-on/",
           "date": "2026-11-01T01:00:00.000Z",
-          "relative": "about 1 hour ago",
+          "relative": "about 2 hours ago",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/04/bkfc82weighin-0075-scaled.jpg"
         },
         {
           "title": "Islam Makhachev will earn middleweight title shot by beating Prates vs Morales winner says legend",
           "link": "https://bloodyelbow.com/2026/10/31/islam-makhachev-will-earn-middleweight-title-shot-by-beating-prates-vs-morales-winner-says-legend/",
           "date": "2026-11-01T00:00:00.000Z",
-          "relative": "about 2 hours ago",
+          "relative": "about 3 hours ago",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2246910776-scaled.jpg"
         },
         {
           "title": "Daniel Cormier hits out at commentary critics live on UFC Vegas 123 broadcast",
           "link": "https://bloodyelbow.com/2026/10/31/daniel-cormier-hits-out-at-commentary-critics-live-on-ufc-vegas-123-broadcast/",
           "date": "2026-10-31T23:30:36.000Z",
-          "relative": "about 2 hours ago",
+          "relative": "about 3 hours ago",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/08/GettyImages-2285693066-scaled.jpg"
         },
         {
@@ -39,15 +46,8 @@
           "title": "Canelo Alvarez v Christian Mbilli result: Controversial world title clash goes the distance in Riyadh",
           "link": "https://bloodyelbow.com/2026/10/31/canelo-alvarez-v-christian-mbilli-result-controversial-world-title-clash-goes-the-distance-in-riyadh/",
           "date": "2026-10-31T22:47:41.000Z",
-          "relative": "about 3 hours ago",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/10/GettyImages-2302438373-scaled.jpg"
-        },
-        {
-          "title": "UFC Vegas 123’s Tom Nolan won his contract via fellow star’s online course after predicting the future",
-          "link": "https://bloodyelbow.com/2026/10/31/ufc-vegas-123s-tom-nolan-won-his-contract-via-fellow-stars-online-course-after-predicting-the-future/",
-          "date": "2026-10-31T22:00:00.000Z",
           "relative": "about 4 hours ago",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/10/UFC-333-poster-2-scaled.jpg"
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/10/GettyImages-2302438373-scaled.jpg"
         }
       ]
     },
@@ -55,13 +55,27 @@
       "id": "mmafighting",
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
-      "updated": "2026-11-01T01:50:31.092Z",
+      "updated": "2026-11-01T02:37:18.829Z",
       "items": [
+        {
+          "title": "UFC Vegas 123 results: Jacobe Smith bloodies Randy Brown, grinds his way to decision win",
+          "link": "https://www.mmafighting.com/ufc/518795/ufc-vegas-123-results-jacobe-smith-bloodies-randy-brown-grinds-his-way-to-decision-win",
+          "date": "2026-11-01T02:22:15.000Z",
+          "relative": "15 minutes ago",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2302924122.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "UFC Vegas 123 live blog: Renato Moicano vs. Tom Nolan",
+          "link": "https://www.mmafighting.com/ufc/518842/ufc-vegas-123-live-blog-renato-moicano-vs-tom-nolan",
+          "date": "2026-11-01T02:14:58.000Z",
+          "relative": "22 minutes ago",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2302723405.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "LIVE! UFC Vegas 123 Results: Moicano vs. Nolan",
           "link": "https://www.mmafighting.com/ufc/518356/ufc-vegas-123-results-moicano-vs-nolan",
           "date": "2026-11-01T00:02:00.000Z",
-          "relative": "about 2 hours ago",
+          "relative": "about 3 hours ago",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2302723405.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
@@ -82,22 +96,8 @@
           "title": "Canelo Alvarez vs. Christian Mbilli live round-by-round updates",
           "link": "https://www.mmafighting.com/boxing/518512/canelo-alvarez-vs-christian-mbilli-live-round-by-round-updates-boxing",
           "date": "2026-10-31T22:55:42.000Z",
-          "relative": "about 3 hours ago",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2302197922.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Canelo Alvarez vs. Christian Mbilli full fight video highlights",
-          "link": "https://www.mmafighting.com/boxing/518683/canelo-alvarez-vs-christian-mbilli-full-fight-video-highlights-boxing",
-          "date": "2026-10-31T22:49:48.000Z",
-          "relative": "about 3 hours ago",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2302434118.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Canelo vs. Mbilli Results: Live updates of the undercard and main event",
-          "link": "https://www.mmafighting.com/boxing/518501/canelo-vs-mbilli-results-live-updates-undercard-main-event",
-          "date": "2026-10-31T21:25:29.000Z",
           "relative": "about 4 hours ago",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2302193464.jpg?quality=90&strip=all&crop=0,0,100,100"
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2302197922.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
@@ -105,13 +105,13 @@
       "id": "sherdog",
       "name": "Sherdog",
       "site": "https://www.sherdog.com/",
-      "updated": "2026-11-01T01:50:31.015Z",
+      "updated": "2026-11-01T02:37:18.869Z",
       "items": [
         {
           "title": "UFC Vegas 123 ‘Moicano vs. Nolan’ play-by-play, results & round scoring",
           "link": "https://www.sherdog.com/news/news/UFC-Vegas-123-Moicano-vs-Nolan-playbyplay-results-round-scoring-203430",
           "date": "2026-10-31T23:57:07.000Z",
-          "relative": "about 2 hours ago",
+          "relative": "about 3 hours ago",
           "image": null
         },
         {
