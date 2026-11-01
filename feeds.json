@@ -1,12 +1,19 @@
 {
-  "generatedAt": "2026-11-01T21:58:10.480Z",
+  "generatedAt": "2026-11-01T22:27:54.757Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
-      "updated": "2026-11-01T21:58:10.480Z",
+      "updated": "2026-11-01T22:27:54.757Z",
       "items": [
+        {
+          "title": "Arman Tsarukyan responds to Alexander Volkanovski’s grappling claim with savage Makhachev reference",
+          "link": "https://bloodyelbow.com/2026/11/01/arman-tsarukyan-responds-to-alexander-volkanovskis-grappling-claim-with-savage-makhachev-reference/",
+          "date": "2026-11-01T22:00:00.000Z",
+          "relative": "28 minutes ago",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2024/12/GettyImages-2188608001-scaled.jpg"
+        },
         {
           "title": "UFC 336 fight leaked: Roberto Soldic’s potential opponent shares promotional poster",
           "link": "https://bloodyelbow.com/2026/11/01/ufc-336-fight-leaked-roberto-soldics-potential-opponent-shares-promotional-poster/",
@@ -25,7 +32,7 @@
           "title": "Khamzat Chimaev vs Jorge Masvidal announced as ex-UFC BMF’s first match since losing to Nate Diaz",
           "link": "https://bloodyelbow.com/2026/11/01/khamzat-chimaev-vs-jorge-masvidal-announced-as-ex-ufc-bmfs-first-match-since-losing-to-nate-diaz/",
           "date": "2026-11-01T19:32:33.000Z",
-          "relative": "about 2 hours ago",
+          "relative": "about 3 hours ago",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2024/04/GettyImages-1154230921-scaled.jpg"
         },
         {
@@ -41,13 +48,6 @@
           "date": "2026-11-01T18:00:00.000Z",
           "relative": "about 4 hours ago",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/07/GettyImages-2232920743-scaled.jpg"
-        },
-        {
-          "title": "Conor McGregor makes promise for his ‘final fight’ while vowing to outdo Canelo Alvarez in every way",
-          "link": "https://bloodyelbow.com/2026/11/01/conor-mcgregor-makes-promise-for-his-final-fight-while-vowing-to-outdo-canelo-alvarez-in-every-way/",
-          "date": "2026-11-01T17:30:00.000Z",
-          "relative": "about 4 hours ago",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/07/GettyImages-2285439087-scaled.jpg"
         }
       ]
     },
@@ -55,15 +55,8 @@
       "id": "mmafighting",
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
-      "updated": "2026-11-01T21:58:10.414Z",
+      "updated": "2026-11-01T22:27:54.300Z",
       "items": [
-        {
-          "title": "Renato Moicano won’t pursue review of UFC Vegas 123 result nor punishment for referee, but ‘I want him to go f*ck himself’",
-          "link": "https://www.mmafighting.com/ufc/519042/renato-moicano-wont-pursue-review-of-ufc-vegas-123-result-nor-punishment-for-referee-but-i-want-him-to-go-fuck-himself",
-          "date": "2026-11-01T20:00:00.000Z",
-          "relative": "about 2 hours ago",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2302926102.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
         {
           "title": "Tom Nolan dismisses controversial referee standup vs. Renato Moicano: ‘I think the truth is, that’s how it would have gone’",
           "link": "https://www.mmafighting.com/ufc/518961/tom-nolan-dismisses-controversial-referee-standup-vs-renato-moicano-i-think-the-truth-is-thats-how-it-would-have-gone",
@@ -98,6 +91,13 @@
           "date": "2026-11-01T15:00:00.000Z",
           "relative": "about 7 hours ago",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/868403828_18646994830014512_7422126264542760799_n.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "UFC broadcast team stunned by Dan Miragliotta’s inexplicable standup: ‘A referee error’",
+          "link": "https://www.mmafighting.com/ufc/518948/ufc-broadcast-team-stunned-by-dan-miragliottas-inexplicable-standup-a-referee-error",
+          "date": "2026-11-01T14:00:00.000Z",
+          "relative": "about 8 hours ago",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/10/gettyimages-1201933443.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
@@ -105,27 +105,27 @@
       "id": "sherdog",
       "name": "Sherdog",
       "site": "https://www.sherdog.com/",
-      "updated": "2026-11-01T21:58:10.438Z",
+      "updated": "2026-11-01T22:27:54.252Z",
       "items": [
         {
           "title": "UFC Vegas 123 bonuses: Julian Erosa earns &#36;100,000 in retirement fight",
           "link": "https://www.sherdog.com/news/news/UFC-Vegas-123-bonuses-Julian-Erosa-earns-36100000-in-retirement-fight-203433",
           "date": "2026-10-31T23:57:12.000Z",
-          "relative": "about 22 hours ago",
+          "relative": "about 23 hours ago",
           "image": null
         },
         {
           "title": "Tom Nolan stops Renato Carneiro in UFC Vegas 123 main event",
           "link": "https://www.sherdog.com/news/news/Tom-Nolan-stops-Renato-Carneiro-in-UFC-Vegas-123-main-event-203431",
           "date": "2026-10-31T23:57:10.000Z",
-          "relative": "about 22 hours ago",
+          "relative": "about 23 hours ago",
           "image": null
         },
         {
           "title": "UFC Vegas 123 ‘Moicano vs. Nolan’ play-by-play, results & round scoring",
           "link": "https://www.sherdog.com/news/news/UFC-Vegas-123-Moicano-vs-Nolan-playbyplay-results-round-scoring-203430",
           "date": "2026-10-31T23:57:07.000Z",
-          "relative": "about 22 hours ago",
+          "relative": "about 23 hours ago",
           "image": null
         },
         {
