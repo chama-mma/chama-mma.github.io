@@ -1,17 +1,24 @@
 {
-  "generatedAt": "2026-11-01T13:38:04.931Z",
+  "generatedAt": "2026-11-01T14:26:06.543Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
-      "updated": "2026-11-01T13:38:04.865Z",
+      "updated": "2026-11-01T14:26:06.501Z",
       "items": [
+        {
+          "title": "Jake Paul sends message to Canelo after watching him bounce back from Terence Crawford loss",
+          "link": "https://bloodyelbow.com/2026/11/01/jake-paul-sends-message-to-canelo-after-watching-him-bounce-back-from-terence-crawford-loss/",
+          "date": "2026-11-01T14:00:00.000Z",
+          "relative": "26 minutes ago",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/05/GettyImages-2276641726-1-scaled.jpg"
+        },
         {
           "title": "Renato Moicano shares brutal assessment of his ‘terrible performance’ at UFC Vegas 123",
           "link": "https://bloodyelbow.com/2026/11/01/renato-moicano-shares-brutal-assessment-of-his-terrible-performance-at-ufc-vegas-123/",
           "date": "2026-11-01T13:00:00.000Z",
-          "relative": "38 minutes ago",
+          "relative": "about 1 hour ago",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2302925063-scaled.jpg"
         },
         {
@@ -25,7 +32,7 @@
           "title": "Fans rage at referee as Renato Moicano and Tom Nolan stood up moments before KO at UFC Vegas 123",
           "link": "https://bloodyelbow.com/2026/10/31/fans-rage-at-referee-as-renato-moicano-and-tom-nolan-stood-up-moments-before-ko-at-ufc-vegas-123/",
           "date": "2026-11-01T03:29:08.000Z",
-          "relative": "about 10 hours ago",
+          "relative": "about 11 hours ago",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/10/GettyImages-2302926101-scaled.jpg"
         },
         {
@@ -41,13 +48,6 @@
           "date": "2026-11-01T01:57:48.000Z",
           "relative": "about 12 hours ago",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/10/GettyImages-2302918163-scaled.jpg"
-        },
-        {
-          "title": "Mike Perry doesn’t make financial sense right now says BKFC boss in reaction to star moving on",
-          "link": "https://bloodyelbow.com/2026/10/31/mike-perry-doesnt-make-financial-sense-right-now-says-bkfc-boss-in-reaction-to-star-moving-on/",
-          "date": "2026-11-01T01:00:00.000Z",
-          "relative": "about 13 hours ago",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/04/bkfc82weighin-0075-scaled.jpg"
         }
       ]
     },
@@ -55,13 +55,13 @@
       "id": "mmafighting",
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
-      "updated": "2026-11-01T13:38:04.902Z",
+      "updated": "2026-11-01T14:26:06.524Z",
       "items": [
         {
           "title": "UFC Vegas 123 post-fight show: Reaction to referee blunder in Tom Nolan’s main event finish of Renato Moicano",
           "link": "https://www.mmafighting.com/ufc/518960/ufc-vegas-123-post-fight-show-reaction-to-referee-blunder-in-tom-nolans-main-event-finish-of-renato-moicano",
           "date": "2026-11-01T04:44:26.000Z",
-          "relative": "about 9 hours ago",
+          "relative": "about 10 hours ago",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2302926739.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
@@ -82,14 +82,14 @@
           "title": "UFC Vegas 123 results: Jacobe Smith bloodies Randy Brown, grinds his way to decision win",
           "link": "https://www.mmafighting.com/ufc/518795/ufc-vegas-123-results-jacobe-smith-bloodies-randy-brown-grinds-his-way-to-decision-win",
           "date": "2026-11-01T02:22:15.000Z",
-          "relative": "about 11 hours ago",
+          "relative": "about 12 hours ago",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2302924122.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
           "title": "UFC Vegas 123 live blog: Renato Moicano vs. Tom Nolan",
           "link": "https://www.mmafighting.com/ufc/518842/ufc-vegas-123-live-blog-renato-moicano-vs-tom-nolan",
           "date": "2026-11-01T02:14:58.000Z",
-          "relative": "about 11 hours ago",
+          "relative": "about 12 hours ago",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2302723405.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
@@ -105,7 +105,7 @@
       "id": "sherdog",
       "name": "Sherdog",
       "site": "https://www.sherdog.com/",
-      "updated": "2026-11-01T13:38:04.931Z",
+      "updated": "2026-11-01T14:26:06.543Z",
       "items": [
         {
           "title": "UFC Vegas 123 bonuses: Julian Erosa earns &#36;100,000 in retirement fight",
