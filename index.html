@@ -44,12 +44,103 @@
       transition: background-color 0.2s, color 0.2s;
     }
 
+    /* ========== NEW NOTICEABLE COUNTDOWN TOP BAR ========== */
+    .countdown-topbar {
+      background: linear-gradient(90deg, #8b0000 0%, #c41e3a 40%, #8b0000 100%);
+      border-bottom: 3px solid #ffcc00;
+      position: sticky;
+      top: 0;
+      z-index: 200;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+    }
+
+    .countdown-track {
+      display: flex;
+      gap: 1.25rem;
+      padding: 0.85rem 1.5rem;
+      max-width: 1400px;
+      margin: 0 auto;
+      overflow-x: auto;
+      scrollbar-width: thin;
+    }
+
+    .countdown-track::-webkit-scrollbar {
+      height: 5px;
+    }
+    .countdown-track::-webkit-scrollbar-thumb {
+      background: rgba(255, 255, 255, 0.35);
+      border-radius: 3px;
+    }
+
+    .countdown-item {
+      display: inline-flex;
+      flex-direction: column;
+      align-items: flex-start;
+      min-width: 170px;
+      padding: 0.55rem 1rem;
+      border-radius: 8px;
+      background: rgba(0, 0, 0, 0.35);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      transition: all 0.2s ease;
+      color: #fff;
+    }
+
+    .countdown-item:hover {
+      background: rgba(0, 0, 0, 0.55);
+      border-color: #ffcc00;
+      transform: translateY(-2px);
+    }
+
+    .countdown-item .event-name {
+      font-size: 0.7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: #ffcc00;
+      margin-bottom: 0.15rem;
+    }
+
+    .countdown-item .event-main {
+      font-size: 0.9rem;
+      font-weight: 600;
+      margin-bottom: 0.25rem;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 180px;
+      color: #ffffff;
+    }
+
+    .countdown-item .timer {
+      font-variant-numeric: tabular-nums;
+      font-size: 1.05rem;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      color: #ffffff;
+    }
+
+    .countdown-item .timer.live {
+      color: #ff4d6d;
+      animation: pulse 1.2s infinite;
+    }
+
+    .countdown-item .location {
+      font-size: 0.68rem;
+      color: rgba(255, 255, 255, 0.75);
+      margin-top: 0.15rem;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.6; }
+    }
+
     /* Centered solid content column */
     .page-wrapper {
       max-width: 1200px;
       margin: 0 auto;
       background: var(--bg);
-      min-height: 100vh;
+      min-height: calc(100vh - 80px);
       box-shadow: 0 0 40px rgba(0, 0, 0, 0.45);
       position: relative;
       z-index: 1;
@@ -60,7 +151,7 @@
       border-bottom: 1px solid var(--border);
       padding: 1rem 1.5rem;
       position: sticky;
-      top: 0;
+      top: 70px; /* sits below the new countdown topbar */
       z-index: 100;
     }
 
@@ -202,109 +293,6 @@
       margin-top: 3rem;
     }
 
-    /* === UFC Countdown Topbar === */
-    .ufc-countdown-bar {
-      background: linear-gradient(90deg, #1a1a1a 0%, #2d1f1f 50%, #1a1a1a 100%);
-      border-bottom: 1px solid #3a2a2a;
-      position: sticky;
-      top: 57px;
-      z-index: 90;
-      -webkit-overflow-scrolling: touch;
-    }
-
-    [data-theme="dark"] .ufc-countdown-bar {
-      background: linear-gradient(90deg, #0d0d0d 0%, #1f1515 50%, #0d0d0d 100%);
-      border-bottom: 1px solid #2a1f1f;
-    }
-
-    .ufc-countdown-bar .countdown-item {
-      background: rgba(255, 255, 255, 0.06);
-      border: 1px solid rgba(255, 255, 255, 0.1);
-      color: #f0f0f0;
-    }
-
-    .ufc-countdown-bar .countdown-item:hover {
-      background: rgba(255, 255, 255, 0.1);
-      border-color: rgba(255, 255, 255, 0.2);
-    }
-
-    .ufc-countdown-bar .event-name {
-      color: #b0a0a0;
-    }
-
-    .ufc-countdown-bar .event-main {
-      color: #f5f5f5;
-    }
-
-    .ufc-countdown-bar .timer {
-      color: #ffffff;
-    }
-
-    .ufc-countdown-bar .timer.live {
-      color: #ff4d6d;
-    }
-
-    .ufc-countdown-bar .location {
-      color: #998888;
-    }
-    .ufc-countdown-bar::-webkit-scrollbar { height: 4px; }
-    .ufc-countdown-bar::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
-
-    .countdown-track {
-      display: flex;
-      gap: 1rem;
-      padding: 0.6rem 1.5rem;
-      max-width: 1200px;
-      margin: 0 auto;
-      overflow-x: auto;
-    }
-
-    .countdown-item {
-      display: inline-flex;
-      flex-direction: column;
-      align-items: flex-start;
-      min-width: 155px;
-      padding: 0.4rem 0.85rem;
-      border-radius: 8px;
-      background: var(--card);
-      border: 1px solid var(--border);
-      transition: border-color 0.15s;
-    }
-    .countdown-item:hover { border-color: #aaa; }
-    [data-theme="dark"] .countdown-item:hover { border-color: #555; }
-
-    .countdown-item .event-name {
-      font-size: 0.68rem;
-      font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: 0.03em;
-      color: var(--muted);
-      margin-bottom: 0.1rem;
-    }
-    .countdown-item .event-main {
-      font-size: 0.8rem;
-      font-weight: 500;
-      margin-bottom: 0.2rem;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      max-width: 170px;
-    }
-    .countdown-item .timer {
-      font-variant-numeric: tabular-nums;
-      font-size: 0.88rem;
-      font-weight: 700;
-      letter-spacing: -0.02em;
-    }
-    .countdown-item .timer.live {
-      color: #e11d48;
-    }
-    .countdown-item .location {
-      font-size: 0.65rem;
-      color: var(--muted);
-      margin-top: 0.1rem;
-    }
-
     /* === MMA Podcasts Section === */
     .podcasts-section {
       max-width: 1200px;
@@ -383,7 +371,6 @@
       line-height: 1.35;
     }
 
-    /* Make the side images more visible on larger screens */
     @media (min-width: 1400px) {
       .page-wrapper {
         max-width: 1180px;
@@ -392,6 +379,14 @@
   </style>
 </head>
 <body>
+
+  <!-- ========== NEW NOTICEABLE COUNTDOWN TOP BAR ========== -->
+  <div class="countdown-topbar">
+    <div class="countdown-track" id="countdown-track">
+      <!-- populated by JS -->
+    </div>
+  </div>
+
   <div class="page-wrapper">
     <header>
       <div class="header-inner">
@@ -403,13 +398,6 @@
         </div>
       </div>
     </header>
-
-    <!-- UFC Event Countdown Topbar -->
-    <div class="ufc-countdown-bar" id="ufc-countdown-bar">
-      <div class="countdown-track" id="countdown-track">
-        <!-- populated by JS -->
-      </div>
-    </div>
 
     <main>
       <div class="note">
