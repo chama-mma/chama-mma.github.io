@@ -32,7 +32,7 @@
 
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-      background-color: var(--bg);
+      background-color: #111;
       background-image: url('https://raw.githubusercontent.com/jumongwr-create/chama-mma/main/poatan-bg.png');
       background-size: cover;
       background-position: center center;
@@ -42,6 +42,17 @@
       line-height: 1.5;
       min-height: 100vh;
       transition: background-color 0.2s, color 0.2s;
+    }
+
+    /* Centered solid content column */
+    .page-wrapper {
+      max-width: 1200px;
+      margin: 0 auto;
+      background: var(--bg);
+      min-height: 100vh;
+      box-shadow: 0 0 40px rgba(0, 0, 0, 0.45);
+      position: relative;
+      z-index: 1;
     }
 
     header {
@@ -372,147 +383,155 @@
       line-height: 1.35;
     }
 
+    /* Make the side images more visible on larger screens */
+    @media (min-width: 1400px) {
+      .page-wrapper {
+        max-width: 1180px;
+      }
+    }
   </style>
 </head>
 <body>
-  <header>
-    <div class="header-inner">
-      <div class="logo">CHAMA!</div>
-      <div class="controls">
-        <span class="status" id="last-updated">just now</span>
-        <button id="theme-toggle" onclick="toggleTheme()">Dark</button>
-        <button onclick="location.reload()">Refresh</button>
+  <div class="page-wrapper">
+    <header>
+      <div class="header-inner">
+        <div class="logo">CHAMA!</div>
+        <div class="controls">
+          <span class="status" id="last-updated">just now</span>
+          <button id="theme-toggle" onclick="toggleTheme()">Dark</button>
+          <button onclick="location.reload()">Refresh</button>
+        </div>
+      </div>
+    </header>
+
+    <!-- UFC Event Countdown Topbar -->
+    <div class="ufc-countdown-bar" id="ufc-countdown-bar">
+      <div class="countdown-track" id="countdown-track">
+        <!-- populated by JS -->
       </div>
     </div>
-  </header>
 
-  <!-- UFC Event Countdown Topbar -->
-  <div class="ufc-countdown-bar" id="ufc-countdown-bar">
-    <div class="countdown-track" id="countdown-track">
-      <!-- populated by JS -->
-    </div>
+    <main>
+      <div class="note">
+        Verified sources only · Auto-refreshes every 10 minutes
+      </div>
+
+      <!-- Dynamic feeds will be injected here -->
+      <div class="sources" id="sources">
+        <p style="color:var(--muted)">Loading feeds…</p>
+      </div>
+
+      <!-- MMA Podcasts -->
+      <div class="podcasts-section">
+        <h2>MMA Podcasts</h2>
+        <p class="sub">Latest episodes from the biggest voices in MMA</p>
+        <div class="podcast-grid">
+
+          <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/the-ariel-helwani-show/id1724284031" target="_blank" rel="noopener">
+            <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/fd/e8/92fde809-4488-c40f-a67c-e0396ddb8974/mza_5696250919643748547.jpg/200x200bb.jpg" alt="Ariel Helwani Show" loading="lazy">
+            <div class="body">
+              <div class="show">The Ariel Helwani Show</div>
+              <div class="ep">Interviews & analysis with the biggest names in combat sports</div>
+            </div>
+          </a>
+
+          <a class="podcast-card" href="https://rss.art19.com/ufcunfiltered" target="_blank" rel="noopener">
+            <img src="https://content.production.cdn.art19.com/images/77/73/74/0b/7773740b-ec82-4835-994b-eeb97a26ace3/87731057222fe9860b42c6285efe5b03fd5b8e91028b1b2d1cbcf14388ce6ea7b2790108a144444dae50689698b41b3eb1ec7d437a81c29170caa77ed5f4bc60.jpeg" alt="UFC Unfiltered" loading="lazy">
+            <div class="body">
+              <div class="show">UFC Unfiltered</div>
+              <div class="ep">Jim Norton & Matt Serra — official UFC podcast</div>
+            </div>
+          </a>
+
+          <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/the-daniel-cormier-show/id1673570585" target="_blank" rel="noopener">
+            <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/61/a2/ed61a27d-7e98-23a2-2665-756a9e40b8b3/mza_8201341821507455390.jpg/200x200bb.jpg" alt="Daniel Cormier Show" loading="lazy">
+            <div class="body">
+              <div class="show">The Daniel Cormier Show</div>
+              <div class="ep">DC’s raw reactions to the biggest UFC fights</div>
+            </div>
+          </a>
+
+          <a class="podcast-card" href="https://plnk.to/MorningKombat" target="_blank" rel="noopener">
+            <img src="https://cdn.podme.com/podcast-images/EEF6A2A845D704F72E73EDC4D5268A0F_small.jpg" alt="Morning Kombat" loading="lazy">
+            <div class="body">
+              <div class="show">Morning Kombat</div>
+              <div class="ep">Luke Thomas & friends cover MMA & boxing</div>
+            </div>
+          </a>
+
+          <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/youre-welcome-with-chael-sonnen/id1441941027" target="_blank" rel="noopener">
+            <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5a/5a/5a/5a5a5a5a-5a5a-5a5a-5a5a-5a5a5a5a5a5a/mza_123.jpg/200x200bb.jpg" alt="Chael Sonnen" loading="lazy" onerror="this.src='https://i.scdn.co/image/ab6765630000ba8a9f9f9f9f9f9f9f9f9f9f9f9f'">
+            <div class="body">
+              <div class="show">You're Welcome! · Chael Sonnen</div>
+              <div class="ep">Chael’s unfiltered takes on the fight game</div>
+            </div>
+          </a>
+
+          <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/anik-and-florian-podcast/id1093781482" target="_blank" rel="noopener">
+            <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/a1/a1/a1/a1a1a1a1-a1a1-a1a1-a1a1-a1a1a1a1a1a1/mza_456.jpg/200x200bb.jpg" alt="Anik Florian" loading="lazy" onerror="this.src='https://megaphone.imgix.net/podcasts/5e5e5e5e-5e5e-5e5e-5e5e-5e5e5e5e5e5e/image/5e5e5e5e.jpg?ixlib=rails-4.3.1&max-w=300&max-h=300&fit=crop&auto=format,compress'">
+            <div class="body">
+              <div class="show">Anik & Florian Podcast</div>
+              <div class="ep">Jon Anik & Kenny Florian break down the UFC</div>
+            </div>
+          </a>
+
+          <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/believe-you-me-with-michael-bisping/id1440000000" target="_blank" rel="noopener">
+            <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/b2/b2/b2/b2b2b2b2-b2b2-b2b2-b2b2-b2b2b2b2b2b2/mza_789.jpg/200x200bb.jpg" alt="Believe You Me" loading="lazy" onerror="this.src='https://i.scdn.co/image/ab6765630000ba8ac1c1c1c1c1c1c1c1c1c1c1c1'">
+            <div class="body">
+              <div class="show">Believe You Me</div>
+              <div class="ep">Michael Bisping & Paul Felder</div>
+            </div>
+          </a>
+
+          <a class="podcast-card" href="https://www.mmafighting.com/podcasts" target="_blank" rel="noopener">
+            <img src="https://platform.mmafighting.com/wp-content/uploads/sites/109/2023/01/mma-fighting-podcast.jpg" alt="MMA Fighting" loading="lazy" onerror="this.src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/22345678/mmaf_logo.png'">
+            <div class="body">
+              <div class="show">MMA Fighting</div>
+              <div class="ep">Helwani, Cruz & the MMA Fighting crew</div>
+            </div>
+          </a>
+
+          <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272" target="_blank" rel="noopener">
+            <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/11/22/33/11223344-5566-7788-99aa-bbccddeeff00/mza_jre.jpg/200x200bb.jpg" alt="JRE" loading="lazy" onerror="this.src='https://static.libsyn.com/p/assets/7/9/0/0/7900a0a0a0a0a0a0/JRE.jpg'">
+            <div class="body">
+              <div class="show">Joe Rogan Experience · MMA</div>
+              <div class="ep">Long-form conversations with fighters & experts</div>
+            </div>
+          </a>
+
+          <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/pound-4-pound/id1555555555" target="_blank" rel="noopener">
+            <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/c3/c3/c3/c3c3c3c3-c3c3-c3c3-c3c3-c3c3c3c3c3c3/mza_p4p.jpg/200x200bb.jpg" alt="Pound 4 Pound" loading="lazy" onerror="this.src='https://i.scdn.co/image/ab6765630000ba8ad2d2d2d2d2d2d2d2d2d2d2d2'">
+            <div class="body">
+              <div class="show">Pound 4 Pound</div>
+              <div class="ep">Kamaru Usman & Henry Cejudo</div>
+            </div>
+          </a>
+
+          <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/the-big-brown-breakdown/id1440000000" target="_blank" rel="noopener">
+            <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/d4/d4/d4/d4d4d4d4-d4d4-d4d4-d4d4-d4d4d4d4d4d4/mza_bbb.jpg/200x200bb.jpg" alt="Big Brown Breakdown" loading="lazy" onerror="this.src='https://i.scdn.co/image/ab6765630000ba8ae3e3e3e3e3e3e3e3e3e3e3e3'">
+            <div class="body">
+              <div class="show">The Big Brown Breakdown</div>
+              <div class="ep">Brendan Schaub’s take on the fight game</div>
+            </div>
+          </a>
+
+          <a class="podcast-card" href="https://mmajunkie.usatoday.com/podcasts" target="_blank" rel="noopener">
+            <img src="https://www.mmajunkie.usatoday.com/wp-content/uploads/sites/91/2023/01/mmajunkie-radio.jpg" alt="MMA Junkie Radio" loading="lazy" onerror="this.src='https://www.mmajunkie.usatoday.com/wp-content/uploads/sites/91/2021/01/mma-junkie-logo.png'">
+            <div class="body">
+              <div class="show">MMA Junkie Radio</div>
+              <div class="ep">Winner/Loser reactions & fight analysis</div>
+            </div>
+          </a>
+
+        </div>
+      </div>
+
+    </main>
+
+    <footer>
+      CHAMA! — UFC · MMA Fighting · Sherdog · Powered by GitHub Actions
+    </footer>
   </div>
-
-  <main>
-    <div class="note">
-      Verified sources only · Auto-refreshes every 10 minutes
-    </div>
-
-    <!-- Dynamic feeds will be injected here -->
-    <div class="sources" id="sources">
-      <p style="color:var(--muted)">Loading feeds…</p>
-    </div>
-
-    <!-- MMA Podcasts -->
-    <div class="podcasts-section">
-      <h2>MMA Podcasts</h2>
-      <p class="sub">Latest episodes from the biggest voices in MMA</p>
-      <div class="podcast-grid">
-
-        <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/the-ariel-helwani-show/id1724284031" target="_blank" rel="noopener">
-          <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/fd/e8/92fde809-4488-c40f-a67c-e0396ddb8974/mza_5696250919643748547.jpg/200x200bb.jpg" alt="Ariel Helwani Show" loading="lazy">
-          <div class="body">
-            <div class="show">The Ariel Helwani Show</div>
-            <div class="ep">Interviews & analysis with the biggest names in combat sports</div>
-          </div>
-        </a>
-
-        <a class="podcast-card" href="https://rss.art19.com/ufcunfiltered" target="_blank" rel="noopener">
-          <img src="https://content.production.cdn.art19.com/images/77/73/74/0b/7773740b-ec82-4835-994b-eeb97a26ace3/87731057222fe9860b42c6285efe5b03fd5b8e91028b1b2d1cbcf14388ce6ea7b2790108a144444dae50689698b41b3eb1ec7d437a81c29170caa77ed5f4bc60.jpeg" alt="UFC Unfiltered" loading="lazy">
-          <div class="body">
-            <div class="show">UFC Unfiltered</div>
-            <div class="ep">Jim Norton & Matt Serra — official UFC podcast</div>
-          </div>
-        </a>
-
-        <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/the-daniel-cormier-show/id1673570585" target="_blank" rel="noopener">
-          <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/61/a2/ed61a27d-7e98-23a2-2665-756a9e40b8b3/mza_8201341821507455390.jpg/200x200bb.jpg" alt="Daniel Cormier Show" loading="lazy">
-          <div class="body">
-            <div class="show">The Daniel Cormier Show</div>
-            <div class="ep">DC’s raw reactions to the biggest UFC fights</div>
-          </div>
-        </a>
-
-        <a class="podcast-card" href="https://plnk.to/MorningKombat" target="_blank" rel="noopener">
-          <img src="https://cdn.podme.com/podcast-images/EEF6A2A845D704F72E73EDC4D5268A0F_small.jpg" alt="Morning Kombat" loading="lazy">
-          <div class="body">
-            <div class="show">Morning Kombat</div>
-            <div class="ep">Luke Thomas & friends cover MMA & boxing</div>
-          </div>
-        </a>
-
-        <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/youre-welcome-with-chael-sonnen/id1441941027" target="_blank" rel="noopener">
-          <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5a/5a/5a/5a5a5a5a-5a5a-5a5a-5a5a-5a5a5a5a5a5a/mza_123.jpg/200x200bb.jpg" alt="Chael Sonnen" loading="lazy" onerror="this.src='https://i.scdn.co/image/ab6765630000ba8a9f9f9f9f9f9f9f9f9f9f9f9f'">
-          <div class="body">
-            <div class="show">You're Welcome! · Chael Sonnen</div>
-            <div class="ep">Chael’s unfiltered takes on the fight game</div>
-          </div>
-        </a>
-
-        <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/anik-and-florian-podcast/id1093781482" target="_blank" rel="noopener">
-          <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/a1/a1/a1/a1a1a1a1-a1a1-a1a1-a1a1-a1a1a1a1a1a1/mza_456.jpg/200x200bb.jpg" alt="Anik Florian" loading="lazy" onerror="this.src='https://megaphone.imgix.net/podcasts/5e5e5e5e-5e5e-5e5e-5e5e-5e5e5e5e5e5e/image/5e5e5e5e.jpg?ixlib=rails-4.3.1&max-w=300&max-h=300&fit=crop&auto=format,compress'">
-          <div class="body">
-            <div class="show">Anik & Florian Podcast</div>
-            <div class="ep">Jon Anik & Kenny Florian break down the UFC</div>
-          </div>
-        </a>
-
-        <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/believe-you-me-with-michael-bisping/id1440000000" target="_blank" rel="noopener">
-          <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/b2/b2/b2/b2b2b2b2-b2b2-b2b2-b2b2-b2b2b2b2b2b2/mza_789.jpg/200x200bb.jpg" alt="Believe You Me" loading="lazy" onerror="this.src='https://i.scdn.co/image/ab6765630000ba8ac1c1c1c1c1c1c1c1c1c1c1c1'">
-          <div class="body">
-            <div class="show">Believe You Me</div>
-            <div class="ep">Michael Bisping & Paul Felder</div>
-          </div>
-        </a>
-
-        <a class="podcast-card" href="https://www.mmafighting.com/podcasts" target="_blank" rel="noopener">
-          <img src="https://platform.mmafighting.com/wp-content/uploads/sites/109/2023/01/mma-fighting-podcast.jpg" alt="MMA Fighting" loading="lazy" onerror="this.src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/22345678/mmaf_logo.png'">
-          <div class="body">
-            <div class="show">MMA Fighting</div>
-            <div class="ep">Helwani, Cruz & the MMA Fighting crew</div>
-          </div>
-        </a>
-
-        <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272" target="_blank" rel="noopener">
-          <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/11/22/33/11223344-5566-7788-99aa-bbccddeeff00/mza_jre.jpg/200x200bb.jpg" alt="JRE" loading="lazy" onerror="this.src='https://static.libsyn.com/p/assets/7/9/0/0/7900a0a0a0a0a0a0/JRE.jpg'">
-          <div class="body">
-            <div class="show">Joe Rogan Experience · MMA</div>
-            <div class="ep">Long-form conversations with fighters & experts</div>
-          </div>
-        </a>
-
-        <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/pound-4-pound/id1555555555" target="_blank" rel="noopener">
-          <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/c3/c3/c3/c3c3c3c3-c3c3-c3c3-c3c3-c3c3c3c3c3c3/mza_p4p.jpg/200x200bb.jpg" alt="Pound 4 Pound" loading="lazy" onerror="this.src='https://i.scdn.co/image/ab6765630000ba8ad2d2d2d2d2d2d2d2d2d2d2d2'">
-          <div class="body">
-            <div class="show">Pound 4 Pound</div>
-            <div class="ep">Kamaru Usman & Henry Cejudo</div>
-          </div>
-        </a>
-
-        <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/the-big-brown-breakdown/id1440000000" target="_blank" rel="noopener">
-          <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/d4/d4/d4/d4d4d4d4-d4d4-d4d4-d4d4-d4d4d4d4d4d4/mza_bbb.jpg/200x200bb.jpg" alt="Big Brown Breakdown" loading="lazy" onerror="this.src='https://i.scdn.co/image/ab6765630000ba8ae3e3e3e3e3e3e3e3e3e3e3e3'">
-          <div class="body">
-            <div class="show">The Big Brown Breakdown</div>
-            <div class="ep">Brendan Schaub’s take on the fight game</div>
-          </div>
-        </a>
-
-        <a class="podcast-card" href="https://mmajunkie.usatoday.com/podcasts" target="_blank" rel="noopener">
-          <img src="https://www.mmajunkie.usatoday.com/wp-content/uploads/sites/91/2023/01/mmajunkie-radio.jpg" alt="MMA Junkie Radio" loading="lazy" onerror="this.src='https://www.mmajunkie.usatoday.com/wp-content/uploads/sites/91/2021/01/mma-junkie-logo.png'">
-          <div class="body">
-            <div class="show">MMA Junkie Radio</div>
-            <div class="ep">Winner/Loser reactions & fight analysis</div>
-          </div>
-        </a>
-
-      </div>
-    </div>
-
-  </main>
-
-  <footer>
-    CHAMA! — UFC · MMA Fighting · Sherdog · Powered by GitHub Actions
-  </footer>
 
   <script>
     // Theme toggle
