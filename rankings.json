@@ -1,19 +1,279 @@
 {
-  "updated": "Oct. 31, 2026",
-  "source": "https://www.ufc.com/rankings",
-  "divisions": [
-    {"name":"Men's Pound-for-Pound","champion":"Islam Makhachev","fighters":["Islam Makhachev","Alexander Volkanovski","Petr Yan","Justin Gaethje","Ilia Topuria","Joshua Van","Sean Strickland","Tom Aspinall","Merab Dvalishvili","Alex Pereira","Khamzat Chimaev","Ciryl Gane","Arman Tsarukyan","Alexandre Pantoja","Carlos Ulberg"]},
-    {"name":"Flyweight","champion":"Joshua Van","fighters":["Alexandre Pantoja","Manel Kape","Brandon Royval","Tatsuro Taira","Kyoji Horiguchi","Lone’er Kavanagh","Asu Almabayev","Brandon Moreno","Amir Albazi","Ramazan Temirov","Tim Elliott","Steve Erceg","Sumudaerji","Tagir Ulanbekov","Alex Perez"]},
-    {"name":"Bantamweight","champion":"Petr Yan","fighters":["Merab Dvalishvili","Sean O'Malley","Song Yadong","Umar Nurmagomedov","Mario Bautista","Cory Sandhagen","Payton Talbott","David Martinez","Aiemann Zahabi","Raul Rosas Jr.","Marlon Vera","Deiveson Figueiredo","Marcus McGhee","Raoni Barcelos","Bryce Mitchell"]},
-    {"name":"Featherweight","champion":"Alexander Volkanovski","fighters":["Movsar Evloev","Diego Lopes","Lerone Murphy","Aljamain Sterling","Jean Silva","Yair Rodriguez","Arnold Allen","Youssef Zalal","Kevin Vallejos","Steve Garcia","Aaron Pico","Melquizael Costa","Brian Ortega","Patricio Pitbull","David Onama"]},
-    {"name":"Lightweight","champion":"Justin Gaethje","fighters":["Ilia Topuria","Arman Tsarukyan","Charles Oliveira","Max Holloway","Paddy Pimblett","Benoît Saint Denis","Quillan Salkilld","Mauricio Ruffy","Salahdine Parnasse","Mateusz Gamrot","Rafael Fiziev","Renato Moicano","Tom Nolan","Dan Hooker","Beneil Dariush"]},
-    {"name":"Welterweight","champion":"Islam Makhachev","fighters":["Ian Machado Garry","Carlos Prates","Michael Morales","Jack Della Maddalena","Gabriel Bonfim","Sean Brady","Belal Muhammad","Leon Edwards","Mike Malott","Kamaru Usman","Yaroslav Amosov","Uroš Medić","Joaquin Buckley","Daniel Rodriguez","Kevin Holland"]},
-    {"name":"Middleweight","champion":"Sean Strickland","fighters":["Khamzat Chimaev","Dricus Du Plessis","Nassourdine Imavov","Brendan Allen","Caio Borralho","Joe Pyfer","Gregory Rodrigues","Anthony Hernandez","Israel Adesanya","Christian Leroy Duncan","Abus Magomedov","Jared Cannonier","Ikram Aliskerov","Bo Nickal","Shara Magomedov"]},
-    {"name":"Light Heavyweight","champion":"Carlos Ulberg","fighters":["Magomed Ankalaev","Jiří Procházka","Alex Pereira","Khalil Rountree Jr.","Navajo Stirling","Paulo Costa","Dominick Reyes","Bogdan Guskov","Jan Błachowicz","Azamat Murzakanov","Robert Whittaker","Abdul Rakhman Yakhyaev","Alonzo Menifield","Reinier de Ridder","Nikita Krylov"]},
-    {"name":"Heavyweight","champion":"Ciryl Gane (interim)","fighters":["Tom Aspinall","Alexander Volkov","Sergei Pavlovich","Josh Hokit","Curtis Blaydes","Waldo Cortes Acosta","Rizvan Kuniev","Vitor Petrino","Serghei Spivac","Ante Delija","Valter Walker","Tyrell Fortune","Derrick Lewis","Aleksandar Rakić","Mario Pinto"]},
-    {"name":"Women's Pound-for-Pound","champion":"Valentina Shevchenko","fighters":["Valentina Shevchenko","Kayla Harrison","Zhang Weili","Natalia Silva","Mackenzie Dern","Alexa Grasso","Manon Fiorot","Tatiana Suarez","Jasmine Jasudavicius","Erin Blanchfield","Julianna Peña","Virna Jandiroba","Rose Namajunas","Raquel Pennington","Denise Gomes"]},
-    {"name":"Women's Strawweight","champion":"Mackenzie Dern","fighters":["Zhang Weili","Tatiana Suarez","Virna Jandiroba","Denise Gomes","Gillian Robertson","Yan Xiaonan","Fatima Kline","Loopy Godinez","Alexia Thainara","Tabatha Ricci","Jéssica Andrade","Amanda Lemos","Amanda Ribas","Angela Hill","Mizuki"]},
-    {"name":"Women's Flyweight","champion":"Natalia Silva","fighters":["Valentina Shevchenko","Alexa Grasso","Manon Fiorot","Jasmine Jasudavicius","Erin Blanchfield","Rose Namajunas","Maycee Barber","Wang Cong","Tracy Cortez","Miranda Maverick","Karine Silva","Casey O'Neill","Eduarda Moura","Regina Tarin","Gabriella Fernandes"]},
-    {"name":"Women's Bantamweight","champion":"Kayla Harrison","fighters":["Julianna Peña","Joselyne Edwards","Ailin Perez","Norma Dumont","Luana Santos","Raquel Pennington","Yana Santos","Jacqueline Cavalcanti","Macy Chiasson","Karol Rosa","Bia Mesquita","Michelle Montague","Nora Cornolle","Chelsea Chandler","Alice Pereira"]}
-  ]
+ "updated": "Nov. 05, 2026",
+ "source": "https://www.ufc.com/rankings",
+ "divisions": [
+  {
+   "name": "Men's Pound-for-PoundTop Rank",
+   "champion": "Islam Makhachev",
+   "fighters": [
+    "Islam Makhachev",
+    "Alexander Volkanovski",
+    "Petr Yan",
+    "Justin Gaethje",
+    "Ilia Topuria",
+    "Joshua Van",
+    "Sean Strickland",
+    "Tom Aspinall",
+    "Merab Dvalishvili",
+    "Alex Pereira",
+    "Ciryl Gane",
+    "Khamzat Chimaev",
+    "Arman Tsarukyan",
+    "Alexandre Pantoja",
+    "Carlos Ulberg"
+   ]
+  },
+  {
+   "name": "Flyweight",
+   "champion": "Joshua Van",
+   "fighters": [
+    "Alexandre Pantoja",
+    "Manel Kape",
+    "Brandon Royval",
+    "Tatsuro Taira",
+    "Kyoji Horiguchi",
+    "Lone’er Kavanagh",
+    "Asu Almabayev",
+    "Brandon Moreno",
+    "Amir Albazi",
+    "Ramazan Temirov",
+    "Tim Elliott",
+    "Steve Erceg",
+    "Sumudaerji",
+    "Tagir Ulanbekov",
+    "Alex Perez"
+   ]
+  },
+  {
+   "name": "Bantamweight",
+   "champion": "Petr Yan",
+   "fighters": [
+    "Merab Dvalishvili",
+    "Sean O'Malley",
+    "Song Yadong",
+    "Umar Nurmagomedov",
+    "Mario Bautista",
+    "Cory Sandhagen",
+    "Payton Talbott",
+    "David Martinez",
+    "Aiemann Zahabi",
+    "Raul Rosas Jr.",
+    "Marlon Vera",
+    "Deiveson Figueiredo",
+    "Marcus McGhee",
+    "Raoni Barcelos",
+    "Bryce Mitchell"
+   ]
+  },
+  {
+   "name": "Featherweight",
+   "champion": "Alexander Volkanovski",
+   "fighters": [
+    "Movsar Evloev",
+    "Diego Lopes",
+    "Lerone Murphy",
+    "Aljamain Sterling",
+    "Jean Silva",
+    "Yair Rodriguez",
+    "Arnold Allen",
+    "Youssef Zalal",
+    "Kevin Vallejos",
+    "Steve Garcia",
+    "Aaron Pico",
+    "Melquizael Costa",
+    "Brian Ortega",
+    "Patricio Pitbull",
+    "David Onama"
+   ]
+  },
+  {
+   "name": "Lightweight",
+   "champion": "Justin Gaethje",
+   "fighters": [
+    "Ilia Topuria",
+    "Arman Tsarukyan",
+    "Charles Oliveira",
+    "Max Holloway",
+    "Paddy Pimblett",
+    "Benoît Saint Denis",
+    "Quillan Salkilld",
+    "Mauricio Ruffy",
+    "Salahdine Parnasse",
+    "Mateusz Gamrot",
+    "Rafael Fiziev",
+    "Renato Moicano",
+    "Tom Nolan",
+    "Dan Hooker",
+    "Beneil Dariush"
+   ]
+  },
+  {
+   "name": "Welterweight",
+   "champion": "Islam Makhachev",
+   "fighters": [
+    "Ian Machado Garry",
+    "Carlos Prates",
+    "Michael Morales",
+    "Jack Della Maddalena",
+    "Gabriel Bonfim",
+    "Sean Brady",
+    "Belal Muhammad",
+    "Leon Edwards",
+    "Mike Malott",
+    "Kamaru Usman",
+    "Yaroslav Amosov",
+    "Uroš Medić",
+    "Joaquin Buckley",
+    "Daniel Rodriguez",
+    "Kevin Holland"
+   ]
+  },
+  {
+   "name": "Middleweight",
+   "champion": "Sean Strickland",
+   "fighters": [
+    "Khamzat Chimaev",
+    "Dricus Du Plessis",
+    "Nassourdine Imavov",
+    "Brendan Allen",
+    "Caio Borralho",
+    "Joe Pyfer",
+    "Gregory Rodrigues",
+    "Anthony Hernandez",
+    "Israel Adesanya",
+    "Christian Leroy Duncan",
+    "Abus Magomedov",
+    "Jared Cannonier",
+    "Ikram Aliskerov",
+    "Bo Nickal",
+    "Shara Magomedov"
+   ]
+  },
+  {
+   "name": "Light Heavyweight",
+   "champion": "Carlos Ulberg",
+   "fighters": [
+    "Magomed Ankalaev",
+    "Jiří Procházka",
+    "Alex Pereira",
+    "Khalil Rountree Jr.",
+    "Navajo Stirling",
+    "Paulo Costa",
+    "Dominick Reyes",
+    "Bogdan Guskov",
+    "Jan Błachowicz",
+    "Azamat Murzakanov",
+    "Robert Whittaker",
+    "Abdul Rakhman Yakhyaev",
+    "Alonzo Menifield",
+    "Reinier de Ridder",
+    "Nikita Krylov"
+   ]
+  },
+  {
+   "name": "Heavyweight",
+   "champion": "Ciryl Gane",
+   "fighters": [
+    "Tom Aspinall",
+    "Alexander Volkov",
+    "Sergei Pavlovich",
+    "Josh Hokit",
+    "Curtis Blaydes",
+    "Waldo Cortes Acosta",
+    "Rizvan Kuniev",
+    "Vitor Petrino",
+    "Serghei Spivac",
+    "Ante Delija",
+    "Valter Walker",
+    "Derrick Lewis",
+    "Tyrell Fortune",
+    "Aleksandar Rakić",
+    "Mario Pinto"
+   ]
+  },
+  {
+   "name": "Women's Pound-for-PoundTop Rank",
+   "champion": "Valentina Shevchenko",
+   "fighters": [
+    "Valentina Shevchenko",
+    "Kayla Harrison",
+    "Zhang Weili",
+    "Natalia Silva",
+    "Mackenzie Dern",
+    "Alexa Grasso",
+    "Manon Fiorot",
+    "Tatiana Suarez",
+    "Jasmine Jasudavicius",
+    "Erin Blanchfield",
+    "Julianna Peña",
+    "Virna Jandiroba",
+    "Rose Namajunas",
+    "Raquel Pennington",
+    "Denise Gomes"
+   ]
+  },
+  {
+   "name": "Women's Strawweight",
+   "champion": "Mackenzie Dern",
+   "fighters": [
+    "Zhang Weili",
+    "Tatiana Suarez",
+    "Virna Jandiroba",
+    "Denise Gomes",
+    "Gillian Robertson",
+    "Yan Xiaonan",
+    "Fatima Kline",
+    "Loopy Godinez",
+    "Alexia Thainara",
+    "Tabatha Ricci",
+    "Jéssica Andrade",
+    "Amanda Lemos",
+    "Amanda Ribas",
+    "Angela Hill",
+    "Mizuki"
+   ]
+  },
+  {
+   "name": "Women's Flyweight",
+   "champion": "Natalia Silva",
+   "fighters": [
+    "Valentina Shevchenko",
+    "Alexa Grasso",
+    "Manon Fiorot",
+    "Jasmine Jasudavicius",
+    "Erin Blanchfield",
+    "Rose Namajunas",
+    "Maycee Barber",
+    "Wang Cong",
+    "Tracy Cortez",
+    "Miranda Maverick",
+    "Karine Silva",
+    "Casey O'Neill",
+    "Eduarda Moura",
+    "Regina Tarin",
+    "Gabriella Fernandes"
+   ]
+  },
+  {
+   "name": "Women's Bantamweight",
+   "champion": "Kayla Harrison",
+   "fighters": [
+    "Julianna Peña",
+    "Joselyne Edwards",
+    "Ailin Perez",
+    "Norma Dumont",
+    "Raquel Pennington",
+    "Luana Santos",
+    "Yana Santos",
+    "Jacqueline Cavalcanti",
+    "Macy Chiasson",
+    "Karol Rosa",
+    "Bia Mesquita",
+    "Michelle Montague",
+    "Nora Cornolle",
+    "Chelsea Chandler",
+    "Alice Pereira"
+   ]
+  }
+ ]
 }
