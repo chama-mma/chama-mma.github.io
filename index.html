@@ -517,6 +517,47 @@
 
     </main>
 
+<!-- ===== UFC RANKINGS: paste this just above your footer ("CHAMA! — UFC · MMA Fighting...") ===== -->
+<section id="ufc-rankings">
+  <h2>UFC Rankings</h2>
+  <p class="ur-sub">Official UFC rankings · <span id="ur-updated">loading…</span> · <a href="https://www.ufc.com/rankings" target="_blank" rel="noopener">ufc.com/rankings</a></p>
+  <div id="ur-tabs" role="tablist"></div>
+  <div id="ur-panel"></div>
+</section>
+<style>
+  #ufc-rankings{max-width:900px;margin:40px auto;padding:0 16px}
+  #ufc-rankings .ur-sub{opacity:.7;font-size:.9rem;margin-top:-6px}
+  #ur-tabs{display:flex;gap:6px;overflow-x:auto;padding:8px 0;scrollbar-width:thin}
+  #ur-tabs button{flex:none;cursor:pointer;font:inherit;font-size:.85rem;padding:6px 12px;border-radius:999px;
+    border:1px solid rgba(128,128,128,.4);background:transparent;color:inherit}
+  #ur-tabs button[aria-selected="true"]{background:#d20a0a;border-color:#d20a0a;color:#fff}
+  #ur-panel ol{list-style:none;margin:8px 0 0;padding:0}
+  #ur-panel li{display:flex;gap:14px;align-items:center;padding:10px 12px;border-bottom:1px solid rgba(128,128,128,.25)}
+  #ur-panel li .n{width:2rem;text-align:right;font-weight:700;opacity:.6}
+  #ur-panel li.champ{background:rgba(210,10,10,.12);border-radius:8px;font-weight:700}
+  #ur-panel li.champ .n{color:#d20a0a;opacity:1}
+</style>
+<script>
+(async function(){
+  const tabs=document.getElementById('ur-tabs'), panel=document.getElementById('ur-panel');
+  try{
+    const r=await fetch('rankings.json?'+Date.now()); const data=await r.json();
+    document.getElementById('ur-updated').textContent='updated '+data.updated;
+    const esc=s=>s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+    function show(i){
+      [...tabs.children].forEach((b,j)=>b.setAttribute('aria-selected',j===i));
+      const d=data.divisions[i];
+      panel.innerHTML='<ol><li class="champ"><span class="n">C</span>'+esc(d.champion)+'</li>'+
+        d.fighters.map((f,k)=>'<li><span class="n">'+(k+1)+'</span>'+esc(f)+'</li>').join('')+'</ol>';
+    }
+    data.divisions.forEach((d,i)=>{const b=document.createElement('button');b.textContent=d.name;
+      b.setAttribute('role','tab');b.onclick=()=>show(i);tabs.appendChild(b);});
+    show(0);
+  }catch(e){panel.textContent='Rankings unavailable right now.';}
+})();
+</script>
+
+    
     <footer>
       CHAMA! — UFC · MMA Fighting · Sherdog · Powered by GitHub Actions
     </footer>
