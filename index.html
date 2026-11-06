@@ -99,6 +99,8 @@
       min-width: 168px;
     }
     .event:first-child { padding-left: 0; border-left: 0; }
+    .event:hover .event-main { text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+    .events-track { min-height: 106px; }   /* reserve space so nothing jumps while the schedule loads */
     .event .label { color: var(--accent); }
     .event-main { font-size: 0.875rem; font-weight: 600; white-space: nowrap; }
     .timer { font-size: 0.875rem; font-variant-numeric: tabular-nums; font-weight: 700; }
@@ -256,14 +258,15 @@
     var ITEMS_PER_SOURCE = 6;
     var REFRESH_MS = 10 * 60 * 1000;
 
+    // Events come from events.json (built from ufc.com by the GitHub Action).
+    // This short list is only shown if that file can't be loaded.
     var EVENTS = [
-      { name: 'UFC Fight Night', main: 'Moicano vs Nolan',      date: '2026-10-31T01:00:00Z', location: 'Las Vegas' },
-      { name: 'UFC Fight Night', main: 'Bonfim vs Brady',       date: '2026-11-08T01:00:00Z', location: 'Las Vegas' },
-      { name: 'UFC 334',         main: 'Gane vs Hokit',         date: '2026-11-15T02:00:00Z', location: 'New York' },
-      { name: 'UFC Fight Night', main: 'Procházka vs Stirling', date: '2026-11-21T18:00:00Z', location: 'Doha' },
-      { name: 'UFC 335',         main: 'Oliveira vs Lopes',     date: '2026-12-13T02:00:00Z', location: 'Las Vegas' },
-      { name: 'UFC 336',         main: 'Van vs Kape',           date: '2027-01-31T02:00:00Z', location: 'Toronto' }
+      { name: 'UFC Fight Night', main: 'Cortes Acosta vs Walker', start: '2026-11-08T01:00:00Z', city: 'Las Vegas', url: 'https://www.ufc.com/event/ufc-fight-night-november-07-2026' },
+      { name: 'UFC 334',         main: 'Gane vs Hokit',           start: '2026-11-15T02:00:00Z', city: 'New York',  url: 'https://www.ufc.com/event/ufc-334' },
+      { name: 'UFC Fight Night', main: 'Prochazka vs Stirling',   start: '2026-11-21T18:00:00Z', city: 'Doha',      url: 'https://www.ufc.com/event/ufc-fight-night-november-21-2026' },
+      { name: 'UFC 335',         main: 'Oliveira vs Lopes',       start: '2026-12-13T02:00:00Z', city: 'Las Vegas', url: 'https://www.ufc.com/event/ufc-335' }
     ];
+    var LIVE_WINDOW_MS = 6 * 3600 * 1000;   // keep an event in the bar ("Live now") for 6h after the main card starts
 
     var ART = 'https://is1-ssl.mzstatic.com/image/thumb/';
     var PODCASTS = [
@@ -344,26 +347,42 @@
       if (h > 0) return { text: h + 'h ' + m + 'm ' + s + 's', live: false };
       return { text: m + 'm ' + s + 's', live: true };
     }
+    var nextExpiry = Infinity;
     function renderEvents() {
       var now = Date.now();
       var list = EVENTS
-        .map(function (e) { return Object.assign({ t: Date.parse(e.date) }, e); })
-        .filter(function (e) { return e.t > now - 6 * 3600 * 1000; })
+        .map(function (e) { return Object.assign({ t: Date.parse(e.start || e.date) }, e); })
+        .filter(function (e) { return !isNaN(e.t) && e.t > now - LIVE_WINDOW_MS; })
         .sort(function (a, b) { return a.t - b.t; });
-      var dateFmt = new Intl.DateTimeFormat([], { month: 'short', day: 'numeric' });
+      // Shown in the visitor's own time zone, e.g. "Sun, Nov 8 · 9:00 AM"
+      var dayFmt = new Intl.DateTimeFormat([], { weekday: 'short', month: 'short', day: 'numeric' });
+      var timeFmt = new Intl.DateTimeFormat([], { hour: 'numeric', minute: '2-digit' });
+      $('events').parentNode.parentNode.hidden = !list.length;
       $('events').innerHTML = list.map(function (e) {
-        return '<div class="event">' +
+        var url = safeUrl(e.url);
+        return '<a class="event"' + (url !== '#' ? ' href="' + esc(url) + '" target="_blank" rel="noopener"' : '') + '>' +
           '<div class="label">' + esc(e.name) + '</div>' +
-          '<div class="event-main">' + esc(e.main) + '</div>' +
+          '<div class="event-main">' + esc(e.main || 'Card TBA') + '</div>' +
           '<div class="timer" data-t="' + e.t + '"></div>' +
-          '<div class="meta">' + esc(dateFmt.format(e.t)) + ' · ' + esc(e.location) + '</div>' +
-        '</div>';
+          '<div class="meta">' + esc(dayFmt.format(e.t)) + ' · ' + esc(timeFmt.format(e.t)) +
+            (e.city || e.location ? ' · ' + esc(e.city || e.location) : '') + '</div>' +
+        '</a>';
       }).join('');
       timers = [].slice.call(document.querySelectorAll('.timer'));
+      nextExpiry = list.length ? list[0].t + LIVE_WINDOW_MS : Infinity;
       tick();
+    }
+    async function loadEvents() {
+      try {
+        var res = await fetch('events.json', { cache: 'no-cache' });
+        if (!res.ok) throw new Error(res.status);
+        var data = await res.json();
+        if (data.events && data.events.length) { EVENTS = data.events; renderEvents(); }
+      } catch (e) { /* keep the built-in list */ }
     }
     function tick() {
       var now = Date.now();
+      if (now > nextExpiry) { renderEvents(); return; }   // drop a finished event from the bar
       timers.forEach(function (el) {
         var r = fmt(+el.dataset.t - now);
         if (el.textContent !== r.text) el.textContent = r.text;
@@ -454,19 +473,19 @@
     }
 
     /* ================= Start ================= */
-    renderEvents();
+    // Live schedule first; the built-in list only appears if events.json can't be loaded
+    loadEvents().then(function () { if (!timers.length) renderEvents(); });
     setInterval(tick, 1000);
     loadFeeds();
     renderPodcasts();
     loadRankings();
 
-    // Refresh stories in place (no full-page reload), and right away when the tab comes back
+    // Refresh stories and schedule in place (no full-page reload), and right away when the tab comes back
     var lastLoad = Date.now();
-    setInterval(function () {
-      if (!document.hidden) { loadFeeds(); lastLoad = Date.now(); }
-    }, REFRESH_MS);
+    function refresh() { loadFeeds(); loadEvents(); lastLoad = Date.now(); }
+    setInterval(function () { if (!document.hidden) refresh(); }, REFRESH_MS);
     document.addEventListener('visibilitychange', function () {
-      if (!document.hidden && Date.now() - lastLoad > REFRESH_MS) { loadFeeds(); renderEvents(); lastLoad = Date.now(); }
+      if (!document.hidden && Date.now() - lastLoad > REFRESH_MS) refresh();
     });
   })();
   </script>
