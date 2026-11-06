@@ -2,741 +2,473 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="refresh" content="600">
-  <title>CHAMA!</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CHAMA! · MMA news, podcasts & rankings</title>
+  <meta name="description" content="Latest MMA news from verified sources, top podcasts, upcoming UFC events and official rankings.">
+  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0b0b0b" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23d20a0a'/%3E%3Ctext x='16' y='23' font-family='Arial,sans-serif' font-size='20' font-weight='900' fill='white' text-anchor='middle'%3EC%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://platform.mmafighting.com">
+  <link rel="preconnect" href="https://i0.wp.com">
+  <link rel="dns-prefetch" href="https://is1-ssl.mzstatic.com">
+
+  <!-- Apply saved theme before first paint (no flash) -->
+  <script>
+    try { var t = localStorage.getItem('theme'); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+
   <style>
     :root {
       --bg: #ffffff;
-      --card: #ffffff;
-      --card-hover: #f7f7f7;
+      --surface: #f6f6f6;
       --text: #111111;
-      --muted: #666666;
-      --border: #e5e5e5;
-      --accent: #111111;
-      --header-bg: #ffffff;
+      --muted: #6b6b6b;
+      --line: #e8e8e8;
+      --accent: #d20a0a;
+      --radius: 8px;
+      --wrap: 1120px;
+      --gutter: clamp(16px, 4vw, 32px);
+      color-scheme: light;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]) {
+        --bg: #0b0b0b; --surface: #161616; --text: #ededed; --muted: #8f8f8f; --line: #232323; --accent: #ff3b3b;
+        color-scheme: dark;
+      }
+    }
+    :root[data-theme="dark"] {
+      --bg: #0b0b0b; --surface: #161616; --text: #ededed; --muted: #8f8f8f; --line: #232323; --accent: #ff3b3b;
+      color-scheme: dark;
     }
 
-    [data-theme="dark"] {
-      --bg: #0a0a0a;
-      --card: #111111;
-      --card-hover: #1a1a1a;
-      --text: #f0f0f0;
-      --muted: #999999;
-      --border: #222222;
-      --accent: #ffffff;
-      --header-bg: #0a0a0a;
-    }
-
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { -webkit-text-size-adjust: 100%; }
     body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-      background-color: #111;
-      background-image: url('https://raw.githubusercontent.com/jumongwr-create/chama-mma/main/poatan-bg.png');
-      background-size: cover;
-      background-position: center center;
-      background-attachment: fixed;
-      background-repeat: no-repeat;
-      color: var(--text);
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 1rem;
       line-height: 1.5;
-      min-height: 100vh;
-      transition: background-color 0.2s, color 0.2s;
-    }
-
-    /* ========== COUNTDOWN TOP BAR (reduced height, centered, white) ========== */
-    .countdown-topbar {
-      background: #ffffff;
-      border-bottom: 2px solid #e5e5e5;
-      position: sticky;
-      top: 0;
-      z-index: 200;
-      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
-    }
-
-    .countdown-track {
-      display: flex;
-      gap: 1rem;
-      padding: 0.4rem 1.5rem;
-      max-width: 1400px;
-      margin: 0 auto;
-      overflow-x: auto;
-      justify-content: center;
-      scrollbar-width: thin;
-    }
-
-    .countdown-track::-webkit-scrollbar {
-      height: 4px;
-    }
-    .countdown-track::-webkit-scrollbar-thumb {
-      background: rgba(0, 0, 0, 0.2);
-      border-radius: 2px;
-    }
-
-    .countdown-item {
-      display: inline-flex;
-      flex-direction: column;
-      align-items: flex-start;
-      min-width: 150px;
-      padding: 0.3rem 0.85rem;
-      border-radius: 6px;
-      background: #f8f8f8;
-      border: 1px solid #e5e5e5;
-      transition: all 0.2s ease;
-      color: #111;
-    }
-
-    .countdown-item:hover {
-      background: #f0f0f0;
-      border-color: #c41e3a;
-      transform: translateY(-1px);
-    }
-
-    .countdown-item .event-name {
-      font-size: 0.62rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      color: #c41e3a;
-      margin-bottom: 0.1rem;
-    }
-
-    .countdown-item .event-main {
-      font-size: 0.8rem;
-      font-weight: 600;
-      margin-bottom: 0.15rem;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      max-width: 160px;
-      color: #111;
-    }
-
-    .countdown-item .timer {
-      font-variant-numeric: tabular-nums;
-      font-size: 0.9rem;
-      font-weight: 800;
-      letter-spacing: -0.02em;
-      color: #111;
-    }
-
-    .countdown-item .timer.live {
-      color: #c41e3a;
-      animation: pulse 1.2s infinite;
-    }
-
-    .countdown-item .location {
-      font-size: 0.6rem;
-      color: #666;
-      margin-top: 0.1rem;
-    }
-
-    @keyframes pulse {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.6; }
-    }
-
-    /* Centered solid content column */
-    .page-wrapper {
-      max-width: 1200px;
-      margin: 0 auto;
       background: var(--bg);
-      min-height: calc(100vh - 50px);
-      box-shadow: 0 0 40px rgba(0, 0, 0, 0.45);
-      position: relative;
-      z-index: 1;
-    }
-
-    header {
-      background: var(--header-bg);
-      border-bottom: 1px solid var(--border);
-      padding: 1rem 1.5rem;
-      position: sticky;
-      top: 48px;
-      z-index: 100;
-    }
-
-    .header-inner {
-      max-width: 1200px;
-      margin: 0 auto;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 1rem;
-    }
-
-    .logo {
-      font-size: 1.5rem;
-      font-weight: 800;
-      letter-spacing: -0.5px;
       color: var(--text);
+      -webkit-font-smoothing: antialiased;
     }
+    a { color: inherit; text-decoration: none; }
+    button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; }
+    :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
 
-    .controls {
-      display: flex;
-      align-items: center;
-      gap: 0.75rem;
-    }
+    .wrap { max-width: var(--wrap); margin: 0 auto; padding: 0 var(--gutter); }
 
-    .status { font-size: 0.8rem; color: var(--muted); }
-
-    button {
-      background: transparent;
-      border: 1px solid var(--border);
-      color: var(--text);
-      padding: 0.4rem 0.85rem;
-      border-radius: 6px;
-      font-size: 0.8rem;
-      cursor: pointer;
-      transition: all 0.15s;
-    }
-
-    button:hover { background: var(--card-hover); }
-
-    main {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 2rem 1.5rem;
-    }
-
-    .note {
-      font-size: 0.85rem;
-      color: var(--muted);
-      margin-bottom: 2rem;
-      padding-bottom: 1rem;
-      border-bottom: 1px solid var(--border);
-    }
-
-    .sources {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-      gap: 2rem;
-    }
-
-    .source {
-      display: flex;
-      flex-direction: column;
-      gap: 0.4rem;
-    }
-
-    .source-header {
-      display: flex;
-      align-items: baseline;
-      justify-content: space-between;
-      padding-bottom: 0.5rem;
-      border-bottom: 1px solid var(--border);
-      margin-bottom: 0.25rem;
-    }
-
-    .source-header h2 {
-      font-size: 0.9rem;
-      font-weight: 600;
-      letter-spacing: 0.02em;
-      text-transform: uppercase;
-    }
-
-    .source-header a {
+    /* Type scale: 0.75 / 0.875 / 1 / 1.5 rem */
+    .label {
       font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
       color: var(--muted);
-      text-decoration: none;
     }
+    .meta { font-size: 0.75rem; color: var(--muted); }
 
-    .source-header a:hover { color: var(--text); }
+    /* ---------- Header ---------- */
+    header {
+      position: sticky; top: 0; z-index: 10;
+      background: color-mix(in srgb, var(--bg) 88%, transparent);
+      -webkit-backdrop-filter: saturate(180%) blur(12px);
+      backdrop-filter: saturate(180%) blur(12px);
+      border-bottom: 1px solid var(--line);
+    }
+    .header-inner { display: flex; align-items: center; justify-content: space-between; height: 56px; }
+    .logo { font-size: 1.5rem; font-weight: 900; letter-spacing: -0.04em; line-height: 1; }
+    .logo span { color: var(--accent); }
+    .controls { display: flex; align-items: center; gap: 12px; }
+    .icon-btn {
+      width: 36px; height: 36px; display: grid; place-items: center;
+      border: 1px solid var(--line); border-radius: 50%;
+    }
+    .icon-btn:hover { background: var(--surface); }
+    .icon-btn svg { width: 16px; height: 16px; }
+
+    /* ---------- Upcoming events ---------- */
+    .events { border-bottom: 1px solid var(--line); }
+    .events-track {
+      display: flex; overflow-x: auto; scroll-snap-type: x mandatory;
+      scrollbar-width: none; padding: 14px 0;
+    }
+    .events-track::-webkit-scrollbar { display: none; }
+    .event {
+      flex: 0 0 auto; scroll-snap-align: start;
+      padding: 0 20px; border-left: 1px solid var(--line);
+      min-width: 168px;
+    }
+    .event:first-child { padding-left: 0; border-left: 0; }
+    .event .label { color: var(--accent); }
+    .event-main { font-size: 0.875rem; font-weight: 600; white-space: nowrap; }
+    .timer { font-size: 0.875rem; font-variant-numeric: tabular-nums; font-weight: 700; }
+    .timer.live { color: var(--accent); }
+
+    /* ---------- Sections ---------- */
+    main { padding: 32px 0 0; }
+    section + section { margin-top: 56px; }
+    .section-head {
+      display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between;
+      gap: 2px 12px; margin-bottom: 16px;
+    }
+    .section-head h2 { font-size: 1.5rem; font-weight: 800; letter-spacing: -0.03em; white-space: nowrap; }
+
+    /* ---------- News ---------- */
+    .sources { display: grid; gap: 40px; grid-template-columns: 1fr; }
+    @media (min-width: 760px)  { .sources { grid-template-columns: repeat(2, 1fr); } }
+    @media (min-width: 1040px) { .sources { grid-template-columns: repeat(3, 1fr); gap: 32px; } }
+
+    .source-head {
+      display: flex; justify-content: space-between; align-items: baseline;
+      padding-bottom: 10px; border-bottom: 2px solid var(--text);
+    }
+    .source-head a.label:hover { color: var(--text); }
 
     .card {
-      display: flex;
-      gap: 1rem;
-      padding: 0.8rem 0;
-      text-decoration: none;
-      color: inherit;
-      border-bottom: 1px solid var(--border);
-      transition: background 0.1s;
+      display: grid; grid-template-columns: 1fr auto; gap: 14px; align-items: start;
+      padding: 14px 0; border-bottom: 1px solid var(--line);
     }
-
-    .card:last-child { border-bottom: none; }
-    .card:hover { background: var(--card-hover); }
-
+    .card:hover .card-title { text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+    .card-title { font-size: 1rem; font-weight: 600; line-height: 1.35; letter-spacing: -0.01em; }
+    .card .meta { margin-top: 4px; }
     .thumb {
-      width: 96px;
-      height: 68px;
-      object-fit: cover;
-      object-position: center top;
-      border-radius: 8px;
-      background: var(--border);
-      flex-shrink: 0;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 0.7rem;
-      color: var(--muted);
+      width: 88px; height: 64px; object-fit: cover; object-position: center 25%;
+      border-radius: 6px; background: var(--surface);
     }
+    .more { display: inline-block; margin-top: 12px; font-size: 0.875rem; font-weight: 600; }
+    .more:hover { color: var(--accent); }
 
-    .card-body { flex: 1; min-width: 0; }
+    /* loading skeleton */
+    .skeleton .bar { height: 14px; border-radius: 4px; background: var(--surface); margin: 18px 0; }
+    .skeleton .bar:nth-child(odd) { width: 80%; }
 
-    .card-meta {
-      font-size: 0.7rem;
-      color: var(--muted);
-      margin-bottom: 0.15rem;
+    /* ---------- Podcasts ---------- */
+    .pods { display: grid; grid-template-columns: 1fr; column-gap: 32px; }
+    @media (min-width: 640px)  { .pods { grid-template-columns: repeat(2, 1fr); } }
+    @media (min-width: 1040px) { .pods { grid-template-columns: repeat(3, 1fr); } }
+    .pod {
+      display: flex; align-items: center; gap: 14px;
+      padding: 12px 0; border-bottom: 1px solid var(--line);
     }
+    .pod img { width: 48px; height: 48px; border-radius: 6px; flex-shrink: 0; background: var(--surface); }
+    .pod-name { font-size: 0.875rem; font-weight: 600; line-height: 1.3; }
+    .pod:hover .pod-name { color: var(--accent); }
 
-    .card-title {
-      font-size: 0.92rem;
-      font-weight: 500;
-      line-height: 1.35;
+    /* ---------- Rankings ---------- */
+    .tabs {
+      display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none;
+      padding-bottom: 12px; margin-bottom: 4px;
     }
+    .tabs::-webkit-scrollbar { display: none; }
+    .tabs button {
+      flex: none; font-size: 0.875rem; padding: 6px 14px; border-radius: 999px;
+      border: 1px solid var(--line); white-space: nowrap;
+    }
+    .tabs button:hover { background: var(--surface); }
+    .tabs button[aria-selected="true"] { background: var(--text); border-color: var(--text); color: var(--bg); }
+    .ranks { list-style: none; columns: 1; column-gap: 32px; }
+    @media (min-width: 640px) { .ranks { columns: 2; } }
+    .ranks li {
+      break-inside: avoid; display: flex; gap: 14px; align-items: center;
+      padding: 10px 0; border-bottom: 1px solid var(--line); font-size: 1rem;
+    }
+    .ranks .n { width: 1.5rem; text-align: right; font-size: 0.875rem; font-variant-numeric: tabular-nums; color: var(--muted); }
+    .ranks li.champ { font-weight: 700; }
+    .ranks li.champ .n { color: var(--accent); font-weight: 800; }
 
-    footer {
-      text-align: center;
-      padding: 2.5rem 1rem;
-      color: var(--muted);
-      font-size: 0.75rem;
-      border-top: 1px solid var(--border);
-      margin-top: 3rem;
-    }
+    /* ---------- Footer ---------- */
+    footer { margin-top: 72px; padding: 24px 0 40px; border-top: 1px solid var(--line); }
+    footer .wrap { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; }
 
-    /* === MMA Podcasts Section === */
-    .podcasts-section {
-      max-width: 1200px;
-      margin: 3rem auto 0;
-      padding: 2rem 1.5rem 0;
-      border-top: 1px solid var(--border);
-    }
-    .podcasts-section h2 {
-      font-size: 1.15rem;
-      font-weight: 700;
-      margin-bottom: 0.3rem;
-      letter-spacing: -0.02em;
-    }
-    .podcasts-section .sub {
-      font-size: 0.8rem;
-      color: var(--muted);
-      margin-bottom: 1.5rem;
-    }
-    .podcast-grid {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 1.25rem;
-    }
-    @media (max-width: 900px) {
-      .podcast-grid { grid-template-columns: repeat(2, 1fr); }
-    }
-    @media (max-width: 520px) {
-      .podcast-grid { grid-template-columns: 1fr; }
-    }
-    .podcast-card {
-      display: flex;
-      gap: 0.85rem;
-      align-items: flex-start;
-      text-decoration: none;
-      color: inherit;
-      background: var(--card);
-      border: 1px solid var(--border);
-      border-radius: 10px;
-      padding: 0.85rem 1rem;
-      transition: border-color 0.15s, background 0.15s;
-    }
-    .podcast-card:hover {
-      border-color: #ccc;
-      background: var(--card-hover);
-    }
-    [data-theme="dark"] .podcast-card:hover {
-      border-color: #444;
-    }
-    .podcast-card img {
-      width: 64px;
-      height: 64px;
-      border-radius: 10px;
-      object-fit: cover;
-      flex-shrink: 0;
-      background: var(--border);
-      box-shadow: 0 2px 8px rgba(0,0,0,0.12);
-    }
-    [data-theme="dark"] .podcast-card img {
-      box-shadow: 0 2px 10px rgba(0,0,0,0.4);
-    }
-    .podcast-card .body {
-      flex: 1;
-      min-width: 0;
-    }
-    .podcast-card .show {
-      font-size: 0.7rem;
-      text-transform: uppercase;
-      letter-spacing: 0.04em;
-      color: var(--muted);
-      font-weight: 600;
-      margin-bottom: 0.2rem;
-    }
-    .podcast-card .ep {
-      font-size: 0.86rem;
-      font-weight: 500;
-      line-height: 1.35;
-    }
+    .empty { color: var(--muted); font-size: 0.875rem; padding: 14px 0; }
 
-    @media (min-width: 1400px) {
-      .page-wrapper {
-        max-width: 1180px;
-      }
+    @media (prefers-reduced-motion: no-preference) {
+      .timer.live { animation: pulse 1.4s ease-in-out infinite; }
+      @keyframes pulse { 50% { opacity: 0.5; } }
     }
   </style>
 </head>
 <body>
 
-  <!-- ========== COUNTDOWN TOP BAR ========== -->
-  <div class="countdown-topbar">
-    <div class="countdown-track" id="countdown-track">
-      <!-- populated by JS -->
+  <header>
+    <div class="wrap header-inner">
+      <a class="logo" href="./" aria-label="CHAMA! home">CHAMA<span>!</span></a>
+      <div class="controls">
+        <span class="meta" id="last-updated" aria-live="polite"></span>
+        <button class="icon-btn" id="theme-toggle" type="button" aria-label="Toggle dark mode">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <div class="events" aria-label="Upcoming UFC events">
+    <div class="wrap">
+      <div class="events-track" id="events"></div>
     </div>
   </div>
 
-  <div class="page-wrapper">
-    <header>
-      <div class="header-inner">
-        <div class="logo">CHAMA!</div>
-        <div class="controls">
-          <span class="status" id="last-updated">just now</span>
-          <button id="theme-toggle" onclick="toggleTheme()">Dark</button>
-          <button onclick="location.reload()">Refresh</button>
-        </div>
-      </div>
-    </header>
+  <main class="wrap">
 
-    <main>
-      <div class="note">
-        Verified sources only · Auto-refreshes every 10 minutes
+    <section aria-labelledby="news-h">
+      <div class="section-head">
+        <h2 id="news-h">Latest news</h2>
+        <span class="meta">Verified sources · updates every 10 min</span>
       </div>
-
-      <!-- Dynamic feeds will be injected here -->
       <div class="sources" id="sources">
-        <p style="color:var(--muted)">Loading feeds…</p>
+        <div class="skeleton" aria-hidden="true"><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div></div>
+        <div class="skeleton" aria-hidden="true"><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div></div>
+        <div class="skeleton" aria-hidden="true"><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div></div>
       </div>
+    </section>
 
-      <!-- MMA Podcasts -->
-      <div class="podcasts-section">
-        <h2>MMA Podcasts</h2>
-        <p class="sub">Latest episodes from the biggest voices in MMA</p>
-        <div class="podcast-grid">
-
-          <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/the-ariel-helwani-show/id1724284031" target="_blank" rel="noopener">
-            <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/fd/e8/92fde809-4488-c40f-a67c-e0396ddb8974/mza_5696250919643748547.jpg/200x200bb.jpg" alt="Ariel Helwani Show" loading="lazy">
-            <div class="body">
-              <div class="show">The Ariel Helwani Show</div>
-              <div class="ep">Interviews & analysis with the biggest names in combat sports</div>
-            </div>
-          </a>
-
-          <a class="podcast-card" href="https://rss.art19.com/ufcunfiltered" target="_blank" rel="noopener">
-            <img src="https://content.production.cdn.art19.com/images/77/73/74/0b/7773740b-ec82-4835-994b-eeb97a26ace3/87731057222fe9860b42c6285efe5b03fd5b8e91028b1b2d1cbcf14388ce6ea7b2790108a144444dae50689698b41b3eb1ec7d437a81c29170caa77ed5f4bc60.jpeg" alt="UFC Unfiltered" loading="lazy">
-            <div class="body">
-              <div class="show">UFC Unfiltered</div>
-              <div class="ep">Jim Norton & Matt Serra — official UFC podcast</div>
-            </div>
-          </a>
-
-          <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/the-daniel-cormier-show/id1673570585" target="_blank" rel="noopener">
-            <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/61/a2/ed61a27d-7e98-23a2-2665-756a9e40b8b3/mza_8201341821507455390.jpg/200x200bb.jpg" alt="Daniel Cormier Show" loading="lazy">
-            <div class="body">
-              <div class="show">The Daniel Cormier Show</div>
-              <div class="ep">DC’s raw reactions to the biggest UFC fights</div>
-            </div>
-          </a>
-
-          <a class="podcast-card" href="https://plnk.to/MorningKombat" target="_blank" rel="noopener">
-            <img src="https://cdn.podme.com/podcast-images/EEF6A2A845D704F72E73EDC4D5268A0F_small.jpg" alt="Morning Kombat" loading="lazy">
-            <div class="body">
-              <div class="show">Morning Kombat</div>
-              <div class="ep">Luke Thomas & friends cover MMA & boxing</div>
-            </div>
-          </a>
-
-          <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/youre-welcome-with-chael-sonnen/id1441941027" target="_blank" rel="noopener">
-            <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5a/5a/5a/5a5a5a5a-5a5a-5a5a-5a5a-5a5a5a5a5a5a/mza_123.jpg/200x200bb.jpg" alt="Chael Sonnen" loading="lazy" onerror="this.src='https://i.scdn.co/image/ab6765630000ba8a9f9f9f9f9f9f9f9f9f9f9f9f'">
-            <div class="body">
-              <div class="show">You're Welcome! · Chael Sonnen</div>
-              <div class="ep">Chael’s unfiltered takes on the fight game</div>
-            </div>
-          </a>
-
-          <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/anik-and-florian-podcast/id1093781482" target="_blank" rel="noopener">
-            <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/a1/a1/a1/a1a1a1a1-a1a1-a1a1-a1a1-a1a1a1a1a1a1/mza_456.jpg/200x200bb.jpg" alt="Anik Florian" loading="lazy" onerror="this.src='https://megaphone.imgix.net/podcasts/5e5e5e5e-5e5e-5e5e-5e5e-5e5e5e5e5e5e/image/5e5e5e5e.jpg?ixlib=rails-4.3.1&max-w=300&max-h=300&fit=crop&auto=format,compress'">
-            <div class="body">
-              <div class="show">Anik & Florian Podcast</div>
-              <div class="ep">Jon Anik & Kenny Florian break down the UFC</div>
-            </div>
-          </a>
-
-          <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/believe-you-me-with-michael-bisping/id1440000000" target="_blank" rel="noopener">
-            <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/b2/b2/b2/b2b2b2b2-b2b2-b2b2-b2b2-b2b2b2b2b2b2/mza_789.jpg/200x200bb.jpg" alt="Believe You Me" loading="lazy" onerror="this.src='https://i.scdn.co/image/ab6765630000ba8ac1c1c1c1c1c1c1c1c1c1c1c1'">
-            <div class="body">
-              <div class="show">Believe You Me</div>
-              <div class="ep">Michael Bisping & Paul Felder</div>
-            </div>
-          </a>
-
-          <a class="podcast-card" href="https://www.mmafighting.com/podcasts" target="_blank" rel="noopener">
-            <img src="https://platform.mmafighting.com/wp-content/uploads/sites/109/2023/01/mma-fighting-podcast.jpg" alt="MMA Fighting" loading="lazy" onerror="this.src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/22345678/mmaf_logo.png'">
-            <div class="body">
-              <div class="show">MMA Fighting</div>
-              <div class="ep">Helwani, Cruz & the MMA Fighting crew</div>
-            </div>
-          </a>
-
-          <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272" target="_blank" rel="noopener">
-            <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/11/22/33/11223344-5566-7788-99aa-bbccddeeff00/mza_jre.jpg/200x200bb.jpg" alt="JRE" loading="lazy" onerror="this.src='https://static.libsyn.com/p/assets/7/9/0/0/7900a0a0a0a0a0a0/JRE.jpg'">
-            <div class="body">
-              <div class="show">Joe Rogan Experience · MMA</div>
-              <div class="ep">Long-form conversations with fighters & experts</div>
-            </div>
-          </a>
-
-          <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/pound-4-pound/id1555555555" target="_blank" rel="noopener">
-            <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/c3/c3/c3/c3c3c3c3-c3c3-c3c3-c3c3-c3c3c3c3c3c3/mza_p4p.jpg/200x200bb.jpg" alt="Pound 4 Pound" loading="lazy" onerror="this.src='https://i.scdn.co/image/ab6765630000ba8ad2d2d2d2d2d2d2d2d2d2d2d2'">
-            <div class="body">
-              <div class="show">Pound 4 Pound</div>
-              <div class="ep">Kamaru Usman & Henry Cejudo</div>
-            </div>
-          </a>
-
-          <a class="podcast-card" href="https://podcasts.apple.com/us/podcast/the-big-brown-breakdown/id1440000000" target="_blank" rel="noopener">
-            <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/d4/d4/d4/d4d4d4d4-d4d4-d4d4-d4d4-d4d4d4d4d4d4/mza_bbb.jpg/200x200bb.jpg" alt="Big Brown Breakdown" loading="lazy" onerror="this.src='https://i.scdn.co/image/ab6765630000ba8ae3e3e3e3e3e3e3e3e3e3e3e3'">
-            <div class="body">
-              <div class="show">The Big Brown Breakdown</div>
-              <div class="ep">Brendan Schaub’s take on the fight game</div>
-            </div>
-          </a>
-
-          <a class="podcast-card" href="https://mmajunkie.usatoday.com/podcasts" target="_blank" rel="noopener">
-            <img src="https://www.mmajunkie.usatoday.com/wp-content/uploads/sites/91/2023/01/mmajunkie-radio.jpg" alt="MMA Junkie Radio" loading="lazy" onerror="this.src='https://www.mmajunkie.usatoday.com/wp-content/uploads/sites/91/2021/01/mma-junkie-logo.png'">
-            <div class="body">
-              <div class="show">MMA Junkie Radio</div>
-              <div class="ep">Winner/Loser reactions & fight analysis</div>
-            </div>
-          </a>
-
-        </div>
+    <section aria-labelledby="pods-h">
+      <div class="section-head">
+        <h2 id="pods-h">Podcasts</h2>
+        <span class="meta">The biggest voices in MMA</span>
       </div>
+      <div class="pods" id="pods"></div>
+    </section>
 
-    </main>
+    <section aria-labelledby="ranks-h">
+      <div class="section-head">
+        <h2 id="ranks-h">UFC rankings</h2>
+        <a class="meta" id="ranks-updated" href="https://www.ufc.com/rankings" target="_blank" rel="noopener">ufc.com/rankings</a>
+      </div>
+      <div class="tabs" id="rank-tabs" role="tablist" aria-label="Weight classes"></div>
+      <ol class="ranks" id="rank-panel" role="tabpanel"></ol>
+    </section>
 
-<!-- ===== UFC RANKINGS: paste this just above your footer ("CHAMA! — UFC · MMA Fighting...") ===== -->
-<section id="ufc-rankings">
-  <h2>UFC Rankings</h2>
-  <p class="ur-sub">Official UFC rankings · <span id="ur-updated">loading…</span> · <a href="https://www.ufc.com/rankings" target="_blank" rel="noopener">ufc.com/rankings</a></p>
-  <div id="ur-tabs" role="tablist"></div>
-  <div id="ur-panel"></div>
-</section>
-<style>
-  #ufc-rankings{max-width:900px;margin:40px auto;padding:0 16px}
-  #ufc-rankings .ur-sub{opacity:.7;font-size:.9rem;margin-top:-6px}
-  #ur-tabs{display:flex;gap:6px;overflow-x:auto;padding:8px 0;scrollbar-width:thin}
-  #ur-tabs button{flex:none;cursor:pointer;font:inherit;font-size:.85rem;padding:6px 12px;border-radius:999px;
-    border:1px solid rgba(128,128,128,.4);background:transparent;color:inherit}
-  #ur-tabs button[aria-selected="true"]{background:#d20a0a;border-color:#d20a0a;color:#fff}
-  #ur-panel ol{list-style:none;margin:8px 0 0;padding:0}
-  #ur-panel li{display:flex;gap:14px;align-items:center;padding:10px 12px;border-bottom:1px solid rgba(128,128,128,.25)}
-  #ur-panel li .n{width:2rem;text-align:right;font-weight:700;opacity:.6}
-  #ur-panel li.champ{background:rgba(210,10,10,.12);border-radius:8px;font-weight:700}
-  #ur-panel li.champ .n{color:#d20a0a;opacity:1}
-</style>
-<script>
-(async function(){
-  const tabs=document.getElementById('ur-tabs'), panel=document.getElementById('ur-panel');
-  try{
-    const r=await fetch('rankings.json?'+Date.now()); const data=await r.json();
-    document.getElementById('ur-updated').textContent='updated '+data.updated;
-    const esc=s=>s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-    function show(i){
-      [...tabs.children].forEach((b,j)=>b.setAttribute('aria-selected',j===i));
-      const d=data.divisions[i];
-      panel.innerHTML='<ol><li class="champ"><span class="n">C</span>'+esc(d.champion)+'</li>'+
-        d.fighters.map((f,k)=>'<li><span class="n">'+(k+1)+'</span>'+esc(f)+'</li>').join('')+'</ol>';
-    }
-    data.divisions.forEach((d,i)=>{const b=document.createElement('button');b.textContent=d.name;
-      b.setAttribute('role','tab');b.onclick=()=>show(i);tabs.appendChild(b);});
-    show(0);
-  }catch(e){panel.textContent='Rankings unavailable right now.';}
-})();
-</script>
+  </main>
 
-    
-    <footer>
-      CHAMA! — UFC · MMA Fighting · Sherdog · Powered by GitHub Actions
-    </footer>
-  </div>
+  <footer>
+    <div class="wrap">
+      <span class="meta"><strong style="color:var(--text)">CHAMA!</strong> · <span id="footer-sources">MMA news aggregator</span></span>
+      <span class="meta">Headlines link to the original publishers</span>
+    </div>
+  </footer>
 
   <script>
-    // Theme toggle
-    function toggleTheme() {
-      const html = document.documentElement;
-      const btn = document.getElementById('theme-toggle');
-      if (html.getAttribute('data-theme') === 'dark') {
-        html.removeAttribute('data-theme');
-        btn.textContent = 'Dark';
-        localStorage.setItem('theme', 'light');
-      } else {
-        html.setAttribute('data-theme', 'dark');
-        btn.textContent = 'Light';
-        localStorage.setItem('theme', 'dark');
-      }
-    }
+  (function () {
+    'use strict';
 
-    if (localStorage.getItem('theme') === 'dark') {
-      document.documentElement.setAttribute('data-theme', 'dark');
-      document.getElementById('theme-toggle').textContent = 'Light';
-    }
+    /* ================= Config ================= */
+    var ITEMS_PER_SOURCE = 6;
+    var REFRESH_MS = 10 * 60 * 1000;
 
-    document.getElementById('last-updated').textContent =
-      new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
-
-    // ===== Dynamic Feeds Loader =====
-    async function loadFeeds() {
-      const container = document.getElementById('sources');
-      if (!container) return;
-
-      try {
-        const res = await fetch('feeds.json?t=' + Date.now());
-        if (!res.ok) throw new Error('Failed to load feeds.json');
-
-        const data = await res.json();
-        const sources = data.sources || [];
-
-        if (sources.length === 0) {
-          container.innerHTML = '<p style="color:var(--muted)">No feeds available yet. Wait for the GitHub Action to run.</p>';
-          return;
-        }
-
-        container.innerHTML = sources.map(source => {
-          const cards = (source.items || []).map(item => {
-            const thumb = item.image
-              ? `<img class="thumb" src="${item.image}" alt="" loading="lazy" onerror="this.outerHTML='<div class=\\'thumb\\'>No image</div>'">`
-              : `<div class="thumb">No image</div>`;
-
-            const meta = item.relative || (item.date ? new Date(item.date).toLocaleDateString() : '');
-
-            return `
-              <a class="card" href="${item.link}" target="_blank" rel="noopener">
-                ${thumb}
-                <div class="card-body">
-                  <div class="card-meta">${meta}</div>
-                  <div class="card-title">${escapeHtml(item.title)}</div>
-                </div>
-              </a>
-            `;
-          }).join('');
-
-          const siteDisplay = (source.site || '')
-            .replace('https://', '')
-            .replace('http://', '')
-            .replace(/\/$/, '');
-
-          return `
-            <section class="source">
-              <div class="source-header">
-                <h2>${escapeHtml(source.name)}</h2>
-                <a href="${source.site}" target="_blank" rel="noopener">${siteDisplay}</a>
-              </div>
-              ${cards || '<p style="color:var(--muted);font-size:0.85rem;padding:0.5rem 0;">No recent items</p>'}
-            </section>
-          `;
-        }).join('');
-
-      } catch (err) {
-        console.error(err);
-        container.innerHTML = `
-          <p style="color:var(--muted)">
-            Could not load feeds.<br>
-            Make sure <code>feeds.json</code> exists and the GitHub Action has run successfully.
-          </p>
-        `;
-      }
-    }
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text || '';
-      return div.innerHTML;
-    }
-
-    // ===== UFC Countdown Topbar =====
-    const UFC_EVENTS = [
-      {
-        name: "UFC Fight Night",
-        main: "Moicano vs Nolan",
-        date: "2026-10-31T01:00:00Z",
-        location: "Las Vegas"
-      },
-      {
-        name: "UFC Fight Night",
-        main: "Bonfim vs Brady",
-        date: "2026-11-08T01:00:00Z",
-        location: "Las Vegas"
-      },
-      {
-        name: "UFC 334",
-        main: "Gane vs Hokit",
-        date: "2026-11-15T02:00:00Z",
-        location: "New York"
-      },
-      {
-        name: "UFC Fight Night",
-        main: "Procházka vs Stirling",
-        date: "2026-11-21T18:00:00Z",
-        location: "Doha"
-      },
-      {
-        name: "UFC 335",
-        main: "Oliveira vs Lopes",
-        date: "2026-12-13T02:00:00Z",
-        location: "Las Vegas"
-      },
-      {
-        name: "UFC 336",
-        main: "Van vs Kape",
-        date: "2027-01-31T02:00:00Z",
-        location: "Toronto"
-      }
+    var EVENTS = [
+      { name: 'UFC Fight Night', main: 'Moicano vs Nolan',      date: '2026-10-31T01:00:00Z', location: 'Las Vegas' },
+      { name: 'UFC Fight Night', main: 'Bonfim vs Brady',       date: '2026-11-08T01:00:00Z', location: 'Las Vegas' },
+      { name: 'UFC 334',         main: 'Gane vs Hokit',         date: '2026-11-15T02:00:00Z', location: 'New York' },
+      { name: 'UFC Fight Night', main: 'Procházka vs Stirling', date: '2026-11-21T18:00:00Z', location: 'Doha' },
+      { name: 'UFC 335',         main: 'Oliveira vs Lopes',     date: '2026-12-13T02:00:00Z', location: 'Las Vegas' },
+      { name: 'UFC 336',         main: 'Van vs Kape',           date: '2027-01-31T02:00:00Z', location: 'Toronto' }
     ];
 
-    function formatCountdown(ms) {
-      if (ms <= 0) return { text: "LIVE / STARTED", live: true };
-      const totalSec = Math.floor(ms / 1000);
-      const d = Math.floor(totalSec / 86400);
-      const h = Math.floor((totalSec % 86400) / 3600);
-      const m = Math.floor((totalSec % 3600) / 60);
-      const s = totalSec % 60;
+    var ART = 'https://is1-ssl.mzstatic.com/image/thumb/';
+    var PODCASTS = [
+      ['The Ariel Helwani Show', 'Uncrowned & Yahoo Sports', 'the-ariel-helwani-show/id1724284031', 'Podcasts211/v4/92/fd/e8/92fde809-4488-c40f-a67c-e0396ddb8974/mza_5696250919643748547.jpg'],
+      ['UFC Unfiltered', 'Jim Norton & Matt Serra', 'ufc-unfiltered-with-jim-norton-and-matt-serra/id1124228879', 'Podcasts221/v4/0e/1f/4d/0e1f4d9d-38a9-2c37-b491-aa96333c1dd9/mza_7195519991102335909.jpeg'],
+      ['The Daniel Cormier Show', 'Daniel Cormier', 'the-daniel-cormier-show/id1673570585', 'Podcasts221/v4/ed/61/a2/ed61a27d-7e98-23a2-2665-756a9e40b8b3/mza_8201341821507455390.jpg'],
+      ['Morning Kombat', 'Luke Thomas & Brian Campbell', 'morning-kombat/id1471183444', 'Podcasts221/v4/ba/cd/c5/bacdc575-a2f1-47e0-9345-446092647257/mza_16731807635994464368.jpg'],
+      ["You're Welcome!", 'Chael Sonnen', 'youre-welcome-with-chael-sonnen/id929298707', 'Podcasts211/v4/73/fb/5f/73fb5fd9-ff25-9acf-0e29-7c16b1ba7254/mza_12769635015539481027.jpg'],
+      ['The Anik & Florian Podcast', 'Jon Anik & Kenny Florian', 'the-anik-florian-podcast/id985956967', 'Podcasts221/v4/52/36/d4/5236d431-c044-c657-2b2f-56eca0082835/mza_16023813799966012687.jpg'],
+      ['Believe You Me', 'Michael Bisping', 'believe-you-me-with-michael-bisping/id1212985132', 'Podcasts221/v4/44/58/04/445804b1-d846-53eb-41f3-88cacdbef9ae/mza_14869694741943664882.jpg'],
+      ['MMA Fighting', 'The MMA Fighting crew', 'mma-fighting/id320642139', 'Podcasts211/v4/bb/a0/01/bba00157-95c6-8eb3-d5ec-5afe6dd8f10b/mza_1838039034232879790.jpg'],
+      ['The Joe Rogan Experience', 'Joe Rogan', 'the-joe-rogan-experience/id360084272', 'Podcasts211/v4/3e/36/46/3e36464a-9cf0-9f8c-883c-d935ca1fb5b8/mza_1286994063531205437.jpg'],
+      ['Pound 4 Pound', 'Kamaru Usman & Henry Cejudo', 'pound-4-pound-with-kamaru-usman-henry-cejudo/id1732378558', 'Podcasts221/v4/35/96/e5/3596e534-159c-7cd4-0bac-a788005327d0/mza_12265662385266875391.jpg'],
+      ['The Big Brown Breakdown', 'Brendan Schaub', 'the-big-brown-breakdown/id1210250626', 'Podcasts211/v4/e3/ea/d8/e3ead8a2-d9f3-092d-acf9-3503bc3461c4/mza_5519696517535066087.jpeg'],
+      ['MMA Junkie Radio', 'Winners, losers & fight analysis', 'mma-junkie-radio/id271782069', 'Podcasts115/v4/be/4e/47/be4e478a-dab1-b2d7-2030-38fb25409776/mza_14217652300345895631.jpg']
+    ];
 
-      if (d > 0) return { text: `${d}d ${h}h ${m}m`, live: false };
-      if (h > 0) return { text: `${h}h ${m}m ${s}s`, live: false };
-      return { text: `${m}m ${s}s`, live: true };
+    /* ================= Helpers ================= */
+    var $ = function (id) { return document.getElementById(id); };
+
+    // Escape for safe insertion into HTML text and attributes
+    function esc(s) {
+      return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+        return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+      });
+    }
+    // Feed titles arrive already HTML-encoded (e.g. don&#8217;t) — decode once, then escape
+    var decoder = document.createElement('textarea');
+    function decode(s) { decoder.innerHTML = s || ''; return decoder.value; }
+    function safeUrl(u) { return /^https?:\/\//i.test(u || '') ? u : '#'; }
+
+    // "12m ago", "3h ago", "2d ago" — computed live so it never goes stale
+    function timeAgo(iso) {
+      var t = Date.parse(iso);
+      if (isNaN(t)) return '';
+      var m = Math.max(0, Math.round((Date.now() - t) / 60000));
+      if (m < 1) return 'Just now';
+      if (m < 60) return m + 'm ago';
+      var h = Math.round(m / 60);
+      if (h < 24) return h + 'h ago';
+      var d = Math.round(h / 24);
+      return d < 7 ? d + 'd ago' : new Date(t).toLocaleDateString([], { month: 'short', day: 'numeric' });
     }
 
-    function renderCountdowns() {
-      const track = document.getElementById("countdown-track");
-      if (!track) return;
-
-      const now = Date.now();
-      const upcoming = UFC_EVENTS
-        .map(e => ({ ...e, target: new Date(e.date).getTime() }))
-        .filter(e => e.target > now - 6 * 3600 * 1000)
-        .sort((a, b) => a.target - b.target);
-
-      track.innerHTML = upcoming.map(e => {
-        const { text, live } = formatCountdown(e.target - now);
-        return `
-          <div class="countdown-item">
-            <div class="event-name">${e.name}</div>
-            <div class="event-main">${e.main}</div>
-            <div class="timer ${live ? "live" : ""}">${text}</div>
-            <div class="location">${e.location}</div>
-          </div>
-        `;
-      }).join("");
+    // Turn a full-size news photo into a small thumbnail (~10 KB instead of up to 10 MB)
+    function thumbUrl(src) {
+      if (!/^https?:\/\//i.test(src || '')) return '';
+      try {
+        var u = new URL(src);
+        if (/mmafighting\.com$/.test(u.hostname)) {           // WordPress VIP: native resize
+          u.searchParams.delete('crop');
+          u.searchParams.set('w', '176');
+          u.searchParams.set('quality', '75');
+          return u.toString();
+        }
+        // Everything else: free Jetpack image CDN (resizes + converts to WebP)
+        return 'https://i0.wp.com/' + u.host + u.pathname + '?resize=176,128&quality=75';
+      } catch (e) { return ''; }
     }
 
-    renderCountdowns();
-    setInterval(renderCountdowns, 1000);
+    /* ================= Theme ================= */
+    var root = document.documentElement;
+    var mq = window.matchMedia('(prefers-color-scheme: dark)');
+    function isDark() { return root.dataset.theme ? root.dataset.theme === 'dark' : mq.matches; }
+    $('theme-toggle').addEventListener('click', function () {
+      var next = isDark() ? 'light' : 'dark';
+      root.dataset.theme = next;
+      try { localStorage.setItem('theme', next); } catch (e) {}
+    });
 
-    // Start everything
+    /* ================= Events / countdown ================= */
+    var timers = [];
+    function fmt(ms) {
+      if (ms <= 0) return { text: 'Live now', live: true };
+      var t = Math.floor(ms / 1000), d = Math.floor(t / 86400), h = Math.floor(t % 86400 / 3600),
+          m = Math.floor(t % 3600 / 60), s = t % 60;
+      if (d > 0) return { text: d + 'd ' + h + 'h ' + m + 'm', live: false };
+      if (h > 0) return { text: h + 'h ' + m + 'm ' + s + 's', live: false };
+      return { text: m + 'm ' + s + 's', live: true };
+    }
+    function renderEvents() {
+      var now = Date.now();
+      var list = EVENTS
+        .map(function (e) { return Object.assign({ t: Date.parse(e.date) }, e); })
+        .filter(function (e) { return e.t > now - 6 * 3600 * 1000; })
+        .sort(function (a, b) { return a.t - b.t; });
+      var dateFmt = new Intl.DateTimeFormat([], { month: 'short', day: 'numeric' });
+      $('events').innerHTML = list.map(function (e) {
+        return '<div class="event">' +
+          '<div class="label">' + esc(e.name) + '</div>' +
+          '<div class="event-main">' + esc(e.main) + '</div>' +
+          '<div class="timer" data-t="' + e.t + '"></div>' +
+          '<div class="meta">' + esc(dateFmt.format(e.t)) + ' · ' + esc(e.location) + '</div>' +
+        '</div>';
+      }).join('');
+      timers = [].slice.call(document.querySelectorAll('.timer'));
+      tick();
+    }
+    function tick() {
+      var now = Date.now();
+      timers.forEach(function (el) {
+        var r = fmt(+el.dataset.t - now);
+        if (el.textContent !== r.text) el.textContent = r.text;
+        el.classList.toggle('live', r.live);
+      });
+    }
+
+    /* ================= News feeds ================= */
+    async function loadFeeds() {
+      var box = $('sources');
+      try {
+        // no-cache = revalidate with the server (cheap 304 when unchanged)
+        var res = await fetch('feeds.json', { cache: 'no-cache' });
+        if (!res.ok) throw new Error(res.status);
+        var data = await res.json();
+        var sources = data.sources || [];
+        if (!sources.length) { box.innerHTML = '<p class="empty">No stories yet.</p>'; return; }
+
+        box.innerHTML = sources.map(function (src) {
+          var items = (src.items || []).slice(0, ITEMS_PER_SOURCE);
+          var cards = items.map(function (it, i) {
+            var thumb = thumbUrl(it.image);
+            var img = thumb
+              ? '<img class="thumb" src="' + esc(thumb) + '" alt="" width="88" height="64" decoding="async"' +
+                (i > 2 ? ' loading="lazy"' : '') + ' onerror="this.remove()">'
+              : '';
+            var when = (it.date && timeAgo(it.date)) || it.relative || '';
+            return '<a class="card" href="' + esc(safeUrl(it.link)) + '" target="_blank" rel="noopener">' +
+              '<div><div class="card-title">' + esc(decode(it.title)) + '</div>' +
+              (when ? '<div class="meta">' + esc(when) + '</div>' : '') + '</div>' +
+              img + '</a>';
+          }).join('');
+          var site = safeUrl(src.site);
+          return '<div class="source">' +
+            '<div class="source-head"><span class="label" style="color:var(--text)">' + esc(src.name) + '</span></div>' +
+            (cards || '<p class="empty">No recent stories</p>') +
+            (site !== '#' ? '<a class="more" href="' + esc(site) + '" target="_blank" rel="noopener">More from ' + esc(src.name) + ' →</a>' : '') +
+          '</div>';
+        }).join('');
+
+        $('footer-sources').textContent = sources.map(function (s) { return s.name; }).join(' · ');
+        $('last-updated').textContent = 'Updated ' +
+          new Date().toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' });
+      } catch (err) {
+        console.error(err);
+        if (!box.querySelector('.card')) box.innerHTML = '<p class="empty">Couldn’t load stories right now. Try again in a moment.</p>';
+      }
+    }
+
+    /* ================= Podcasts ================= */
+    function renderPodcasts() {
+      $('pods').innerHTML = PODCASTS.map(function (p) {
+        return '<a class="pod" href="https://podcasts.apple.com/us/podcast/' + p[2] + '" target="_blank" rel="noopener">' +
+          '<img src="' + ART + p[3] + '/96x96bb.jpg" alt="" width="48" height="48" loading="lazy" decoding="async">' +
+          '<div><div class="pod-name">' + esc(p[0]) + '</div><div class="meta">' + esc(p[1]) + '</div></div></a>';
+      }).join('');
+    }
+
+    /* ================= Rankings ================= */
+    async function loadRankings() {
+      var tabs = $('rank-tabs'), panel = $('rank-panel');
+      try {
+        var res = await fetch('rankings.json', { cache: 'no-cache' });
+        var data = await res.json();
+        if (data.updated) $('ranks-updated').textContent = 'Updated ' + data.updated + ' · ufc.com';
+        function show(i) {
+          [].forEach.call(tabs.children, function (b, j) { b.setAttribute('aria-selected', j === i); });
+          var d = data.divisions[i];
+          // Pound-for-pound lists have no champion; the feed repeats #1 there, so skip it
+          var showChamp = d.champion && !/pound/i.test(d.name);
+          panel.innerHTML = (showChamp ? '<li class="champ"><span class="n">C</span>' + esc(d.champion) + '</li>' : '') +
+            (d.fighters || []).map(function (f, k) {
+              return '<li><span class="n">' + (k + 1) + '</span>' + esc(f) + '</li>';
+            }).join('');
+        }
+        tabs.innerHTML = '';
+        data.divisions.forEach(function (d, i) {
+          var b = document.createElement('button');
+          b.type = 'button'; b.setAttribute('role', 'tab');
+          b.textContent = String(d.name || '').replace(/\s*Top Rank\s*$/i, '').trim();
+          b.addEventListener('click', function () { show(i); });
+          tabs.appendChild(b);
+        });
+        show(0);
+      } catch (e) {
+        panel.innerHTML = '<li class="empty">Rankings unavailable right now.</li>';
+      }
+    }
+
+    /* ================= Start ================= */
+    renderEvents();
+    setInterval(tick, 1000);
     loadFeeds();
+    renderPodcasts();
+    loadRankings();
+
+    // Refresh stories in place (no full-page reload), and right away when the tab comes back
+    var lastLoad = Date.now();
+    setInterval(function () {
+      if (!document.hidden) { loadFeeds(); lastLoad = Date.now(); }
+    }, REFRESH_MS);
+    document.addEventListener('visibilitychange', function () {
+      if (!document.hidden && Date.now() - lastLoad > REFRESH_MS) { loadFeeds(); renderEvents(); lastLoad = Date.now(); }
+    });
+  })();
   </script>
 </body>
 </html>
