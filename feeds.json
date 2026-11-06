@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-06T17:39:11.576Z",
+  "generatedAt": "2026-11-06T18:39:21.729Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Fans question UFC 334 bout order as 2026 main event star gets put on the early prelims",
+          "link": "https://bloodyelbow.com/2026/11/06/fans-question-ufc-334-bout-order-as-2026-main-event-star-gets-put-on-the-early-prelims/",
+          "date": "2026-11-06T18:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/02/GettyImages-2262886362-scaled.jpg"
+        },
         {
           "title": "Paddy Pimblett struggles for votes as Ilia Topuria launches a poll to decide his next opponent",
           "link": "https://bloodyelbow.com/2026/11/06/paddy-pimblett-struggles-for-votes-as-ilia-topuria-launches-a-poll-to-decide-his-next-opponent/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/06/eddie-hearn-addresses-arman-tsarukyan-talk-after-surprise-meeting-sparked-rumor-he-may-sign-ufc-star/",
           "date": "2026-11-06T14:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/08/GettyImages-2290511740-scaled.jpg"
-        },
-        {
-          "title": "Ciryl Gane calls the UFC heavyweight division in 2026 the ‘best’ ever over Miocic and Velasquez eras",
-          "link": "https://bloodyelbow.com/2026/11/06/ciryl-gane-calls-the-ufc-heavyweight-division-in-2026-the-best-ever-over-miocic-and-velasquez-eras/",
-          "date": "2026-11-06T13:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/09/GettyImages-2281629297-scaled.jpg"
         }
       ]
     },
@@ -49,30 +49,6 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
-        {
-          "title": "UFC Vegas 124 weigh-in video: Cortes-Acosta vs. Walker",
-          "link": "https://www.mmafighting.com/ufc/519625/ufc-vegas-124-weigh-in-video-cortes-acosta-vs-walker",
-          "date": "2026-11-06T17:24:39.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2298303040.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Islam Makhachev reveals mother may have final say in retirement call: ‘I will obey her word’",
-          "link": "https://www.mmafighting.com/ufc/519724/islam-makhachev-reveals-mother-may-have-final-say-in-retirement-call-i-will-obey-her-word",
-          "date": "2026-11-06T16:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2290664037.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Tye Ruotolo drops, submits Christian Lee to win ONE MMA title",
-          "link": "https://www.mmafighting.com/one/519686/tye-ruotolo-drops-submits-christian-lee-to-win-one-mma-title",
-          "date": "2026-11-06T14:30:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Captura-de-Tela-2026-11-06-as-10.32.13.png?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Waldo Cortes-Acosta aims to take all of Josh Hokit’s teeth in future UFC fight",
-          "link": "https://www.mmafighting.com/ufc/519534/waldo-cortes-acosta-aims-to-take-all-of-josh-hokits-teeth-in-future-ufc-fight",
-          "date": "2026-11-06T14:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/06/gettyimages-2280912032.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
         {
           "title": "Morning Report: Henry Cejudo suggests UFC release Conor McGregor instead of paying for final fight",
           "link": "https://www.mmafighting.com/ufc/519578/morning-report-henry-cejudo-suggests-ufc-release-conor-mcgregor-instead-of-paying-for-final-fight",
@@ -84,6 +60,30 @@
           "link": "https://www.mmafighting.com/ufc/519653/ilia-topuria-opens-up-on-loss-to-justin-gaethje-calls-for-paddy-pimblett-in-april",
           "date": "2026-11-06T01:25:34.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/11/gettyimages-2222691657.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Grappling ace Tye Ruotolo only wants elite MMA competition: ‘I don’t want to fight the taxi cab drivers’",
+          "link": "https://www.mmafighting.com/one/519274/grappling-ace-tye-ruotolo-only-wants-elite-mma-competition-i-dont-want-to-fight-the-taxi-cab-drivers",
+          "date": "2026-11-06T00:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Tye-Ruotolo-Pawel-Jaworski-ONE-Fight-Night-41-21-2048x1366-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Israel Adesanya ready to end slump after City Kickboxing departure: ‘Best I’ve felt in a very long time’",
+          "link": "https://www.mmafighting.com/ufc/519612/israel-adesanya-ready-to-end-slump-after-city-kickboxing-departure-best-ive-felt-in-a-very-long-time",
+          "date": "2026-11-05T22:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2268706251.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "ONE star Christian Lee confident he would ‘dominate’ Islam Makhachev",
+          "link": "https://www.mmafighting.com/one/519550/one-star-christian-lee-confident-he-would-dominate-islam-makhachev",
+          "date": "2026-11-05T21:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Christian-Lee-Alibeg-Rasulov-ONE-173-7-2-1200x800-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Henry Cejudo, Kamaru Usman roast Colby Covington for embarrassing 43-second loss: ‘He’s supposed to beat Khamzat Chimaev?‘",
+          "link": "https://www.mmafighting.com/ufc/519603/henry-cejudo-kamaru-usman-roast-colby-covington-for-embarrassing-43-second-loss-hes-supposed-to-beat-khamzat-chimaev",
+          "date": "2026-11-05T19:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/07/gettyimages-2225698394.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
