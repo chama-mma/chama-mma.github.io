@@ -33,10 +33,11 @@ const FEEDS = [
 
 // Hard timeout wrapper so one slow request can never hang the job
 function withTimeout(promise, ms) {
+  let timer;
   return Promise.race([
     promise,
-    new Promise((_, reject) => setTimeout(() => reject(new Error(`Timeout after ${ms}ms`)), ms))
-  ]);
+    new Promise((_, reject) => { timer = setTimeout(() => reject(new Error(`Timeout after ${ms}ms`)), ms); })
+  ]).finally(() => clearTimeout(timer));
 }
 
 // Feed titles often arrive HTML-encoded (don&#8217;t, &#36;1 million, &amp;) — decode them once here
@@ -84,13 +85,15 @@ function extractImage(item) {
 // Fallback for feeds without images (e.g. Sherdog): read the article's og:image / twitter:image
 async function fetchArticleImage(link) {
   try {
-    const res = await withTimeout(fetch(link, {
+    // AbortSignal really cancels the request, so a slow site can't keep the job running
+    const res = await fetch(link, {
       headers: { 'User-Agent': UA, 'Accept': 'text/html', 'Accept-Language': 'en-US,en;q=0.9' },
-      redirect: 'follow'
-    }), 8000);
+      redirect: 'follow',
+      signal: AbortSignal.timeout(8000)
+    });
     if (!res.ok) return null;
     // Only the <head> is needed; stop reading after ~150 KB
-    const html = (await res.text()).slice(0, 150000);
+    const html = (await withTimeout(res.text(), 8000)).slice(0, 150000);
     const patterns = [
       /<meta[^>]+property=["']og:image(?::secure_url)?["'][^>]*content=["']([^"']+)["']/i,
       /<meta[^>]+content=["']([^"']+)["'][^>]*property=["']og:image["']/i,
@@ -173,7 +176,10 @@ async function main() {
   sources.forEach(s => console.log(`${s.name.padEnd(14)} ${s.error ? 'ERROR: ' + s.error : s.items.length + ' items'}${s.stale ? ' (stale)' : ''}`));
 }
 
-main().catch(err => {
-  console.error(err);
-  process.exit(1);
-});
+// Exit as soon as the work is done, even if a stalled connection is still open
+main()
+  .then(() => process.exit(0))
+  .catch(err => {
+    console.error(err);
+    process.exit(1);
+  });
