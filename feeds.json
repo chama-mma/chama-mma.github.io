@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-06T12:13:22.926Z",
+  "generatedAt": "2026-11-06T13:37:22.893Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Ciryl Gane calls the UFC heavyweight division in 2026 the ‘best’ ever over Miocic and Velasquez eras",
+          "link": "https://bloodyelbow.com/2026/11/06/ciryl-gane-calls-the-ufc-heavyweight-division-in-2026-the-best-ever-over-miocic-and-velasquez-eras/",
+          "date": "2026-11-06T13:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/09/GettyImages-2281629297-scaled.jpg"
+        },
         {
           "title": "BKFC president says Conor McGregor isn’t guaranteed a fight after his UFC exit: ‘He has to look good’",
           "link": "https://bloodyelbow.com/2026/11/06/bkfc-president-says-conor-mcgregor-isnt-guaranteed-a-fight-after-his-ufc-exit-he-has-to-look-good/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/05/ilia-topuria-claims-he-will-eat-sausage-paddy-pimblett-as-he-offers-ufc-return-update/",
           "date": "2026-11-06T00:01:48.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/05/GettyImages-2275222586-scaled.jpg"
-        },
-        {
-          "title": "Kamaru Usman defends Colby Covington’s 37 second loss to Raul Rosas Jr.",
-          "link": "https://bloodyelbow.com/2026/11/05/kamaru-usman-defends-colby-covingtons-37-second-loss-to-raul-rosas-jr/",
-          "date": "2026-11-06T00:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/04/Garry-Covington-Usman-2-1-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Morning Report: Henry Cejudo suggests UFC release Conor McGregor instead of paying for final fight",
+          "link": "https://www.mmafighting.com/ufc/519578/morning-report-henry-cejudo-suggests-ufc-release-conor-mcgregor-instead-of-paying-for-final-fight",
+          "date": "2026-11-06T13:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2285941374.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Ilia Topuria opens up on loss to Justin Gaethje, calls for Paddy Pimblett in April",
           "link": "https://www.mmafighting.com/ufc/519653/ilia-topuria-opens-up-on-loss-to-justin-gaethje-calls-for-paddy-pimblett-in-april",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/519603/henry-cejudo-kamaru-usman-roast-colby-covington-for-embarrassing-43-second-loss-hes-supposed-to-beat-khamzat-chimaev",
           "date": "2026-11-05T19:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/07/gettyimages-2225698394.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Tainara Lisboa, coach respond to backlash over ‘explosive’ corner work at UFC Vegas 123",
-          "link": "https://www.mmafighting.com/ufc/519294/tainara-lisboa-coach-respond-to-backlash-over-explosive-corner-work-at-ufc-vegas-123",
-          "date": "2026-11-05T18:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2302898885.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
