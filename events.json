@@ -1,0 +1,76 @@
+{
+  "updated": "2026-11-06T09:20:45.448Z",
+  "source": "https://www.ufc.com/events",
+  "events": [
+    {
+      "name": "UFC Fight Night",
+      "main": "Cortes Acosta vs Walker",
+      "start": "2026-11-08T01:00:00.000Z",
+      "prelims": "2026-11-07T22:00:00.000Z",
+      "venue": "Meta APEX",
+      "city": "Las Vegas",
+      "country": "United States",
+      "url": "https://www.ufc.com/event/ufc-fight-night-november-07-2026"
+    },
+    {
+      "name": "UFC 334",
+      "main": "Gane vs Hokit",
+      "start": "2026-11-15T02:00:00.000Z",
+      "prelims": "2026-11-15T00:00:00.000Z",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "country": "United States",
+      "url": "https://www.ufc.com/event/ufc-334"
+    },
+    {
+      "name": "UFC Fight Night",
+      "main": "Prochazka vs Stirling",
+      "start": "2026-11-21T18:00:00.000Z",
+      "prelims": "2026-11-21T15:00:00.000Z",
+      "venue": "ABHA Arena",
+      "city": "Doha",
+      "country": "Qatar",
+      "url": "https://www.ufc.com/event/ufc-fight-night-november-21-2026"
+    },
+    {
+      "name": "UFC 335",
+      "main": "Oliveira vs Lopes",
+      "start": "2026-12-13T02:00:00.000Z",
+      "prelims": "2026-12-13T00:00:00.000Z",
+      "venue": "T-Mobile Arena",
+      "city": "Las Vegas",
+      "country": "United States",
+      "url": "https://www.ufc.com/event/ufc-335"
+    },
+    {
+      "name": "UFC Fight Night",
+      "main": "",
+      "start": "2027-01-17T01:00:00.000Z",
+      "prelims": "2027-01-16T22:00:00.000Z",
+      "venue": "American Airlines Center",
+      "city": "Dallas",
+      "country": "United States",
+      "url": "https://www.ufc.com/event/ufc-fight-night-january-16-2027"
+    },
+    {
+      "name": "UFC 336",
+      "main": "Van vs Kape",
+      "start": "2027-01-31T02:00:00.000Z",
+      "prelims": "2027-01-31T00:00:00.000Z",
+      "venue": "Scotiabank Arena",
+      "city": "Toronto",
+      "country": "Canada",
+      "url": "https://www.ufc.com/event/ufc-336"
+    },
+    {
+      "name": "UFC Fight Night",
+      "main": "Salkilld vs Saint Denis",
+      "start": "2027-02-06T22:00:00.000Z",
+      "prelims": "2027-02-06T20:00:00.000Z",
+      "venue": "Afterpay Arena",
+      "city": "Sydney Olympic Park",
+      "country": "Australia",
+      "url": "https://www.ufc.com/event/ufc-fight-night-february-06-2027"
+    }
+  ]
+}
