@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-07T16:00:33.121Z",
+  "generatedAt": "2026-11-07T17:01:39.527Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "UFC 334 star reveals he hid injury that required emergency surgery from the UFC before his last win",
+          "link": "https://bloodyelbow.com/2026/11/07/ufc-334-star-reveals-he-hid-injury-that-required-emergency-surgery-from-the-ufc-before-his-last-win/",
+          "date": "2026-11-07T17:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/09/GettyImages-2168319012-scaled.jpg"
+        },
         {
           "title": "Ex-UFC fighter who was cut for biting his opponent has justified his ‘second chance’ says OKTAGON boss",
           "link": "https://bloodyelbow.com/2026/11/07/ex-ufc-fighter-who-was-cut-for-biting-his-opponent-has-justified-his-second-chance-says-oktagon-boss/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/07/ilia-topuria-responds-to-paddy-pimbletts-offer-to-coach-against-each-other-on-the-ultimate-fighter/",
           "date": "2026-11-07T12:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/06/GettyImages-2222690857-scaled.jpg"
-        },
-        {
-          "title": "BKFC 96 star almost lost late-notice title fight opportunity after missing several calls",
-          "link": "https://bloodyelbow.com/2026/11/07/bkfc-96-star-almost-lost-late-notice-title-fight-opportunity-after-missing-several-calls/",
-          "date": "2026-11-07T09:50:05.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/BKFC96press157-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Marcos Degli believes UFC wants Mitch Raposo out, accuses him of ‘padded record’",
+          "link": "https://www.mmafighting.com/ufc/519355/marcos-degli-believes-ufc-wants-mitch-raposo-out-accuses-him-of-padded-record",
+          "date": "2026-11-07T17:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2296652250.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Ilia Topuria thanks his brother for stopping Justin Gaethje fight: ‘I wouldn’t be able to fight again in my life’",
           "link": "https://www.mmafighting.com/ufc/519794/ilia-topuria-thanks-his-brother-for-stopping-justin-gaethje-fight-i-wouldnt-be-able-to-fight-again-in-my-life",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/519776/ufc-vegas-124-preview-show-can-johnny-walker-keep-the-heavyweight-resurgence-alive-against-waldo-cortes-acosta",
           "date": "2026-11-06T21:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/UFC-VEGAS-124-CLEAN-1.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Virna Jandiroba: Mackenzie Dern trilogy bout possible with win over Tatiana Suarez at UFC Vegas 124",
-          "link": "https://www.mmafighting.com/ufc/519359/virna-jandiroba-mackenzie-dern-trilogy-bout-possible-with-win-over-tatiana-suarez-at-ufc-vegas-124",
-          "date": "2026-11-06T20:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2269860970.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
