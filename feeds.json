@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T21:01:53.028Z",
+  "generatedAt": "2026-11-07T21:59:18.258Z",
   "sources": [
     {
       "id": "bloodyelbow",
@@ -50,6 +50,12 @@
       "site": "https://www.mmafighting.com/",
       "items": [
         {
+          "title": "UFC 334: 10-fight octagon veteran saves bantamweight clash on Ciryl Gane vs. Josh Hokit fight card",
+          "link": "https://www.mmafighting.com/ufc/519826/ufc-334-10-fight-octagon-veteran-saves-bantamweight-clash-on-ciryl-gane-vs-josh-hokit-fight-card",
+          "date": "2026-11-07T21:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2246903806.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
           "title": "Dana White offered press secretary job by President Donald Trump",
           "link": "https://www.mmafighting.com/ufc/519841/dana-white-offered-press-secretary-job-by-president-donald-trump",
           "date": "2026-11-07T19:37:46.000Z",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/519731/ufc-vegas-124-predictions",
           "date": "2026-11-07T13:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2298441737.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "UFC Vegas 124 Results: Cortes-Acosta vs. Walker",
-          "link": "https://www.mmafighting.com/ufc/519628/ufc-vegas-124-results-cortes-acosta-vs-walker",
-          "date": "2026-11-07T05:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2303864853.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
