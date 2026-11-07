@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-07T05:37:01.028Z",
+  "generatedAt": "2026-11-07T06:38:46.873Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "‘Cut him’… UFC advised to release Conor McGregor to avoid $30M payout",
+          "link": "https://bloodyelbow.com/2026/11/07/cut-him-ufc-advised-to-release-conor-mcgregor-to-avoid-30m-payout-for-final-fight/",
+          "date": "2026-11-07T06:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/07/GettyImages-2285713866-scaled.jpg"
+        },
         {
           "title": "‘Send him to PFL’… Khamzat Chimaev angers fans by suggesting he’ll sit and wait for a title shot",
           "link": "https://bloodyelbow.com/2026/11/06/send-him-to-pfl-khamzat-chimaev-angers-fans-by-suggesting-hell-sit-and-wait-for-a-title-shot/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/06/ilia-topuria-reveals-heartwarming-reason-he-never-wants-to-fight-alexander-volkanovski-again/",
           "date": "2026-11-07T01:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/02/GettyImages-2019442894-scaled.jpg"
-        },
-        {
-          "title": "UFC 334 update: 30-fight veteran joins Gane vs. Hokit undercard",
-          "link": "https://bloodyelbow.com/2026/11/06/ufc-334-update-30-fight-veteran-joins-gane-vs-hokit-undercard/",
-          "date": "2026-11-07T00:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/08/GettyImages-2246903806-scaled.jpg"
         }
       ]
     },
