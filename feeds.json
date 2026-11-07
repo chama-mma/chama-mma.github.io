@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-07T04:40:05.490Z",
+  "generatedAt": "2026-11-07T05:37:01.028Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "‘Send him to PFL’… Khamzat Chimaev angers fans by suggesting he’ll sit and wait for a title shot",
+          "link": "https://bloodyelbow.com/2026/11/06/send-him-to-pfl-khamzat-chimaev-angers-fans-by-suggesting-hell-sit-and-wait-for-a-title-shot/",
+          "date": "2026-11-07T04:59:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/05/GettyImages-2274545915-scaled.jpg"
+        },
         {
           "title": "Dana White explains the one key reason influencer boxing can never overtake UFC",
           "link": "https://bloodyelbow.com/2026/11/06/dana-white-explains-the-one-key-reason-influencer-boxing-can-never-overtake-ufc/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/06/ufc-334-update-30-fight-veteran-joins-gane-vs-hokit-undercard/",
           "date": "2026-11-07T00:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/08/GettyImages-2246903806-scaled.jpg"
-        },
-        {
-          "title": "Dana White boasts of improved ‘bedroom energy’ in awkward podcast moment with Deontay Wilder",
-          "link": "https://bloodyelbow.com/2026/11/06/dana-white-boasts-of-improved-bedroom-energy-in-awkward-podcast-moment-with-deontay-wilder/",
-          "date": "2026-11-06T23:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Deontay-Wilder-Dana-White.png"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "UFC Vegas 124 Results: Cortes-Acosta vs. Walker",
+          "link": "https://www.mmafighting.com/ufc/519628/ufc-vegas-124-results-cortes-acosta-vs-walker",
+          "date": "2026-11-07T05:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2303864853.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Johnny Walker cites ‘huge advantage’ over UFC heavyweights, calls Waldo Cortes-Acosta his ‘Christmas present’",
           "link": "https://www.mmafighting.com/ufc/519437/johnny-walker-cites-huge-advantage-over-ufc-heavyweights-calls-waldo-cortes-acosta-his-christmas-present",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/519625/ufc-vegas-124-weigh-in-video-cortes-acosta-vs-walker",
           "date": "2026-11-06T18:39:17.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2298303040.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Islam Makhachev reveals mother may have final say in retirement call: ‘I will obey her word’",
-          "link": "https://www.mmafighting.com/ufc/519724/islam-makhachev-reveals-mother-may-have-final-say-in-retirement-call-i-will-obey-her-word",
-          "date": "2026-11-06T16:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2290664037.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
