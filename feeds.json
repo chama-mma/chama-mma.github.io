@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-07T18:29:50.854Z",
+  "generatedAt": "2026-11-07T19:17:52.604Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Ilia Topuria admits he was contemplating retirement before Justin Gaethje loss at the White House",
+          "link": "https://bloodyelbow.com/2026/11/07/ilia-topuria-admits-he-was-contemplating-retirement-before-justin-gaethje-loss-at-the-white-house/",
+          "date": "2026-11-07T19:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/05/GettyImages-2275224503-scaled.jpg"
+        },
         {
           "title": "UFC 335 down a fight with promotion looking to reschedule Maycee Barber’s return according to report",
           "link": "https://bloodyelbow.com/2026/11/07/ufc-335-down-a-fight-with-promotion-looking-to-reschedule-maycee-barbers-return-according-to-report/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/07/ilia-topuria-tags-dana-white-after-almost-one-million-fans-pick-between-gaethje-and-pimblett-fights/",
           "date": "2026-11-07T15:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2280627635-scaled.jpg"
-        },
-        {
-          "title": "Waldo Cortes-Acosta vows to take off Josh Hokit’s ‘whole dirty mouth’ in a future fight",
-          "link": "https://bloodyelbow.com/2026/11/07/waldo-cortes-acosta-vows-to-take-off-josh-hokits-whole-dirty-mouth-in-a-future-fight/",
-          "date": "2026-11-07T14:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281079294-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Jose Delano: UFC matchmaker Sean Shelby called me one of DWCS’s all-time best signings ahead of UFC Vegas 124",
+          "link": "https://www.mmafighting.com/ufc/519387/jose-delano-ufc-matchmaker-sean-shelby-called-me-one-of-dwcss-all-time-best-signings-ahead-of-ufc-vegas-124",
+          "date": "2026-11-07T19:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2269855038.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Marcos Degli believes UFC wants Mitch Raposo out, accuses him of ‘padded record’",
           "link": "https://www.mmafighting.com/ufc/519355/marcos-degli-believes-ufc-wants-mitch-raposo-out-accuses-him-of-padded-record",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/519437/johnny-walker-cites-huge-advantage-over-ufc-heavyweights-calls-waldo-cortes-acosta-his-christmas-present",
           "date": "2026-11-06T23:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2298441363.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "UFC Vegas 124 Preview Show: Can Johnny Walker keep the heavyweight resurgence alive against Waldo Cortes-Acosta?",
-          "link": "https://www.mmafighting.com/ufc/519776/ufc-vegas-124-preview-show-can-johnny-walker-keep-the-heavyweight-resurgence-alive-against-waldo-cortes-acosta",
-          "date": "2026-11-06T21:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/UFC-VEGAS-124-CLEAN-1.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
