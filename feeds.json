@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-07T12:01:57.039Z",
+  "generatedAt": "2026-11-07T13:21:41.412Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Islam Makhachev confirms his team is discussing a move to the UFC middleweight division",
+          "link": "https://bloodyelbow.com/2026/11/07/islam-makhachev-confirms-his-team-is-discussing-a-move-to-the-ufc-middleweight-division/",
+          "date": "2026-11-07T13:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2246910776-scaled.jpg"
+        },
         {
           "title": "Ilia Topuria responds to Paddy Pimblett’s offer to coach against each other on The Ultimate Fighter",
           "link": "https://bloodyelbow.com/2026/11/07/ilia-topuria-responds-to-paddy-pimbletts-offer-to-coach-against-each-other-on-the-ultimate-fighter/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/06/dana-white-explains-the-one-key-reason-influencer-boxing-can-never-overtake-ufc/",
           "date": "2026-11-07T04:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/04/Adin-Ross-and-Dana-White.png"
-        },
-        {
-          "title": "Khabib Nurmagomedov pens emotional tribute to Cristiano Ronaldo after legend retires from international soccer",
-          "link": "https://bloodyelbow.com/2026/11/06/khabib-nurmagomedov-pens-emotional-tribute-to-cristiano-ronaldo-after-legend-retires-from-international-soccer/",
-          "date": "2026-11-07T03:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Ronaldo-Khabib.png"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "UFC Vegas 124 predictions",
+          "link": "https://www.mmafighting.com/ufc/519731/ufc-vegas-124-predictions",
+          "date": "2026-11-07T13:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2298441737.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "UFC Vegas 124 Results: Cortes-Acosta vs. Walker",
           "link": "https://www.mmafighting.com/ufc/519628/ufc-vegas-124-results-cortes-acosta-vs-walker",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/519766/ufc-vegas-124-weigh-in-results-waldo-cortes-acosta-has-23-pound-edge-over-johnny-walker-in-main-event",
           "date": "2026-11-06T19:01:37.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2303851967.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "UFC Vegas 124 weigh-in video: Cortes-Acosta vs. Walker",
-          "link": "https://www.mmafighting.com/ufc/519625/ufc-vegas-124-weigh-in-video-cortes-acosta-vs-walker",
-          "date": "2026-11-06T18:39:17.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2298303040.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
