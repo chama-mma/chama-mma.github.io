@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-07T19:17:52.604Z",
+  "generatedAt": "2026-11-07T20:00:11.459Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Dana White challenges Eddie Hearn with alternative option he’d accept to make fight happen",
+          "link": "https://bloodyelbow.com/2026/11/07/dana-white-challenges-eddie-hearn-with-alternative-option-hed-accept-to-make-fight-happen/",
+          "date": "2026-11-07T20:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/09/GettyImages-2295989769-scaled.jpg"
+        },
+        {
+          "title": "Dana White responds to Donald Trump announcing he’s been offered the US Press Secretary job",
+          "link": "https://bloodyelbow.com/2026/11/07/dana-white-responds-to-donald-trump-announcing-that-hes-been-offered-the-press-secretary-job/",
+          "date": "2026-11-07T19:21:41.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281638199-scaled.jpg"
+        },
         {
           "title": "Ilia Topuria admits he was contemplating retirement before Justin Gaethje loss at the White House",
           "link": "https://bloodyelbow.com/2026/11/07/ilia-topuria-admits-he-was-contemplating-retirement-before-justin-gaethje-loss-at-the-white-house/",
@@ -29,18 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/07/ufc-334-star-reveals-he-hid-injury-that-required-emergency-surgery-from-the-ufc-before-his-last-win/",
           "date": "2026-11-07T17:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/09/GettyImages-2168319012-scaled.jpg"
-        },
-        {
-          "title": "Ex-UFC fighter who was cut for biting his opponent has justified his ‘second chance’ says OKTAGON boss",
-          "link": "https://bloodyelbow.com/2026/11/07/ex-ufc-fighter-who-was-cut-for-biting-his-opponent-has-justified-his-second-chance-says-oktagon-boss/",
-          "date": "2026-11-07T16:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/chris-tognoni-andre-lima-igor-severino-1794056093015.jpg"
-        },
-        {
-          "title": "Ilia Topuria tags Dana White after almost one million fans pick between Gaethje and Pimblett fights",
-          "link": "https://bloodyelbow.com/2026/11/07/ilia-topuria-tags-dana-white-after-almost-one-million-fans-pick-between-gaethje-and-pimblett-fights/",
-          "date": "2026-11-07T15:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2280627635-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Dana White offered press secretary job by President Donald Trump",
+          "link": "https://www.mmafighting.com/ufc/519841/dana-white-offered-press-secretary-job-by-president-donald-trump",
+          "date": "2026-11-07T19:37:46.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2288392408.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Jose Delano: UFC matchmaker Sean Shelby called me one of DWCS’s all-time best signings ahead of UFC Vegas 124",
           "link": "https://www.mmafighting.com/ufc/519387/jose-delano-ufc-matchmaker-sean-shelby-called-me-one-of-dwcss-all-time-best-signings-ahead-of-ufc-vegas-124",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/519628/ufc-vegas-124-results-cortes-acosta-vs-walker",
           "date": "2026-11-07T05:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2303864853.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Johnny Walker cites ‘huge advantage’ over UFC heavyweights, calls Waldo Cortes-Acosta his ‘Christmas present’",
-          "link": "https://www.mmafighting.com/ufc/519437/johnny-walker-cites-huge-advantage-over-ufc-heavyweights-calls-waldo-cortes-acosta-his-christmas-present",
-          "date": "2026-11-06T23:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2298441363.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
