@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-08T12:02:03.102Z",
+  "generatedAt": "2026-11-08T13:21:24.792Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Justin Gaethje’s manager responds after fans back Ilia Topuria’s pursuit of a rematch",
+          "link": "https://bloodyelbow.com/2026/11/08/justin-gaethjes-manager-responds-after-fans-back-ilia-topurias-pursuit-of-a-rematch/",
+          "date": "2026-11-08T13:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/Topuria-Gaethje.png"
+        },
         {
           "title": "Conor McGregor names ideal opponent for final UFC fight: ‘Redo it’",
           "link": "https://bloodyelbow.com/2026/11/08/conor-mcgregor-names-ideal-opponent-for-final-ufc-fight-redo-it/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/07/johnny-walkers-knockout-of-waldo-cortes-acosta-at-ufc-vegas-124-branded-goofy-by-viewers/",
           "date": "2026-11-08T04:53:22.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2304059689-scaled.jpg"
-        },
-        {
-          "title": "Conor McGregor tears into Darren Till over drab BKFC ‘spar’ with Yoel Romero",
-          "link": "https://bloodyelbow.com/2026/11/07/conor-mcgregor-tears-into-darren-till-over-drab-bkfc-spar-with-yoel-romero/",
-          "date": "2026-11-08T03:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2206607072-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Conor McGregor: ‘It has to be Max Holloway’ for final UFC fight, issues profane warning to lower level fighters",
+          "link": "https://www.mmafighting.com/ufc/519891/conor-mcgregor-it-has-to-be-max-holloway-for-final-ufc-fight-issues-profane-warning-to-lower-level-fighters",
+          "date": "2026-11-08T13:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/07/gettyimages-2285711529.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "UFC Vegas 124 post-fight show: Reaction to Johnny Walker’s knockout in wild main event",
           "link": "https://www.mmafighting.com/ufc/520041/ufc-vegas-124-post-fight-show-reaction-to-johnny-walkers-knockout-in-wild-main-event",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/519983/johnny-walker-puts-waldo-cortes-acosta-down-and-out-with-nasty-knockout-in-ufc-vegas-124-main-event",
           "date": "2026-11-08T04:13:14.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2304059689.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "UFC Vegas 124 results: Tatiana Suarez grinds her way to decision win over Virna Jandiroba",
-          "link": "https://www.mmafighting.com/ufc/519960/ufc-vegas-124-results-tatiana-suarez-grinds-her-way-to-decision-win-over-virna-jandiroba",
-          "date": "2026-11-08T03:37:16.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2304056109.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
