@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-08T02:39:48.580Z",
+  "generatedAt": "2026-11-08T04:40:54.395Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Conor McGregor tears into Darren Till over drab BKFC ‘spar’ with Yoel Romero",
+          "link": "https://bloodyelbow.com/2026/11/07/conor-mcgregor-tears-into-darren-till-over-drab-bkfc-spar-with-yoel-romero/",
+          "date": "2026-11-08T03:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2206607072-scaled.jpg"
+        },
+        {
+          "title": "Dana White will meet with President Donald Trump over White House Press Secretary job on Monday",
+          "link": "https://bloodyelbow.com/2026/11/07/dana-white-will-meet-with-president-donald-trump-over-white-house-press-secretary-job-on-monday/",
+          "date": "2026-11-08T02:15:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/02/GettyImages-2185178273-scaled.jpg"
+        },
         {
           "title": "Tommy Robinson and Mo Deen brawl into the crowd forcing HSTikkyTokky Unhinged Promotions event cancellation",
           "link": "https://bloodyelbow.com/2026/11/07/tommy-robinson-and-mo-deen-brawl-into-the-crowd-causing-hstikkytokky-unhinged-promotions-event-cancellation/",
@@ -29,18 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/07/islam-makhachev-could-have-his-first-grappling-opponent-lined-up-after-100k-offer-from-ex-ufc-star/",
           "date": "2026-11-07T21:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/11/GettyImages-2246911401-scaled.jpg"
-        },
-        {
-          "title": "Russ Millions vs Kirky Unhinged Promotions 3 CANCELLED: LIVE Stream, results and more from as MoDeen and Tommy Robinson brawl",
-          "link": "https://bloodyelbow.com/2026/11/07/russ-millions-vs-kirky-unhinged-promotions-3-live-stream-results-and-more-from-hstikkytokkys-irish-fight-night/",
-          "date": "2026-11-07T20:05:34.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Russ-Millions-v-Kirky.png"
-        },
-        {
-          "title": "Dana White challenges Eddie Hearn with alternative option he’d accept to make fight happen",
-          "link": "https://bloodyelbow.com/2026/11/07/dana-white-challenges-eddie-hearn-with-alternative-option-hed-accept-to-make-fight-happen/",
-          "date": "2026-11-07T20:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/09/GettyImages-2295989769-scaled.jpg"
         }
       ]
     },
@@ -50,40 +50,40 @@
       "site": "https://www.mmafighting.com/",
       "items": [
         {
-          "title": "Video: Mo Deen’s vicious knockout sparks all-out brawl with chairs, steel barricades flying at Unhinged 3",
-          "link": "https://www.mmafighting.com/boxing/519907/video-mo-deens-vicious-knockout-sparks-all-out-brawl-with-chairs-steel-barricades-flying-at-unhinged-3",
-          "date": "2026-11-08T02:13:49.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-07-at-8.46.39-PM.png?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Maycee Barber vs. Carli Judice scratched from UFC 335 lineup",
-          "link": "https://www.mmafighting.com/ufc/519837/maycee-barber-vs-carli-judice-scratched-from-ufc-335-lineup",
-          "date": "2026-11-07T23:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2268851025.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Video: José Souza scores brutal first-round knockout at UFC Vegas 124",
-          "link": "https://www.mmafighting.com/ufc/519859/video-jose-souza-scores-brutal-first-round-knockout-at-ufc-vegas-124",
-          "date": "2026-11-07T22:30:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2304029451.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Video: Cory Chapman knocks opponent stiff with brutal knockout at BKFC Glasgow",
-          "link": "https://www.mmafighting.com/bkfc/519864/video-cory-chapman-knocks-opponent-stiff-with-brutal-knockout-at-bkfc-glasgow",
-          "date": "2026-11-07T22:27:56.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/BKFC96235.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "LIVE! UFC Vegas 124 Results: Cortes-Acosta vs. Walker",
+          "title": "UFC Vegas 124 Results: Cortes-Acosta vs. Walker",
           "link": "https://www.mmafighting.com/ufc/519628/ufc-vegas-124-results-cortes-acosta-vs-walker",
-          "date": "2026-11-07T22:03:00.000Z",
+          "date": "2026-11-08T04:14:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2303864853.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "UFC 334: 10-fight octagon veteran saves bantamweight clash on Ciryl Gane vs. Josh Hokit fight card",
-          "link": "https://www.mmafighting.com/ufc/519826/ufc-334-10-fight-octagon-veteran-saves-bantamweight-clash-on-ciryl-gane-vs-josh-hokit-fight-card",
-          "date": "2026-11-07T21:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2246903806.jpg?quality=90&strip=all&crop=0,0,100,100"
+          "title": "Johnny Walker puts Waldo Cortes Acosta down and out with nasty knockout in UFC Vegas 124 main event",
+          "link": "https://www.mmafighting.com/ufc/519983/johnny-walker-puts-waldo-cortes-acosta-down-and-out-with-nasty-knockout-in-ufc-vegas-124-main-event",
+          "date": "2026-11-08T04:13:14.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2304059689.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "UFC Vegas 124 results: Tatiana Suarez grinds her way to decision win over Virna Jandiroba",
+          "link": "https://www.mmafighting.com/ufc/519960/ufc-vegas-124-results-tatiana-suarez-grinds-her-way-to-decision-win-over-virna-jandiroba",
+          "date": "2026-11-08T03:37:16.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2304056109.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "UFC Vegas 124 live blog: Waldo Cortes-Acosta vs. Johnny Walker",
+          "link": "https://www.mmafighting.com/ufc/519899/ufc-vegas-124-live-blog-waldo-cortes-acosta-vs-johnny-walker",
+          "date": "2026-11-08T03:34:42.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2303864853.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "UFC Vegas 124 video: Elijah Smith demolishes Davey Grant with blistering 60-second knockout",
+          "link": "https://www.mmafighting.com/ufc/519935/ufc-vegas-124-video-elijah-smith-demolishes-davey-grant-with-blistering-60-second-knockout",
+          "date": "2026-11-08T03:04:06.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2304053642.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "UFC Vegas 124 live blog: Tatiana Suarez vs. Virna Jandiroba",
+          "link": "https://www.mmafighting.com/ufc/519894/ufc-vegas-124-live-blog-tatiana-suarez-vs-virna-jandiroba",
+          "date": "2026-11-08T02:55:53.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2303865202.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
@@ -92,6 +92,12 @@
       "name": "Sherdog",
       "site": "https://www.sherdog.com/",
       "items": [
+        {
+          "title": "Johnny Walker scores wild knockout of Waldo Cortes-Acosta in UFC Vegas 124 main event",
+          "link": "https://www.sherdog.com/news/news/Johnny-Walker-scores-wild-knockout-of-Waldo-CortesAcosta-in-UFC-Vegas-124-main-event-203533",
+          "date": "2026-11-08T04:28:39.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261108042839_GettyImages2304058851.JPG"
+        },
         {
           "title": "UFC Vegas 124 ‘Cortes-Acosta vs. Walker’ play-by-play, results & round scoring",
           "link": "https://www.sherdog.com/news/news/UFC-Vegas-124-CortesAcosta-vs-Walker-playbyplay-results-round-scoring-203525",
@@ -121,12 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Carlos-Prates-says-new-UFC-deal-pays-him-more-than-361-million-per-fight-203518",
           "date": "2026-11-06T03:58:35.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261106035835_prates_new_contract.JPG"
-        },
-        {
-          "title": "Aiemann Zahabi is carrying on Georges St. Pierre's post-fight ritual",
-          "link": "https://www.sherdog.com/news/news/Aiemann-Zahabi-is-carrying-on-Georges-St-Pierres-postfight-ritual-203517",
-          "date": "2026-11-06T03:42:45.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261106034245_zahabi_bros_gsp.JPG"
         }
       ]
     }
