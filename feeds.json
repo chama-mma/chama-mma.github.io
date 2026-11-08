@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T17:23:42.750Z",
+  "generatedAt": "2026-11-08T17:56:41.066Z",
   "sources": [
     {
       "id": "bloodyelbow",
@@ -93,6 +93,12 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "Tony Laramie makes Rizin history in bloody split decision at Rizin 55",
+          "link": "https://www.sherdog.com/news/news/Tony-Laramie-makes-Rizin-history-in-bloody-split-decision-at-Rizin-55-203536",
+          "date": "2026-11-08T17:22:30.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261108052230_rizin.JPG"
+        },
+        {
           "title": "Israel Adesanya vs. Sharabutdin Magomedov set to headline UFC Riyadh",
           "link": "https://www.sherdog.com/news/news/Israel-Adesanya-vs-Sharabutdin-Magomedov-set-to-headline-UFC-Riyadh-203534",
           "date": "2026-11-08T04:45:23.000Z",
@@ -121,12 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Dana-White-reportedly-turns-down-White-House-press-secretary-role-offered-by-Donald-Trump-203532",
           "date": "2026-11-07T23:02:58.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261107111746_GettyImages2288392408.JPG"
-        },
-        {
-          "title": "UFC Vegas 124 weigh-in results: All fighters make weight",
-          "link": "https://www.sherdog.com/news/news/UFC-Vegas-124-weighin-results-All-fighters-make-weight-203521",
-          "date": "2026-11-06T16:43:41.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261106061935_Screenshot_20261106_at_1_18_55PM.PNG"
         }
       ]
     }
