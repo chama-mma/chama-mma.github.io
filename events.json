@@ -1,17 +1,7 @@
 {
-  "updated": "2026-11-06T09:20:45.448Z",
+  "updated": "2026-11-08T09:34:47.956Z",
   "source": "https://www.ufc.com/events",
   "events": [
-    {
-      "name": "UFC Fight Night",
-      "main": "Cortes Acosta vs Walker",
-      "start": "2026-11-08T01:00:00.000Z",
-      "prelims": "2026-11-07T22:00:00.000Z",
-      "venue": "Meta APEX",
-      "city": "Las Vegas",
-      "country": "United States",
-      "url": "https://www.ufc.com/event/ufc-fight-night-november-07-2026"
-    },
     {
       "name": "UFC 334",
       "main": "Gane vs Hokit",
