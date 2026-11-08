@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CHAMA! · MMA news, podcasts & rankings</title>
+  <meta name="description" content="Latest MMA news from verified sources, top podcasts, upcoming UFC events and official rankings.">
+  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0b0b0b" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23d20a0a'/%3E%3Ctext x='16' y='23' font-family='Arial,sans-serif' font-size='20' font-weight='900' fill='white' text-anchor='middle'%3EC%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://platform.mmafighting.com">
+  <link rel="preconnect" href="https://i0.wp.com">
+  <link rel="dns-prefetch" href="https://is1-ssl.mzstatic.com">
+
+  <!-- Apply saved theme before first paint (no flash) -->
+  <script>
+    try { var t = localStorage.getItem('theme'); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+
+  <style>
+    :root {
+      --bg: #ffffff;
+      --surface: #f6f6f6;
+      --text: #111111;
+      --muted: #6b6b6b;
+      --line: #e8e8e8;
+      --accent: #d20a0a;
+      --radius: 8px;
+      --wrap: 1120px;
+      --gutter: clamp(16px, 4vw, 32px);
+      color-scheme: light;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]) {
+        --bg: #0b0b0b; --surface: #161616; --text: #ededed; --muted: #8f8f8f; --line: #232323; --accent: #ff3b3b;
+        color-scheme: dark;
+      }
+    }
+    :root[data-theme="dark"] {
+      --bg: #0b0b0b; --surface: #161616; --text: #ededed; --muted: #8f8f8f; --line: #232323; --accent: #ff3b3b;
+      color-scheme: dark;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { -webkit-text-size-adjust: 100%; }
+    body {
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 1rem;
+      line-height: 1.5;
+      background: var(--bg);
+      color: var(--text);
+      -webkit-font-smoothing: antialiased;
+    }
+    a { color: inherit; text-decoration: none; }
+    button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; }
+    :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+
+    .wrap { max-width: var(--wrap); margin: 0 auto; padding: 0 var(--gutter); }
+
+    /* Type scale: 0.75 / 0.875 / 1 / 1.5 rem */
+    .label {
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+    .meta { font-size: 0.75rem; color: var(--muted); }
+
+    /* ---------- Header ---------- */
+    header {
+      position: sticky; top: 0; z-index: 10;
+      background: color-mix(in srgb, var(--bg) 88%, transparent);
+      -webkit-backdrop-filter: saturate(180%) blur(12px);
+      backdrop-filter: saturate(180%) blur(12px);
+      border-bottom: 1px solid var(--line);
+    }
+    .header-inner { display: flex; align-items: center; justify-content: space-between; height: 56px; }
+    .logo { font-size: 1.5rem; font-weight: 900; letter-spacing: -0.04em; line-height: 1; }
+    .logo span { color: var(--accent); }
+    .controls { display: flex; align-items: center; gap: 12px; }
+    .icon-btn {
+      width: 36px; height: 36px; display: grid; place-items: center;
+      border: 1px solid var(--line); border-radius: 50%;
+    }
+    .icon-btn:hover { background: var(--surface); }
+    .icon-btn svg { width: 16px; height: 16px; }
+
+    /* ---------- Upcoming events ---------- */
+    .events { border-bottom: 1px solid var(--line); }
+    .events-track {
+      display: flex; overflow-x: auto; scroll-snap-type: x mandatory;
+      scrollbar-width: none; padding: 14px 0;
+    }
+    .events-track::-webkit-scrollbar { display: none; }
+    .event {
+      flex: 0 0 auto; scroll-snap-align: start;
+      padding: 0 20px; border-left: 1px solid var(--line);
+      min-width: 168px;
+    }
+    .event:first-child { padding-left: 0; border-left: 0; }
+    .event:hover .event-main { text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+    .events-track { min-height: 106px; }   /* reserve space so nothing jumps while the schedule loads */
+    .event .label { color: var(--accent); }
+    .event-main { font-size: 0.875rem; font-weight: 600; white-space: nowrap; }
+    .timer { font-size: 0.875rem; font-variant-numeric: tabular-nums; font-weight: 700; }
+    .timer.live { color: var(--accent); }
+
+    /* ---------- Sections ---------- */
+    main { padding: 32px 0 0; }
+    section + section { margin-top: 56px; }
+    .section-head {
+      display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between;
+      gap: 2px 12px; margin-bottom: 16px;
+    }
+    .section-head h2 { font-size: 1.5rem; font-weight: 800; letter-spacing: -0.03em; white-space: nowrap; }
+
+    /* ---------- News ---------- */
+    .sources { display: grid; gap: 40px; grid-template-columns: 1fr; }
+    @media (min-width: 760px)  { .sources { grid-template-columns: repeat(2, 1fr); } }
+    @media (min-width: 1040px) { .sources { grid-template-columns: repeat(3, 1fr); gap: 32px; } }
+
+    .source-head {
+      display: flex; justify-content: space-between; align-items: baseline;
+      padding-bottom: 10px; border-bottom: 2px solid var(--text);
+    }
+    .source-head a.label:hover { color: var(--text); }
+
+    .card {
+      display: grid; grid-template-columns: 1fr auto; gap: 14px; align-items: start;
+      padding: 14px 0; border-bottom: 1px solid var(--line);
+    }
+    .card:hover .card-title { text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+    .card-title { font-size: 1rem; font-weight: 600; line-height: 1.35; letter-spacing: -0.01em; }
+    .card .meta { margin-top: 4px; }
+    .thumb {
+      width: 88px; height: 64px; object-fit: cover; object-position: center 25%;
+      border-radius: 6px; background: var(--surface);
+    }
+    .more { display: inline-block; margin-top: 12px; font-size: 0.875rem; font-weight: 600; }
+    .more:hover { color: var(--accent); }
+
+    /* loading skeleton */
+    .skeleton .bar { height: 14px; border-radius: 4px; background: var(--surface); margin: 18px 0; }
+    .skeleton .bar:nth-child(odd) { width: 80%; }
+
+    /* ---------- Podcasts ---------- */
+    .pods { display: grid; grid-template-columns: 1fr; column-gap: 32px; }
+    @media (min-width: 640px)  { .pods { grid-template-columns: repeat(2, 1fr); } }
+    @media (min-width: 1040px) { .pods { grid-template-columns: repeat(3, 1fr); } }
+    .pod {
+      display: flex; align-items: center; gap: 14px;
+      padding: 12px 0; border-bottom: 1px solid var(--line);
+    }
+    .pod img { width: 48px; height: 48px; border-radius: 6px; flex-shrink: 0; background: var(--surface); }
+    .pod-name { font-size: 0.875rem; font-weight: 600; line-height: 1.3; }
+    .pod:hover .pod-name { color: var(--accent); }
+
+    /* ---------- Rankings ---------- */
+    .tabs {
+      display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none;
+      padding-bottom: 12px; margin-bottom: 4px;
+    }
+    .tabs::-webkit-scrollbar { display: none; }
+    .tabs button {
+      flex: none; font-size: 0.875rem; padding: 6px 14px; border-radius: 999px;
+      border: 1px solid var(--line); white-space: nowrap;
+    }
+    .tabs button:hover { background: var(--surface); }
+    .tabs button[aria-selected="true"] { background: var(--text); border-color: var(--text); color: var(--bg); }
+    .ranks { list-style: none; columns: 1; column-gap: 32px; }
+    @media (min-width: 640px) { .ranks { columns: 2; } }
+    .ranks li {
+      break-inside: avoid; display: flex; gap: 14px; align-items: center;
+      padding: 10px 0; border-bottom: 1px solid var(--line); font-size: 1rem;
+    }
+    .ranks .n { width: 1.5rem; text-align: right; font-size: 0.875rem; font-variant-numeric: tabular-nums; color: var(--muted); }
+    .ranks li.champ { font-weight: 700; }
+    .ranks li.champ .n { color: var(--accent); font-weight: 800; }
+
+    /* ---------- Future fights ---------- */
+    .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+    .hp { position: absolute; left: -9999px; width: 1px; height: 1px; opacity: 0; }
+    .fight-form { display: grid; grid-template-columns: 1fr; gap: 8px; align-items: center; }
+    @media (min-width: 640px) { .fight-form { grid-template-columns: 1fr auto 1fr auto; gap: 12px; } }
+    .fight-form input {
+      width: 100%; height: 44px; padding: 0 14px;
+      font: inherit; font-size: 1rem; color: var(--text);
+      background: var(--bg); border: 1px solid var(--line); border-radius: var(--radius);
+    }
+    .fight-form input:focus { outline: none; border-color: var(--text); }
+    .fight-form .vs {
+      text-align: center; font-size: 0.75rem; font-weight: 800; letter-spacing: 0.06em;
+      text-transform: uppercase; color: var(--accent);
+    }
+    .fight-form button, .show-more {
+      height: 44px; padding: 0 22px; border-radius: var(--radius);
+      font-size: 0.875rem; font-weight: 700;
+      background: var(--text); color: var(--bg); border: 1px solid var(--text);
+    }
+    .fight-form button:hover { opacity: 0.85; }
+    .fight-form button:disabled { opacity: 0.5; cursor: default; }
+    .form-msg { min-height: 1.5em; margin: 10px 0 6px; font-size: 0.875rem; color: var(--muted); }
+    .form-msg.ok { color: var(--text); }
+    .form-msg.err { color: var(--accent); }
+
+    .fights { list-style: none; columns: 1; column-gap: 32px; }
+    @media (min-width: 640px) { .fights { columns: 2; } }
+    .fights li { break-inside: avoid; padding: 14px 0; border-bottom: 1px solid var(--line); }
+    .fight-top { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+    .fights .matchup { font-size: 1rem; font-weight: 600; letter-spacing: -0.01em; }
+    .fights .matchup em { font-style: normal; font-size: 0.75rem; font-weight: 800; text-transform: uppercase; color: var(--accent); margin: 0 6px; }
+    .fights .meta { white-space: nowrap; }
+
+    /* "Who wins?" poll */
+    .poll { margin-top: 10px; }
+    .poll-pick { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+    .poll-pick button {
+      min-width: 0; height: 36px; padding: 0 10px; border-radius: 999px;
+      border: 1px solid var(--line); font-size: 0.875rem; font-weight: 600;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .poll-pick button:hover { border-color: var(--text); }
+    .poll-pick button:disabled { opacity: 0.5; cursor: default; }
+    .poll-bar { display: flex; height: 6px; border-radius: 3px; overflow: hidden; background: var(--line); }
+    .poll-bar span { height: 100%; transition: width 0.4s ease; }
+    .poll-bar .pa { background: var(--text); }
+    .poll-bar .pb { background: var(--accent); }
+    .poll-legend { display: flex; justify-content: space-between; gap: 12px; margin-top: 6px; font-size: 0.875rem; }
+    .poll-legend span { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .poll-legend .mine { font-weight: 700; }
+    .poll-legend .mine::after { content: ' ✓'; }
+    .poll-note { margin-top: 6px; }
+    .poll-pick + .poll-note { text-align: center; }
+    .fights li.new { animation: flash 2s ease-out; }
+    @keyframes flash { from { background: color-mix(in srgb, var(--accent) 14%, transparent); } to { background: transparent; } }
+    .show-more { display: block; margin: 16px auto 0; background: none; color: var(--text); border-color: var(--line); }
+    .show-more:hover { background: var(--surface); }
+    .show-more[hidden] { display: none; }
+
+    /* ---------- Footer ---------- */
+    footer { margin-top: 72px; padding: 24px 0 40px; border-top: 1px solid var(--line); }
+    footer .wrap { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; }
+
+    .empty { color: var(--muted); font-size: 0.875rem; padding: 14px 0; }
+
+    @media (prefers-reduced-motion: no-preference) {
+      .timer.live { animation: pulse 1.4s ease-in-out infinite; }
+      @keyframes pulse { 50% { opacity: 0.5; } }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="wrap header-inner">
+      <a class="logo" href="./" aria-label="CHAMA! home">CHAMA<span>!</span></a>
+      <div class="controls">
+        <span class="meta" id="last-updated" aria-live="polite"></span>
+        <button class="icon-btn" id="theme-toggle" type="button" aria-label="Toggle dark mode">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <div class="events" aria-label="Upcoming UFC events">
+    <div class="wrap">
+      <div class="events-track" id="events"></div>
+    </div>
+  </div>
+
+  <main class="wrap">
+
+    <section aria-labelledby="news-h">
+      <div class="section-head">
+        <h2 id="news-h">Latest news</h2>
+        <span class="meta">Verified sources · updates every 10 min</span>
+      </div>
+      <div class="sources" id="sources">
+        <div class="skeleton" aria-hidden="true"><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div></div>
+        <div class="skeleton" aria-hidden="true"><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div></div>
+        <div class="skeleton" aria-hidden="true"><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div></div>
+      </div>
+    </section>
+
+    <section aria-labelledby="pods-h">
+      <div class="section-head">
+        <h2 id="pods-h">Podcasts</h2>
+        <span class="meta">The biggest voices in MMA</span>
+      </div>
+      <div class="pods" id="pods"></div>
+    </section>
+
+    <section aria-labelledby="ranks-h">
+      <div class="section-head">
+        <h2 id="ranks-h">UFC rankings</h2>
+        <a class="meta" id="ranks-updated" href="https://www.ufc.com/rankings" target="_blank" rel="noopener">ufc.com/rankings</a>
+      </div>
+      <div class="tabs" id="rank-tabs" role="tablist" aria-label="Weight classes"></div>
+      <ol class="ranks" id="rank-panel" role="tabpanel"></ol>
+    </section>
+
+    <section aria-labelledby="fights-h" id="future-fights">
+      <div class="section-head">
+        <h2 id="fights-h">Looking for a Future Fight</h2>
+        <span class="meta">Which matchup do you want to see next?</span>
+      </div>
+      <form class="fight-form" id="fight-form" autocomplete="off" novalidate>
+        <label class="sr-only" for="fighter-a">First fighter</label>
+        <input id="fighter-a" name="a" list="fighter-names" placeholder="First fighter" maxlength="40" required>
+        <span class="vs" aria-hidden="true">vs</span>
+        <label class="sr-only" for="fighter-b">Second fighter</label>
+        <input id="fighter-b" name="b" list="fighter-names" placeholder="Second fighter" maxlength="40" required>
+        <!-- Hidden from people; spam bots fill it in and get ignored -->
+        <input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <button type="submit" id="fight-submit">Submit</button>
+      </form>
+      <p class="form-msg" id="fight-msg" role="status" aria-live="polite"></p>
+      <ul class="fights" id="fights"></ul>
+      <button type="button" class="show-more" id="fights-more" hidden>Show more</button>
+      <datalist id="fighter-names"></datalist>
+    </section>
+
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <span class="meta"><strong style="color:var(--text)">CHAMA!</strong> · <span id="footer-sources">MMA news aggregator</span></span>
+      <span class="meta">Headlines link to the original publishers</span>
+    </div>
+  </footer>
+
+  <script>
+  (function () {
+    'use strict';
+
+    /* ================= Config ================= */
+    var ITEMS_PER_SOURCE = 6;
+    var REFRESH_MS = 10 * 60 * 1000;
+
+    // Events come from events.json (built from ufc.com by the GitHub Action).
+    // This short list is only shown if that file can't be loaded.
+    var EVENTS = [
+      { name: 'UFC Fight Night', main: 'Cortes Acosta vs Walker', start: '2026-11-08T01:00:00Z', city: 'Las Vegas', url: 'https://www.ufc.com/event/ufc-fight-night-november-07-2026' },
+      { name: 'UFC 334',         main: 'Gane vs Hokit',           start: '2026-11-15T02:00:00Z', city: 'New York',  url: 'https://www.ufc.com/event/ufc-334' },
+      { name: 'UFC Fight Night', main: 'Prochazka vs Stirling',   start: '2026-11-21T18:00:00Z', city: 'Doha',      url: 'https://www.ufc.com/event/ufc-fight-night-november-21-2026' },
+      { name: 'UFC 335',         main: 'Oliveira vs Lopes',       start: '2026-12-13T02:00:00Z', city: 'Las Vegas', url: 'https://www.ufc.com/event/ufc-335' }
+    ];
+    // "Looking for a Future Fight": paste your Google Apps Script web app URL (ends in /exec)
+    var FIGHTS_API = 'https://script.google.com/macros/s/AKfycbwqEOljSdBnai7OYWNzd9lvCR-2BdIABZ1GhlxSqefYC1QN5ETs236jG6L1Zrbn4ca0yg/exec';
+
+    var LIVE_WINDOW_MS = 6 * 3600 * 1000;   // keep an event in the bar ("Live now") for 6h after the main card starts
+
+    var ART = 'https://is1-ssl.mzstatic.com/image/thumb/';
+    var PODCASTS = [
+      ['The Ariel Helwani Show', 'Uncrowned & Yahoo Sports', 'the-ariel-helwani-show/id1724284031', 'Podcasts211/v4/92/fd/e8/92fde809-4488-c40f-a67c-e0396ddb8974/mza_5696250919643748547.jpg'],
+      ['UFC Unfiltered', 'Jim Norton & Matt Serra', 'ufc-unfiltered-with-jim-norton-and-matt-serra/id1124228879', 'Podcasts221/v4/0e/1f/4d/0e1f4d9d-38a9-2c37-b491-aa96333c1dd9/mza_7195519991102335909.jpeg'],
+      ['The Daniel Cormier Show', 'Daniel Cormier', 'the-daniel-cormier-show/id1673570585', 'Podcasts221/v4/ed/61/a2/ed61a27d-7e98-23a2-2665-756a9e40b8b3/mza_8201341821507455390.jpg'],
+      ['Morning Kombat', 'Luke Thomas & Brian Campbell', 'morning-kombat/id1471183444', 'Podcasts221/v4/ba/cd/c5/bacdc575-a2f1-47e0-9345-446092647257/mza_16731807635994464368.jpg'],
+      ["You're Welcome!", 'Chael Sonnen', 'youre-welcome-with-chael-sonnen/id929298707', 'Podcasts211/v4/73/fb/5f/73fb5fd9-ff25-9acf-0e29-7c16b1ba7254/mza_12769635015539481027.jpg'],
+      ['The Anik & Florian Podcast', 'Jon Anik & Kenny Florian', 'the-anik-florian-podcast/id985956967', 'Podcasts221/v4/52/36/d4/5236d431-c044-c657-2b2f-56eca0082835/mza_16023813799966012687.jpg'],
+      ['Believe You Me', 'Michael Bisping', 'believe-you-me-with-michael-bisping/id1212985132', 'Podcasts221/v4/44/58/04/445804b1-d846-53eb-41f3-88cacdbef9ae/mza_14869694741943664882.jpg'],
+      ['MMA Fighting', 'The MMA Fighting crew', 'mma-fighting/id320642139', 'Podcasts211/v4/bb/a0/01/bba00157-95c6-8eb3-d5ec-5afe6dd8f10b/mza_1838039034232879790.jpg'],
+      ['The Joe Rogan Experience', 'Joe Rogan', 'the-joe-rogan-experience/id360084272', 'Podcasts211/v4/3e/36/46/3e36464a-9cf0-9f8c-883c-d935ca1fb5b8/mza_1286994063531205437.jpg'],
+      ['Pound 4 Pound', 'Kamaru Usman & Henry Cejudo', 'pound-4-pound-with-kamaru-usman-henry-cejudo/id1732378558', 'Podcasts221/v4/35/96/e5/3596e534-159c-7cd4-0bac-a788005327d0/mza_12265662385266875391.jpg'],
+      ['The Big Brown Breakdown', 'Brendan Schaub', 'the-big-brown-breakdown/id1210250626', 'Podcasts211/v4/e3/ea/d8/e3ead8a2-d9f3-092d-acf9-3503bc3461c4/mza_5519696517535066087.jpeg'],
+      ['MMA Junkie Radio', 'Winners, losers & fight analysis', 'mma-junkie-radio/id271782069', 'Podcasts115/v4/be/4e/47/be4e478a-dab1-b2d7-2030-38fb25409776/mza_14217652300345895631.jpg']
+    ];
+
+    /* ================= Helpers ================= */
+    var $ = function (id) { return document.getElementById(id); };
+
+    // Escape for safe insertion into HTML text and attributes
+    function esc(s) {
+      return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+        return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+      });
+    }
+    // Feed titles arrive already HTML-encoded (e.g. don&#8217;t) — decode once, then escape
+    var decoder = document.createElement('textarea');
+    function decode(s) { decoder.innerHTML = s || ''; return decoder.value; }
+    function safeUrl(u) { return /^https?:\/\//i.test(u || '') ? u : '#'; }
+
+    // "12m ago", "3h ago", "2d ago" — computed live so it never goes stale
+    function timeAgo(iso) {
+      var t = Date.parse(iso);
+      if (isNaN(t)) return '';
+      var m = Math.max(0, Math.round((Date.now() - t) / 60000));
+      if (m < 1) return 'Just now';
+      if (m < 60) return m + 'm ago';
+      var h = Math.round(m / 60);
+      if (h < 24) return h + 'h ago';
+      var d = Math.round(h / 24);
+      return d < 7 ? d + 'd ago' : new Date(t).toLocaleDateString([], { month: 'short', day: 'numeric' });
+    }
+
+    // Turn a full-size news photo into a small thumbnail (~10 KB instead of up to 10 MB)
+    function thumbUrl(src) {
+      if (!/^https?:\/\//i.test(src || '')) return '';
+      try {
+        var u = new URL(src);
+        if (/mmafighting\.com$/.test(u.hostname)) {           // WordPress VIP: native resize
+          u.searchParams.delete('crop');
+          u.searchParams.set('w', '176');
+          u.searchParams.set('quality', '75');
+          return u.toString();
+        }
+        // Everything else: free Jetpack image CDN (resizes + converts to WebP)
+        return 'https://i0.wp.com/' + u.host + u.pathname + '?resize=176,128&quality=75';
+      } catch (e) { return ''; }
+    }
+
+    /* ================= Theme ================= */
+    var root = document.documentElement;
+    var mq = window.matchMedia('(prefers-color-scheme: dark)');
+    function isDark() { return root.dataset.theme ? root.dataset.theme === 'dark' : mq.matches; }
+    $('theme-toggle').addEventListener('click', function () {
+      var next = isDark() ? 'light' : 'dark';
+      root.dataset.theme = next;
+      try { localStorage.setItem('theme', next); } catch (e) {}
+    });
+
+    /* ================= Events / countdown ================= */
+    var timers = [];
+    function fmt(ms) {
+      if (ms <= 0) return { text: 'Live now', live: true };
+      var t = Math.floor(ms / 1000), d = Math.floor(t / 86400), h = Math.floor(t % 86400 / 3600),
+          m = Math.floor(t % 3600 / 60), s = t % 60;
+      if (d > 0) return { text: d + 'd ' + h + 'h ' + m + 'm', live: false };
+      if (h > 0) return { text: h + 'h ' + m + 'm ' + s + 's', live: false };
+      return { text: m + 'm ' + s + 's', live: true };
+    }
+    var nextExpiry = Infinity;
+    function renderEvents() {
+      var now = Date.now();
+      var list = EVENTS
+        .map(function (e) { return Object.assign({ t: Date.parse(e.start || e.date) }, e); })
+        .filter(function (e) { return !isNaN(e.t) && e.t > now - LIVE_WINDOW_MS; })
+        .sort(function (a, b) { return a.t - b.t; });
+      // Shown in the visitor's own time zone, e.g. "Sun, Nov 8 · 9:00 AM"
+      var dayFmt = new Intl.DateTimeFormat([], { weekday: 'short', month: 'short', day: 'numeric' });
+      var timeFmt = new Intl.DateTimeFormat([], { hour: 'numeric', minute: '2-digit' });
+      $('events').parentNode.parentNode.hidden = !list.length;
+      $('events').innerHTML = list.map(function (e) {
+        var url = safeUrl(e.url);
+        return '<a class="event"' + (url !== '#' ? ' href="' + esc(url) + '" target="_blank" rel="noopener"' : '') + '>' +
+          '<div class="label">' + esc(e.name) + '</div>' +
+          '<div class="event-main">' + esc(e.main || 'Card TBA') + '</div>' +
+          '<div class="timer" data-t="' + e.t + '"></div>' +
+          '<div class="meta">' + esc(dayFmt.format(e.t)) + ' · ' + esc(timeFmt.format(e.t)) +
+            (e.city || e.location ? ' · ' + esc(e.city || e.location) : '') + '</div>' +
+        '</a>';
+      }).join('');
+      timers = [].slice.call(document.querySelectorAll('.timer'));
+      nextExpiry = list.length ? list[0].t + LIVE_WINDOW_MS : Infinity;
+      tick();
+    }
+    async function loadEvents() {
+      try {
+        var res = await fetch('events.json', { cache: 'no-cache' });
+        if (!res.ok) throw new Error(res.status);
+        var data = await res.json();
+        if (data.events && data.events.length) { EVENTS = data.events; renderEvents(); }
+      } catch (e) { /* keep the built-in list */ }
+    }
+    function tick() {
+      var now = Date.now();
+      if (now > nextExpiry) { renderEvents(); return; }   // drop a finished event from the bar
+      timers.forEach(function (el) {
+        var r = fmt(+el.dataset.t - now);
+        if (el.textContent !== r.text) el.textContent = r.text;
+        el.classList.toggle('live', r.live);
+      });
+    }
+
+    /* ================= News feeds ================= */
+    async function loadFeeds() {
+      var box = $('sources');
+      try {
+        // no-cache = revalidate with the server (cheap 304 when unchanged)
+        var res = await fetch('feeds.json', { cache: 'no-cache' });
+        if (!res.ok) throw new Error(res.status);
+        var data = await res.json();
+        var sources = data.sources || [];
+        if (!sources.length) { box.innerHTML = '<p class="empty">No stories yet.</p>'; return; }
+
+        box.innerHTML = sources.map(function (src) {
+          var items = (src.items || []).slice(0, ITEMS_PER_SOURCE);
+          var cards = items.map(function (it, i) {
+            var thumb = thumbUrl(it.image);
+            var img = thumb
+              ? '<img class="thumb" src="' + esc(thumb) + '" alt="" width="88" height="64" decoding="async"' +
+                (i > 2 ? ' loading="lazy"' : '') + ' onerror="this.remove()">'
+              : '';
+            var when = (it.date && timeAgo(it.date)) || it.relative || '';
+            return '<a class="card" href="' + esc(safeUrl(it.link)) + '" target="_blank" rel="noopener">' +
+              '<div><div class="card-title">' + esc(decode(it.title)) + '</div>' +
+              (when ? '<div class="meta">' + esc(when) + '</div>' : '') + '</div>' +
+              img + '</a>';
+          }).join('');
+          var site = safeUrl(src.site);
+          return '<div class="source">' +
+            '<div class="source-head"><span class="label" style="color:var(--text)">' + esc(src.name) + '</span></div>' +
+            (cards || '<p class="empty">No recent stories</p>') +
+            (site !== '#' ? '<a class="more" href="' + esc(site) + '" target="_blank" rel="noopener">More from ' + esc(src.name) + ' →</a>' : '') +
+          '</div>';
+        }).join('');
+
+        $('footer-sources').textContent = sources.map(function (s) { return s.name; }).join(' · ');
+        $('last-updated').textContent = 'Updated ' +
+          new Date().toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' });
+      } catch (err) {
+        console.error(err);
+        if (!box.querySelector('.card')) box.innerHTML = '<p class="empty">Couldn’t load stories right now. Try again in a moment.</p>';
+      }
+    }
+
+    /* ================= Podcasts ================= */
+    function renderPodcasts() {
+      $('pods').innerHTML = PODCASTS.map(function (p) {
+        return '<a class="pod" href="https://podcasts.apple.com/us/podcast/' + p[2] + '" target="_blank" rel="noopener">' +
+          '<img src="' + ART + p[3] + '/96x96bb.jpg" alt="" width="48" height="48" loading="lazy" decoding="async">' +
+          '<div><div class="pod-name">' + esc(p[0]) + '</div><div class="meta">' + esc(p[1]) + '</div></div></a>';
+      }).join('');
+    }
+
+    /* ================= Rankings ================= */
+    async function loadRankings() {
+      var tabs = $('rank-tabs'), panel = $('rank-panel');
+      try {
+        var res = await fetch('rankings.json', { cache: 'no-cache' });
+        var data = await res.json();
+        if (data.updated) $('ranks-updated').textContent = 'Updated ' + data.updated + ' · ufc.com';
+        function show(i) {
+          [].forEach.call(tabs.children, function (b, j) { b.setAttribute('aria-selected', j === i); });
+          var d = data.divisions[i];
+          // Pound-for-pound lists have no champion; the feed repeats #1 there, so skip it
+          var showChamp = d.champion && !/pound/i.test(d.name);
+          panel.innerHTML = (showChamp ? '<li class="champ"><span class="n">C</span>' + esc(d.champion) + '</li>' : '') +
+            (d.fighters || []).map(function (f, k) {
+              return '<li><span class="n">' + (k + 1) + '</span>' + esc(f) + '</li>';
+            }).join('');
+        }
+        tabs.innerHTML = '';
+        data.divisions.forEach(function (d, i) {
+          var b = document.createElement('button');
+          b.type = 'button'; b.setAttribute('role', 'tab');
+          b.textContent = String(d.name || '').replace(/\s*Top Rank\s*$/i, '').trim();
+          b.addEventListener('click', function () { show(i); });
+          tabs.appendChild(b);
+        });
+        show(0);
+        fillFighterNames(data.divisions);
+      } catch (e) {
+        panel.innerHTML = '<li class="empty">Rankings unavailable right now.</li>';
+      }
+    }
+
+    /* ================= Looking for a Future Fight ================= */
+    var fightsShown = [];   // entries currently on the page
+    var fightsTotal = 0;
+
+    // Name suggestions while typing (ranked fighters); any name can still be entered
+    function fillFighterNames(divisions) {
+      var seen = {}, names = [];
+      (divisions || []).forEach(function (d) {
+        [d.champion].concat(d.fighters || []).forEach(function (f) {
+          var n = typeof f === 'string' ? f : (f && f.name);
+          if (n && !seen[n]) { seen[n] = 1; names.push(n); }
+        });
+      });
+      names.sort(function (x, y) { return x.localeCompare(y); });
+      $('fighter-names').innerHTML = names.map(function (n) { return '<option value="' + esc(n) + '">'; }).join('');
+    }
+
+    function fightMsg(text, kind) {
+      var el = $('fight-msg');
+      el.textContent = text || '';
+      el.className = 'form-msg' + (kind ? ' ' + kind : '');
+    }
+
+    /* ----- "Who wins?" polls ----- */
+    var pollsOn = false;   // turned on when the Google Sheet script supports voting
+    var myVotes = {};      // matchup key → fighter key this browser picked (one vote per matchup)
+    try { myVotes = JSON.parse(localStorage.getItem('chama-votes') || '{}') || {}; } catch (e) {}
+    function saveMyVotes() { try { localStorage.setItem('chama-votes', JSON.stringify(myVotes)); } catch (e) {} }
+    function matchupKey(f) { return [nameKey(f.a), nameKey(f.b)].sort().join('|'); }
+
+    function pollHtml(f, i) {
+      var va = f.va || 0, vb = f.vb || 0, total = va + vb;
+      var mine = myVotes[matchupKey(f)];
+      var votesText = total === 1 ? '1 vote' : total + ' votes';
+      if (!mine) {
+        return '<div class="poll"><div class="poll-pick" role="group" aria-label="Who wins?">' +
+            '<button type="button" data-i="' + i + '" data-pick="a">' + esc(f.a) + '</button>' +
+            '<button type="button" data-i="' + i + '" data-pick="b">' + esc(f.b) + '</button>' +
+          '</div><div class="meta poll-note">Who wins? · ' + votesText + '</div></div>';
+      }
+      var pa = total ? Math.round(va / total * 100) : 50, pb = total ? 100 - pa : 50;
+      var aMine = mine === nameKey(f.a), bMine = mine === nameKey(f.b);
+      return '<div class="poll">' +
+          '<div class="poll-bar" role="img" aria-label="' + esc(f.a + ' ' + pa + '%, ' + f.b + ' ' + pb + '%') + '">' +
+            '<span class="pa" style="width:' + pa + '%"></span><span class="pb" style="width:' + pb + '%"></span></div>' +
+          '<div class="poll-legend">' +
+            '<span' + (aMine ? ' class="mine"' : '') + '>' + esc(f.a) + ' ' + pa + '%</span>' +
+            '<span' + (bMine ? ' class="mine"' : '') + '>' + pb + '% ' + esc(f.b) + '</span>' +
+          '</div><div class="meta poll-note">' + votesText + '</div></div>';
+    }
+
+    async function castVote(i, side) {
+      var f = fightsShown[i];
+      if (!f) return;
+      var key = matchupKey(f);
+      if (myVotes[key]) return;
+      var pickKey = nameKey(side === 'a' ? f.a : f.b);
+      // Show the result straight away; the Sheet confirms in the background
+      var before = fightsShown.map(function (x) { return [x.va, x.vb]; });
+      fightsShown.forEach(function (x) {
+        if (matchupKey(x) !== key) return;
+        if (nameKey(x.a) === pickKey) x.va = (x.va || 0) + 1; else x.vb = (x.vb || 0) + 1;
+      });
+      myVotes[key] = pickKey; saveMyVotes(); renderFights(false);
+      try {
+        var res = await fetch(FIGHTS_API, {
+          method: 'POST',
+          headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+          body: JSON.stringify({ action: 'vote', a: f.a, b: f.b, pick: side })
+        });
+        var data = await res.json();
+        if (!data.ok) throw new Error(data.error);
+        fightsShown.forEach(function (x) {   // exact totals from the Sheet
+          if (matchupKey(x) !== key) return;
+          x.va = data.tally[nameKey(x.a)] || 0;
+          x.vb = data.tally[nameKey(x.b)] || 0;
+        });
+        renderFights(false);
+      } catch (e) {   // undo
+        fightsShown.forEach(function (x, j) { x.va = before[j][0]; x.vb = before[j][1]; });
+        delete myVotes[key]; saveMyVotes(); renderFights(false);
+        fightMsg((e && e.message && !/fetch|JSON/i.test(e.message)) ? e.message : 'Couldn’t save your vote. Please try again.', 'err');
+      }
+    }
+
+    function renderFights(highlightFirst) {
+      var list = $('fights');
+      if (!fightsShown.length) {
+        list.innerHTML = '<li class="empty">No fights yet. Be the first to suggest one!</li>';
+      } else {
+        list.innerHTML = fightsShown.map(function (f, i) {
+          return '<li' + (highlightFirst && i === 0 ? ' class="new"' : '') + '>' +
+            '<div class="fight-top">' +
+              '<span class="matchup">' + esc(f.a) + '<em>vs</em>' + esc(f.b) + '</span>' +
+              (f.date ? '<span class="meta">' + esc(timeAgo(f.date)) + '</span>' : '') +
+            '</div>' +
+            (pollsOn ? pollHtml(f, i) : '') +
+          '</li>';
+        }).join('');
+      }
+      $('fights-more').hidden = fightsShown.length >= fightsTotal;
+    }
+
+    async function loadFights(offset) {
+      offset = offset || 0;
+      try {
+        var res = await fetch(FIGHTS_API + '?offset=' + offset);
+        var data = await res.json();
+        if (!data.ok) throw new Error(data.error);
+        pollsOn = !!data.polls;
+        fightsShown = offset ? fightsShown.concat(data.fights) : data.fights;
+        fightsTotal = data.total;
+        renderFights(false);
+      } catch (e) {
+        if (!offset) $('fights').innerHTML = '<li class="empty">Couldn’t load fights right now.</li>';
+      }
+    }
+
+    // Same rules as the Google Sheet script, checked here first for instant feedback
+    function checkName(n) {
+      if (n.length < 3 || n.length > 40) return 'Fighter names should be 3–40 characters.';
+      if (!/^[\p{L}\p{M}][\p{L}\p{M}' .\-]*$/u.test(n)) return 'Please use letters only for fighter names.';
+      if (/\.\p{L}{2,}/u.test(n) || /^www\b/i.test(n)) return 'Please enter a fighter name, not a link.';
+      return '';
+    }
+    function nameKey(s) {
+      return s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z]/g, '');
+    }
+
+    async function submitFight(ev) {
+      ev.preventDefault();
+      var form = ev.target, btn = $('fight-submit');
+      var a = form.a.value.replace(/\s+/g, ' ').trim();
+      var b = form.b.value.replace(/\s+/g, ' ').trim();
+      if (!a || !b) { fightMsg('Please enter both fighters.', 'err'); (a ? form.b : form.a).focus(); return; }
+      var problem = checkName(a) || checkName(b) ||
+        (nameKey(a) === nameKey(b) ? 'A fighter can’t fight themselves.' : '');
+      if (problem) { fightMsg(problem, 'err'); return; }
+
+      btn.disabled = true;
+      fightMsg('Submitting…');
+      try {
+        // text/plain avoids a CORS preflight, which Google Apps Script doesn't support
+        var res = await fetch(FIGHTS_API, {
+          method: 'POST',
+          headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+          body: JSON.stringify({ a: a, b: b, website: form.website.value })
+        });
+        var data = await res.json();
+        if (data.fights) { fightsShown = data.fights; fightsTotal = data.total; pollsOn = !!data.polls; }
+        if (!data.ok) { fightMsg(data.error || 'Couldn’t submit. Please try again.', 'err'); renderFights(false); return; }
+        form.reset();
+        fightMsg(data.added ? 'Added: ' + data.added.a + ' vs ' + data.added.b + '. Thanks!' : 'Thanks!', 'ok');
+        renderFights(true);
+      } catch (e) {
+        fightMsg('Couldn’t submit right now. Please try again.', 'err');
+      } finally {
+        btn.disabled = false;
+      }
+    }
+
+    function initFights() {
+      if (!FIGHTS_API) {   // not connected to the Google Sheet yet
+        $('fight-form').querySelectorAll('input, button').forEach(function (el) { el.disabled = true; });
+        fightMsg('Coming soon.');
+        return;
+      }
+      $('fight-form').addEventListener('submit', submitFight);
+      $('fights-more').addEventListener('click', function () { loadFights(fightsShown.length); });
+      $('fights').addEventListener('click', function (ev) {
+        var btn = ev.target.closest('button[data-pick]');
+        if (btn) castVote(+btn.dataset.i, btn.dataset.pick);
+      });
+      $('fights').innerHTML = '<li class="empty">Loading fights…</li>';
+      // Load only when the section is about to scroll into view (keeps the first page load fast)
+      var section = $('future-fights');
+      if ('IntersectionObserver' in window) {
+        var io = new IntersectionObserver(function (entries) {
+          if (entries[0].isIntersecting) { io.disconnect(); loadFights(0); }
+        }, { rootMargin: '600px' });
+        io.observe(section);
+      } else {
+        loadFights(0);
+      }
+    }
+
+    /* ================= Start ================= */
+    initFights();
+    // Live schedule first; the built-in list only appears if events.json can't be loaded
+    loadEvents().then(function () { if (!timers.length) renderEvents(); });
+    setInterval(tick, 1000);
+    loadFeeds();
+    renderPodcasts();
+    loadRankings();
+
+    // Refresh stories and schedule in place (no full-page reload), and right away when the tab comes back
+    var lastLoad = Date.now();
+    function refresh() { loadFeeds(); loadEvents(); lastLoad = Date.now(); }
+    setInterval(function () { if (!document.hidden) refresh(); }, REFRESH_MS);
+    document.addEventListener('visibilitychange', function () {
+      if (!document.hidden && Date.now() - lastLoad > REFRESH_MS) refresh();
+    });
+  })();
+  </script>
+</body>
+</html>
