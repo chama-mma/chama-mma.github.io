@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-08T16:33:30.647Z",
+  "generatedAt": "2026-11-08T17:23:42.750Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "UFC commentator Brendan Fitzgerald posts statement after being replaced before main event started",
+          "link": "https://bloodyelbow.com/2026/11/08/ufc-commentator-posts-statement-after-being-replaced-before-ufc-vegas-124-main-event-started/",
+          "date": "2026-11-08T17:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2291598298-scaled.jpg"
+        },
         {
           "title": "4-0 UFC star provides update after announcing he’s a free agent in the cage following 60-second KO",
           "link": "https://bloodyelbow.com/2026/11/08/4-0-ufc-star-provides-update-after-announcing-hes-a-free-agent-in-the-cage-following-60-second-ko/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/08/conor-mcgregor-names-ideal-opponent-for-final-ufc-fight-redo-it/",
           "date": "2026-11-08T12:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/07/1LHC_Faceoff-00-scaled-e1752530284235.jpg"
-        },
-        {
-          "title": "Andrei Arlovski apologizes for controversial remark about Anthony ‘Rumble’ Johnson’s death",
-          "link": "https://bloodyelbow.com/2026/11/08/andrei-arlovski-apologizes-for-controversial-remark-about-anthony-rumble-johnsons-death/",
-          "date": "2026-11-08T08:41:03.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/12/GettyImages-2159865991-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Ilia Topuria goes in on Paddy Pimblett, open to coaching against him on The Ultimate Fighter",
+          "link": "https://www.mmafighting.com/ufc/519799/ilia-topuria-goes-in-on-paddy-pimblett-open-to-coaching-against-him-on-the-ultimate-fighter",
+          "date": "2026-11-08T17:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/08/gettyimages-2222691675.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "‘Surprise motherf*cker!’: Johnny Walker admits he pulled out some ‘street fight sh*t’ to beat Waldo Cortes-Acosta",
           "link": "https://www.mmafighting.com/ufc/520037/surprise-motherfcker-johnny-walker-admits-he-pulled-out-some-street-fight-sht-to-beat-waldo-cortes-acosta",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/519978/israel-adesanya-vs-shara-magomedov-ian-machado-garry-vs-yaroslav-amosov-set-for-ufc-saudi-arabia",
           "date": "2026-11-08T05:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2268853507.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "‘At the APEX is criminal’: Pros react to insane Johnny Walker knockout win in UFC Vegas 124 main event",
-          "link": "https://www.mmafighting.com/ufc/520002/at-the-apex-is-criminal-pros-react-to-insane-johnny-walker-knockout-win-in-ufc-vegas-124-main-event",
-          "date": "2026-11-08T04:40:24.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2304060051.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
