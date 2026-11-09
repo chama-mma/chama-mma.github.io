@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-09T16:28:57.181Z",
+  "generatedAt": "2026-11-09T17:29:13.903Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Magomed Ankalaev wants to join Alex Pereira at heavyweight as he says ‘nobody’ at 205 will fight him",
+          "link": "https://bloodyelbow.com/2026/11/09/magomed-ankalaev-wants-to-join-alex-pereira-at-heavyweight-as-he-says-nobody-at-205-will-fight-him/",
+          "date": "2026-11-09T16:59:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/07/GettyImages-2204069085-scaled.jpg"
+        },
         {
           "title": "Why Josh Hokit takes confidence from Jon Jones submitting Ciryl Gane in 124 seconds",
           "link": "https://bloodyelbow.com/2026/11/09/why-josh-hokit-takes-confidence-from-jon-jones-submitting-ciryl-gane-in-124-seconds/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/09/colby-covington-vs-khamzat-chimaev-title-fight-off-as-ufc-hall-of-famer-steps-in-to-wrestle-borz/",
           "date": "2026-11-09T12:16:39.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2024/12/GettyImages-1380974819-scaled.jpg"
-        },
-        {
-          "title": "Johnny Walker offers to ‘do something crazy’ if Ciryl Gane or Josh Hokit fall out of UFC 334",
-          "link": "https://bloodyelbow.com/2026/11/09/johnny-walker-offers-to-do-something-crazy-if-ciryl-gane-or-josh-hokit-fall-out-of-ufc-334/",
-          "date": "2026-11-09T12:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2304060034-scaled.jpg"
         }
       ]
     },
@@ -93,6 +93,12 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "BKB hires former Dazn executive Michael Ridout to lead UK operations",
+          "link": "https://www.sherdog.com/news/news/BKB-hires-former-Dazn-executive-Michael-Ridout-to-lead-UK-operations-203547",
+          "date": "2026-11-09T09:00:12.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261109122213_Michael_Ridout.JPG"
+        },
+        {
           "title": "Zabit Magomedsharipov wants to test his grappling against Raul Rosas Jr.",
           "link": "https://www.sherdog.com/news/news/Zabit-Magomedsharipov-wants-to-test-his-grappling-against-Raul-Rosas-Jr-203555",
           "date": "2026-11-09T03:47:45.000Z",
@@ -121,12 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Joaquin-Buckley-names-two-more-UFC-stars-in-growing-controversy-203551",
           "date": "2026-11-09T02:49:38.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261109024939_buckley_strickland_holloway_volkov.JPG"
-        },
-        {
-          "title": "UFC Saudi Arabia odds: Israel Adesanya's odds take a major hit",
-          "link": "https://www.sherdog.com/news/news/UFC-Saudi-Arabia-odds-Israel-Adesanyas-odds-take-a-major-hit-203550",
-          "date": "2026-11-09T02:34:04.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261109023405_ufc_saudi_odds.JPG"
         }
       ]
     }
