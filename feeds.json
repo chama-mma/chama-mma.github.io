@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-09T20:17:56.337Z",
+  "generatedAt": "2026-11-09T21:16:29.011Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Ilia Topuria is still barred from full training after how bad the Justin Gaethje beating was",
+          "link": "https://bloodyelbow.com/2026/11/09/ilia-topuria-is-still-barred-from-full-training-after-how-bad-the-justin-gaethje-beating-was/",
+          "date": "2026-11-09T21:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281043408-scaled.jpg"
+        },
         {
           "title": "15-fight UFC veteran gets KO’d in one round by Muay Thai star who is missing an arm",
           "link": "https://bloodyelbow.com/2026/11/09/15-fight-ufc-veteran-gets-kod-in-one-round-by-muay-thai-star-who-is-missing-an-arm/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/09/why-josh-hokit-takes-confidence-from-jon-jones-submitting-ciryl-gane-in-124-seconds/",
           "date": "2026-11-09T16:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/03/GettyImages-1471349614-scaled.jpg"
-        },
-        {
-          "title": "Khamzat Chimaev reacts to Colby Covington pulling out of their RAF match: ‘He is scared’",
-          "link": "https://bloodyelbow.com/2026/11/09/khamzat-chimaev-reacts-to-colby-covington-pulling-out-of-their-raf-match-he-is-scared/",
-          "date": "2026-11-09T15:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/08/GettyImages-2230535884-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,18 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "On To the Next One: Matches to make after UFC Vegas 124",
+          "link": "https://www.mmafighting.com/ufc/520209/on-to-the-next-one-matches-to-make-after-ufc-vegas-124",
+          "date": "2026-11-09T21:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2304060046.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Roberto Soldic vs. Daniel Rodriguez targeted for UFC Dallas",
+          "link": "https://www.mmafighting.com/ufc/520233/roberto-soldic-vs-daniel-rodriguez-targeted-for-ufc-dallas",
+          "date": "2026-11-09T20:30:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2298458476.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "GFL reveals first official fight card for Dec. 18",
           "link": "https://www.mmafighting.com/gfl/520221/gfl-reveals-first-official-fight-card-for-dec-18",
@@ -72,18 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/519486/ufc-334-roundtable-is-josh-hokit-about-to-be-the-one-true-heavyweight-king",
           "date": "2026-11-09T14:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2281628968.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Khamzat Chimaev gets new opponent for RAF Abu Dhabi main event with Colby Covington out: ‘He is scared’",
-          "link": "https://www.mmafighting.com/raf-wrestling/520168/khamzat-chimaev-gets-new-opponent-for-raf-abu-dhabi-main-event-with-colby-covington-out-he-is-scared",
-          "date": "2026-11-09T13:30:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Khamzat-Woodley.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Morning Report: Dana White shoots down $10M Misfits Boxing rumor, tells Eddie Hearn to meet in gym ‘and we can f*cking do it’",
-          "link": "https://www.mmafighting.com/ufc/520110/morning-report-dana-white-shoots-down-10m-misfits-boxing-rumor-tells-eddie-hearn-to-meet-in-gym-and-we-can-fcking-do-it",
-          "date": "2026-11-09T13:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/12/gettyimages-1239339979.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
@@ -92,6 +92,12 @@
       "name": "Sherdog",
       "site": "https://www.sherdog.com/",
       "items": [
+        {
+          "title": "Josh Hokit says Jon Jones' win gives him blueprint to beat Ciryl Gane",
+          "link": "https://www.sherdog.com/news/news/Josh-Hokit-says-Jon-Jones-win-gives-him-blueprint-to-beat-Ciryl-Gane-203563",
+          "date": "2026-11-09T20:17:24.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261109081724_hokit.JPG"
+        },
         {
           "title": "Conor McGregor demands Max Holloway trilogy, says 'he doesn't want to fight'",
           "link": "https://www.sherdog.com/news/news/Conor-McGregor-demands-Max-Holloway-trilogy-says-he-doesnt-want-to-fight-203562",
@@ -121,12 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Dana-White-calls-Eddie-Hearn-a-bum-challenges-him-to-fight-in-London-203558",
           "date": "2026-11-09T18:56:19.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261109065619_dana.JPG"
-        },
-        {
-          "title": "Khamzat Chimaev gets Chris Weidman after Colby Covington exit",
-          "link": "https://www.sherdog.com/news/news/Khamzat-Chimaev-gets-Chris-Weidman-after-Colby-Covington-exit-203557",
-          "date": "2026-11-09T18:48:03.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261109064803_raf.JPG"
         }
       ]
     }

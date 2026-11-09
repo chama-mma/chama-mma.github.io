@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T09:34:47.956Z",
+  "updated": "2026-11-09T21:16:30.775Z",
   "source": "https://www.ufc.com/events",
   "events": [
     {
@@ -21,6 +21,16 @@
       "city": "Doha",
       "country": "Qatar",
       "url": "https://www.ufc.com/event/ufc-fight-night-november-21-2026"
+    },
+    {
+      "name": "UFC Fight Night",
+      "main": "Adesanya vs Magomedov",
+      "start": "2026-12-05T18:00:00.000Z",
+      "prelims": "2026-12-05T15:00:00.000Z",
+      "venue": "Venue TBD",
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "url": "https://www.ufc.com/event/ufc-fight-night-december-05-2026"
     },
     {
       "name": "UFC 335",
