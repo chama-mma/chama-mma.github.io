@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T02:45:37.692Z",
+  "generatedAt": "2026-11-09T03:43:27.644Z",
   "sources": [
     {
       "id": "bloodyelbow",
@@ -93,6 +93,24 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "Donald Trump says Dana White ‘loved’ his White House press secretary idea",
+          "link": "https://www.sherdog.com/news/news/Donald-Trump-says-Dana-White-loved-his-White-House-press-secretary-idea-203553",
+          "date": "2026-11-09T03:20:18.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261109032018_dana_wh_ps_trump.JPG"
+        },
+        {
+          "title": "Belal Muhammad slams Andrei Arlovski over Anthony Johnson remarks",
+          "link": "https://www.sherdog.com/news/news/Belal-Muhammad-slams-Andrei-Arlovski-over-Anthony-Johnson-remarks-203552",
+          "date": "2026-11-09T03:02:08.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261109030209_belal_on_arlovski.JPG"
+        },
+        {
+          "title": "Joaquin Buckley names two more UFC stars in growing controversy",
+          "link": "https://www.sherdog.com/news/news/Joaquin-Buckley-names-two-more-UFC-stars-in-growing-controversy-203551",
+          "date": "2026-11-09T02:49:38.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261109024939_buckley_strickland_holloway_volkov.JPG"
+        },
+        {
           "title": "UFC Saudi Arabia odds: Israel Adesanya's odds take a major hit",
           "link": "https://www.sherdog.com/news/news/UFC-Saudi-Arabia-odds-Israel-Adesanyas-odds-take-a-major-hit-203550",
           "date": "2026-11-09T02:34:04.000Z",
@@ -109,24 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Valter-Walkers-bold-prediction-after-Johnny-Walkers-heavyweight-knockout-203548",
           "date": "2026-11-09T02:07:39.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261109020739_walker_bros_ufc_gold.JPG"
-        },
-        {
-          "title": "Andre Galvao says rules changed after he accepted Rousimar Palhares rematch",
-          "link": "https://www.sherdog.com/news/news/Andre-Galvao-says-rules-changed-after-he-accepted-Rousimar-Palhares-rematch-203546",
-          "date": "2026-11-09T00:09:15.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261109120915_galvao.JPEG"
-        },
-        {
-          "title": "Caio Borralho says he hid broken rib from UFC, beat Reinier de Ridder",
-          "link": "https://www.sherdog.com/news/news/Caio-Borralho-says-he-hid-broken-rib-from-UFC-beat-Reinier-de-Ridder-203545",
-          "date": "2026-11-08T23:57:27.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261108115727_borralho.JPG"
-        },
-        {
-          "title": "Ilia Topuria says brother may have saved his career in Justin Gaethje loss",
-          "link": "https://www.sherdog.com/news/news/Ilia-Topuria-says-brother-may-have-saved-his-career-in-Justin-Gaethje-loss-203540",
-          "date": "2026-11-08T23:51:51.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261108105151_topuria.JPG"
         }
       ]
     }
