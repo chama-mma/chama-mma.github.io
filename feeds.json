@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-09T19:24:41.571Z",
+  "generatedAt": "2026-11-09T20:17:56.337Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "15-fight UFC veteran gets KO’d in one round by Muay Thai star who is missing an arm",
+          "link": "https://bloodyelbow.com/2026/11/09/15-fight-ufc-veteran-gets-kod-in-one-round-by-muay-thai-star-who-is-missing-an-arm/",
+          "date": "2026-11-09T20:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Jake-Peacock.jpg"
+        },
         {
           "title": "Comedian Stavros Halkias says Trump ties turned him off UFC: ‘I don’t want them to have my money’",
           "link": "https://bloodyelbow.com/2026/11/09/comedian-stavros-halkias-blasts-ufcs-trump-ties-put-a-damper-on-it/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/09/khamzat-chimaev-reacts-to-colby-covington-pulling-out-of-their-raf-match-he-is-scared/",
           "date": "2026-11-09T15:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/08/GettyImages-2230535884-scaled.jpg"
-        },
-        {
-          "title": "Ian Machado Garry and Yaroslav Amosov react to UFC Saudi Arabia co-main event announcement",
-          "link": "https://bloodyelbow.com/2026/11/09/ian-machado-garry-and-yaroslav-amosov-react-to-ufc-saudi-arabia-co-main-event-announcement/",
-          "date": "2026-11-09T14:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/split-image-of-ian-machado-garry-anad-yaroslav-amosov-1794219982600.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "GFL reveals first official fight card for Dec. 18",
+          "link": "https://www.mmafighting.com/gfl/520221/gfl-reveals-first-official-fight-card-for-dec-18",
+          "date": "2026-11-09T19:30:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-1246777444.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Kevin Holland responds to Jacobe Smith’s callouts: ‘What the f*ck is the guy worried about me for?’",
           "link": "https://www.mmafighting.com/ufc/520214/kevin-holland-responds-to-jacobe-smiths-callouts-what-the-fck-is-the-guy-worried-about-me-for",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/520110/morning-report-dana-white-shoots-down-10m-misfits-boxing-rumor-tells-eddie-hearn-to-meet-in-gym-and-we-can-fcking-do-it",
           "date": "2026-11-09T13:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/12/gettyimages-1239339979.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Andrei Arlovski apologizes for ‘He’s dead, I’m alive’ remark regarding Anthony Johnson’s death",
-          "link": "https://www.mmafighting.com/ufc/520112/andrei-arlovski-apologizes-for-hes-dead-im-alive-remark-regarding-anthony-johnsons-death",
-          "date": "2026-11-09T00:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-666338436.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
@@ -92,6 +92,18 @@
       "name": "Sherdog",
       "site": "https://www.sherdog.com/",
       "items": [
+        {
+          "title": "Conor McGregor demands Max Holloway trilogy, says 'he doesn't want to fight'",
+          "link": "https://www.sherdog.com/news/news/Conor-McGregor-demands-Max-Holloway-trilogy-says-he-doesnt-want-to-fight-203562",
+          "date": "2026-11-09T20:08:33.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261109080833_conor.JPG"
+        },
+        {
+          "title": "Ilia Topuria says Arman Tsarukyan would be 'pure panic' on the feet",
+          "link": "https://www.sherdog.com/news/news/Ilia-Topuria-says-Arman-Tsarukyan-would-be-pure-panic-on-the-feet-203561",
+          "date": "2026-11-09T19:32:11.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261109073211_topuria.JPG"
+        },
         {
           "title": "Sergio Pettis explains emotional Roufusport exit following Duke Roufus' death",
           "link": "https://www.sherdog.com/news/news/Sergio-Pettis-explains-emotional-Roufusport-exit-following-Duke-Roufus-death-203560",
@@ -115,18 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Khamzat-Chimaev-gets-Chris-Weidman-after-Colby-Covington-exit-203557",
           "date": "2026-11-09T18:48:03.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261109064803_raf.JPG"
-        },
-        {
-          "title": "Shavkat Rakhmonov teases 2027 UFC return amid new injury rumors",
-          "link": "https://www.sherdog.com/news/news/Shavkat-Rakhmonov-teases-2027-UFC-return-amid-new-injury-rumors-203556",
-          "date": "2026-11-09T18:36:55.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261109063655_shavkat.JPG"
-        },
-        {
-          "title": "BKB hires former Dazn executive Michael Ridout to lead UK operations",
-          "link": "https://www.sherdog.com/news/news/BKB-hires-former-Dazn-executive-Michael-Ridout-to-lead-UK-operations-203547",
-          "date": "2026-11-09T09:00:12.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261109122213_Michael_Ridout.JPG"
         }
       ]
     }
