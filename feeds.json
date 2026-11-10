@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-09T23:08:49.794Z",
+  "generatedAt": "2026-11-10T01:52:11.013Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Dana White takes over the White House press room after President Trump’s job offer",
+          "link": "https://bloodyelbow.com/2026/11/09/dana-white-takes-over-the-white-house-press-room-after-president-trumps-job-offer/",
+          "date": "2026-11-09T23:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2304342265-1-scaled.jpg"
+        },
         {
           "title": "Josh Hokit would do ‘everything we want from a champion’ if he wins at UFC 334, claims Din Thomas",
           "link": "https://bloodyelbow.com/2026/11/09/josh-hokit-would-do-everything-we-want-from-a-champion-if-he-wins-at-ufc-334-claims-din-thomas/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/09/stipe-miocic-insists-ciryl-gane-deserves-to-be-ufc-champion-despite-the-tom-aspinall-eye-pokes/",
           "date": "2026-11-09T18:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-1332962703-scaled.jpg"
-        },
-        {
-          "title": "Magomed Ankalaev wants to join Alex Pereira at heavyweight as he says ‘nobody’ at 205 will fight him",
-          "link": "https://bloodyelbow.com/2026/11/09/magomed-ankalaev-wants-to-join-alex-pereira-at-heavyweight-as-he-says-nobody-at-205-will-fight-him/",
-          "date": "2026-11-09T16:59:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/07/GettyImages-2204069085-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Video: ‘UFC 334 Countdown’ full episode",
+          "link": "https://www.mmafighting.com/ufc/520201/video-ufc-334-countdown-full-episode",
+          "date": "2026-11-10T01:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2250234239.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Paramount+ planning combo package with HBO Max in early 2027 before fully merging services",
           "link": "https://www.mmafighting.com/ufc/520247/paramount-planning-combo-package-with-hbo-max-in-early-2027-before-fully-merging-services",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/gfl/520221/gfl-reveals-first-official-fight-card-for-dec-18",
           "date": "2026-11-09T19:30:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-1246777444.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Kevin Holland responds to Jacobe Smith’s callouts: ‘What the f*ck is the guy worried about me for?’",
-          "link": "https://www.mmafighting.com/ufc/520214/kevin-holland-responds-to-jacobe-smiths-callouts-what-the-fck-is-the-guy-worried-about-me-for",
-          "date": "2026-11-09T18:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/gettyimages-2270918752.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
