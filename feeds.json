@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-10T03:38:20.181Z",
+  "generatedAt": "2026-11-10T05:41:42.726Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Johnny Walker believes ill-fated ‘worm’ celebration cost him historic win over Jon Jones",
+          "link": "https://bloodyelbow.com/2026/11/09/johnny-walker-believes-ill-fated-worm-celebration-cost-him-historic-win-over-jon-jones/",
+          "date": "2026-11-10T01:30:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-1128438699-scaled.jpg"
+        },
         {
           "title": "GFL announces first-ever fight card for next month minus almost all of their star names",
           "link": "https://bloodyelbow.com/2026/11/09/gfl-announces-first-ever-fight-card-for-next-month-minus-almost-all-of-their-star-names/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/09/ilia-topuria-is-still-barred-from-full-training-after-how-bad-the-justin-gaethje-beating-was/",
           "date": "2026-11-09T21:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281043408-scaled.jpg"
-        },
-        {
-          "title": "15-fight UFC veteran gets KO’d in one round by Muay Thai star who is missing an arm",
-          "link": "https://bloodyelbow.com/2026/11/09/15-fight-ufc-veteran-gets-kod-in-one-round-by-muay-thai-star-who-is-missing-an-arm/",
-          "date": "2026-11-09T20:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Jake-Peacock.jpg"
         }
       ]
     },
