@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-10T21:29:19.097Z",
+  "generatedAt": "2026-11-10T22:12:48.943Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Johnny Walker rules out fighting one top 5 UFC heavyweight contender as well as his brother",
+          "link": "https://bloodyelbow.com/2026/11/10/johnny-walker-rules-out-fighting-one-top-5-ufc-heavyweight-contender-as-well-as-his-brother/",
+          "date": "2026-11-10T22:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/08/GettyImages-2158768011-scaled.jpg"
+        },
         {
           "title": "Ciryl Gane reveals private messages from Josh Hokit before their UFC 334 title fight",
           "link": "https://bloodyelbow.com/2026/11/10/ciryl-gane-reveals-private-messages-from-josh-hokit-before-their-ufc-334-title-fight/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/10/josh-hokit-made-robert-whittaker-become-a-fan-with-one-strange-moment-before-his-white-house-win/",
           "date": "2026-11-10T15:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/04/GettyImages-2270928683-scaled.jpg"
-        },
-        {
-          "title": "Khabib Nurmagomedov’s cousin pulls out of first MMA fight since his UFC release three years ago",
-          "link": "https://bloodyelbow.com/2026/11/10/khabib-nurmagomedovs-cousin-pulls-out-of-first-mma-fight-since-his-ufc-release-three-years-ago/",
-          "date": "2026-11-10T13:30:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/08/GettyImages-1435614015-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Robert Whittaker says Israel Adesanya’s biggest opponent isn’t Shara Bullet, but himself",
+          "link": "https://www.mmafighting.com/ufc/520322/robert-whittaker-says-israel-adesanyas-biggest-opponent-isnt-shara-bullet-but-himself",
+          "date": "2026-11-10T22:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-1370028009.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Bo Nickal vs. Yoel Romero rescheduled for RAF 16",
           "link": "https://www.mmafighting.com/raf-wrestling/520413/bo-nickal-vs-yoel-romero-rescheduled-for-raf-16",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/520312/ciryl-gane-rejects-fouling-criticism-before-ufc-334-im-not-here-to-try-and-convince-anyone",
           "date": "2026-11-10T16:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2242967202.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Matt Brown: Ciryl Gane and Josh Hokit are ‘fighting for second place’ in the heavyweight division at UFC 334",
-          "link": "https://www.mmafighting.com/ufc/520242/matt-brown-ciryl-gane-and-josh-hokit-are-fighting-for-second-place-in-the-heavyweight-division-at-ufc-334",
-          "date": "2026-11-10T14:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2281629297.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
@@ -92,6 +92,12 @@
       "name": "Sherdog",
       "site": "https://www.sherdog.com/",
       "items": [
+        {
+          "title": "BKB fighter who works in prison predicts early KO against Jackie Cataline",
+          "link": "https://www.sherdog.com/news/news/BKB-fighter-who-works-in-prison-predicts-early-KO-against-Jackie-Cataline-203575",
+          "date": "2026-11-10T21:33:15.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261110093315_bkb.JPG"
+        },
         {
           "title": "Johnny Walker says his brother's jokes hurt his wife and mother",
           "link": "https://www.sherdog.com/news/news/Johnny-Walker-says-his-brothers-jokes-hurt-his-wife-and-mother-203571",
@@ -121,12 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Bilal-Hasan-fears-he-could-spark-UFC-334-press-conference-chaos-203567",
           "date": "2026-11-10T02:33:08.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261110023308_bilal_hasan_334_presser.JPG"
-        },
-        {
-          "title": "Why Stephen Thompson is retiring from the UFC at 43",
-          "link": "https://www.sherdog.com/news/news/Why-Stephen-Thompson-is-retiring-from-the-UFC-at-43-203566",
-          "date": "2026-11-10T02:21:03.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261110022103_wonderboy_retire.JPG"
         }
       ]
     }
