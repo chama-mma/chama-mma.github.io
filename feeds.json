@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T01:52:11.013Z",
+  "generatedAt": "2026-11-10T02:39:34.923Z",
   "sources": [
     {
       "id": "bloodyelbow",
@@ -11,6 +11,12 @@
           "link": "https://bloodyelbow.com/2026/11/09/dana-white-takes-over-the-white-house-press-room-after-president-trumps-job-offer/",
           "date": "2026-11-09T23:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2304342265-1-scaled.jpg"
+        },
+        {
+          "title": "Chrisean Rock’s boxing return postponed due to therapy appointments for her son",
+          "link": "https://bloodyelbow.com/2026/11/09/chrisean-rocks-boxing-return-postponed-due-to-therapy-appointments-for-her-son/",
+          "date": "2026-11-09T23:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/09/Chrisean-Rock-boxing-match.png"
         },
         {
           "title": "Josh Hokit would do ‘everything we want from a champion’ if he wins at UFC 334, claims Din Thomas",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/09/comedian-stavros-halkias-blasts-ufcs-trump-ties-put-a-damper-on-it/",
           "date": "2026-11-09T19:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2298969147-1-scaled.jpg"
-        },
-        {
-          "title": "Stipe Miocic insists Ciryl Gane ‘deserves’ to be UFC champion despite the Tom Aspinall eye pokes",
-          "link": "https://bloodyelbow.com/2026/11/09/stipe-miocic-insists-ciryl-gane-deserves-to-be-ufc-champion-despite-the-tom-aspinall-eye-pokes/",
-          "date": "2026-11-09T18:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-1332962703-scaled.jpg"
         }
       ]
     },
@@ -93,6 +93,24 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "Why Stephen Thompson is retiring from the UFC at 43",
+          "link": "https://www.sherdog.com/news/news/Why-Stephen-Thompson-is-retiring-from-the-UFC-at-43-203566",
+          "date": "2026-11-10T02:21:03.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261110022103_wonderboy_retire.JPG"
+        },
+        {
+          "title": "Marvin Vettori warns Joaquin Buckley over sparring dispute",
+          "link": "https://www.sherdog.com/news/news/Marvin-Vettori-warns-Joaquin-Buckley-over-sparring-dispute-203565",
+          "date": "2026-11-10T02:06:24.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261110020624_vettori_buckley.JPG"
+        },
+        {
+          "title": "Chris Weidman reveals the one thing that makes Stephen Thompson angry",
+          "link": "https://www.sherdog.com/news/news/Chris-Weidman-reveals-the-one-thing-that-makes-Stephen-Thompson-angry-203564",
+          "date": "2026-11-10T01:56:57.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261110015657_wonderboy_angry.JPG"
+        },
+        {
           "title": "Josh Hokit says Jon Jones' win gives him blueprint to beat Ciryl Gane",
           "link": "https://www.sherdog.com/news/news/Josh-Hokit-says-Jon-Jones-win-gives-him-blueprint-to-beat-Ciryl-Gane-203563",
           "date": "2026-11-09T20:17:24.000Z",
@@ -109,24 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Ilia-Topuria-says-Arman-Tsarukyan-would-be-pure-panic-on-the-feet-203561",
           "date": "2026-11-09T19:32:11.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261109073211_topuria.JPG"
-        },
-        {
-          "title": "Sergio Pettis explains emotional Roufusport exit following Duke Roufus' death",
-          "link": "https://www.sherdog.com/news/news/Sergio-Pettis-explains-emotional-Roufusport-exit-following-Duke-Roufus-death-203560",
-          "date": "2026-11-09T19:14:41.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261109071441_pettis.JPEG"
-        },
-        {
-          "title": "Magomed Ankalaev calls out UFC heavyweights after frustration at 205",
-          "link": "https://www.sherdog.com/news/news/Magomed-Ankalaev-calls-out-UFC-heavyweights-after-frustration-at-205-203559",
-          "date": "2026-11-09T19:03:28.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261109070328_ankalaev.JPG"
-        },
-        {
-          "title": "Dana White calls Eddie Hearn a 'bum,' challenges him to fight in London",
-          "link": "https://www.sherdog.com/news/news/Dana-White-calls-Eddie-Hearn-a-bum-challenges-him-to-fight-in-London-203558",
-          "date": "2026-11-09T18:56:19.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261109065619_dana.JPG"
         }
       ]
     }
