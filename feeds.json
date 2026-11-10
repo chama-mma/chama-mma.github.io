@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-10T12:11:31.455Z",
+  "generatedAt": "2026-11-10T13:32:26.862Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Khabib Nurmagomedov’s cousin pulls out of first MMA fight since his UFC release three years ago",
+          "link": "https://bloodyelbow.com/2026/11/10/khabib-nurmagomedovs-cousin-pulls-out-of-first-mma-fight-since-his-ufc-release-three-years-ago/",
+          "date": "2026-11-10T13:30:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/08/GettyImages-1435614015-scaled.jpg"
+        },
         {
           "title": "Mackenzie Dern’s next UFC title defense in the works as 13-3 contender picked over Tatiana Suarez",
           "link": "https://bloodyelbow.com/2026/11/10/mackenzie-derns-next-ufc-title-defense-in-the-works-as-13-3-contender-picked-over-tatiana-suarez/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/09/dana-white-takes-over-the-white-house-press-room-after-president-trumps-job-offer/",
           "date": "2026-11-09T23:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2304342265-1-scaled.jpg"
-        },
-        {
-          "title": "Chrisean Rock’s boxing return postponed due to therapy appointments for her son",
-          "link": "https://bloodyelbow.com/2026/11/09/chrisean-rocks-boxing-return-postponed-due-to-therapy-appointments-for-her-son/",
-          "date": "2026-11-09T23:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/09/Chrisean-Rock-boxing-match.png"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Morning Report | Sean O’Malley is rooting for Josh Hokit at UFC 334 so he can continue to be ‘an absolute menace to the UFC’",
+          "link": "https://www.mmafighting.com/ufc/519199/morning-report-sean-omalley-is-rooting-for-josh-hokit-at-ufc-334-so-he-can-continue-to-be-an-absolute-menace-to-the-ufc",
+          "date": "2026-11-10T13:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2280944098.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Video: ‘UFC 334 Countdown’ full episode",
           "link": "https://www.mmafighting.com/ufc/520201/video-ufc-334-countdown-full-episode",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/520233/roberto-soldic-vs-daniel-rodriguez-targeted-for-ufc-dallas",
           "date": "2026-11-09T20:30:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2298458476.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "GFL reveals first official fight card for Dec. 18",
-          "link": "https://www.mmafighting.com/gfl/520221/gfl-reveals-first-official-fight-card-for-dec-18",
-          "date": "2026-11-09T19:30:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-1246777444.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
