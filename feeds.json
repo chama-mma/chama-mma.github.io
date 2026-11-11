@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-11T14:42:46.196Z",
+  "generatedAt": "2026-11-11T15:37:48.015Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Justin Gaethje’s teammate would ‘put money’ on Arman Tsarukyan fight happening in 2027",
+          "link": "https://bloodyelbow.com/2026/11/11/justin-gaethjes-teammate-would-put-money-on-arman-tsarukyan-fight-happening-in-2027/",
+          "date": "2026-11-11T15:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2275224511-scaled.jpg"
+        },
         {
           "title": "‘It was huge’… Amanda Nunes shares advice for Ronda Rousey following 17-second comeback fight",
           "link": "https://bloodyelbow.com/2026/11/11/it-was-huge-amanda-nunes-shares-advice-for-ronda-rousey-following-17-second-comeback-fight/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/10/ufc-star-announces-shock-departure-from-promotion-despite-having-two-fights-left-on-deal/",
           "date": "2026-11-11T03:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/01/GettyImages-2244522650-scaled.jpg"
-        },
-        {
-          "title": "Josh Hokit promises to make Ciryl Gane fight at UFC 334 dirty if hit with illegal shots",
-          "link": "https://bloodyelbow.com/2026/11/10/josh-hokit-promises-to-make-ciryl-gane-fight-at-ufc-334-dirty-if-hit-with-illegal-shots/",
-          "date": "2026-11-11T01:30:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281621000-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,18 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "UFC 334 media day",
+          "link": "https://www.mmafighting.com/ufc/520494/ufc-334-media-day",
+          "date": "2026-11-11T15:30:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/01/gettyimages-2250234661.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Watch Josh Hokit train blindfolded to prepare for eye pokes in UFC 334 title fight with Ciryl Gane",
+          "link": "https://www.mmafighting.com/ufc/520488/watch-josh-hokit-train-blindfolded-to-prepare-for-eye-pokes-in-ufc-334-title-fight-with-ciryl-gane",
+          "date": "2026-11-11T15:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Captura-de-Tela-2026-11-11-as-11.11.58.png?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Kayla Harrison’s coach downplays past experience with Amanda Nunes playing any real part in UFC 334 fight",
           "link": "https://www.mmafighting.com/ufc/520437/kayla-harrisons-coach-downplays-past-experience-with-amanda-nunes-playing-any-real-part-in-ufc-334-fight",
@@ -72,18 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/519621/denise-gomes-campaigns-for-ufc-title-shot-at-mackenzie-dern-after-delivering-violence-against-yan-xiaonan",
           "date": "2026-11-10T23:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2292015114.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Robert Whittaker says Israel Adesanya’s biggest opponent isn’t Shara Bullet, but himself",
-          "link": "https://www.mmafighting.com/ufc/520322/robert-whittaker-says-israel-adesanyas-biggest-opponent-isnt-shara-bullet-but-himself",
-          "date": "2026-11-10T22:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-1370028009.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Bo Nickal vs. Yoel Romero rescheduled for RAF 16",
-          "link": "https://www.mmafighting.com/raf-wrestling/520413/bo-nickal-vs-yoel-romero-rescheduled-for-raf-16",
-          "date": "2026-11-10T20:30:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/01/Yoel-Romero-vs-Bo-Nickal.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
