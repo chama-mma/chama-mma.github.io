@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-11T13:40:09.170Z",
+  "generatedAt": "2026-11-11T14:42:46.196Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "‘It was huge’… Amanda Nunes shares advice for Ronda Rousey following 17-second comeback fight",
+          "link": "https://bloodyelbow.com/2026/11/11/it-was-huge-amanda-nunes-shares-advice-for-ronda-rousey-following-17-second-comeback-fight/",
+          "date": "2026-11-11T14:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/11/GettyImages-630707384-scaled.jpg"
+        },
         {
           "title": "New UFC signing leaks plans for first European event of 2027",
           "link": "https://bloodyelbow.com/2026/11/11/new-ufc-signing-leaks-plans-for-first-european-event-of-2027/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/10/josh-hokit-promises-to-make-ciryl-gane-fight-at-ufc-334-dirty-if-hit-with-illegal-shots/",
           "date": "2026-11-11T01:30:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281621000-scaled.jpg"
-        },
-        {
-          "title": "Bo Nickal rebooks RAF Wrestling match with Yoel Romero after two cancellations",
-          "link": "https://bloodyelbow.com/2026/11/10/bo-nickal-rebooks-raf-wrestling-match-with-yoel-romero-after-two-cancellations/",
-          "date": "2026-11-11T00:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/01/RAF05_PressConference-186-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Kayla Harrison’s coach downplays past experience with Amanda Nunes playing any real part in UFC 334 fight",
+          "link": "https://www.mmafighting.com/ufc/520437/kayla-harrisons-coach-downplays-past-experience-with-amanda-nunes-playing-any-real-part-in-ufc-334-fight",
+          "date": "2026-11-11T14:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2219117260.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Morning Report | Amanda Nunes thinks Ronda Rousey still refuses to discuss UFC 207 loss: ‘She never say my name’",
           "link": "https://www.mmafighting.com/ufc/520300/morning-report-amanda-nunes-thinks-ronda-rousey-still-refuses-to-discuss-ufc-207-loss-she-never-say-my-name",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/raf-wrestling/520413/bo-nickal-vs-yoel-romero-rescheduled-for-raf-16",
           "date": "2026-11-10T20:30:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/01/Yoel-Romero-vs-Bo-Nickal.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Joe Rogan returns, 3 former champs on the desk for UFC 334",
-          "link": "https://www.mmafighting.com/ufc/520408/joe-rogan-returns-3-former-champs-on-the-desk-for-ufc-334",
-          "date": "2026-11-10T19:45:13.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2290638030.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
