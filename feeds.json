@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-11T18:40:53.085Z",
+  "generatedAt": "2026-11-11T19:47:32.644Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Ilia Topuria claims Usman Nurmagomedov has been detained for attacking Merab Dvalishvili",
+          "link": "https://bloodyelbow.com/2026/11/11/ilia-topuria-claims-usman-nurmagomedov-has-been-detained-for-attacking-merab-dvalishvili/",
+          "date": "2026-11-11T19:21:51.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/MMA-TemplatesSport.png"
+        },
+        {
+          "title": "Francis Ngannou dismisses Ciryl Gane’s undisputed heavyweight champion status ahead of UFC 334",
+          "link": "https://bloodyelbow.com/2026/11/11/francis-ngannou-dismisses-ciryl-ganes-undisputed-heavyweight-champion-status-ahead-of-ufc-334/",
+          "date": "2026-11-11T19:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/12/GettyImages-1366365125-scaled.jpg"
+        },
         {
           "title": "Usman Nurmagomedov slammed by fellow PFL star Dakota Ditcheva after alleged attack on Merab Dvalishvili",
           "link": "https://bloodyelbow.com/2026/11/11/usman-nurmagomedov-slammed-by-fellow-pfl-star-dakota-ditcheva-after-alleged-attack-on-merab-dvalishvili/",
@@ -29,18 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/11/merab-dvalishvili-left-pouring-with-blood-as-he-claims-usman-nurmagomedov-and-team-attacked-him/",
           "date": "2026-11-11T16:18:44.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Merab-Dvalishvili.png"
-        },
-        {
-          "title": "Ciryl Gane reacts to first face off with Josh Hokit after receiving abuse: ‘It’s all for show’",
-          "link": "https://bloodyelbow.com/2026/11/11/ciryl-gane-reacts-to-first-face-off-with-josh-hokit-after-receiving-abuse-its-all-for-show/",
-          "date": "2026-11-11T16:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2304511040.jpg"
-        },
-        {
-          "title": "Justin Gaethje’s teammate would ‘put money’ on Arman Tsarukyan fight happening in 2027",
-          "link": "https://bloodyelbow.com/2026/11/11/justin-gaethjes-teammate-would-put-money-on-arman-tsarukyan-fight-happening-in-2027/",
-          "date": "2026-11-11T15:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2275224511-scaled.jpg"
         }
       ]
     },
@@ -52,13 +52,13 @@
         {
           "title": "Ilia Topuria shares video of Usman Nurmagomedov attacking Merab Dvalishvili during RAF interview",
           "link": "https://www.mmafighting.com/ufc/520533/ilia-topuria-shares-video-of-usman-nurmagomedov-attacking-merab-dvalishvili-during-raf-interview",
-          "date": "2026-11-11T18:13:13.000Z",
+          "date": "2026-11-11T19:07:18.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-11-at-12.27.14-PM.png?quality=90&strip=all&crop=0,0,100,100"
         },
         {
           "title": "Bloody Merab Dvalishvili claims ‘sneaky’ Usman Nurmagomedov and friends jumped him ahead of RAF Abu Dhabi",
           "link": "https://www.mmafighting.com/ufc/520524/bloody-merab-dvalishvili-claims-sneaky-usman-nurmagomedov-and-friends-jumped-him-ahead-of-raf-abu-dhabi",
-          "date": "2026-11-11T18:12:57.000Z",
+          "date": "2026-11-11T19:06:55.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-11-at-11.29.30-AM.png?quality=90&strip=all&crop=0,0,100,100"
         },
         {
@@ -99,6 +99,18 @@
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261111055629_Untitled1.JPG"
         },
         {
+          "title": "Josh Hokit invokes Ciryl Gane's family in wild UFC 334 threat rant",
+          "link": "https://www.sherdog.com/news/news/Josh-Hokit-invokes-Ciryl-Ganes-family-in-wild-UFC-334-threat-rant-203584",
+          "date": "2026-11-11T19:20:19.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261111072019_hokit_mindset.JPG"
+        },
+        {
+          "title": "Amanda Nunes reveals burnout behind retirement, why she's back for UFC 334",
+          "link": "https://www.sherdog.com/news/news/Amanda-Nunes-reveals-burnout-behind-retirement-why-shes-back-for-UFC-334-203583",
+          "date": "2026-11-11T18:54:54.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261111065455_nunes.JPG"
+        },
+        {
           "title": "Report: Yair Rodriguez nears UFC return against Steve Garcia after long layoff",
           "link": "https://www.sherdog.com/news/news/Report-Yair-Rodriguez-nears-UFC-return-against-Steve-Garcia-after-long-layoff-203582",
           "date": "2026-11-11T18:31:57.000Z",
@@ -115,18 +127,6 @@
           "link": "https://www.sherdog.com/news/news/From-prison-to-bareknuckle-champion-Marko-Martinjaks-remarkable-rise-203577",
           "date": "2026-11-11T02:11:49.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261111021149_bkb.JPG"
-        },
-        {
-          "title": "Jake Paul says he'll retire from boxing if Cedric Doumbe beats him",
-          "link": "https://www.sherdog.com/news/news/Jake-Paul-says-hell-retire-from-boxing-if-Cedric-Doumbe-beats-him-203576",
-          "date": "2026-11-10T22:20:24.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261110102024_Untitled1.JPG"
-        },
-        {
-          "title": "BKB fighter who works in prison predicts early KO against Jackie Cataline",
-          "link": "https://www.sherdog.com/news/news/BKB-fighter-who-works-in-prison-predicts-early-KO-against-Jackie-Cataline-203575",
-          "date": "2026-11-10T21:33:15.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261110093315_bkb.JPG"
         }
       ]
     }
