@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-11T15:37:48.015Z",
+  "generatedAt": "2026-11-11T16:42:09.206Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Merab Dvalishvili left pouring with blood as he claims Usman Nurmagomedov and team attacked him",
+          "link": "https://bloodyelbow.com/2026/11/11/merab-dvalishvili-left-pouring-with-blood-as-he-claims-usman-nurmagomedov-and-team-attacked-him/",
+          "date": "2026-11-11T16:18:44.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Merab-Dvalishvili.png"
+        },
+        {
+          "title": "Ciryl Gane reacts to first face off with Josh Hokit after receiving abuse: ‘It’s all for show’",
+          "link": "https://bloodyelbow.com/2026/11/11/ciryl-gane-reacts-to-first-face-off-with-josh-hokit-after-receiving-abuse-its-all-for-show/",
+          "date": "2026-11-11T16:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2304511040.jpg"
+        },
         {
           "title": "Justin Gaethje’s teammate would ‘put money’ on Arman Tsarukyan fight happening in 2027",
           "link": "https://bloodyelbow.com/2026/11/11/justin-gaethjes-teammate-would-put-money-on-arman-tsarukyan-fight-happening-in-2027/",
@@ -19,7 +31,7 @@
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/11/GettyImages-630707384-scaled.jpg"
         },
         {
-          "title": "New UFC signing leaks plans for first European event of 2027",
+          "title": "UFC Manchester update: New signing apologizes for spreading false rumor",
           "link": "https://bloodyelbow.com/2026/11/11/new-ufc-signing-leaks-plans-for-first-european-event-of-2027/",
           "date": "2026-11-11T13:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2024/08/GettyImages-2163992505-scaled.jpg"
@@ -29,18 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/11/joe-rogan-leads-ufc-334-broadcast-team-featuring-mma-royalty/",
           "date": "2026-11-11T12:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/09/GettyImages-2296152625-scaled.jpg"
-        },
-        {
-          "title": "Sean Strickland reveals he’s backing Josh Hokit in UFC 334 main event against Ciryl Gane",
-          "link": "https://bloodyelbow.com/2026/11/11/sean-strickland-reveals-hes-backing-josh-hokit-in-ufc-334-main-event-against-ciryl-gane/",
-          "date": "2026-11-11T05:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/05/GettyImages-2275393655-scaled.jpg"
-        },
-        {
-          "title": "UFC star announces shock departure from promotion despite having two fights left on deal",
-          "link": "https://bloodyelbow.com/2026/11/10/ufc-star-announces-shock-departure-from-promotion-despite-having-two-fights-left-on-deal/",
-          "date": "2026-11-11T03:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/01/GettyImages-2244522650-scaled.jpg"
         }
       ]
     },
@@ -50,40 +50,40 @@
       "site": "https://www.mmafighting.com/",
       "items": [
         {
-          "title": "UFC 334 media day",
-          "link": "https://www.mmafighting.com/ufc/520494/ufc-334-media-day",
-          "date": "2026-11-11T15:30:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/01/gettyimages-2250234661.jpg?quality=90&strip=all&crop=0,0,100,100"
+          "title": "Bo Nickal vs. Yoel Romero rescheduled for RAF 16",
+          "link": "https://www.mmafighting.com/raf-wrestling/520413/bo-nickal-vs-yoel-romero-rescheduled-for-raf-16",
+          "date": "2026-11-10T20:30:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/01/Yoel-Romero-vs-Bo-Nickal.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "Watch Josh Hokit train blindfolded to prepare for eye pokes in UFC 334 title fight with Ciryl Gane",
-          "link": "https://www.mmafighting.com/ufc/520488/watch-josh-hokit-train-blindfolded-to-prepare-for-eye-pokes-in-ufc-334-title-fight-with-ciryl-gane",
-          "date": "2026-11-11T15:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Captura-de-Tela-2026-11-11-as-11.11.58.png?quality=90&strip=all&crop=0,0,100,100"
+          "title": "Joe Rogan returns, 3 former champs on the desk for UFC 334",
+          "link": "https://www.mmafighting.com/ufc/520408/joe-rogan-returns-3-former-champs-on-the-desk-for-ufc-334",
+          "date": "2026-11-10T19:45:13.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2290638030.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "Kayla Harrison’s coach downplays past experience with Amanda Nunes playing any real part in UFC 334 fight",
-          "link": "https://www.mmafighting.com/ufc/520437/kayla-harrisons-coach-downplays-past-experience-with-amanda-nunes-playing-any-real-part-in-ufc-334-fight",
-          "date": "2026-11-11T14:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2219117260.jpg?quality=90&strip=all&crop=0,0,100,100"
+          "title": "Jake Paul responds to loud ‘F*ck you’ chants from French fans ahead of Cedric Doumbe fight",
+          "link": "https://www.mmafighting.com/boxing/520399/jake-paul-responds-to-loud-fck-you-chants-from-french-fans-ahead-of-cedric-doumbe-fight",
+          "date": "2026-11-10T19:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2252801445.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "Morning Report | Amanda Nunes thinks Ronda Rousey still refuses to discuss UFC 207 loss: ‘She never say my name’",
-          "link": "https://www.mmafighting.com/ufc/520300/morning-report-amanda-nunes-thinks-ronda-rousey-still-refuses-to-discuss-ufc-207-loss-she-never-say-my-name",
-          "date": "2026-11-11T13:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/10/gettyimages-630706518.jpg?quality=90&strip=all&crop=0,0,100,100"
+          "title": "Video: Jake Paul and Cedric Doumbe exchange words in 1st faceoff for boxing showdown",
+          "link": "https://www.mmafighting.com/boxing/520388/video-jake-paul-and-cedric-doumbe-exchange-words-in-1st-faceoff-for-boxing-showdown",
+          "date": "2026-11-10T18:09:48.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-10-at-1.00.10-PM.png?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "Norma Dumont parts ways with the UFC, teases potential move to boxing in 2027",
-          "link": "https://www.mmafighting.com/ufc/520444/norma-dumont-parts-ways-with-the-ufc-teases-potential-move-to-boxing-in-2027",
-          "date": "2026-11-11T02:19:40.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/gettyimages-2297321801.jpg?quality=90&strip=all&crop=0,0,100,100"
+          "title": "Ciryl Gane rejects fouling criticism before UFC 334: ‘I’m not here to try and convince anyone’",
+          "link": "https://www.mmafighting.com/ufc/520312/ciryl-gane-rejects-fouling-criticism-before-ufc-334-im-not-here-to-try-and-convince-anyone",
+          "date": "2026-11-10T16:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2242967202.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "Denise Gomes campaigns for UFC title shot at Mackenzie Dern after delivering ‘violence’ against Yan Xiaonan",
-          "link": "https://www.mmafighting.com/ufc/519621/denise-gomes-campaigns-for-ufc-title-shot-at-mackenzie-dern-after-delivering-violence-against-yan-xiaonan",
-          "date": "2026-11-10T23:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2292015114.jpg?quality=90&strip=all&crop=0,0,100,100"
+          "title": "Matt Brown: Ciryl Gane and Josh Hokit are ‘fighting for second place’ in the heavyweight division at UFC 334",
+          "link": "https://www.mmafighting.com/ufc/520242/matt-brown-ciryl-gane-and-josh-hokit-are-fighting-for-second-place-in-the-heavyweight-division-at-ufc-334",
+          "date": "2026-11-10T14:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2281629297.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
