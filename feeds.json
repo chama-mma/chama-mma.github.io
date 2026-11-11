@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-11T06:52:43.240Z",
+  "generatedAt": "2026-11-11T12:19:19.317Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Joe Rogan leads UFC 334 broadcast team featuring MMA royalty",
+          "link": "https://bloodyelbow.com/2026/11/11/joe-rogan-leads-ufc-334-broadcast-team-featuring-mma-royalty/",
+          "date": "2026-11-11T12:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/09/GettyImages-2296152625-scaled.jpg"
+        },
         {
           "title": "Sean Strickland reveals he’s backing Josh Hokit in UFC 334 main event against Ciryl Gane",
           "link": "https://bloodyelbow.com/2026/11/11/sean-strickland-reveals-hes-backing-josh-hokit-in-ufc-334-main-event-against-ciryl-gane/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/10/jake-paul-shares-bizarre-ai-video-kissing-cedric-doumbe-after-first-face-off/",
           "date": "2026-11-10T23:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Jake-Paul-Cedric-Doumbe-kiss.png"
-        },
-        {
-          "title": "Johnny Walker rules out fighting one top 5 UFC heavyweight contender as well as his brother",
-          "link": "https://bloodyelbow.com/2026/11/10/johnny-walker-rules-out-fighting-one-top-5-ufc-heavyweight-contender-as-well-as-his-brother/",
-          "date": "2026-11-10T22:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/08/GettyImages-2158768011-scaled.jpg"
         }
       ]
     },
@@ -50,40 +50,40 @@
       "site": "https://www.mmafighting.com/",
       "items": [
         {
-          "title": "Norma Dumont parts ways with the UFC, teases potential move to boxing in 2027",
-          "link": "https://www.mmafighting.com/ufc/520444/norma-dumont-parts-ways-with-the-ufc-teases-potential-move-to-boxing-in-2027",
-          "date": "2026-11-11T02:19:40.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/gettyimages-2297321801.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Denise Gomes campaigns for UFC title shot at Mackenzie Dern after delivering ‘violence’ against Yan Xiaonan",
-          "link": "https://www.mmafighting.com/ufc/519621/denise-gomes-campaigns-for-ufc-title-shot-at-mackenzie-dern-after-delivering-violence-against-yan-xiaonan",
-          "date": "2026-11-10T23:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2292015114.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Robert Whittaker says Israel Adesanya’s biggest opponent isn’t Shara Bullet, but himself",
-          "link": "https://www.mmafighting.com/ufc/520322/robert-whittaker-says-israel-adesanyas-biggest-opponent-isnt-shara-bullet-but-himself",
-          "date": "2026-11-10T22:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-1370028009.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Bo Nickal vs. Yoel Romero rescheduled for RAF 16",
-          "link": "https://www.mmafighting.com/raf-wrestling/520413/bo-nickal-vs-yoel-romero-rescheduled-for-raf-16",
-          "date": "2026-11-10T20:30:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/01/Yoel-Romero-vs-Bo-Nickal.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Joe Rogan returns, 3 former champs on the desk for UFC 334",
-          "link": "https://www.mmafighting.com/ufc/520408/joe-rogan-returns-3-former-champs-on-the-desk-for-ufc-334",
-          "date": "2026-11-10T19:45:13.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2290638030.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
           "title": "Jake Paul responds to loud ‘F*ck you’ chants from French fans ahead of Cedric Doumbe fight",
           "link": "https://www.mmafighting.com/boxing/520399/jake-paul-responds-to-loud-fck-you-chants-from-french-fans-ahead-of-cedric-doumbe-fight",
           "date": "2026-11-10T19:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2252801445.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Video: Jake Paul and Cedric Doumbe exchange words in 1st faceoff for boxing showdown",
+          "link": "https://www.mmafighting.com/boxing/520388/video-jake-paul-and-cedric-doumbe-exchange-words-in-1st-faceoff-for-boxing-showdown",
+          "date": "2026-11-10T18:09:48.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-10-at-1.00.10-PM.png?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Ciryl Gane rejects fouling criticism before UFC 334: ‘I’m not here to try and convince anyone’",
+          "link": "https://www.mmafighting.com/ufc/520312/ciryl-gane-rejects-fouling-criticism-before-ufc-334-im-not-here-to-try-and-convince-anyone",
+          "date": "2026-11-10T16:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2242967202.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Matt Brown: Ciryl Gane and Josh Hokit are ‘fighting for second place’ in the heavyweight division at UFC 334",
+          "link": "https://www.mmafighting.com/ufc/520242/matt-brown-ciryl-gane-and-josh-hokit-are-fighting-for-second-place-in-the-heavyweight-division-at-ufc-334",
+          "date": "2026-11-10T14:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2281629297.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Morning Report | Sean O’Malley is rooting for Josh Hokit at UFC 334 so he can continue to be ‘an absolute menace to the UFC’",
+          "link": "https://www.mmafighting.com/ufc/519199/morning-report-sean-omalley-is-rooting-for-josh-hokit-at-ufc-334-so-he-can-continue-to-be-an-absolute-menace-to-the-ufc",
+          "date": "2026-11-10T13:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2280944098.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Video: ‘UFC 334 Countdown’ full episode",
+          "link": "https://www.mmafighting.com/ufc/520201/video-ufc-334-countdown-full-episode",
+          "date": "2026-11-10T01:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2250234239.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
