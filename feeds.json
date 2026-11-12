@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-12T16:49:15.491Z",
+  "generatedAt": "2026-11-12T17:42:52.238Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Abu Dhabi Police release statement after Usman Nurmagomedov attacked Merab Dvalishvili at RAF",
+          "link": "https://bloodyelbow.com/2026/11/12/abu-dhabi-police-release-statement-after-usman-nurmagomedov-attacked-merab-dvalishvili-at-raf/",
+          "date": "2026-11-12T17:25:07.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/MMA-TemplatesSport.png"
+        },
+        {
+          "title": "Joe Rogan calls for eye poke disqualifications ahead of Ciryl Gane’s UFC 334 return",
+          "link": "https://bloodyelbow.com/2026/11/12/joe-rogan-calls-for-eye-poke-disqualifications-ahead-of-ciryl-ganes-ufc-334-return/",
+          "date": "2026-11-12T17:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/10/GettyImages-2243289405-scaled.jpg"
+        },
         {
           "title": "Aljamain Sterling says Usman Nurmagomedov attack is ‘nothing’ like Dvalishvili slapping Umar’s friend",
           "link": "https://bloodyelbow.com/2026/11/12/aljamain-sterling-says-usman-nurmagomedov-attack-is-nothing-like-dvalishvili-slapping-umars-friend/",
@@ -29,18 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/12/merab-dvalishvili-still-in-jail-after-usman-nurmagomedov-attack-as-friend-issues-urgent-appeal/",
           "date": "2026-11-12T13:44:47.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/06/GettyImages-1242626543-scaled.jpg"
-        },
-        {
-          "title": "Paddy Pimblett names 112lb boxer who hit him harder than Justin Gaethje or any other opponent",
-          "link": "https://bloodyelbow.com/2026/11/12/paddy-pimblett-names-112lb-boxer-who-hit-him-harder-than-justin-gaethje-or-any-other-opponent/",
-          "date": "2026-11-12T13:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/07/GettyImages-2285713563-scaled.jpg"
-        },
-        {
-          "title": "Sean O’Malley shares fight breakdown after Merab Dvalishvili vs Usman Nurmagomedov brawl",
-          "link": "https://bloodyelbow.com/2026/11/12/sean-omalley-shares-fight-breakdown-after-merab-dvalishvili-vs-usman-nurmagomedov-brawl/",
-          "date": "2026-11-12T12:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/01/GettyImages-2258040794-scaled.jpg"
         }
       ]
     },
@@ -49,18 +49,6 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
-        {
-          "title": "Between the Links: UFC 334, Gane vs. Hokit, Usman Nurmagomedov attacks Merab Dvalishvili",
-          "link": "https://www.mmafighting.com/ufc/520618/between-the-links-ufc-334-gane-vs-hokit-usman-nurmagomedov-attacks-merab-dvalishvili",
-          "date": "2026-11-12T16:30:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/BTL334clean.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Anything but Fighting: Stephen Thompson loves anime",
-          "link": "https://www.mmafighting.com/ufc/520492/anything-but-fighting-stephen-thompson-loves-anime",
-          "date": "2026-11-12T15:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/ABF-stephen-thompson-YT.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
         {
           "title": "Cain Velasquez compares Josh Hokit to Conor McGregor, predicts UFC 334 main event",
           "link": "https://www.mmafighting.com/ufc/520482/cain-velasquez-compares-josh-hokit-to-conor-mcgregor-predicts-ufc-334-main-event",
@@ -84,6 +72,18 @@
           "link": "https://www.mmafighting.com/ufc/520626/deplorable-sht-pros-condemn-usman-nurmagomedov-friends-for-jumping-merab-dvalishvili",
           "date": "2026-11-12T00:26:30.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-11-at-12.47.35-PM.png?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "UFC announcer Jon Anik signs long-term contract extension",
+          "link": "https://www.mmafighting.com/ufc/520497/ufc-announcer-jon-anik-signs-long-term-contract-extension",
+          "date": "2026-11-12T00:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2285693047.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Islam Makhachev defends Usman Nurmagomedov, condemns Merab Dvalishvili’s past behavior",
+          "link": "https://www.mmafighting.com/ufc/520613/islam-makhachev-defends-usman-nurmagomedov-condemns-merab-dvalishvilis-past-behavior",
+          "date": "2026-11-11T22:16:11.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2290665851.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
