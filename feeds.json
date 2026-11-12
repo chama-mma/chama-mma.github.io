@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-12T18:39:54.170Z",
+  "generatedAt": "2026-11-12T19:43:21.236Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Paddy Pimblett reveals why he will never follow Arman Tsarukyan and compete in RAF matches",
+          "link": "https://bloodyelbow.com/2026/11/12/paddy-pimblett-reveals-why-he-will-never-follow-arman-tsarukyan-and-compete-in-raf-matches/",
+          "date": "2026-11-12T19:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/07/GettyImages-2258041356-scaled.jpg"
+        },
+        {
+          "title": "UFC star Tommy McMillen rushed to hospital after being found unresponsive in nightclub bathroom",
+          "link": "https://bloodyelbow.com/2026/11/12/ufc-star-tommy-mcmillen-rushed-to-hospital-after-being-found-unresponsive-in-nightclub-bathroom/",
+          "date": "2026-11-12T18:45:15.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/09/GettyImages-2294954067-scaled.jpg"
+        },
         {
           "title": "Kayla Harrison vs. Amanda Nunes: Bloody Elbow staff predict the UFC 334 co-main event",
           "link": "https://bloodyelbow.com/2026/11/12/kayla-harrison-vs-amanda-nunes-bloody-elbow-staff-predict-the-ufc-334-co-main-event/",
@@ -29,18 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/12/aljamain-sterling-says-usman-nurmagomedov-attack-is-nothing-like-dvalishvili-slapping-umars-friend/",
           "date": "2026-11-12T16:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/07/GettyImages-2018964626-scaled-e1753749428111.jpg"
-        },
-        {
-          "title": "Alistair Overeem returns: UFC heavyweight legend to end four-year hiatus on Jake Paul’s boxing card",
-          "link": "https://bloodyelbow.com/2026/11/12/alistair-overeem-returns-ufc-heavyweight-legend-to-end-four-year-hiatus-on-jake-pauls-boxing-card/",
-          "date": "2026-11-12T15:11:20.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2024/05/GettyImages-460378414-scaled.jpg"
-        },
-        {
-          "title": "Usman Nurmagomedov’s punishment revealed as RAF boss provides Merab Dvalishvili update",
-          "link": "https://bloodyelbow.com/2026/11/12/usman-nurmagomedovs-punishment-revealed-as-raf-boss-provides-merab-dvalishvili-update/",
-          "date": "2026-11-12T14:56:16.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/01/GettyImages-2170781499-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Report: Tommy McMillen taken to the hospital after a possible overdose",
+          "link": "https://www.mmafighting.com/ufc/520707/report-tommy-mcmillen-taken-to-the-hospital-after-a-possible-overdose",
+          "date": "2026-11-12T18:45:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2294736996.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Alistair Overeem vs. Jimi Manuwa added to Paul vs. Doumbe fight card",
           "link": "https://www.mmafighting.com/boxing/520695/alistair-overeem-vs-jimi-manuwa-added-to-paul-vs-doumbe-fight-card",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/520482/cain-velasquez-compares-josh-hokit-to-conor-mcgregor-predicts-ufc-334-main-event",
           "date": "2026-11-12T14:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-1371613381.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Morning Report | Raul Rosas Jr. recounts terrifying Raoni Barcelos fight-ending collapse: ‘I thought I killed him’",
-          "link": "https://www.mmafighting.com/ufc/520485/morning-report-raul-rosas-jr-recounts-terrifying-raoni-barcelos-fight-ending-collapse-i-thought-i-killed-him",
-          "date": "2026-11-12T13:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/gettyimages-2297325518.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
@@ -93,40 +93,40 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "Alistair Overeem to make boxing debut vs. Jimi Manuwa on Jake Paul card",
+          "link": "https://www.sherdog.com/news/news/Alistair-Overeem-to-make-boxing-debut-vs-Jimi-Manuwa-on-Jake-Paul-card-203602",
+          "date": "2026-11-12T19:35:09.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261112073509_overeem.JPG"
+        },
+        {
+          "title": "Report: UFC fighter Tommy McMillen hospitalized after being found unresponsive",
+          "link": "https://www.sherdog.com/news/news/Report-UFC-fighter-Tommy-McMillen-hospitalized-after-being-found-unresponsive-203600",
+          "date": "2026-11-12T19:14:16.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261112071416_2.JPEG"
+        },
+        {
+          "title": "BKB Fight Night moves to California, Hank Lundy debut set for Nov. 21",
+          "link": "https://www.sherdog.com/news/news/BKB-Fight-Night-moves-to-California-Hank-Lundy-debut-set-for-Nov-21-203599",
+          "date": "2026-11-12T18:58:30.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261112065830_bkb.JPG"
+        },
+        {
+          "title": "Rousimar Palhares predicts different result in Andre Galvao rematch",
+          "link": "https://www.sherdog.com/news/news/Rousimar-Palhares-predicts-different-result-in-Andre-Galvao-rematch-203601",
+          "date": "2026-11-12T18:58:28.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261112072803_acb.JPG"
+        },
+        {
+          "title": "Roberto Duran's son replaces Paulie Malignaggi vs. Victor Ortiz at BKB 62",
+          "link": "https://www.sherdog.com/news/news/Roberto-Durans-son-replaces-Paulie-Malignaggi-vs-Victor-Ortiz-at-BKB-62-203597",
+          "date": "2026-11-12T18:42:13.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261112064213_duran.JPG"
+        },
+        {
           "title": "How Alex Pereira's striking and Glover Teixeira's wrestling are helping Yousri Belgaroui",
           "link": "https://www.sherdog.com/news/news/How-Alex-Pereiras-striking-and-Glover-Teixeiras-wrestling-are-helping-Yousri-Belgaroui-203596",
           "date": "2026-11-12T03:52:11.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261112035211_yousri_poatan.JPG"
-        },
-        {
-          "title": "Amanda Nunes calls Norma Dumont’s UFC exit a ‘bad decision’",
-          "link": "https://www.sherdog.com/news/news/Amanda-Nunes-calls-Norma-Dumonts-UFC-exit-a-bad-decision-203595",
-          "date": "2026-11-12T03:23:51.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261112032351_nunes_dumont.JPG"
-        },
-        {
-          "title": "Aljamain Sterling's next UFC opponent wants to help his friend Merab Dvalishvili",
-          "link": "https://www.sherdog.com/news/news/Aljamain-Sterlings-next-UFC-opponent-wants-to-help-his-friend-Merab-Dvalishvili-203594",
-          "date": "2026-11-12T03:08:26.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261112030827_sterling_vallejos.JPG"
-        },
-        {
-          "title": "Islam Makhachev defends Usman Nurmagomedov after Merab Dvalishvili clash",
-          "link": "https://www.sherdog.com/news/news/Islam-Makhachev-defends-Usman-Nurmagomedov-after-Merab-Dvalishvili-clash-203593",
-          "date": "2026-11-12T02:50:23.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261112025023_usman_islam_merab.JPG"
-        },
-        {
-          "title": "Nina Drama wants UFC to ban Usman Nurmagomedov after Merab Dvalishvili attack",
-          "link": "https://www.sherdog.com/news/news/Nina-Drama-wants-UFC-to-ban-Usman-Nurmagomedov-after-Merab-Dvalishvili-attack-203592",
-          "date": "2026-11-12T02:35:29.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261112023530_nina_merab_usman.JPG"
-        },
-        {
-          "title": "Norma Dumont leaves UFC with two fights left on her contract",
-          "link": "https://www.sherdog.com/news/news/Norma-Dumont-leaves-UFC-with-two-fights-left-on-her-contract-203591",
-          "date": "2026-11-12T01:29:08.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261112012908_dumont.JPG"
         }
       ]
     }
