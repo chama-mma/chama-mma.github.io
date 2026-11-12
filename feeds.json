@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-12T15:47:11.369Z",
+  "generatedAt": "2026-11-12T16:49:15.491Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Aljamain Sterling says Usman Nurmagomedov attack is ‘nothing’ like Dvalishvili slapping Umar’s friend",
+          "link": "https://bloodyelbow.com/2026/11/12/aljamain-sterling-says-usman-nurmagomedov-attack-is-nothing-like-dvalishvili-slapping-umars-friend/",
+          "date": "2026-11-12T16:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/07/GettyImages-2018964626-scaled-e1753749428111.jpg"
+        },
         {
           "title": "Alistair Overeem returns: UFC heavyweight legend to end four-year hiatus on Jake Paul’s boxing card",
           "link": "https://bloodyelbow.com/2026/11/12/alistair-overeem-returns-ufc-heavyweight-legend-to-end-four-year-hiatus-on-jake-pauls-boxing-card/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/12/sean-omalley-shares-fight-breakdown-after-merab-dvalishvili-vs-usman-nurmagomedov-brawl/",
           "date": "2026-11-12T12:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/01/GettyImages-2258040794-scaled.jpg"
-        },
-        {
-          "title": "Daniel Cormier strongly defends Islam Makhachev against claims he’s ‘afraid’ of Carlos Prates",
-          "link": "https://bloodyelbow.com/2026/11/12/daniel-cormier-strongly-defends-islam-makhachev-against-claims-hes-afraid-of-carlos-prates/",
-          "date": "2026-11-12T06:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/11/GettyImages-2246911401-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Between the Links: UFC 334, Gane vs. Hokit, Usman Nurmagomedov attacks Merab Dvalishvili",
+          "link": "https://www.mmafighting.com/ufc/520618/between-the-links-ufc-334-gane-vs-hokit-usman-nurmagomedov-attacks-merab-dvalishvili",
+          "date": "2026-11-12T16:30:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/BTL334clean.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Anything but Fighting: Stephen Thompson loves anime",
           "link": "https://www.mmafighting.com/ufc/520492/anything-but-fighting-stephen-thompson-loves-anime",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/520626/deplorable-sht-pros-condemn-usman-nurmagomedov-friends-for-jumping-merab-dvalishvili",
           "date": "2026-11-12T00:26:30.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-11-at-12.47.35-PM.png?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "UFC announcer Jon Anik signs long-term contract extension",
-          "link": "https://www.mmafighting.com/ufc/520497/ufc-announcer-jon-anik-signs-long-term-contract-extension",
-          "date": "2026-11-12T00:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2285693047.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
