@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-12T00:09:47.436Z",
+  "generatedAt": "2026-11-12T01:43:34.834Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Joe Rogan leaks that oblique kicks are going to be made illegal after commission meeting",
+          "link": "https://bloodyelbow.com/2026/11/11/joe-rogan-leaks-that-oblique-kicks-are-going-to-be-made-illegal-after-commission-meeting/",
+          "date": "2026-11-12T01:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/04/Joe-Rogan-UFC-327.png"
+        },
         {
           "title": "Josh Hokit roasts Daniel Cormier, Kayla Harrison and others during strange UFC 334 media day",
           "link": "https://bloodyelbow.com/2026/11/11/josh-hokit-roasts-daniel-cormier-kayla-harrison-and-others-during-strange-ufc-334-media-day/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/11/conor-mcgregor-reacts-to-usman-nurmagomedov-attacking-merab-dvalishvili-with-ilia-topuria-revenge-hint/",
           "date": "2026-11-11T20:31:28.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-468229128-scaled.jpg"
-        },
-        {
-          "title": "Usman Nurmagomedov’s manager shuts down recent UFC signing rumors as he provides update",
-          "link": "https://bloodyelbow.com/2026/11/11/usman-nurmagomedovs-manager-shuts-down-recent-ufc-signing-rumors-as-he-provides-update/",
-          "date": "2026-11-11T20:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/08/GettyImages-2288530710-scaled.jpg"
         }
       ]
     },
@@ -49,12 +49,6 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
-        {
-          "title": "UFC announcer Jon Anik signs long-term contract extension",
-          "link": "https://www.mmafighting.com/ufc/520497/ufc-announcer-jon-anik-signs-long-term-contract-extension",
-          "date": "2026-11-12T00:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2285693047.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
         {
           "title": "Islam Makhachev defends Usman Nurmagomedov, condemns Merab Dvalishvili’s past behavior",
           "link": "https://www.mmafighting.com/ufc/520613/islam-makhachev-defends-usman-nurmagomedov-condemns-merab-dvalishvilis-past-behavior",
@@ -84,6 +78,12 @@
           "link": "https://www.mmafighting.com/ufc/520494/ufc-334-media-day",
           "date": "2026-11-11T15:30:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/01/gettyimages-2250234661.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Watch Josh Hokit train blindfolded to prepare for eye pokes in UFC 334 title fight with Ciryl Gane",
+          "link": "https://www.mmafighting.com/ufc/520488/watch-josh-hokit-train-blindfolded-to-prepare-for-eye-pokes-in-ufc-334-title-fight-with-ciryl-gane",
+          "date": "2026-11-11T15:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Captura-de-Tela-2026-11-11-as-11.11.58.png?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
@@ -92,6 +92,18 @@
       "name": "Sherdog",
       "site": "https://www.sherdog.com/",
       "items": [
+        {
+          "title": "Jon Anik commits to UFC future after signing multi-year extension",
+          "link": "https://www.sherdog.com/news/news/Jon-Anik-commits-to-UFC-future-after-signing-multiyear-extension-203590",
+          "date": "2026-11-12T01:14:44.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261112012546_anik.JPG"
+        },
+        {
+          "title": "MMA fighter Jindrich Janecka resuscitated after cardiac arrest in cage",
+          "link": "https://www.sherdog.com/news/news/MMA-fighter-Jindrich-Janecka-resuscitated-after-cardiac-arrest-in-cage-203589",
+          "date": "2026-11-12T00:36:42.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261112123642_heart_attack.JPG"
+        },
         {
           "title": "Merab Dvalishvili accuses Usman & Umar Nurmagomedov of hotel attack",
           "link": "https://www.sherdog.com/news/news/Merab-Dvalishvili-accuses-Usman-Umar-Nurmagomedov-of-hotel-attack-203580",
@@ -115,18 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Amanda-Nunes-reveals-burnout-behind-retirement-why-shes-back-for-UFC-334-203583",
           "date": "2026-11-11T20:18:57.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261111065455_nunes.JPG"
-        },
-        {
-          "title": "Carlos Prates draws crowds in India ahead of UFC 336 title fight",
-          "link": "https://www.sherdog.com/news/news/Carlos-Prates-draws-crowds-in-India-ahead-of-UFC-336-title-fight-203586",
-          "date": "2026-11-11T20:17:08.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261111080313_prates.JPEG"
-        },
-        {
-          "title": "Ciryl Gane laughs off Josh Hokit's antics but respects UFC 334 rival",
-          "link": "https://www.sherdog.com/news/news/Ciryl-Gane-laughs-off-Josh-Hokits-antics-but-respects-UFC-334-rival-203581",
-          "date": "2026-11-11T20:15:08.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261111061450_gane.JPG"
         }
       ]
     }
