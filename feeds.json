@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-12T21:36:47.916Z",
+  "generatedAt": "2026-11-12T22:34:30.211Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Daniel Cormier condemns Usman Nurmagomedov for Merab Dvalishvili attack: ‘Should never happen’",
+          "link": "https://bloodyelbow.com/2026/11/12/daniel-cormier-condemns-usman-nurmagomedov-for-merab-dvalishvili-attack-should-never-happen/",
+          "date": "2026-11-12T22:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/08/GettyImages-2288530710-scaled.jpg"
+        },
         {
           "title": "Joe Rogan calls Usman Nurmagomedov the one non-UFC fighter who is ‘world championship caliber’",
           "link": "https://bloodyelbow.com/2026/11/12/joe-rogan-calls-usman-nurmagomedov-the-one-non-ufc-fighter-who-is-world-championship-caliber/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/12/abu-dhabi-police-release-statement-after-usman-nurmagomedov-attacked-merab-dvalishvili-at-raf/",
           "date": "2026-11-12T17:25:07.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/MMA-TemplatesSport.png"
-        },
-        {
-          "title": "Joe Rogan calls for eye poke disqualifications ahead of Ciryl Gane’s UFC 334 return",
-          "link": "https://bloodyelbow.com/2026/11/12/joe-rogan-calls-for-eye-poke-disqualifications-ahead-of-ciryl-ganes-ufc-334-return/",
-          "date": "2026-11-12T17:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/10/GettyImages-2243289405-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "UFC 334 press conference video",
+          "link": "https://www.mmafighting.com/ufc/520720/ufc-334-press-conference-video",
+          "date": "2026-11-12T22:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2281622735.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Amanda Nunes reveals her toughest opponent and it’s not Kayla Harrison",
           "link": "https://www.mmafighting.com/ufc/520574/amanda-nunes-reveals-her-toughest-opponent-and-its-not-kayla-harrison",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/520618/between-the-links-ufc-334-gane-vs-hokit-usman-nurmagomedov-attacks-merab-dvalishvili",
           "date": "2026-11-12T16:30:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/BTL334clean.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Anything but Fighting: Stephen Thompson loves anime",
-          "link": "https://www.mmafighting.com/ufc/520492/anything-but-fighting-stephen-thompson-loves-anime",
-          "date": "2026-11-12T15:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/ABF-stephen-thompson-YT.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
