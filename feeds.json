@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-12T03:41:06.769Z",
+  "generatedAt": "2026-11-12T04:46:36.262Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Ben Stiller gets rare glimpse of Josh Hokit outside of his persona ahead of UFC 334 title fight",
+          "link": "https://bloodyelbow.com/2026/11/11/ben-stiller-gets-rare-glimpse-of-josh-hokit-outside-of-his-persona-ahead-of-ufc-334-title-fight/",
+          "date": "2026-11-12T04:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2299572453-scaled.jpg"
+        },
         {
           "title": "UFC 336 championship fight gets a backup as ex-title challenger confirms he will weigh in",
           "link": "https://bloodyelbow.com/2026/11/11/ufc-336-championship-fight-gets-a-backup-as-ex-title-challenger-confirms-he-will-weigh-in/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/11/merab-dvalishvilis-21-year-old-friend-who-dropped-two-during-usman-nurmagomedov-brawl-identified/",
           "date": "2026-11-11T22:30:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Saba-Lazishvili.jpg"
-        },
-        {
-          "title": "Islam Makhachev claims Merab Dvalishvili ‘started’ it in reaction to Usman Nurmagomedov’s attack",
-          "link": "https://bloodyelbow.com/2026/11/11/islam-makhachev-claims-merab-dvalishvili-started-it-in-reaction-to-usman-nurmagomedovs-attack/",
-          "date": "2026-11-11T22:03:37.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/02/Khabib-Usman.png"
         }
       ]
     },
@@ -93,6 +93,12 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "How Alex Pereira's striking and Glover Teixeira's wrestling are helping Yousri Belgaroui",
+          "link": "https://www.sherdog.com/news/news/How-Alex-Pereiras-striking-and-Glover-Teixeiras-wrestling-are-helping-Yousri-Belgaroui-203596",
+          "date": "2026-11-12T03:52:11.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261112035211_yousri_poatan.JPG"
+        },
+        {
           "title": "Amanda Nunes calls Norma Dumont’s UFC exit a ‘bad decision’",
           "link": "https://www.sherdog.com/news/news/Amanda-Nunes-calls-Norma-Dumonts-UFC-exit-a-bad-decision-203595",
           "date": "2026-11-12T03:23:51.000Z",
@@ -121,12 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Norma-Dumont-leaves-UFC-with-two-fights-left-on-her-contract-203591",
           "date": "2026-11-12T01:29:08.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261112012908_dumont.JPG"
-        },
-        {
-          "title": "Jon Anik commits to UFC future after signing multi-year extension",
-          "link": "https://www.sherdog.com/news/news/Jon-Anik-commits-to-UFC-future-after-signing-multiyear-extension-203590",
-          "date": "2026-11-12T01:14:44.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261112012546_anik.JPG"
         }
       ]
     }
