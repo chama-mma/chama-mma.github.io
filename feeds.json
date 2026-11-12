@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-12T19:43:21.236Z",
+  "generatedAt": "2026-11-12T20:39:02.812Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Joe Rogan calls Usman Nurmagomedov the one non-UFC fighter who is ‘world championship caliber’",
+          "link": "https://bloodyelbow.com/2026/11/12/joe-rogan-calls-usman-nurmagomedov-the-one-non-ufc-fighter-who-is-world-championship-caliber/",
+          "date": "2026-11-12T20:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/07/PFL_20260731_C2N00817_1-scaled.jpg"
+        },
         {
           "title": "Paddy Pimblett reveals why he will never follow Arman Tsarukyan and compete in RAF matches",
           "link": "https://bloodyelbow.com/2026/11/12/paddy-pimblett-reveals-why-he-will-never-follow-arman-tsarukyan-and-compete-in-raf-matches/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/12/joe-rogan-calls-for-eye-poke-disqualifications-ahead-of-ciryl-ganes-ufc-334-return/",
           "date": "2026-11-12T17:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/10/GettyImages-2243289405-scaled.jpg"
-        },
-        {
-          "title": "Aljamain Sterling says Usman Nurmagomedov attack is ‘nothing’ like Dvalishvili slapping Umar’s friend",
-          "link": "https://bloodyelbow.com/2026/11/12/aljamain-sterling-says-usman-nurmagomedov-attack-is-nothing-like-dvalishvili-slapping-umars-friend/",
-          "date": "2026-11-12T16:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/07/GettyImages-2018964626-scaled-e1753749428111.jpg"
         }
       ]
     },
@@ -93,6 +93,24 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "Usman Nurmagomedov barred from RAF Abu Dhabi following hotel brawl",
+          "link": "https://www.sherdog.com/news/news/Usman-Nurmagomedov-barred-from-RAF-Abu-Dhabi-following-hotel-brawl-203605",
+          "date": "2026-11-12T20:23:38.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261112082338_raf.JPG"
+        },
+        {
+          "title": "Brandon Royval says he's UFC 336 backup for Van vs. Kape title fight",
+          "link": "https://www.sherdog.com/news/news/Brandon-Royval-says-hes-UFC-336-backup-for-Van-vs-Kape-title-fight-203604",
+          "date": "2026-11-12T20:15:25.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261112081526_royval.JPEG"
+        },
+        {
+          "title": "Paddy Pimblett rips Ilia Topuria for seeking fans in 3 countries",
+          "link": "https://www.sherdog.com/news/news/Paddy-Pimblett-rips-Ilia-Topuria-for-seeking-fans-in-3-countries-203603",
+          "date": "2026-11-12T20:05:18.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261112080518_paddy.JPG"
+        },
+        {
           "title": "Alistair Overeem to make boxing debut vs. Jimi Manuwa on Jake Paul card",
           "link": "https://www.sherdog.com/news/news/Alistair-Overeem-to-make-boxing-debut-vs-Jimi-Manuwa-on-Jake-Paul-card-203602",
           "date": "2026-11-12T19:35:09.000Z",
@@ -109,24 +127,6 @@
           "link": "https://www.sherdog.com/news/news/BKB-Fight-Night-moves-to-California-Hank-Lundy-debut-set-for-Nov-21-203599",
           "date": "2026-11-12T18:58:30.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261112065830_bkb.JPG"
-        },
-        {
-          "title": "Rousimar Palhares predicts different result in Andre Galvao rematch",
-          "link": "https://www.sherdog.com/news/news/Rousimar-Palhares-predicts-different-result-in-Andre-Galvao-rematch-203601",
-          "date": "2026-11-12T18:58:28.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261112072803_acb.JPG"
-        },
-        {
-          "title": "Roberto Duran's son replaces Paulie Malignaggi vs. Victor Ortiz at BKB 62",
-          "link": "https://www.sherdog.com/news/news/Roberto-Durans-son-replaces-Paulie-Malignaggi-vs-Victor-Ortiz-at-BKB-62-203597",
-          "date": "2026-11-12T18:42:13.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261112064213_duran.JPG"
-        },
-        {
-          "title": "How Alex Pereira's striking and Glover Teixeira's wrestling are helping Yousri Belgaroui",
-          "link": "https://www.sherdog.com/news/news/How-Alex-Pereiras-striking-and-Glover-Teixeiras-wrestling-are-helping-Yousri-Belgaroui-203596",
-          "date": "2026-11-12T03:52:11.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261112035211_yousri_poatan.JPG"
         }
       ]
     }
