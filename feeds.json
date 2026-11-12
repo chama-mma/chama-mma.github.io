@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-11T23:15:39.244Z",
+  "generatedAt": "2026-11-12T00:09:47.436Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Josh Hokit roasts Daniel Cormier, Kayla Harrison and others during strange UFC 334 media day",
+          "link": "https://bloodyelbow.com/2026/11/11/josh-hokit-roasts-daniel-cormier-kayla-harrison-and-others-during-strange-ufc-334-media-day/",
+          "date": "2026-11-12T00:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281622346-scaled.jpg"
+        },
         {
           "title": "Merab Dvalishvili’s 21-year-old friend who dropped two during Usman Nurmagomedov brawl identified",
           "link": "https://bloodyelbow.com/2026/11/11/merab-dvalishvilis-21-year-old-friend-who-dropped-two-during-usman-nurmagomedov-brawl-identified/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/11/usman-nurmagomedovs-manager-shuts-down-recent-ufc-signing-rumors-as-he-provides-update/",
           "date": "2026-11-11T20:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/08/GettyImages-2288530710-scaled.jpg"
-        },
-        {
-          "title": "Ilia Topuria claims Usman Nurmagomedov has been detained for attacking Merab Dvalishvili",
-          "link": "https://bloodyelbow.com/2026/11/11/ilia-topuria-claims-usman-nurmagomedov-has-been-detained-for-attacking-merab-dvalishvili/",
-          "date": "2026-11-11T19:21:51.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/MMA-TemplatesSport.png"
         }
       ]
     },
@@ -49,6 +49,18 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "UFC announcer Jon Anik signs long-term contract extension",
+          "link": "https://www.mmafighting.com/ufc/520497/ufc-announcer-jon-anik-signs-long-term-contract-extension",
+          "date": "2026-11-12T00:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2285693047.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Islam Makhachev defends Usman Nurmagomedov, condemns Merab Dvalishvili’s past behavior",
+          "link": "https://www.mmafighting.com/ufc/520613/islam-makhachev-defends-usman-nurmagomedov-condemns-merab-dvalishvilis-past-behavior",
+          "date": "2026-11-11T22:16:11.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2290665851.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Josh Hokit open to fight Tom Aspinall after UFC 334, but ‘I don’t think he wants to come back’",
           "link": "https://www.mmafighting.com/ufc/520549/josh-hokit-open-to-fight-tom-aspinall-after-ufc-334-but-i-dont-think-he-wants-to-come-back",
@@ -68,22 +80,10 @@
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-11-at-11.29.30-AM.png?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "LIVE! UFC 334 media day",
+          "title": "UFC 334 media day video",
           "link": "https://www.mmafighting.com/ufc/520494/ufc-334-media-day",
           "date": "2026-11-11T15:30:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/01/gettyimages-2250234661.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Watch Josh Hokit train blindfolded to prepare for eye pokes in UFC 334 title fight with Ciryl Gane",
-          "link": "https://www.mmafighting.com/ufc/520488/watch-josh-hokit-train-blindfolded-to-prepare-for-eye-pokes-in-ufc-334-title-fight-with-ciryl-gane",
-          "date": "2026-11-11T15:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Captura-de-Tela-2026-11-11-as-11.11.58.png?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Kayla Harrison’s coach downplays past experience with Amanda Nunes playing any real part in UFC 334 fight",
-          "link": "https://www.mmafighting.com/ufc/520437/kayla-harrisons-coach-downplays-past-experience-with-amanda-nunes-playing-any-real-part-in-ufc-334-fight",
-          "date": "2026-11-11T14:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2219117260.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
