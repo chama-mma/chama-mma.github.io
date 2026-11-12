@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-12T13:42:47.017Z",
+  "generatedAt": "2026-11-12T14:44:59.353Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Merab Dvalishvili still ‘in jail’ after Usman Nurmagomedov attack as friend issues urgent appeal",
+          "link": "https://bloodyelbow.com/2026/11/12/merab-dvalishvili-still-in-jail-after-usman-nurmagomedov-attack-as-friend-issues-urgent-appeal/",
+          "date": "2026-11-12T13:44:47.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/06/GettyImages-1242626543-scaled.jpg"
+        },
         {
           "title": "Paddy Pimblett names 112lb boxer who hit him harder than Justin Gaethje or any other opponent",
           "link": "https://bloodyelbow.com/2026/11/12/paddy-pimblett-names-112lb-boxer-who-hit-him-harder-than-justin-gaethje-or-any-other-opponent/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/11/ufc-336-championship-fight-gets-a-backup-as-ex-title-challenger-confirms-he-will-weigh-in/",
           "date": "2026-11-12T03:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/09/GettyImages-2290511205-scaled.jpg"
-        },
-        {
-          "title": "Paddy Pimblett insists it’s ‘bad for the sport’ if Josh Hokit wins at UFC 334",
-          "link": "https://bloodyelbow.com/2026/11/11/paddy-pimblett-insists-its-bad-for-the-sport-if-josh-hokit-wins-at-ufc-334/",
-          "date": "2026-11-12T02:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281079294-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Cain Velasquez compares Josh Hokit to Conor McGregor, predicts UFC 334 main event",
+          "link": "https://www.mmafighting.com/ufc/520482/cain-velasquez-compares-josh-hokit-to-conor-mcgregor-predicts-ufc-334-main-event",
+          "date": "2026-11-12T14:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-1371613381.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Morning Report | Raul Rosas Jr. recounts terrifying Raoni Barcelos fight-ending collapse: ‘I thought I killed him’",
           "link": "https://www.mmafighting.com/ufc/520485/morning-report-raul-rosas-jr-recounts-terrifying-raoni-barcelos-fight-ending-collapse-i-thought-i-killed-him",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/520613/islam-makhachev-defends-usman-nurmagomedov-condemns-merab-dvalishvilis-past-behavior",
           "date": "2026-11-11T22:16:11.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2290665851.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Josh Hokit open to fight Tom Aspinall after UFC 334, but ‘I don’t think he wants to come back’",
-          "link": "https://www.mmafighting.com/ufc/520549/josh-hokit-open-to-fight-tom-aspinall-after-ufc-334-but-i-dont-think-he-wants-to-come-back",
-          "date": "2026-11-11T20:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/06/gettyimages-2281079294.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
