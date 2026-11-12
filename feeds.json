@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-12T14:44:59.353Z",
+  "generatedAt": "2026-11-12T15:47:11.369Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Alistair Overeem returns: UFC heavyweight legend to end four-year hiatus on Jake Paul’s boxing card",
+          "link": "https://bloodyelbow.com/2026/11/12/alistair-overeem-returns-ufc-heavyweight-legend-to-end-four-year-hiatus-on-jake-pauls-boxing-card/",
+          "date": "2026-11-12T15:11:20.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2024/05/GettyImages-460378414-scaled.jpg"
+        },
+        {
+          "title": "Usman Nurmagomedov’s punishment revealed as RAF boss provides Merab Dvalishvili update",
+          "link": "https://bloodyelbow.com/2026/11/12/usman-nurmagomedovs-punishment-revealed-as-raf-boss-provides-merab-dvalishvili-update/",
+          "date": "2026-11-12T14:56:16.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/01/GettyImages-2170781499-scaled.jpg"
+        },
         {
           "title": "Merab Dvalishvili still ‘in jail’ after Usman Nurmagomedov attack as friend issues urgent appeal",
           "link": "https://bloodyelbow.com/2026/11/12/merab-dvalishvili-still-in-jail-after-usman-nurmagomedov-attack-as-friend-issues-urgent-appeal/",
@@ -29,18 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/12/daniel-cormier-strongly-defends-islam-makhachev-against-claims-hes-afraid-of-carlos-prates/",
           "date": "2026-11-12T06:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/11/GettyImages-2246911401-scaled.jpg"
-        },
-        {
-          "title": "Ben Stiller gets rare glimpse of Josh Hokit outside of his persona ahead of UFC 334 title fight",
-          "link": "https://bloodyelbow.com/2026/11/11/ben-stiller-gets-rare-glimpse-of-josh-hokit-outside-of-his-persona-ahead-of-ufc-334-title-fight/",
-          "date": "2026-11-12T04:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2299572453-scaled.jpg"
-        },
-        {
-          "title": "UFC 336 championship fight gets a backup as ex-title challenger confirms he will weigh in",
-          "link": "https://bloodyelbow.com/2026/11/11/ufc-336-championship-fight-gets-a-backup-as-ex-title-challenger-confirms-he-will-weigh-in/",
-          "date": "2026-11-12T03:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/09/GettyImages-2290511205-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Anything but Fighting: Stephen Thompson loves anime",
+          "link": "https://www.mmafighting.com/ufc/520492/anything-but-fighting-stephen-thompson-loves-anime",
+          "date": "2026-11-12T15:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/ABF-stephen-thompson-YT.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Cain Velasquez compares Josh Hokit to Conor McGregor, predicts UFC 334 main event",
           "link": "https://www.mmafighting.com/ufc/520482/cain-velasquez-compares-josh-hokit-to-conor-mcgregor-predicts-ufc-334-main-event",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/520497/ufc-announcer-jon-anik-signs-long-term-contract-extension",
           "date": "2026-11-12T00:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2285693047.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Islam Makhachev defends Usman Nurmagomedov, condemns Merab Dvalishvili’s past behavior",
-          "link": "https://www.mmafighting.com/ufc/520613/islam-makhachev-defends-usman-nurmagomedov-condemns-merab-dvalishvilis-past-behavior",
-          "date": "2026-11-11T22:16:11.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2290665851.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
