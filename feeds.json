@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-13T21:37:03.721Z",
+  "generatedAt": "2026-11-13T22:33:45.005Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "UFC champion has his title stolen after no-showing press conference featuring Pereira and Oliveira",
+          "link": "https://bloodyelbow.com/2026/11/13/ufc-champion-has-his-title-stolen-after-no-showing-press-conference-featuring-pereira-and-oliveira/",
+          "date": "2026-11-13T22:30:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305008481-scaled.jpg"
+        },
+        {
+          "title": "Who is Saba Lazishvili? Merab Dvalishvili’s friend who gained over 600k followers after Usman Nurmagomedov brawl",
+          "link": "https://bloodyelbow.com/2026/11/13/who-is-saba-lazishvili-merab-dvalishvilis-friend-who-gained-over-600k-followers-after-usman-nurmagomedov-brawl/",
+          "date": "2026-11-13T22:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Saba-Lazishvili.png"
+        },
         {
           "title": "Merab Dvalishvili calls for Usman Nurmagomedov’s release in first statement since his sentencing",
           "link": "https://bloodyelbow.com/2026/11/13/merab-dvalishvili-calls-for-usman-nurmagomedovs-release-in-first-statement-since-his-sentencing/",
@@ -29,18 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/13/umar-nurmagomedovs-friend-who-was-slapped-by-merab-dvalishvili-speaks-out-i-will-never-forgive/",
           "date": "2026-11-13T18:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/09/GettyImages-2172059357-scaled.jpg"
-        },
-        {
-          "title": "Ciryl Gane has 10-pound advantage despite lightest weight since 2019 for Josh Hokit fight at UFC 334",
-          "link": "https://bloodyelbow.com/2026/11/13/ciryl-gane-has-10-pound-advantage-despite-lightest-weight-since-2019-for-josh-hokit-fight-at-ufc-334/",
-          "date": "2026-11-13T16:57:14.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2304971094-scaled.jpg"
-        },
-        {
-          "title": "Josh Hokit ‘passes out’ on the scale in latest weigh-in skit ahead of UFC 334 title shot",
-          "link": "https://bloodyelbow.com/2026/11/13/josh-hokit-passes-out-on-the-scale-in-latest-weigh-in-skit-ahead-of-ufc-334-title-shot/",
-          "date": "2026-11-13T16:21:03.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Josh-Hokit.jpg"
         }
       ]
     },
@@ -50,7 +50,19 @@
       "site": "https://www.mmafighting.com/",
       "items": [
         {
-          "title": "LIVE! UFC 335 and UFC 336 press conference video",
+          "title": "Video: Carlos Prates and Michael Morales have intense first faceoff at UFC 335 and UFC 336 press conference",
+          "link": "https://www.mmafighting.com/ufc/520992/video-carlos-prates-and-michael-morales-have-intense-first-faceoff-at-ufc-335-and-ufc-336-press-conference",
+          "date": "2026-11-13T22:22:33.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305011528.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "UFC 334 Preview Show: Has Josh Hokit gotten over with fans ahead of his fight with Ciryl Gane?",
+          "link": "https://www.mmafighting.com/ufc/520982/ufc-334-preview-show-has-josh-hokit-gotten-over-with-fans-ahead-of-his-fight-with-ciryl-gane",
+          "date": "2026-11-13T22:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/UFC-334-CLEAN.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "UFC 335 and UFC 336 press conference video",
           "link": "https://www.mmafighting.com/ufc/520942/ufc-335-and-ufc-336-press-conference-video",
           "date": "2026-11-13T20:30:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/07/gettyimages-2288456634.jpg?quality=90&strip=all&crop=0,0,100,100"
@@ -72,18 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/520837/tommy-mcmillen-releases-first-statement-since-reported-possible-overdose",
           "date": "2026-11-13T19:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/gettyimages-2294954178.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Matt Brown, Stephen ‘Wonderboy’ Thompson recount epic fight and sharing an ambulance afterwards",
-          "link": "https://www.mmafighting.com/ufc/520723/matt-brown-stephen-wonderboy-thompson-recount-epic-fight-and-sharing-an-ambulance-afterwards",
-          "date": "2026-11-13T18:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-143381169.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Jake Paul vs. Cedric Doumbe co-main event revealed",
-          "link": "https://www.mmafighting.com/boxing/520904/jake-paul-vs-cedric-doumbe-co-main-event-revealed",
-          "date": "2026-11-13T17:30:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-13-at-11.49.35-AM.png?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
