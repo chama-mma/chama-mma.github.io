@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T00:40:39.823Z",
+  "generatedAt": "2026-11-13T01:55:52.302Z",
   "sources": [
     {
       "id": "bloodyelbow",
@@ -50,6 +50,18 @@
       "site": "https://www.mmafighting.com/",
       "items": [
         {
+          "title": "No Bets Barred | Can Josh Hokit upset Ciryl Gane and complete one of the fastest rises in UFC History?",
+          "link": "https://www.mmafighting.com/ufc/520726/no-bets-barred-can-josh-hokit-upset-ciryl-gane-and-complete-one-of-the-fastest-rises-in-ufc-history",
+          "date": "2026-11-13T01:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2304511040.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "‘How’s your mom doing?’: Josh Hokit takes aim at Ciryl Gane, flips off Alex Pereira ahead of UFC 334",
+          "link": "https://www.mmafighting.com/ufc/520760/hows-your-mom-doing-josh-hokit-takes-aim-at-ciryl-gane-flips-off-alex-pereira-ahead-of-ufc-334",
+          "date": "2026-11-13T01:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2304843936.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
           "title": "‘What a bunch of f*cking idiots’: Dana White reacts to Usman Nurmagomedov attacking Merab Dvalishvili",
           "link": "https://www.mmafighting.com/ufc/520756/what-a-bunch-of-fcking-idiots-dana-white-reacts-to-usman-nurmagomedov-attacking-merab-dvalishvili",
           "date": "2026-11-13T00:28:40.000Z",
@@ -72,18 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/520574/amanda-nunes-reveals-her-toughest-opponent-and-its-not-kayla-harrison",
           "date": "2026-11-12T21:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/01/gettyimages-2250234715.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Report: Tommy McMillen taken to the hospital after a possible overdose",
-          "link": "https://www.mmafighting.com/ufc/520707/report-tommy-mcmillen-taken-to-the-hospital-after-a-possible-overdose",
-          "date": "2026-11-12T18:45:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2294736996.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Alistair Overeem vs. Jimi Manuwa added to Paul vs. Doumbe fight card",
-          "link": "https://www.mmafighting.com/boxing/520695/alistair-overeem-vs-jimi-manuwa-added-to-paul-vs-doumbe-fight-card",
-          "date": "2026-11-12T18:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/chorus/uploads/chorus_asset/file/13493797/usa_today_11723266.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
@@ -128,7 +128,8 @@
           "date": "2026-11-12T18:58:30.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261112065830_bkb.JPG"
         }
-      ]
+      ],
+      "stale": true
     }
   ]
 }
