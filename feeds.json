@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-13T13:39:29.699Z",
+  "generatedAt": "2026-11-13T14:42:22.451Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Sean Strickland’s Amazon delivery driver launches GoFundMe after getting fired for viral video",
+          "link": "https://bloodyelbow.com/2026/11/13/sean-stricklands-amazon-delivery-driver-launches-gofundme-after-getting-fired-for-viral-video/",
+          "date": "2026-11-13T14:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Strickland-Amazon-delivery-driver.png"
+        },
+        {
+          "title": "Usman Nurmagomedov jailed for six months as Merab Dvalishvili released after hotel brawl",
+          "link": "https://bloodyelbow.com/2026/11/13/usman-nurmagomedov-jailed-for-six-months-as-merab-dvalishvili-released-after-hotel-brawl/",
+          "date": "2026-11-13T13:53:45.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/09/GettyImages-2233954374-scaled.jpg"
+        },
         {
           "title": "Dana White reacts after fan shouts ‘pay your fighters’ at UFC 334 press conference",
           "link": "https://bloodyelbow.com/2026/11/13/dana-white-reacts-after-fan-shouts-pay-your-fighters-at-ufc-334-press-conference/",
@@ -29,18 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/13/arman-tsarukyan-believes-the-ufc-will-love-usman-nurmagomedovs-recent-brawl-with-merab-dvalishvili/",
           "date": "2026-11-13T06:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/08/GettyImages-2288530710-scaled.jpg"
-        },
-        {
-          "title": "Joe Rogan expresses concern with Josh Hokit sparring footage: ‘His coaches need to tell him’",
-          "link": "https://bloodyelbow.com/2026/11/12/joe-rogan-expresses-concern-with-josh-hokit-sparring-footage-his-coaches-need-to-tell-him/",
-          "date": "2026-11-13T04:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2281623047-scaled.jpg"
-        },
-        {
-          "title": "Ciryl Gane vs. Josh Hokit: Bloody Elbow staff divided by the UFC 334 main event",
-          "link": "https://bloodyelbow.com/2026/11/12/ciryl-gane-vs-josh-hokit-bloody-elbow-staff-divided-by-the-ufc-334-main-event/",
-          "date": "2026-11-13T03:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2304511040-1.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "LIVE! UFC 334 weigh-in video: Gane vs. Hokit",
+          "link": "https://www.mmafighting.com/ufc/520796/ufc-334-weigh-in-video-gane-vs-hokit",
+          "date": "2026-11-13T14:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2281407595.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Usman Nurmagomedov, 7 others reportedly sentenced to 6 months in jail for attack on Merab Dvalishvili",
           "link": "https://www.mmafighting.com/raf-wrestling/520831/usman-nurmagomedov-7-others-reportedly-sentenced-to-6-months-in-jail-for-attack-on-merab-dvalishvili",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/520760/hows-your-mom-doing-josh-hokit-takes-aim-at-ciryl-gane-flips-off-alex-pereira-ahead-of-ufc-334",
           "date": "2026-11-13T01:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2304843936.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "‘What a bunch of f*cking idiots’: Dana White reacts to Usman Nurmagomedov attacking Merab Dvalishvili",
-          "link": "https://www.mmafighting.com/ufc/520756/what-a-bunch-of-fcking-idiots-dana-white-reacts-to-usman-nurmagomedov-attacking-merab-dvalishvili",
-          "date": "2026-11-13T00:28:40.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-11-at-12.27.14-PM.png?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
