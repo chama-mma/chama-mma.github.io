@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-13T12:18:44.909Z",
+  "generatedAt": "2026-11-13T13:39:29.699Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Dana White reacts after fan shouts ‘pay your fighters’ at UFC 334 press conference",
+          "link": "https://bloodyelbow.com/2026/11/13/dana-white-reacts-after-fan-shouts-pay-your-fighters-at-ufc-334-press-conference/",
+          "date": "2026-11-13T13:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2304846709-scaled.jpg"
+        },
         {
           "title": "Tommy McMillen makes surprise UFC request following hospital scare",
           "link": "https://bloodyelbow.com/2026/11/13/tommy-mcmillen-makes-surprise-ufc-request-following-hospital-scare/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/12/ciryl-gane-vs-josh-hokit-bloody-elbow-staff-divided-by-the-ufc-334-main-event/",
           "date": "2026-11-13T03:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2304511040-1.jpg"
-        },
-        {
-          "title": "Israel Adesanya reveals who will corner him for UFC Saudi Arabia fight after leaving City Kickboxing",
-          "link": "https://bloodyelbow.com/2026/11/12/israel-adesanya-reveals-who-will-corner-him-for-ufc-saudi-arabia-fight-after-leaving-city-kickboxing/",
-          "date": "2026-11-13T02:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-1671031920-scaled.jpg"
         }
       ]
     },
@@ -50,40 +50,40 @@
       "site": "https://www.mmafighting.com/",
       "items": [
         {
-          "title": "Amanda Nunes reveals her toughest opponent and it’s not Kayla Harrison",
-          "link": "https://www.mmafighting.com/ufc/520574/amanda-nunes-reveals-her-toughest-opponent-and-its-not-kayla-harrison",
-          "date": "2026-11-12T21:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/01/gettyimages-2250234715.jpg?quality=90&strip=all&crop=0,0,100,100"
+          "title": "Usman Nurmagomedov, 7 others reportedly sentenced to 6 months in jail for attack on Merab Dvalishvili",
+          "link": "https://www.mmafighting.com/raf-wrestling/520831/usman-nurmagomedov-7-others-reportedly-sentenced-to-6-months-in-jail-for-attack-on-merab-dvalishvili",
+          "date": "2026-11-13T13:33:22.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-11-at-12.27.14-PM.png?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "Report: Tommy McMillen taken to the hospital after a possible overdose",
-          "link": "https://www.mmafighting.com/ufc/520707/report-tommy-mcmillen-taken-to-the-hospital-after-a-possible-overdose",
-          "date": "2026-11-12T18:45:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2294736996.jpg?quality=90&strip=all&crop=0,0,100,100"
+          "title": "RAF releases update on Merab Dvalishvili’s status following hotel brawl with Usman Nurmagomedov",
+          "link": "https://www.mmafighting.com/raf-wrestling/520824/raf-releases-update-on-merab-dvalishvilis-status-following-hotel-brawl-with-usman-nurmagomedov",
+          "date": "2026-11-13T13:28:34.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/05/Merab-Dvalishvili-RAF-9.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "Alistair Overeem vs. Jimi Manuwa added to Paul vs. Doumbe fight card",
-          "link": "https://www.mmafighting.com/boxing/520695/alistair-overeem-vs-jimi-manuwa-added-to-paul-vs-doumbe-fight-card",
-          "date": "2026-11-12T18:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/chorus/uploads/chorus_asset/file/13493797/usa_today_11723266.jpg?quality=90&strip=all&crop=0,0,100,100"
+          "title": "Morning Report: Daniel Cormier condemns Usman Nurmagomedov’s attack on Merab Dvalishvili",
+          "link": "https://www.mmafighting.com/ufc/520225/morning-report-daniel-cormier-condemns-usman-nurmagomedovs-attack-on-merab-dvalishvili",
+          "date": "2026-11-13T13:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2288531225.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "Usman Nurmagomedov banned from attending RAF Abu Dhabi after attacking Merab Dvalishvili",
-          "link": "https://www.mmafighting.com/raf-wrestling/520691/usman-nurmagomedov-banned-from-attending-raf-abu-dhabi-after-attacking-merab-dvalishvili",
-          "date": "2026-11-12T16:49:49.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-12-at-9.55.37-AM.png?quality=90&strip=all&crop=0,0,100,100"
+          "title": "No Bets Barred | Can Josh Hokit upset Ciryl Gane and complete one of the fastest rises in UFC History?",
+          "link": "https://www.mmafighting.com/ufc/520726/no-bets-barred-can-josh-hokit-upset-ciryl-gane-and-complete-one-of-the-fastest-rises-in-ufc-history",
+          "date": "2026-11-13T01:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2304511040.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "BTL: UFC 334, Gane vs. Hokit, Usman Nurmagomedov attacks Merab Dvalishvili",
-          "link": "https://www.mmafighting.com/ufc/520618/between-the-links-ufc-334-gane-vs-hokit-usman-nurmagomedov-attacks-merab-dvalishvili",
-          "date": "2026-11-12T16:30:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/BTL334clean.jpg?quality=90&strip=all&crop=0,0,100,100"
+          "title": "‘How’s your mom doing?’: Josh Hokit takes aim at Ciryl Gane, flips off Alex Pereira ahead of UFC 334",
+          "link": "https://www.mmafighting.com/ufc/520760/hows-your-mom-doing-josh-hokit-takes-aim-at-ciryl-gane-flips-off-alex-pereira-ahead-of-ufc-334",
+          "date": "2026-11-13T01:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2304843936.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "Anything but Fighting: Stephen Thompson loves anime",
-          "link": "https://www.mmafighting.com/ufc/520492/anything-but-fighting-stephen-thompson-loves-anime",
-          "date": "2026-11-12T15:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/ABF-stephen-thompson-YT.jpg?quality=90&strip=all&crop=0,0,100,100"
+          "title": "‘What a bunch of f*cking idiots’: Dana White reacts to Usman Nurmagomedov attacking Merab Dvalishvili",
+          "link": "https://www.mmafighting.com/ufc/520756/what-a-bunch-of-fcking-idiots-dana-white-reacts-to-usman-nurmagomedov-attacking-merab-dvalishvili",
+          "date": "2026-11-13T00:28:40.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-11-at-12.27.14-PM.png?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
