@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-13T22:33:45.005Z",
+  "generatedAt": "2026-11-13T23:29:52.426Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "UFC 334 fighter outdoes Josh Hokit as strange ceremonial weigh-in stunt leaves Dana White unimpressed",
+          "link": "https://bloodyelbow.com/2026/11/13/ufc-334-fighter-outdoes-josh-hokit-as-strange-ceremonial-weigh-in-stunt-leaves-dana-white-unimpressed/",
+          "date": "2026-11-13T23:12:36.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Dana-White-Bilal-Hasan.jpg"
+        },
         {
           "title": "UFC champion has his title stolen after no-showing press conference featuring Pereira and Oliveira",
           "link": "https://bloodyelbow.com/2026/11/13/ufc-champion-has-his-title-stolen-after-no-showing-press-conference-featuring-pereira-and-oliveira/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/13/mike-perrys-return-to-the-ufc-after-5-years-away-confirmed-by-recent-drug-test/",
           "date": "2026-11-13T18:57:55.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/05/GettyImages-2276637215-scaled.jpg"
-        },
-        {
-          "title": "Umar Nurmagomedov’s friend who was slapped by Merab Dvalishvili speaks out: ‘I will never forgive’",
-          "link": "https://bloodyelbow.com/2026/11/13/umar-nurmagomedovs-friend-who-was-slapped-by-merab-dvalishvili-speaks-out-i-will-never-forgive/",
-          "date": "2026-11-13T18:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/09/GettyImages-2172059357-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,18 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Josh Hokit issues warning to Ciryl Gane before UFC 334 main event: ‘I’m going to beat the sh*t out of you’",
+          "link": "https://www.mmafighting.com/ufc/521011/josh-hokit-issues-warning-to-ciryl-gane-before-ufc-334-main-event-im-going-to-beat-the-sht-out-of-you",
+          "date": "2026-11-13T23:06:51.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305014484.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "UFC 334 Paths to Victory: Kayla Harrison vs. Amanda Nunes",
+          "link": "https://www.mmafighting.com/ufc/520744/ufc-334-paths-to-victory-kayla-harrison-vs-amanda-nunes",
+          "date": "2026-11-13T23:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2304847635.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Video: Carlos Prates and Michael Morales have intense first faceoff at UFC 335 and UFC 336 press conference",
           "link": "https://www.mmafighting.com/ufc/520992/video-carlos-prates-and-michael-morales-have-intense-first-faceoff-at-ufc-335-and-ufc-336-press-conference",
@@ -72,18 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/520949/mike-perry-re-signs-with-ufc",
           "date": "2026-11-13T20:02:19.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2276637534.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Vadim Nemkov sees ‘really good’ chance Fedor Emelianenko beats Francis Ngannou in boxing",
-          "link": "https://www.mmafighting.com/pfl/520659/vadim-nemkov-sees-really-good-chance-fedor-emelianenko-beats-francis-ngannou-in-boxing",
-          "date": "2026-11-13T19:30:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/20251213231911-_85A3396-JP.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Tommy McMillen releases first statement since reported possible overdose",
-          "link": "https://www.mmafighting.com/ufc/520837/tommy-mcmillen-releases-first-statement-since-reported-possible-overdose",
-          "date": "2026-11-13T19:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/gettyimages-2294954178.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
