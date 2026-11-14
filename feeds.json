@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-14T01:32:26.730Z",
+  "generatedAt": "2026-11-14T02:38:28.726Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Ciryl Gane branded ‘dirty cheater’ by ex-UFC star who reveals how Josh Hokit can beat him at UFC 334",
+          "link": "https://bloodyelbow.com/2026/11/13/ciryl-gane-branded-dirty-cheater-by-ex-ufc-star-who-reveals-how-josh-hokit-can-beat-him-at-ufc-334/",
+          "date": "2026-11-14T02:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281628315-scaled.jpg"
+        },
         {
           "title": "Gable Steveson books UFC 336 return against 5-2 heavyweight after being knocked out in 12 seconds",
           "link": "https://bloodyelbow.com/2026/11/13/gable-steveson-books-ufc-336-return-against-5-2-heavyweight-after-being-knocked-out-in-12-seconds/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/13/merab-dvalishvili-calls-for-usman-nurmagomedovs-release-in-first-statement-since-his-sentencing/",
           "date": "2026-11-13T20:52:41.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Merab-Dvalishvili-Usman-Nurmagomedov.jpg"
-        },
-        {
-          "title": "Chrisean Rock punches Adam22 at Wild ‘n Out days after postponing boxing return",
-          "link": "https://bloodyelbow.com/2026/11/13/chrisean-rock-punches-adam22-at-wild-n-out-days-after-postponing-boxing-return/",
-          "date": "2026-11-13T20:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Chrisean-Rock-punches-Adam22-1.png"
         }
       ]
     },
@@ -93,6 +93,18 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "UFC 334 ‘Gane vs. Hokit’ play-by-play, results & round scoring",
+          "link": "https://www.sherdog.com/news/news/UFC-334-Gane-vs-Hokit-playbyplay-results-round-scoring-203625",
+          "date": "2026-11-14T23:57:07.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261114021138_ufc_pbp.JPG"
+        },
+        {
+          "title": "PFL Dubai ‘Nemkov vs. Bilostenniy’ play-by-play, results & round scoring",
+          "link": "https://www.sherdog.com/news/news/PFL-Dubai-Nemkov-vs-Bilostenniy-playbyplay-results-round-scoring-203621",
+          "date": "2026-11-14T22:12:05.000Z",
+          "image": null
+        },
+        {
           "title": "UFC 334 weigh-in results: 2 title fights set; 2 fighters heavy",
           "link": "https://www.sherdog.com/news/news/UFC-334-weighin-results-2-title-fights-set-2-fighters-heavy-203617",
           "date": "2026-11-13T23:51:26.000Z",
@@ -115,18 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Israel-Adesanya-says-CKB-insults-prepared-him-for-UFC-press-conferences-203611",
           "date": "2026-11-13T02:45:23.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261113024523_izzy_racism_ckb.JPG"
-        },
-        {
-          "title": "Welterweight veterans reportedly set for UFC Dallas clash",
-          "link": "https://www.sherdog.com/news/news/Welterweight-veterans-reportedly-set-for-UFC-Dallas-clash-203610",
-          "date": "2026-11-13T02:32:42.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261113023242_ufc_dallas_neal_curtis.JPG"
-        },
-        {
-          "title": "Dana White warns fighters after Usman Nurmagomedov-Merab Dvalishvili brawl",
-          "link": "https://www.sherdog.com/news/news/Dana-White-warns-fighters-after-Usman-NurmagomedovMerab-Dvalishvili-brawl-203609",
-          "date": "2026-11-13T02:17:15.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261113021715_dana_usman_merab_abu_dhabi.JPG"
         }
       ]
     }
