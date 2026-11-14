@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-14T14:12:14.173Z",
+  "generatedAt": "2026-11-14T15:05:21.709Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Alex Pereira provides his final prediction for Ciryl Gane vs. Josh Hokit at UFC 334",
+          "link": "https://bloodyelbow.com/2026/11/14/alex-pereira-provides-his-final-prediction-for-ciryl-gane-vs-josh-hokit-at-ufc-334/",
+          "date": "2026-11-14T15:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305014484-scaled.jpg"
+        },
         {
           "title": "Mike Perry reveals he re-signed to the UFC the day before suffering TKO loss and teases next opponent",
           "link": "https://bloodyelbow.com/2026/11/14/mike-perry-reveals-he-re-signed-to-the-ufc-the-day-before-suffering-tko-loss-and-teases-next-opponent/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/14/merab-dvalishvili-outweighed-by-nearly-15-pounds-in-clash-with-former-ufc-opponent-days-after-brawl/",
           "date": "2026-11-14T09:31:44.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/10/GettyImages-2194403044-scaled.jpg"
-        },
-        {
-          "title": "Dana White says Ciryl Gane’s fouls were not why he beat Alex Pereira: ‘He had already done damage’",
-          "link": "https://bloodyelbow.com/2026/11/14/dana-white-says-ciryl-ganes-fouls-were-not-why-he-beat-alex-pereira-he-had-already-done-damage/",
-          "date": "2026-11-14T06:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281628200-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Anything but fighting: Bilal Hasan loves Michael Jackson, Martial Arts movies, drums, more",
+          "link": "https://www.mmafighting.com/ufc/520778/anything-but-fighting-bilal-hasan-loves-michael-jackson-martial-arts-movies-drums-more",
+          "date": "2026-11-14T15:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/jim-ABF-YT-2.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "LIVE! PFL Dubai Results: Nemkov vs. Bilostenniy",
           "link": "https://www.mmafighting.com/pfl/520927/pfl-dubai-results-nemkov-vs-bilostenniy",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/520939/ufc-334-results-gane-vs-hokit",
           "date": "2026-11-14T05:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305014486.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Caio Borralho reveals conversation he had with Alex Pereira after booking UFC 334 fight with Pereira teammate Yousri Belgaroui",
-          "link": "https://www.mmafighting.com/ufc/520430/caio-borralho-reveals-conversation-with-alex-pereira-after-booking-ufc-334-fight-with-yousri-belgaroui",
-          "date": "2026-11-14T03:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/chorus/uploads/chorus_asset/file/25896481/Snapinst.app_472188265_1826732191065213_1240012812348159624_n_1080.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
