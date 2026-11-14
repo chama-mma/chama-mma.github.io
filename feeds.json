@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-14T16:03:50.899Z",
+  "generatedAt": "2026-11-14T17:04:03.201Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Merab Dvalishvili claims Umar Nurmagomedov is in custody for involvement in brawl that led to arrests",
+          "link": "https://bloodyelbow.com/2026/11/14/merab-dvalishvili-claims-umar-nurmagomedov-is-in-custody-for-involvement-in-brawl-that-led-to-arrests/",
+          "date": "2026-11-14T16:53:01.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/08/GettyImages-2292562526-scaled.jpg"
+        },
+        {
+          "title": "Zabit Magomedsharipov’s brother loses undefeated record in upset despite ‘top five in the UFC’ claim",
+          "link": "https://bloodyelbow.com/2026/11/14/zabit-magomedsharipovs-brother-loses-undefeated-record-in-upset-despite-top-five-in-the-ufc-claim/",
+          "date": "2026-11-14T16:34:31.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/07/GettyImages-1238762629-scaled.jpg"
+        },
         {
           "title": "Khamzat Chimaev’s former UFC opponent stopped by ex-title challenger moments after illegal strike",
           "link": "https://bloodyelbow.com/2026/11/14/khamzat-chimaevs-former-ufc-opponent-stopped-by-ex-title-challenger-moments-after-illegal-strike/",
@@ -29,18 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/14/fans-narrowly-back-ufc-334-upsets-as-gane-vs-hokit-and-harrison-vs-nunes-polls-go-down-to-the-wire/",
           "date": "2026-11-14T13:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2304511040.jpg"
-        },
-        {
-          "title": "Dana White includes Jon Jones vs Tom Aspinall, Josh Hokit and Paddy Pimblett on his dream UFC card",
-          "link": "https://bloodyelbow.com/2026/11/14/dana-white-includes-jon-jones-vs-tom-aspinall-josh-hokit-and-paddy-pimblett-on-his-dream-ufc-card/",
-          "date": "2026-11-14T12:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/10/GettyImages-2299557483-scaled.jpg"
-        },
-        {
-          "title": "BKB Bare Knuckle star Amado Vargas has multiple suitors for Sean Garcia rematch after meeting Eddie Hearn",
-          "link": "https://bloodyelbow.com/2026/11/14/bkb-bare-knuckle-star-amado-vargas-has-multiple-suitors-for-sean-garcia-rematch-after-meeting-eddie-hearn/",
-          "date": "2026-11-14T11:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/amado-vargas-sean-garcia-1794590267819.jpg"
         }
       ]
     },
@@ -49,6 +49,18 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "LIVE! RAF Abu Dhabi Results: Khamzat vs. Weidman",
+          "link": "https://www.mmafighting.com/raf-wrestling/520909/raf-abu-dhabi-results-khamzat-vs-weidman",
+          "date": "2026-11-14T16:35:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2275389728.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Only fighter to beat Kayla Harrison says Amanda Nunes finishes her ‘very easily’ at UFC 334",
+          "link": "https://www.mmafighting.com/ufc/520969/only-fighter-to-beat-kayla-harrison-says-amanda-nunes-finishes-her-very-easily-at-ufc-334",
+          "date": "2026-11-14T16:30:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-1245103649.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "UFC 334: Ciryl Gane vs. Josh Hokit live stream watch party",
           "link": "https://www.mmafighting.com/ufc/520479/ufc-334-ciryl-gane-vs-josh-hokit-live-stream-watch-party",
@@ -72,18 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/520964/ufc-334-predictions",
           "date": "2026-11-14T13:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/gettyimages-2281629499.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Merab Dvalishvili doesn’t want to press charges against Usman Nurmagomedov, wants to help him get out of prison",
-          "link": "https://www.mmafighting.com/ufc/521058/merab-dvalishvili-doesnt-want-to-press-charges-against-usman-nurmagomedov-wants-to-help-him-get-out-of-prison",
-          "date": "2026-11-14T11:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2301822425.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "RAF Abu Dhabi Results: Khamzat vs. Weidman",
-          "link": "https://www.mmafighting.com/raf-wrestling/520909/raf-abu-dhabi-results-khamzat-vs-weidman",
-          "date": "2026-11-14T07:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2275389728.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
