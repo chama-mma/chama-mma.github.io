@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-14T18:34:05.611Z",
+  "generatedAt": "2026-11-14T19:32:16.985Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Zabit Magomedsharipov dominates UFC star at RAF Abu Dhabi to pick up second win of the year",
+          "link": "https://bloodyelbow.com/2026/11/14/zabit-magomedsharipov-dominates-ufc-star-at-raf-abu-dhabi-to-pick-up-second-win-of-the-year/",
+          "date": "2026-11-14T19:18:45.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Screenshot-2026-11-14-at-19.21.02.png"
+        },
+        {
+          "title": "Amanda Nunes’ coach admits Kayla Harrison is ‘absolutely’ the worst matchup of her career",
+          "link": "https://bloodyelbow.com/2026/11/14/amanda-nunes-coach-admits-kayla-harrison-is-absolutely-the-worst-matchup-of-her-career/",
+          "date": "2026-11-14T19:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/11/GettyImages-1258600876-scaled.jpg"
+        },
         {
           "title": "Saba Lazishvili pulls off comeback at RAF Abu Dhabi after replacing Umar Nurmagomedov on one day’s notice",
           "link": "https://bloodyelbow.com/2026/11/14/saba-lazishvili-pulls-off-comeback-at-raf-abu-dhabi-after-replacing-umar-nurmagomedov-on-one-days-notice/",
@@ -29,18 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/14/merab-dvalishvili-beats-former-ufc-foe-as-he-continues-plea-for-usman-nurmagomedovs-release-after-win/",
           "date": "2026-11-14T17:18:05.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Screenshot-2026-11-14-at-16.57.34.png"
-        },
-        {
-          "title": "Merab Dvalishvili claims Umar Nurmagomedov is in custody for involvement in brawl that led to arrests",
-          "link": "https://bloodyelbow.com/2026/11/14/merab-dvalishvili-claims-umar-nurmagomedov-is-in-custody-for-involvement-in-brawl-that-led-to-arrests/",
-          "date": "2026-11-14T16:53:01.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/08/GettyImages-2292562526-scaled.jpg"
-        },
-        {
-          "title": "Zabit Magomedsharipov’s brother loses undefeated record in upset despite ‘top five in the UFC’ claim",
-          "link": "https://bloodyelbow.com/2026/11/14/zabit-magomedsharipovs-brother-loses-undefeated-record-in-upset-despite-top-five-in-the-ufc-claim/",
-          "date": "2026-11-14T16:34:31.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/07/GettyImages-1238762629-scaled.jpg"
         }
       ]
     },
@@ -50,40 +50,40 @@
       "site": "https://www.mmafighting.com/",
       "items": [
         {
-          "title": "RAF Abu Dhabi results: Merab Dvalishvili’s teammate Saba Lazashvili pulls off upset win over Urijah Faber",
-          "link": "https://www.mmafighting.com/raf-wrestling/521119/raf-abu-dhabi-results-merab-dvalishvilis-teammate-saba-lazashvili-pulls-off-upset-win-over-urijah-faber",
-          "date": "2026-11-14T18:33:08.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/IMG_5830.jpg?quality=90&strip=all&crop=0,0,100,100"
+          "title": "LIVE! PFL Dubai Results: Nemkov vs. Bilostenniy",
+          "link": "https://www.mmafighting.com/pfl/520927/pfl-dubai-results-nemkov-vs-bilostenniy",
+          "date": "2026-11-14T14:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/PFL_20261113_MB7_5213.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "Watch Connor Hughes knock out UFC veteran with brutal combo at PFL Dubai",
-          "link": "https://www.mmafighting.com/pfl/521124/watch-connor-hughes-knock-out-ufc-veteran-with-brutal-combo-at-pfl-dubai",
-          "date": "2026-11-14T18:14:19.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/PFL_20261114_JP1_6994.JPG_JP.jpg?quality=90&strip=all&crop=0,0,100,100"
+          "title": "UFC 334 predictions",
+          "link": "https://www.mmafighting.com/ufc/520964/ufc-334-predictions",
+          "date": "2026-11-14T13:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/gettyimages-2281629499.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "UFC 334 Paths to Victory: Ciryl Gane vs. Josh Hokit",
-          "link": "https://www.mmafighting.com/ufc/521028/ufc-334-paths-to-victory-ciryl-gane-vs-josh-hokit",
-          "date": "2026-11-14T18:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305016785.jpg?quality=90&strip=all&crop=0,0,100,100"
+          "title": "Merab Dvalishvili doesn’t want to press charges against Usman Nurmagomedov, wants to help him get out of prison",
+          "link": "https://www.mmafighting.com/ufc/521058/merab-dvalishvili-doesnt-want-to-press-charges-against-usman-nurmagomedov-wants-to-help-him-get-out-of-prison",
+          "date": "2026-11-14T11:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2301822425.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "RAF Abu Dhabi video: Julianna Pena falls by pin in RAF debut to Diana Avsaragova",
-          "link": "https://www.mmafighting.com/latest-news/521108/raf-abu-dhabi-video-julianna-pena-falls-by-pin-in-raf-debut-to-diana-avsaragova",
-          "date": "2026-11-14T17:26:50.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-14-at-12.22.12-PM.png?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "LIVE! RAF Abu Dhabi Results: Khamzat vs. Weidman",
+          "title": "RAF Abu Dhabi Results: Khamzat vs. Weidman",
           "link": "https://www.mmafighting.com/raf-wrestling/520909/raf-abu-dhabi-results-khamzat-vs-weidman",
-          "date": "2026-11-14T16:35:00.000Z",
+          "date": "2026-11-14T07:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2275389728.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "Only fighter to beat Kayla Harrison says Amanda Nunes finishes her ‘very easily’ at UFC 334",
-          "link": "https://www.mmafighting.com/ufc/520969/only-fighter-to-beat-kayla-harrison-says-amanda-nunes-finishes-her-very-easily-at-ufc-334",
-          "date": "2026-11-14T16:30:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-1245103649.jpg?quality=90&strip=all&crop=0,0,100,100"
+          "title": "UFC 334 Results: Gane vs. Hokit",
+          "link": "https://www.mmafighting.com/ufc/520939/ufc-334-results-gane-vs-hokit",
+          "date": "2026-11-14T05:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305014486.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Caio Borralho reveals conversation he had with Alex Pereira after booking UFC 334 fight with Pereira teammate Yousri Belgaroui",
+          "link": "https://www.mmafighting.com/ufc/520430/caio-borralho-reveals-conversation-with-alex-pereira-after-booking-ufc-334-fight-with-yousri-belgaroui",
+          "date": "2026-11-14T03:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/chorus/uploads/chorus_asset/file/25896481/Snapinst.app_472188265_1826732191065213_1240012812348159624_n_1080.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
