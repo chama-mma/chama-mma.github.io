@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-14T05:39:44.679Z",
+  "generatedAt": "2026-11-14T06:41:19.423Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Dana White says Ciryl Gane’s fouls were not why he beat Alex Pereira: ‘He had already done damage’",
+          "link": "https://bloodyelbow.com/2026/11/14/dana-white-says-ciryl-ganes-fouls-were-not-why-he-beat-alex-pereira-he-had-already-done-damage/",
+          "date": "2026-11-14T06:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281628200-scaled.jpg"
+        },
         {
           "title": "Joe Rogan breaks down Kayla Harrison vs Amanda Nunes at UFC 334: ‘She has such an advantage’",
           "link": "https://bloodyelbow.com/2026/11/13/joe-rogan-breaks-down-kayla-harrison-vs-amanda-nunes-at-ufc-334-she-has-such-an-advantage/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/13/ufc-champion-has-his-title-stolen-after-no-showing-press-conference-featuring-pereira-and-oliveira/",
           "date": "2026-11-13T22:30:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305008481-scaled.jpg"
-        },
-        {
-          "title": "Who is Saba Lazishvili? Merab Dvalishvili’s friend who gained over 600k followers after Usman Nurmagomedov brawl",
-          "link": "https://bloodyelbow.com/2026/11/13/who-is-saba-lazishvili-merab-dvalishvilis-friend-who-gained-over-600k-followers-after-usman-nurmagomedov-brawl/",
-          "date": "2026-11-13T22:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Saba-Lazishvili.png"
         }
       ]
     },
@@ -49,24 +49,6 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
-        {
-          "title": "UFC 334 Results: Gane vs. Hokit",
-          "link": "https://www.mmafighting.com/ufc/520939/ufc-334-results-gane-vs-hokit",
-          "date": "2026-11-14T05:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305014486.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Caio Borralho reveals conversation he had with Alex Pereira after booking UFC 334 fight with Pereira teammate Yousri Belgaroui",
-          "link": "https://www.mmafighting.com/ufc/520430/caio-borralho-reveals-conversation-with-alex-pereira-after-booking-ufc-334-fight-with-yousri-belgaroui",
-          "date": "2026-11-14T03:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/chorus/uploads/chorus_asset/file/25896481/Snapinst.app_472188265_1826732191065213_1240012812348159624_n_1080.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Kayla Harrison did ‘a lot of soul-searching’ before deciding to return from neck surgery and fight Amanda Nunes at UFC 334",
-          "link": "https://www.mmafighting.com/ufc/520586/kayla-harrison-did-a-lot-of-soul-searching-before-deciding-to-return-from-neck-surgery-and-fight-amanda-nunes-at-ufc-334",
-          "date": "2026-11-14T02:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2250234665.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
         {
           "title": "Melquizael Costa says Jared Gordon ‘going to get beat up bad’ at UFC 334, eyes fast turnaround for UFC 335",
           "link": "https://www.mmafighting.com/ufc/520929/melquizael-costa-says-jared-gordon-going-to-get-beat-up-bad-at-ufc-334-eyes-fast-turnaround-for-ufc-335",
@@ -84,6 +66,24 @@
           "link": "https://www.mmafighting.com/ufc/520744/ufc-334-paths-to-victory-kayla-harrison-vs-amanda-nunes",
           "date": "2026-11-13T23:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2304847635.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Video: Carlos Prates and Michael Morales have intense first faceoff at UFC 335 and UFC 336 press conference",
+          "link": "https://www.mmafighting.com/ufc/520992/video-carlos-prates-and-michael-morales-have-intense-first-faceoff-at-ufc-335-and-ufc-336-press-conference",
+          "date": "2026-11-13T22:22:33.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305011528.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "UFC 334 Preview Show: Has Josh Hokit gotten over with fans ahead of his fight with Ciryl Gane?",
+          "link": "https://www.mmafighting.com/ufc/520982/ufc-334-preview-show-has-josh-hokit-gotten-over-with-fans-ahead-of-his-fight-with-ciryl-gane",
+          "date": "2026-11-13T22:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/UFC-334-CLEAN.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "UFC 335 and UFC 336 press conference video",
+          "link": "https://www.mmafighting.com/ufc/520942/ufc-335-and-ufc-336-press-conference-video",
+          "date": "2026-11-13T20:30:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/07/gettyimages-2288456634.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
