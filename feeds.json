@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-14T13:22:42.731Z",
+  "generatedAt": "2026-11-14T14:12:14.173Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Mike Perry reveals he re-signed to the UFC the day before suffering TKO loss and teases next opponent",
+          "link": "https://bloodyelbow.com/2026/11/14/mike-perry-reveals-he-re-signed-to-the-ufc-the-day-before-suffering-tko-loss-and-teases-next-opponent/",
+          "date": "2026-11-14T14:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/08/GettyImages-848165012-scaled.jpg"
+        },
         {
           "title": "Fans narrowly back UFC 334 upsets as Gane vs Hokit and Harrison vs Nunes polls go down to the wire",
           "link": "https://bloodyelbow.com/2026/11/14/fans-narrowly-back-ufc-334-upsets-as-gane-vs-hokit-and-harrison-vs-nunes-polls-go-down-to-the-wire/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/14/dana-white-says-ciryl-ganes-fouls-were-not-why-he-beat-alex-pereira-he-had-already-done-damage/",
           "date": "2026-11-14T06:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281628200-scaled.jpg"
-        },
-        {
-          "title": "Joe Rogan breaks down Kayla Harrison vs Amanda Nunes at UFC 334: ‘She has such an advantage’",
-          "link": "https://bloodyelbow.com/2026/11/13/joe-rogan-breaks-down-kayla-harrison-vs-amanda-nunes-at-ufc-334-she-has-such-an-advantage/",
-          "date": "2026-11-14T04:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305014237-scaled.jpg"
         }
       ]
     },
@@ -50,16 +50,16 @@
       "site": "https://www.mmafighting.com/",
       "items": [
         {
+          "title": "LIVE! PFL Dubai Results: Nemkov vs. Bilostenniy",
+          "link": "https://www.mmafighting.com/pfl/520927/pfl-dubai-results-nemkov-vs-bilostenniy",
+          "date": "2026-11-14T14:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/PFL_20261113_MB7_5213.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
           "title": "UFC 334 predictions",
           "link": "https://www.mmafighting.com/ufc/520964/ufc-334-predictions",
           "date": "2026-11-14T13:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/gettyimages-2281629499.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "PFL Dubai Results: Nemkov vs. Bilostenniy",
-          "link": "https://www.mmafighting.com/pfl/520927/pfl-dubai-results-nemkov-vs-bilostenniy",
-          "date": "2026-11-14T12:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/PFL_20261113_MB7_5213.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
           "title": "Merab Dvalishvili doesn’t want to press charges against Usman Nurmagomedov, wants to help him get out of prison",
