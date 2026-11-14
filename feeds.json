@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-14T22:00:23.421Z",
+  "generatedAt": "2026-11-14T22:59:14.334Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Conor McGregor places UFC 334 bet with €6 million payout",
+          "link": "https://bloodyelbow.com/2026/11/14/conor-mcgregor-places-ufc-334-bet-with-e6-million-payout/",
+          "date": "2026-11-14T22:20:50.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/04/GettyImages-814059570.jpg"
+        },
+        {
+          "title": "Ex-boxing champion Lee Selby suffers horror injury in BKB Bare Knuckle Boxing return win over Ollie Sentance",
+          "link": "https://bloodyelbow.com/2026/11/14/ex-boxing-champion-lee-selby-suffers-horror-injury-in-bkb-bare-knuckle-boxing-return-against-ollie-sentance/",
+          "date": "2026-11-14T22:12:43.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Lee-Selby.png"
+        },
         {
           "title": "Ciryl Gane v Josh Hokit UFC 334 LIVE Stream info, results, updates and more as Kayla Harrison takes on Amanda Nunes",
           "link": "https://bloodyelbow.com/2026/11/14/ciryl-gane-v-josh-hokit-ufc-334-live-stream-info-results-updates-and-more-as-kayla-harrison-takes-on-amanda-nunes/",
@@ -16,7 +28,7 @@
           "title": "Amado Vargas viciously knocks out Callum Nulty in BKB Bare Knuckle Boxing return",
           "link": "https://bloodyelbow.com/2026/11/14/amado-vargas-viciously-knocks-out-callum-nulty-in-bkb-bare-knuckle-boxing-return/",
           "date": "2026-11-14T21:37:04.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Amado-Vargas.png"
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/20261114_BKB61_FIGHTS248-2-scaled.jpg"
         },
         {
           "title": "Paddy Pimblett watches as his ex-UFC star teammate is brutally KO’d in PFL debut",
@@ -29,18 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/14/ciryl-gane-questions-josh-hokits-cardio-as-he-reveals-lightest-weight-in-seven-years-was-planned/",
           "date": "2026-11-14T20:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/03/GettyImages-2242629025-scaled.jpg"
-        },
-        {
-          "title": "Khamzat Chimaev wins title after dominating UFC legend in RAF Abu Dhabi main event",
-          "link": "https://bloodyelbow.com/2026/11/14/khamzat-chimaev-wins-title-after-dominating-ufc-legend-in-raf-abu-dhabi-main-event/",
-          "date": "2026-11-14T19:40:48.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Screenshot-2026-11-14-at-19.37.32.png"
-        },
-        {
-          "title": "Zabit Magomedsharipov dominates UFC star at RAF Abu Dhabi to pick up second win of the year",
-          "link": "https://bloodyelbow.com/2026/11/14/zabit-magomedsharipov-dominates-ufc-star-at-raf-abu-dhabi-to-pick-up-second-win-of-the-year/",
-          "date": "2026-11-14T19:18:45.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Screenshot-2026-11-14-at-19.21.02.png"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "LIVE! UFC 334 Results: Gane vs. Hokit",
+          "link": "https://www.mmafighting.com/ufc/520939/ufc-334-results-gane-vs-hokit",
+          "date": "2026-11-14T22:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305014486.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "PFL Dubai results: Sergei Bilostenniy upsets Vadim Nemkov to win title, Patrick Habirora shines",
           "link": "https://www.mmafighting.com/pfl/521195/pfl-dubai-results-sergei-bilostenniy-upsets-vadim-nemkov-to-win-title-patrick-habirora-shines",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/521067/raf-abu-dhabi-live-blog-arman-tsarukyan-vs-neiman-gracie",
           "date": "2026-11-14T19:06:25.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/04/RAF07_arman-35.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "RAF Abu Dhabi Results: Khamzat vs. Weidman",
-          "link": "https://www.mmafighting.com/raf-wrestling/520909/raf-abu-dhabi-results-khamzat-vs-weidman",
-          "date": "2026-11-14T18:50:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2275389728.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
