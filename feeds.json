@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-14T17:04:03.201Z",
+  "generatedAt": "2026-11-14T17:58:34.036Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Bella Mir suffers 90-second one-sided loss in second match since UFC upset cost her a contract",
+          "link": "https://bloodyelbow.com/2026/11/14/bella-mir-suffers-90-second-one-sided-loss-in-second-match-since-ufc-upset-cost-her-a-contract/",
+          "date": "2026-11-14T17:30:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/07/GettyImages-2222172291-scaled.jpg"
+        },
+        {
+          "title": "Merab Dvalishvili beats former UFC foe as he continues plea for Usman Nurmagomedov’s release after win",
+          "link": "https://bloodyelbow.com/2026/11/14/merab-dvalishvili-beats-former-ufc-foe-as-he-continues-plea-for-usman-nurmagomedovs-release-after-win/",
+          "date": "2026-11-14T17:18:05.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Screenshot-2026-11-14-at-16.57.34.png"
+        },
         {
           "title": "Merab Dvalishvili claims Umar Nurmagomedov is in custody for involvement in brawl that led to arrests",
           "link": "https://bloodyelbow.com/2026/11/14/merab-dvalishvili-claims-umar-nurmagomedov-is-in-custody-for-involvement-in-brawl-that-led-to-arrests/",
@@ -29,18 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/14/alex-pereira-provides-his-final-prediction-for-ciryl-gane-vs-josh-hokit-at-ufc-334/",
           "date": "2026-11-14T15:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305014484-scaled.jpg"
-        },
-        {
-          "title": "Mike Perry reveals he re-signed to the UFC the day before suffering TKO loss and teases next opponent",
-          "link": "https://bloodyelbow.com/2026/11/14/mike-perry-reveals-he-re-signed-to-the-ufc-the-day-before-suffering-tko-loss-and-teases-next-opponent/",
-          "date": "2026-11-14T14:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/08/GettyImages-848165012-scaled.jpg"
-        },
-        {
-          "title": "Fans narrowly back UFC 334 upsets as Gane vs Hokit and Harrison vs Nunes polls go down to the wire",
-          "link": "https://bloodyelbow.com/2026/11/14/fans-narrowly-back-ufc-334-upsets-as-gane-vs-hokit-and-harrison-vs-nunes-polls-go-down-to-the-wire/",
-          "date": "2026-11-14T13:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2304511040.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "RAF Abu Dhabi video: Julianna Pena falls by pin in RAF debut to Diana Avsaragova",
+          "link": "https://www.mmafighting.com/latest-news/521108/raf-abu-dhabi-video-julianna-pena-falls-by-pin-in-raf-debut-to-diana-avsaragova",
+          "date": "2026-11-14T17:26:50.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-14-at-12.22.12-PM.png?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "LIVE! RAF Abu Dhabi Results: Khamzat vs. Weidman",
           "link": "https://www.mmafighting.com/raf-wrestling/520909/raf-abu-dhabi-results-khamzat-vs-weidman",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/pfl/520927/pfl-dubai-results-nemkov-vs-bilostenniy",
           "date": "2026-11-14T14:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/PFL_20261113_MB7_5213.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "UFC 334 predictions",
-          "link": "https://www.mmafighting.com/ufc/520964/ufc-334-predictions",
-          "date": "2026-11-14T13:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/gettyimages-2281629499.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
