@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-14T20:25:38.881Z",
+  "generatedAt": "2026-11-14T22:00:23.421Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Ciryl Gane v Josh Hokit UFC 334 LIVE Stream info, results, updates and more as Kayla Harrison takes on Amanda Nunes",
+          "link": "https://bloodyelbow.com/2026/11/14/ciryl-gane-v-josh-hokit-ufc-334-live-stream-info-results-updates-and-more-as-kayla-harrison-takes-on-amanda-nunes/",
+          "date": "2026-11-14T21:57:54.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305014484-scaled.jpg"
+        },
+        {
+          "title": "Amado Vargas viciously knocks out Callum Nulty in BKB Bare Knuckle Boxing return",
+          "link": "https://bloodyelbow.com/2026/11/14/amado-vargas-viciously-knocks-out-callum-nulty-in-bkb-bare-knuckle-boxing-return/",
+          "date": "2026-11-14T21:37:04.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Amado-Vargas.png"
+        },
         {
           "title": "Paddy Pimblett watches as his ex-UFC star teammate is brutally KO’d in PFL debut",
           "link": "https://bloodyelbow.com/2026/11/14/paddy-pimblett-watches-as-his-ex-ufc-star-teammate-is-brutally-kod-in-pfl-debut/",
@@ -29,18 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/14/zabit-magomedsharipov-dominates-ufc-star-at-raf-abu-dhabi-to-pick-up-second-win-of-the-year/",
           "date": "2026-11-14T19:18:45.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Screenshot-2026-11-14-at-19.21.02.png"
-        },
-        {
-          "title": "Amanda Nunes’ coach admits Kayla Harrison is ‘absolutely’ the worst matchup of her career",
-          "link": "https://bloodyelbow.com/2026/11/14/amanda-nunes-coach-admits-kayla-harrison-is-absolutely-the-worst-matchup-of-her-career/",
-          "date": "2026-11-14T19:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/11/GettyImages-1258600876-scaled.jpg"
-        },
-        {
-          "title": "Saba Lazishvili pulls off comeback at RAF Abu Dhabi after replacing Umar Nurmagomedov on one day’s notice",
-          "link": "https://bloodyelbow.com/2026/11/14/saba-lazishvili-pulls-off-comeback-at-raf-abu-dhabi-after-replacing-umar-nurmagomedov-on-one-days-notice/",
-          "date": "2026-11-14T18:29:27.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Screenshot-2026-11-14-at-18.17.09.png"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "PFL Dubai results: Sergei Bilostenniy upsets Vadim Nemkov to win title, Patrick Habirora shines",
+          "link": "https://www.mmafighting.com/pfl/521195/pfl-dubai-results-sergei-bilostenniy-upsets-vadim-nemkov-to-win-title-patrick-habirora-shines",
+          "date": "2026-11-14T21:13:58.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2231417676.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Khamzat Chimaev blanks Chris Weidman with tech fall victory in RAF Abu Dhabi main event",
           "link": "https://www.mmafighting.com/ufc/521171/khamzat-chimaev-blanks-chris-weidman-with-tech-fall-victory-in-raf-abu-dhabi-main-event",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/raf-wrestling/520909/raf-abu-dhabi-results-khamzat-vs-weidman",
           "date": "2026-11-14T18:50:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2275389728.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "RAF Abu Dhabi results: Merab Dvalishvili’s teammate Saba Lazashvili pulls off upset win over Urijah Faber",
-          "link": "https://www.mmafighting.com/raf-wrestling/521119/raf-abu-dhabi-results-merab-dvalishvilis-teammate-saba-lazashvili-pulls-off-upset-win-over-urijah-faber",
-          "date": "2026-11-14T18:33:08.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/IMG_5830.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
@@ -97,6 +97,12 @@
           "link": "https://www.sherdog.com/news/news/UFC-334-Gane-vs-Hokit-playbyplay-results-round-scoring-203625",
           "date": "2026-11-14T23:57:07.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261114021138_ufc_pbp.JPG"
+        },
+        {
+          "title": "Sergey Bilostenniy outpoints Vadim Nemkov to become PFL heavyweight champion",
+          "link": "https://www.sherdog.com/news/news/Sergey-Bilostenniy-outpoints-Vadim-Nemkov-to-become-PFL-heavyweight-champion-203622",
+          "date": "2026-11-14T22:12:10.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261114085719_Screenshot_20261114_at_3_56_07PM.PNG"
         },
         {
           "title": "PFL Dubai ‘Nemkov vs. Bilostenniy’ play-by-play, results & round scoring",
@@ -121,12 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Report-8-sentenced-to-prison-after-NurmagomedovDvalishvili-hotel-brawl-203619",
           "date": "2026-11-13T18:17:10.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261113061710_Untitled2.JPG"
-        },
-        {
-          "title": "Israel Adesanya says CKB insults prepared him for UFC press conferences",
-          "link": "https://www.sherdog.com/news/news/Israel-Adesanya-says-CKB-insults-prepared-him-for-UFC-press-conferences-203611",
-          "date": "2026-11-13T02:45:23.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261113024523_izzy_racism_ckb.JPG"
         }
       ]
     }
