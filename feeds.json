@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T04:40:24.510Z",
+  "generatedAt": "2026-11-14T05:39:44.679Z",
   "sources": [
     {
       "id": "bloodyelbow",
@@ -50,6 +50,12 @@
       "site": "https://www.mmafighting.com/",
       "items": [
         {
+          "title": "UFC 334 Results: Gane vs. Hokit",
+          "link": "https://www.mmafighting.com/ufc/520939/ufc-334-results-gane-vs-hokit",
+          "date": "2026-11-14T05:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305014486.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
           "title": "Caio Borralho reveals conversation he had with Alex Pereira after booking UFC 334 fight with Pereira teammate Yousri Belgaroui",
           "link": "https://www.mmafighting.com/ufc/520430/caio-borralho-reveals-conversation-with-alex-pereira-after-booking-ufc-334-fight-with-yousri-belgaroui",
           "date": "2026-11-14T03:00:00.000Z",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/520744/ufc-334-paths-to-victory-kayla-harrison-vs-amanda-nunes",
           "date": "2026-11-13T23:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2304847635.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Video: Carlos Prates and Michael Morales have intense first faceoff at UFC 335 and UFC 336 press conference",
-          "link": "https://www.mmafighting.com/ufc/520992/video-carlos-prates-and-michael-morales-have-intense-first-faceoff-at-ufc-335-and-ufc-336-press-conference",
-          "date": "2026-11-13T22:22:33.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305011528.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
