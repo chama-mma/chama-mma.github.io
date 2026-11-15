@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-15T14:14:40.749Z",
+  "generatedAt": "2026-11-15T15:06:09.154Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Dana White offers Stephen Thompson the chance to ‘test’ for new job after UFC 334 retirement fight",
+          "link": "https://bloodyelbow.com/2026/11/15/dana-white-offers-stephen-thompson-the-chance-to-test-for-new-job-after-ufc-334-retirement-fight/",
+          "date": "2026-11-15T15:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305158817-scaled.jpg"
+        },
         {
           "title": "Kayla Harrison shuts down fight against teammate next as she calls out Ronda Rousey: ‘Free money’",
           "link": "https://bloodyelbow.com/2026/11/15/kayla-harrison-shuts-down-fight-against-teammate-next-as-she-calls-out-ronda-rousey-free-money/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/15/dana-white-responds-to-josh-hokits-calls-for-an-immediate-rematch-after-ufc-334-defeat/",
           "date": "2026-11-15T07:29:23.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305178959-scaled.jpg"
-        },
-        {
-          "title": "‘I’m embarrassed’… Dana White rages about UFC 334 robbery",
-          "link": "https://bloodyelbow.com/2026/11/15/im-embarrassed-dana-white-rages-about-ufc-334-robbery/",
-          "date": "2026-11-15T07:28:27.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305125457-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Kayla Harrison likes idea of ‘free money’ fight against Ronda Rousey",
+          "link": "https://www.mmafighting.com/ufc/521605/kayla-harrison-likes-idea-of-free-money-fight-against-ronda-rousey",
+          "date": "2026-11-15T15:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305174024.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Dana White credits Josh Hokit for the ‘perfect fight’ but he still lost to Ciryl Gane",
           "link": "https://www.mmafighting.com/ufc/521595/dana-white-credits-josh-hokit-for-the-perfect-fight-but-he-still-lost-to-ciryl-gane",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/521258/ufc-334-post-fight-press-conference-video",
           "date": "2026-11-15T06:06:06.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2304844036.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Ciryl Gane survives frantic pace, punishes Josh Hokit late to defend title in UFC 334 main event",
-          "link": "https://www.mmafighting.com/ufc/521484/ciryl-gane-survives-frantic-pace-punishes-josh-hokit-late-to-defend-title-in-ufc-334-main-event",
-          "date": "2026-11-15T06:04:32.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305176907.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
