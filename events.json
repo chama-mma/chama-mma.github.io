@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T01:52:13.672Z",
+  "updated": "2026-11-15T03:41:00.855Z",
   "source": "https://www.ufc.com/events",
   "events": [
     {
@@ -44,13 +44,23 @@
     },
     {
       "name": "UFC Fight Night",
-      "main": "",
+      "main": "Rodriguez vs Garcia",
       "start": "2027-01-17T01:00:00.000Z",
       "prelims": "2027-01-16T22:00:00.000Z",
       "venue": "American Airlines Center",
       "city": "Dallas",
       "country": "United States",
       "url": "https://www.ufc.com/event/ufc-fight-night-january-16-2027"
+    },
+    {
+      "name": "UFC Fight Night",
+      "main": "Bonfim vs Brady",
+      "start": "2027-01-23T22:00:00.000Z",
+      "prelims": "2027-01-23T20:00:00.000Z",
+      "venue": "Meta APEX",
+      "city": "Las Vegas",
+      "country": "United States",
+      "url": "https://www.ufc.com/event/ufc-fight-night-january-23-2027"
     },
     {
       "name": "UFC 336",
