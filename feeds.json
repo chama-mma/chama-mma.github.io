@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-15T21:06:36.553Z",
+  "generatedAt": "2026-11-15T22:01:32.250Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "UFC 334 star calls out Joe Rogan and Daniel Cormier for biased commentary, argues foe faked injury",
+          "link": "https://bloodyelbow.com/2026/11/15/ufc-334-star-calls-out-joe-rogan-and-daniel-cormier-for-biased-commentary-argues-foe-faked-injury/",
+          "date": "2026-11-15T22:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281638736-scaled.jpg"
+        },
         {
           "title": "Only woman to beat Kayla Harrison in MMA sends the UFC a message in reaction to Amanda Nunes win",
           "link": "https://bloodyelbow.com/2026/11/15/only-woman-to-beat-kayla-harrison-in-mma-sends-the-ufc-a-message-in-reaction-to-amanda-nunes-win/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/15/kevin-holland-says-hes-contemplated-retirement-after-ufc-334-draw-that-dana-white-called-insane/",
           "date": "2026-11-15T18:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305167484-scaled.jpg"
-        },
-        {
-          "title": "Kayla Harrison accuses Amanda Nunes of dirty tactics as she reveals potential UFC 334 injury",
-          "link": "https://bloodyelbow.com/2026/11/15/kayla-harrison-accuses-amanda-nunes-of-dirty-tactics-as-she-reveals-potential-ufc-334-injury/",
-          "date": "2026-11-15T17:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305171973-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "UFC 336: Gable Steveson books matchup on Joshua Van vs. Manel Kape fight card",
+          "link": "https://www.mmafighting.com/ufc/521095/ufc-336-gable-steveson-books-matchup-on-joshua-van-vs-manel-kape-fight-card",
+          "date": "2026-11-15T22:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/gettyimages-2296147129.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "‘Call the cops’: Alex Pereira reacts to ‘robbery’ in Ciryl Gane vs. Josh Hokit",
           "link": "https://www.mmafighting.com/ufc/521627/call-the-cops-alex-pereira-reacts-to-robbery-in-ciryl-gane-vs-josh-hokit",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/521605/kayla-harrison-likes-idea-of-free-money-fight-against-ronda-rousey",
           "date": "2026-11-15T15:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305174024.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Dana White credits Josh Hokit for the ‘perfect fight’ but he still lost to Ciryl Gane",
-          "link": "https://www.mmafighting.com/ufc/521595/dana-white-credits-josh-hokit-for-the-perfect-fight-but-he-still-lost-to-ciryl-gane",
-          "date": "2026-11-15T14:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305179356.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
