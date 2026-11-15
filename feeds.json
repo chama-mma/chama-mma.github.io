@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-15T00:04:18.725Z",
+  "generatedAt": "2026-11-15T01:38:56.542Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "‘Scum’… Conor McGregor blasts Terrance McKinney’s ‘terrible behavior’ before UFC 334 KO",
+          "link": "https://bloodyelbow.com/2026/11/14/scum-conor-mcgregor-blasts-terrance-mckinneys-terrible-behavior-before-ufc-334-ko/",
+          "date": "2026-11-15T01:12:53.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305152920-scaled.jpg"
+        },
+        {
+          "title": "UFC 334 star is ‘pretty sure I’m done fighting’ after suffering fourth loss in a row",
+          "link": "https://bloodyelbow.com/2026/11/14/ufc-334-star-is-pretty-sure-im-done-fighting-after-suffering-fourth-loss-in-a-row/",
+          "date": "2026-11-15T00:24:25.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/04/GettyImages-2268850894-scaled.jpg"
+        },
         {
           "title": "Conor McGregor places UFC 334 bet with €6 million payout",
           "link": "https://bloodyelbow.com/2026/11/14/conor-mcgregor-places-ufc-334-bet-with-e6-million-payout/",
@@ -29,18 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/14/amado-vargas-viciously-knocks-out-callum-nulty-in-bkb-bare-knuckle-boxing-return/",
           "date": "2026-11-14T21:37:04.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/20261114_BKB61_FIGHTS248-2-scaled.jpg"
-        },
-        {
-          "title": "Paddy Pimblett watches as his ex-UFC star teammate is brutally KO’d in PFL debut",
-          "link": "https://bloodyelbow.com/2026/11/14/paddy-pimblett-watches-as-his-ex-ufc-star-teammate-is-brutally-kod-in-pfl-debut/",
-          "date": "2026-11-14T20:02:27.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Screenshot-2026-11-14-at-19.48.40.png"
-        },
-        {
-          "title": "Ciryl Gane questions Josh Hokit’s cardio as he reveals lightest weight in seven years was planned",
-          "link": "https://bloodyelbow.com/2026/11/14/ciryl-gane-questions-josh-hokits-cardio-as-he-reveals-lightest-weight-in-seven-years-was-planned/",
-          "date": "2026-11-14T20:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/03/GettyImages-2242629025-scaled.jpg"
         }
       ]
     },
@@ -50,40 +50,40 @@
       "site": "https://www.mmafighting.com/",
       "items": [
         {
+          "title": "LIVE! UFC 334 Results: Gane vs. Hokit",
+          "link": "https://www.mmafighting.com/ufc/520939/ufc-334-results-gane-vs-hokit",
+          "date": "2026-11-15T01:18:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305014486.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "UFC 334: Ciryl Gane vs. Josh Hokit LIVE stream watch party",
+          "link": "https://www.mmafighting.com/ufc/520479/ufc-334-ciryl-gane-vs-josh-hokit-live-stream-watch-party",
+          "date": "2026-11-15T01:17:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/06/gettyimages-2281623212.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "UFC 334 video: Terrance McKinney keeps all-finish streak alive with first-round knockout of Jim Miller",
+          "link": "https://www.mmafighting.com/ufc/521287/ufc-334-video-terrance-mckinney-keeps-all-finish-streak-alive-with-first-round-knockout-of-jim-miller",
+          "date": "2026-11-15T01:06:20.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305152209.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "UFC 334 video: Cesar Almeida clobbers undefeated Donte Johnson with knockout flurry",
+          "link": "https://www.mmafighting.com/ufc/521279/ufc-334-video-cesar-almeida-clobbers-undefeated-donte-johnson-with-knockout-flurry",
+          "date": "2026-11-15T00:41:38.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305150213.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
           "title": "UFC 334 video: Bia Mesquita breaks Ronda Rousey’s submission record with fast finish",
           "link": "https://www.mmafighting.com/ufc/521262/ufc-334-video-bia-mesquita-breaks-ronda-rouseys-submission-record-with-fast-finish",
           "date": "2026-11-14T23:34:42.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305145106.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "LIVE! UFC 334 Results: Gane vs. Hokit",
-          "link": "https://www.mmafighting.com/ufc/520939/ufc-334-results-gane-vs-hokit",
-          "date": "2026-11-14T22:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305014486.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
           "title": "PFL Dubai results: Sergei Bilostenniy upsets Vadim Nemkov to win title, Patrick Habirora shines",
           "link": "https://www.mmafighting.com/pfl/521195/pfl-dubai-results-sergei-bilostenniy-upsets-vadim-nemkov-to-win-title-patrick-habirora-shines",
           "date": "2026-11-14T21:13:58.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2231417676.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Khamzat Chimaev blanks Chris Weidman with tech fall victory in RAF Abu Dhabi main event",
-          "link": "https://www.mmafighting.com/ufc/521171/khamzat-chimaev-blanks-chris-weidman-with-tech-fall-victory-in-raf-abu-dhabi-main-event",
-          "date": "2026-11-14T19:37:22.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/IMG_5832.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "RAF Abu Dhabi results: Arman Tsarukyan makes quick work of Neiman Gracie with tech fall victory",
-          "link": "https://www.mmafighting.com/raf-wrestling/521152/raf-abu-dhabi-results-arman-tsarukyan-makes-quick-work-of-neiman-gracie-with-tech-fall-victory",
-          "date": "2026-11-14T19:24:24.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/IMG_5831.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "RAF Abu Dhabi live blog: Khamzat Chimaev vs. Chris Weidman",
-          "link": "https://www.mmafighting.com/raf-wrestling/521070/raf-abu-dhabi-live-blog-khamzat-chimaev-vs-chris-weidman",
-          "date": "2026-11-14T19:17:20.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-14-at-8.14.03-AM.png?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
