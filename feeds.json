@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T22:59:14.334Z",
+  "generatedAt": "2026-11-15T00:04:18.725Z",
   "sources": [
     {
       "id": "bloodyelbow",
@@ -50,6 +50,12 @@
       "site": "https://www.mmafighting.com/",
       "items": [
         {
+          "title": "UFC 334 video: Bia Mesquita breaks Ronda Rousey’s submission record with fast finish",
+          "link": "https://www.mmafighting.com/ufc/521262/ufc-334-video-bia-mesquita-breaks-ronda-rouseys-submission-record-with-fast-finish",
+          "date": "2026-11-14T23:34:42.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305145106.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
           "title": "LIVE! UFC 334 Results: Gane vs. Hokit",
           "link": "https://www.mmafighting.com/ufc/520939/ufc-334-results-gane-vs-hokit",
           "date": "2026-11-14T22:00:00.000Z",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/raf-wrestling/521070/raf-abu-dhabi-live-blog-khamzat-chimaev-vs-chris-weidman",
           "date": "2026-11-14T19:17:20.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-14-at-8.14.03-AM.png?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "RAF Abu Dhabi live blog: Arman Tsarukyan vs. Neiman Gracie",
-          "link": "https://www.mmafighting.com/ufc/521067/raf-abu-dhabi-live-blog-arman-tsarukyan-vs-neiman-gracie",
-          "date": "2026-11-14T19:06:25.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/04/RAF07_arman-35.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
