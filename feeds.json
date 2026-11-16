@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T05:21:19.134Z",
+  "generatedAt": "2026-11-16T07:00:39.947Z",
   "sources": [
     {
       "id": "bloodyelbow",
@@ -93,6 +93,12 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "Josh Hokit says future UFC fights won't reach the judges’ scorecards",
+          "link": "https://www.sherdog.com/news/news/Josh-Hokit-says-future-UFC-fights-wont-reach-the-judges-scorecards-203651",
+          "date": "2026-11-16T05:22:18.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261116052218_hokit_statement_post_334.JPG"
+        },
+        {
           "title": "‘I was afraid’: Melquizael Costa admits he feared UFC 334 scorecards",
           "link": "https://www.sherdog.com/news/news/I-was-afraid-Melquizael-Costa-admits-he-feared-UFC-334-scorecards-203650",
           "date": "2026-11-16T05:03:02.000Z",
@@ -121,12 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Shara-Bullet-recalls-putting-off-an-eye-doctor-visit-before-a-rematch-203646",
           "date": "2026-11-16T03:34:47.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261116033447_shara_bullet_eye_doc.JPG"
-        },
-        {
-          "title": "Bruce Buffer predicted Josh Hokit’s UFC 334 gesture and nearly reacted",
-          "link": "https://www.sherdog.com/news/news/Bruce-Buffer-predicted-Josh-Hokits-UFC-334-gesture-and-nearly-reacted-203645",
-          "date": "2026-11-16T03:10:27.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261116031027_hokit_buff_bird.JPG"
         }
       ]
     }
