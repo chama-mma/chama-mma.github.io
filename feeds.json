@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-16T00:48:00.797Z",
+  "generatedAt": "2026-11-16T02:16:55.038Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Ronda Rousey’s 11-year UFC finish record was broken on the same night Kayla Harrison called her out",
+          "link": "https://bloodyelbow.com/2026/11/15/ronda-rouseys-11-year-ufc-finish-record-was-broken-on-the-same-night-kayla-harrison-called-her-out/",
+          "date": "2026-11-16T02:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/05/GettyImages-2276312481-scaled.jpg"
+        },
+        {
+          "title": "Ciryl Gane vs Josh Hokit criticized and called ‘horrible’ by UFC GOAT: ‘I am so disappointed’",
+          "link": "https://bloodyelbow.com/2026/11/15/ciryl-gane-vs-josh-hokit-criticized-and-called-horrible-by-ufc-goat-i-am-so-disappointed/",
+          "date": "2026-11-16T01:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305179929-scaled.jpg"
+        },
         {
           "title": "Andrei Arlovski to face Andrew Tate conqueror Chase DeMoor next month in star-studded Misfits Boxing return",
           "link": "https://bloodyelbow.com/2026/11/15/andrei-arlovski-to-face-andrew-tate-conqueror-chase-demoor-next-month-in-star-studded-misfits-boxing-return/",
@@ -29,18 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/15/only-woman-to-beat-kayla-harrison-in-mma-sends-the-ufc-a-message-in-reaction-to-amanda-nunes-win/",
           "date": "2026-11-15T21:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/10/GettyImages-1812597386-scaled.jpg"
-        },
-        {
-          "title": "Dana White provides update on Tom Aspinall’s return following Ciryl Gane’s UFC 334 win",
-          "link": "https://bloodyelbow.com/2026/11/15/dana-white-provides-update-on-tom-aspinalls-return-following-ciryl-ganes-ufc-334-win/",
-          "date": "2026-11-15T20:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305177545-scaled.jpg"
-        },
-        {
-          "title": "Josh Hokit hits back at Jon Jones after having UFC 334 loss to Ciryl Gane mocked",
-          "link": "https://bloodyelbow.com/2026/11/15/josh-hokit-hits-back-at-jon-jones-after-having-ufc-334-loss-to-ciryl-gane-mocked/",
-          "date": "2026-11-15T19:32:17.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281622346-scaled.jpg"
         }
       ]
     },
@@ -93,6 +93,12 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "Josh Hokit fires back after Jon Jones celebrates his UFC 334 loss",
+          "link": "https://www.sherdog.com/news/news/Josh-Hokit-fires-back-after-Jon-Jones-celebrates-his-UFC-334-loss-203644",
+          "date": "2026-11-16T02:03:16.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261116020317_hokit_jones_hell.JPG"
+        },
+        {
           "title": "BKB 61 results: Lee Selby edges Ollie Sentance, Matty Askin KOs champion",
           "link": "https://www.sherdog.com/news/news/BKB-61-results-Lee-Selby-edges-Ollie-Sentance-Matty-Askin-KOs-champion-203640",
           "date": "2026-11-15T19:38:27.000Z",
@@ -121,12 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Alex-Pereira-Josh-Hokit-bury-the-hatchet-at-UFC-334-203636",
           "date": "2026-11-15T18:53:32.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261115065332_poatan.JPG"
-        },
-        {
-          "title": "Dana White reacts to eight jail sentences after Abu Dhabi brawl",
-          "link": "https://www.sherdog.com/news/news/Dana-White-reacts-to-eight-jail-sentences-after-Abu-Dhabi-brawl-203635",
-          "date": "2026-11-15T18:40:46.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261115064047_dana_abudhabi.JPG"
         }
       ]
     }
