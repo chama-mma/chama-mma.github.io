@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T02:16:55.038Z",
+  "generatedAt": "2026-11-16T03:31:43.182Z",
   "sources": [
     {
       "id": "bloodyelbow",
@@ -93,6 +93,12 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "Bruce Buffer predicted Josh Hokit’s UFC 334 gesture and nearly reacted",
+          "link": "https://www.sherdog.com/news/news/Bruce-Buffer-predicted-Josh-Hokits-UFC-334-gesture-and-nearly-reacted-203645",
+          "date": "2026-11-16T03:10:27.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261116031027_hokit_buff_bird.JPG"
+        },
+        {
           "title": "Josh Hokit fires back after Jon Jones celebrates his UFC 334 loss",
           "link": "https://www.sherdog.com/news/news/Josh-Hokit-fires-back-after-Jon-Jones-celebrates-his-UFC-334-loss-203644",
           "date": "2026-11-16T02:03:16.000Z",
@@ -121,12 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Stephen-Thompson-says-he-predicted-the-knockout-that-ended-his-UFC-career-203637",
           "date": "2026-11-15T19:03:24.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261115070324_thompson.JPG"
-        },
-        {
-          "title": "Alex Pereira, Josh Hokit bury the hatchet at UFC 334",
-          "link": "https://www.sherdog.com/news/news/Alex-Pereira-Josh-Hokit-bury-the-hatchet-at-UFC-334-203636",
-          "date": "2026-11-15T18:53:32.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261115065332_poatan.JPG"
         }
       ]
     }
