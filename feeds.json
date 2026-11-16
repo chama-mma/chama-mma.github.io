@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-16T22:13:39.814Z",
+  "generatedAt": "2026-11-16T23:10:31.434Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Saba Lazishvili reveals there was more to Merab Dvalishvili and Usman Nurmagomedov’s fight than video showed",
+          "link": "https://bloodyelbow.com/2026/11/16/saba-lazishvili-reveals-there-was-more-to-merab-dvalishvili-and-usman-nurmagomedovs-fight-than-video-showed/",
+          "date": "2026-11-16T22:30:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Merab-Dvalishvili-Saba-Lazishvili.png"
+        },
         {
           "title": "Amanda Nunes accepts Kayla Harrison’s rematch terms in message to Dana White following UFC 334",
           "link": "https://bloodyelbow.com/2026/11/16/amanda-nunes-accepts-kayla-harrisons-rematch-terms-in-message-to-dana-white-following-ufc-334/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/16/fans-unimpressed-by-bruce-buffers-reaction-to-josh-hokit-middle-finger-jab-at-ufc-334/",
           "date": "2026-11-16T17:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Bruce-Buffer-Josh-Hokit-2305176601.png"
-        },
-        {
-          "title": "Dana White reacts to Tommy McMillen’s recent hospital visit due to alleged overdose",
-          "link": "https://bloodyelbow.com/2026/11/16/dana-white-reacts-to-tommy-mcmillens-recent-hospital-visit-due-to-alleged-overdose/",
-          "date": "2026-11-16T15:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305125454-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Amanda Nunes calls for featherweight rematch with Kayla Harrison: ‘Accepted’",
+          "link": "https://www.mmafighting.com/ufc/521791/amanda-nunes-calls-for-featherweight-rematch-with-kayla-harrison-accepted",
+          "date": "2026-11-16T23:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305173927.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Jon Jones issues parting shot to Josh Hokit in feud: ‘Good luck little man’",
           "link": "https://www.mmafighting.com/ufc/521806/jon-jones-issues-parting-shot-to-josh-hokit-in-feud-good-luck-little-man",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/521748/jim-miller-apologizes-for-accepting-fight-against-terrance-mckinney-after-complete-bullsht-missing-weight",
           "date": "2026-11-16T19:30:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305152947.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Chase DeMoor faces former UFC champion in Misfits Boxing ‘New Blood’ main event",
-          "link": "https://www.mmafighting.com/boxing/521707/chase-demoor-faces-former-ufc-champion-in-misfits-boxing-new-blood-main-event",
-          "date": "2026-11-16T18:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/12/gettyimages-2232908831.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
