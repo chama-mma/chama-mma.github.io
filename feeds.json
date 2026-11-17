@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-17T20:42:33.391Z",
+  "generatedAt": "2026-11-17T21:40:54.656Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Joe Rogan pleads with Tommy McMillen as the UFC star explains his recent overdose",
+          "link": "https://bloodyelbow.com/2026/11/17/joe-rogan-pleads-with-tommy-mcmillen-as-the-ufc-star-explains-his-recent-overdose/",
+          "date": "2026-11-17T21:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/07/GettyImages-2286690451-1-scaled.jpg"
+        },
         {
           "title": "Conor McGregor declares UFC 334 star as ‘the biggest draw in the UFC’ as he offers surprise praise",
           "link": "https://bloodyelbow.com/2026/11/17/conor-mcgregor-declares-ufc-334-star-as-the-biggest-draw-in-the-ufc-as-he-offers-surprise-praise/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/17/jai-opetaia-pulls-out-of-deontay-wilder-clash-on-fury-vs-joshua-undercard/",
           "date": "2026-11-17T16:10:38.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/03/ZB4_EM_20260308_9746-scaled.jpg"
-        },
-        {
-          "title": "‘I’m devastated’… Stephen Thompson’s final opponent breaks his silence on viral KO loss at UFC 334",
-          "link": "https://bloodyelbow.com/2026/11/17/im-devastated-stephen-thompsons-final-opponent-breaks-his-silence-on-viral-ko-loss-at-ufc-334/",
-          "date": "2026-11-17T16:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305157492-scaled.jpg"
         }
       ]
     },
@@ -50,9 +50,21 @@
       "site": "https://www.mmafighting.com/",
       "items": [
         {
+          "title": "Tommy McMillen reveals details of his overdose: ‘My body just gave out’",
+          "link": "https://www.mmafighting.com/ufc/522050/tommy-mcmillen-reveals-details-of-his-overdose-my-body-just-gave-out",
+          "date": "2026-11-17T21:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/gettyimages-2294954178.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "RAF exec: Dana White’s criticism about security protocols ‘unfair’ after Usman Nurmagomedov’s attack on Merab Dvalishvili",
+          "link": "https://www.mmafighting.com/raf-wrestling/521853/raf-exec-dana-whites-criticism-about-security-protocols-unfair-after-usman-nurmagomedovs-attack-on-merab-dvalishvili",
+          "date": "2026-11-17T20:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305012157.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
           "title": "Josh Hokit claims Ciryl Gane ‘completely poked my eye out’ in UFC 334 main event, campaigns for rematch",
           "link": "https://www.mmafighting.com/ufc/522021/josh-hokit-claims-ciryl-gane-completely-poked-my-eye-out-in-ufc-334-main-event-campaigns-for-rematch",
-          "date": "2026-11-17T18:30:00.000Z",
+          "date": "2026-11-17T19:43:55.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305178887.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
@@ -72,18 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/521780/matt-brown-doubts-josh-hokits-ability-to-become-ufc-heavyweight-champion-i-dont-think-hes-going-to-get-better",
           "date": "2026-11-17T14:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305179270.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Morning Report | Merab Dvalishvili won’t make peace with Umar and Usman Nurmagomedov: ‘These two guys are not real men’",
-          "link": "https://www.mmafighting.com/ufc/521736/morning-report-merab-dvalishvili-wont-make-peace-with-umar-and-usman-nurmagomedov-these-two-guys-are-not-real-men",
-          "date": "2026-11-17T13:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2194086274.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Mike Perry reacts to his return to UFC, teases interest in Jorge Masvidal for first fight back",
-          "link": "https://www.mmafighting.com/ufc/521867/mike-perry-reacts-to-his-return-to-ufc-teases-interest-in-jorge-masvidal-for-first-fight-back",
-          "date": "2026-11-17T02:51:03.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/10/gettyimages-1252988779.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
