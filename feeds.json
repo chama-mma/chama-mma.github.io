@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-17T12:46:46.886Z",
+  "generatedAt": "2026-11-17T14:03:54.011Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Josh Hokit’s partially blind coach slams referee for missing eye poke at UFC 334",
+          "link": "https://bloodyelbow.com/2026/11/17/josh-hokits-partially-blind-coach-slams-referee-for-missing-eye-poke-at-ufc-334/",
+          "date": "2026-11-17T14:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305174890-scaled.jpg"
+        },
+        {
+          "title": "Usman Nurmagomedov’s actual punishment revealed after release from six-month prison sentence",
+          "link": "https://bloodyelbow.com/2026/11/17/usman-nurmagomedovs-actual-punishment-revealed-after-release-from-six-month-prison-sentence/",
+          "date": "2026-11-17T13:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2290664135-scaled.jpg"
+        },
         {
           "title": "Ciryl Gane provides health update in first post since being hospitalized following UFC 334",
           "link": "https://bloodyelbow.com/2026/11/17/ciryl-gane-provides-health-update-in-first-post-since-being-hospitalized-following-ufc-334/",
@@ -29,18 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/16/ufc-stars-opponent-responds-to-claim-he-was-offered-over-1-million-to-lose-co-main-event-bout/",
           "date": "2026-11-17T04:30:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/07/GettyImages-2197115739-scaled.jpg"
-        },
-        {
-          "title": "Ilia Topuria reveals exactly how close he was to career-ending surgery due to Justin Gaethje loss",
-          "link": "https://bloodyelbow.com/2026/11/16/ilia-topuria-reveals-exactly-how-close-he-was-to-career-ending-surgery-due-to-justin-gaethje-loss/",
-          "date": "2026-11-17T03:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/11/GettyImages-2247934632-scaled.jpg"
-        },
-        {
-          "title": "Bruce Buffer advocates for Josh Hokit to get Ciryl Gane ‘money maker’ rematch despite their feud",
-          "link": "https://bloodyelbow.com/2026/11/16/bruce-buffer-advocates-for-josh-hokit-to-get-ciryl-gane-money-maker-rematch-despite-their-feud/",
-          "date": "2026-11-17T01:30:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305176747-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,18 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Matt Brown doubts Josh Hokit’s ability to become UFC heavyweight champion: ‘I don’t think he’s going to get better’",
+          "link": "https://www.mmafighting.com/ufc/521780/matt-brown-doubts-josh-hokits-ability-to-become-ufc-heavyweight-champion-i-dont-think-hes-going-to-get-better",
+          "date": "2026-11-17T14:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305179270.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Morning Report | Merab Dvalishvili won’t make peace with Umar and Usman Nurmagomedov: ‘These two guys are not real men’",
+          "link": "https://www.mmafighting.com/ufc/521736/morning-report-merab-dvalishvili-wont-make-peace-with-umar-and-usman-nurmagomedov-these-two-guys-are-not-real-men",
+          "date": "2026-11-17T13:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2194086274.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Mike Perry reacts to his return to UFC, teases interest in Jorge Masvidal for first fight back",
           "link": "https://www.mmafighting.com/ufc/521867/mike-perry-reacts-to-his-return-to-ufc-teases-interest-in-jorge-masvidal-for-first-fight-back",
@@ -72,18 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/521791/amanda-nunes-calls-for-featherweight-rematch-with-kayla-harrison-accepted",
           "date": "2026-11-16T23:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305173927.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Jon Jones issues parting shot to Josh Hokit in feud: ‘Good luck little man’",
-          "link": "https://www.mmafighting.com/ufc/521806/jon-jones-issues-parting-shot-to-josh-hokit-in-feud-good-luck-little-man",
-          "date": "2026-11-16T22:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2292557030.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Merab Dvalishvili, Saba Lazishvili book bouts for December RAF event",
-          "link": "https://www.mmafighting.com/raf-wrestling/521773/merab-dvalishvili-saba-lazishvili-book-bouts-for-december-raf-event",
-          "date": "2026-11-16T21:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2301822425.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
