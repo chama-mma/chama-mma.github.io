@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-17T10:30:26.704Z",
+  "generatedAt": "2026-11-17T12:46:46.886Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Ciryl Gane provides health update in first post since being hospitalized following UFC 334",
+          "link": "https://bloodyelbow.com/2026/11/17/ciryl-gane-provides-health-update-in-first-post-since-being-hospitalized-following-ufc-334/",
+          "date": "2026-11-17T12:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305177545-scaled.jpg"
+        },
         {
           "title": "Petition to remove Daniel Cormier from the UFC commentary team gains over 5000 signatures",
           "link": "https://bloodyelbow.com/2026/11/17/petition-to-remove-daniel-cormier-from-the-ufc-commentary-team-gains-over-5000-signatures/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/16/bruce-buffer-advocates-for-josh-hokit-to-get-ciryl-gane-money-maker-rematch-despite-their-feud/",
           "date": "2026-11-17T01:30:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305176747-scaled.jpg"
-        },
-        {
-          "title": "Boxer Lee Reeves passes away at age 31 months after vicious knockout in final fight",
-          "link": "https://bloodyelbow.com/2026/11/16/boxer-lee-reeves-passes-away-at-age-31-months-after-vicious-knockout-in-final-fight/",
-          "date": "2026-11-17T00:45:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2287881214-scaled.jpg"
         }
       ]
     },
