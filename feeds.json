@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-17T03:42:41.403Z",
+  "generatedAt": "2026-11-17T04:47:13.501Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "UFC star’s opponent responds to claim he was offered over $1 million to lose co-main event bout",
+          "link": "https://bloodyelbow.com/2026/11/16/ufc-stars-opponent-responds-to-claim-he-was-offered-over-1-million-to-lose-co-main-event-bout/",
+          "date": "2026-11-17T04:30:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/07/GettyImages-2197115739-scaled.jpg"
+        },
         {
           "title": "Ilia Topuria reveals exactly how close he was to career-ending surgery due to Justin Gaethje loss",
           "link": "https://bloodyelbow.com/2026/11/16/ilia-topuria-reveals-exactly-how-close-he-was-to-career-ending-surgery-due-to-justin-gaethje-loss/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/16/saba-lazishvili-reveals-there-was-more-to-merab-dvalishvili-and-usman-nurmagomedovs-fight-than-video-showed/",
           "date": "2026-11-16T22:30:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Merab-Dvalishvili-Saba-Lazishvili.png"
-        },
-        {
-          "title": "Amanda Nunes accepts Kayla Harrison’s rematch terms in message to Dana White following UFC 334",
-          "link": "https://bloodyelbow.com/2026/11/16/amanda-nunes-accepts-kayla-harrisons-rematch-terms-in-message-to-dana-white-following-ufc-334/",
-          "date": "2026-11-16T20:54:26.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305014237-scaled.jpg"
         }
       ]
     },
@@ -93,6 +93,24 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "‘I was shocked’: Joshua Van was certain Josh Hokit had beaten Ciryl Gane",
+          "link": "https://www.sherdog.com/news/news/I-was-shocked-Joshua-Van-was-certain-Josh-Hokit-had-beaten-Ciryl-Gane-203667",
+          "date": "2026-11-17T04:08:05.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261117040805_van_reax_hokit_gane.JPG"
+        },
+        {
+          "title": "Muhammad Mokaev makes one thing clear about his rejected Saba Lazishvili challenge",
+          "link": "https://www.sherdog.com/news/news/Muhammad-Mokaev-makes-one-thing-clear-about-his-rejected-Saba-Lazishvili-challenge-203666",
+          "date": "2026-11-17T03:56:59.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261117035659_mokaev_saba.JPG"
+        },
+        {
+          "title": "Michal Oleksiejczuk questions Shara Bullet's $1.2 million claim",
+          "link": "https://www.sherdog.com/news/news/Michal-Oleksiejczuk-questions-Shara-Bullets-3612-million-claim-203665",
+          "date": "2026-11-17T03:45:15.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261117034516_michal_shara.JPG"
+        },
+        {
           "title": "Saba Lazishvili explains why his feud with Umar Nurmagomedov is ‘personal’",
           "link": "https://www.sherdog.com/news/news/Saba-Lazishvili-explains-why-his-feud-with-Umar-Nurmagomedov-is-personal-203664",
           "date": "2026-11-17T03:26:25.000Z",
@@ -109,24 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Ilia-Topuria-makes-unexpected-admission-about-UFC-rival-Paddy-Pimblett-203662",
           "date": "2026-11-17T02:47:26.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261117024726_ilia_paddy_no_bad_blood.JPG"
-        },
-        {
-          "title": "Josh Hokit fires back after Alexander Volkov makes bold Bruce Buffer claim",
-          "link": "https://www.sherdog.com/news/news/Josh-Hokit-fires-back-after-Alexander-Volkov-makes-bold-Bruce-Buffer-claim-203661",
-          "date": "2026-11-17T02:33:34.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261117023335_hokit_volkov_buffer.JPG"
-        },
-        {
-          "title": "Jim Miller regrets accepting Terrance McKinney fight after weight miss",
-          "link": "https://www.sherdog.com/news/news/Jim-Miller-regrets-accepting-Terrance-McKinney-fight-after-weight-miss-203660",
-          "date": "2026-11-17T02:14:56.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261117021456_miller_t_wrecks_weight_miss.JPG"
-        },
-        {
-          "title": "Demetrious Johnson calls Ciryl Gane's UFC 334 performance 'horrible'",
-          "link": "https://www.sherdog.com/news/news/Demetrious-Johnson-calls-Ciryl-Ganes-UFC-334-performance-horrible-203658",
-          "date": "2026-11-16T20:21:41.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261116082141_demetrious_.JPEG"
         }
       ]
     }
