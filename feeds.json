@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-18T12:20:11.994Z",
+  "generatedAt": "2026-11-18T13:43:48.481Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Josh Hokit argues professionalism is ‘killing’ MMA in explanation of why he flipped off Bruce Buffer",
+          "link": "https://bloodyelbow.com/2026/11/18/josh-hokit-argues-professionalism-is-killing-mma-in-explanation-of-why-he-flipped-off-bruce-buffer/",
+          "date": "2026-11-18T13:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Bruce-Buffer-Josh-Hokit-2305176601.png"
+        },
         {
           "title": "‘Who is watching this?’ – Fans push back against Khamzat Chimaev’s next matchup following RAF announcement",
           "link": "https://bloodyelbow.com/2026/11/18/who-is-watching-this-fans-push-back-against-khamzat-chimaevs-next-matchup-following-raf-announcement/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/17/ufc-signs-up-new-irish-lightweight-star-to-debut-this-weekend-in-surprise-fight-at-ufc-qatar/",
           "date": "2026-11-18T02:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/20250125180257-_I1A1030_-scaled.jpg"
-        },
-        {
-          "title": "RAF Wrestling boss hits back at Dana White criticism after hotel brawl saw eight men jailed",
-          "link": "https://bloodyelbow.com/2026/11/17/raf-wrestling-boss-hits-back-at-dana-white-criticism-after-hotel-brawl-saw-eight-men-jailed/",
-          "date": "2026-11-18T01:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/10/Dillon-Danis-Arman-Tsarukyan-face-off.png"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Morning Report: Joe Rogan thinks it’s ‘crazy’ Ciryl Gane didn’t lose point for Josh Hokit eye poke",
+          "link": "https://www.mmafighting.com/ufc/521990/morning-report-joe-rogan-thinks-its-crazy-ciryl-gane-didnt-lose-point-for-josh-hokit-eye-poke",
+          "date": "2026-11-18T13:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305179424.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "UFC signs two fighters for late-notice undercard matchup for UFC Qatar",
           "link": "https://www.mmafighting.com/ufc/522129/ufc-signs-two-fighters-for-late-notice-undercard-matchup-for-ufc-qatar",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/raf-wrestling/521853/raf-exec-dana-whites-criticism-about-security-protocols-unfair-after-usman-nurmagomedovs-attack-on-merab-dvalishvili",
           "date": "2026-11-17T20:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305012157.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Josh Hokit claims Ciryl Gane ‘completely poked my eye out’ in UFC 334 main event, campaigns for rematch",
-          "link": "https://www.mmafighting.com/ufc/522021/josh-hokit-claims-ciryl-gane-completely-poked-my-eye-out-in-ufc-334-main-event-campaigns-for-rematch",
-          "date": "2026-11-17T19:43:55.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305178887.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
