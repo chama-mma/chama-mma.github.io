@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-18T03:16:55.183Z",
+  "generatedAt": "2026-11-18T04:25:45.537Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "BKB Bare Knuckle Boxing’s new champion Matty Askin lost 100lb to make fighting comeback",
+          "link": "https://bloodyelbow.com/2026/11/17/bkb-bare-knuckle-boxings-new-champion-matty-askin-lost-100lb-to-make-fighting-comeback/",
+          "date": "2026-11-18T03:30:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Matty-Askin.png"
+        },
         {
           "title": "UFC signs up new Irish lightweight star to debut this weekend in surprise fight at UFC Qatar",
           "link": "https://bloodyelbow.com/2026/11/17/ufc-signs-up-new-irish-lightweight-star-to-debut-this-weekend-in-surprise-fight-at-ufc-qatar/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/17/joe-rogan-pleads-with-tommy-mcmillen-as-the-ufc-star-explains-his-recent-overdose/",
           "date": "2026-11-17T21:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/07/GettyImages-2286690451-1-scaled.jpg"
-        },
-        {
-          "title": "Conor McGregor declares UFC 334 star as ‘the biggest draw in the UFC’ as he offers surprise praise",
-          "link": "https://bloodyelbow.com/2026/11/17/conor-mcgregor-declares-ufc-334-star-as-the-biggest-draw-in-the-ufc-as-he-offers-surprise-praise/",
-          "date": "2026-11-17T19:10:01.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/09/GettyImages-2177480241-scaled.jpg"
         }
       ]
     },
@@ -93,6 +93,30 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "Josh Hokit reveals why he flipped off Bruce Buffer at UFC 334",
+          "link": "https://www.sherdog.com/news/news/Josh-Hokit-reveals-why-he-flipped-off-Bruce-Buffer-at-UFC-334-203683",
+          "date": "2026-11-18T04:15:57.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118041557_hokit_buff_bird_prof.JPG"
+        },
+        {
+          "title": "Mike Winkeljohn says he's loyal to Josh Hokit amid Jon Jones feud",
+          "link": "https://www.sherdog.com/news/news/Mike-Winkeljohn-says-hes-loyal-to-Josh-Hokit-amid-Jon-Jones-feud-203682",
+          "date": "2026-11-18T04:05:01.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118040501_hokit_jaxwink.JPG"
+        },
+        {
+          "title": "Conor McGregor names Josh Hokit the UFC's ‘biggest draw’ behind him",
+          "link": "https://www.sherdog.com/news/news/Conor-McGregor-names-Josh-Hokit-the-UFCs-biggest-draw-behind-him-203681",
+          "date": "2026-11-18T03:44:09.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118034409_hokit_conor.JPG"
+        },
+        {
+          "title": "Chris Duncan drove four hours to confront troll praising his mother’s killer",
+          "link": "https://www.sherdog.com/news/news/Chris-Duncan-drove-four-hours-to-confront-troll-praising-his-mothers-killer-203680",
+          "date": "2026-11-18T03:29:32.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118032932_duncan_troll_mom.JPG"
+        },
+        {
           "title": "Curtis Blaydes calls Ciryl Gane's strikes 'pillow punches'",
           "link": "https://www.sherdog.com/news/news/Curtis-Blaydes-calls-Ciryl-Ganes-strikes-pillow-punches-203679",
           "date": "2026-11-18T03:08:24.000Z",
@@ -103,30 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Aljamain-Sterling-claims-Umar-Nurmagomedov-punched-Merab-Dvalishvili-203678",
           "date": "2026-11-18T02:50:20.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261118025020_sterling_aljo_umar.JPG"
-        },
-        {
-          "title": "EA Sports announces Pride FC expansion for UFC 6",
-          "link": "https://www.sherdog.com/news/news/EA-Sports-announces-Pride-FC-expansion-for-UFC-6-203677",
-          "date": "2026-11-18T02:36:42.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118023642_ufc_6_pride_exp.JPG"
-        },
-        {
-          "title": "UFC prospect Tommy McMillen won't quit partying after being hospitalized",
-          "link": "https://www.sherdog.com/news/news/UFC-prospect-Tommy-McMillen-wont-quit-partying-after-being-hospitalized-203676",
-          "date": "2026-11-18T02:22:40.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118022240_tommy_gun_od.JPG"
-        },
-        {
-          "title": "Former three-division boxing champion Jorge Linares detained by ICE",
-          "link": "https://www.sherdog.com/news/news/Former-threedivision-boxing-champion-Jorge-Linares-detained-by-ICE-203675",
-          "date": "2026-11-17T20:27:46.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261117082746_Untitled2.JPG"
-        },
-        {
-          "title": "Matt Brown says Josh Hokit may have peaked in UFC 334 loss",
-          "link": "https://www.sherdog.com/news/news/Matt-Brown-says-Josh-Hokit-may-have-peaked-in-UFC-334-loss-203674",
-          "date": "2026-11-17T20:17:01.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261117081701_Untitled1.JPG"
         }
       ]
     }
