@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-18T14:43:15.274Z",
+  "generatedAt": "2026-11-18T15:46:26.697Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "UFC releases top contender just 13 months after title fight",
+          "link": "https://bloodyelbow.com/2026/11/18/ufc-releases-top-contender-just-13-months-after-title-fight/",
+          "date": "2026-11-18T15:34:40.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2269860970-scaled.jpg"
+        },
+        {
+          "title": "Kayla Harrison begins search for husband after UFC 334 win: ‘Gotta be equally yoked’",
+          "link": "https://bloodyelbow.com/2026/11/18/kayla-harrison-begins-search-for-husband-after-ufc-334-win-gotta-be-equally-yoked/",
+          "date": "2026-11-18T15:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305173510-scaled.jpg"
+        },
         {
           "title": "‘Rat behaviour’… Fans reacted to Umar Nurmagomedov’s alleged role in Merab Dvalishvili brawl",
           "link": "https://bloodyelbow.com/2026/11/18/rat-behaviour-fans-reacted-to-umar-nurmagomedovs-alleged-role-in-merab-dvalishvili-brawl/",
@@ -29,18 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/18/jon-anik-defends-daniel-cormier-as-firing-petition-tops-7000-signatures-after-ufc-334/",
           "date": "2026-11-18T10:06:27.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2024/10/GettyImages-2166977419-scaled.jpg"
-        },
-        {
-          "title": "Tommy McMillen coach Tim Welch reveals timeline for UFC return after hospital scare",
-          "link": "https://bloodyelbow.com/2026/11/17/tommy-mcmillen-coach-tim-welch-reveals-timeline-for-ufc-return-after-hospital-scare/",
-          "date": "2026-11-18T04:59:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2294947599-scaled.jpg"
-        },
-        {
-          "title": "BKB Bare Knuckle Boxing’s new champion Matty Askin lost 100lb to make fighting comeback",
-          "link": "https://bloodyelbow.com/2026/11/17/bkb-bare-knuckle-boxings-new-champion-matty-askin-lost-100lb-to-make-fighting-comeback/",
-          "date": "2026-11-18T03:30:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Matty-Askin.png"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "UFC releases former title contender Virna Jandiroba: ‘I was caught off guard by this decision’",
+          "link": "https://www.mmafighting.com/ufc/522228/ufc-releases-former-title-contender-virna-jandiroba-i-was-caught-off-guard-by-this-decision",
+          "date": "2026-11-18T15:14:22.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2304056727.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "‘Feelings is not for the cage’: Jiri Prochazka promises to be a weapon like never before in UFC Qatar main event",
           "link": "https://www.mmafighting.com/ufc/522012/feelings-is-not-for-the-cage-jiri-prochazka-promises-to-be-a-weapon-like-never-before-in-ufc-qatar-main-event",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522043/conor-mcgregor-calls-rising-star-biggest-draw-in-the-ufc-besides-himself",
           "date": "2026-11-17T23:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2285438844.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Tommy McMillen reveals details of his overdose: ‘My body just gave out’",
-          "link": "https://www.mmafighting.com/ufc/522050/tommy-mcmillen-reveals-details-of-his-overdose-my-body-just-gave-out",
-          "date": "2026-11-17T21:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/gettyimages-2294954178.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
