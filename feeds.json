@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-18T13:43:48.481Z",
+  "generatedAt": "2026-11-18T14:43:15.274Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "‘Rat behaviour’… Fans reacted to Umar Nurmagomedov’s alleged role in Merab Dvalishvili brawl",
+          "link": "https://bloodyelbow.com/2026/11/18/rat-behaviour-fans-reacted-to-umar-nurmagomedovs-alleged-role-in-merab-dvalishvili-brawl/",
+          "date": "2026-11-18T14:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/08/GettyImages-2188609439-scaled.jpg"
+        },
         {
           "title": "Josh Hokit argues professionalism is ‘killing’ MMA in explanation of why he flipped off Bruce Buffer",
           "link": "https://bloodyelbow.com/2026/11/18/josh-hokit-argues-professionalism-is-killing-mma-in-explanation-of-why-he-flipped-off-bruce-buffer/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/17/bkb-bare-knuckle-boxings-new-champion-matty-askin-lost-100lb-to-make-fighting-comeback/",
           "date": "2026-11-18T03:30:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Matty-Askin.png"
-        },
-        {
-          "title": "UFC signs up new Irish lightweight star to debut this weekend in surprise fight at UFC Qatar",
-          "link": "https://bloodyelbow.com/2026/11/17/ufc-signs-up-new-irish-lightweight-star-to-debut-this-weekend-in-surprise-fight-at-ufc-qatar/",
-          "date": "2026-11-18T02:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/20250125180257-_I1A1030_-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "‘Feelings is not for the cage’: Jiri Prochazka promises to be a weapon like never before in UFC Qatar main event",
+          "link": "https://www.mmafighting.com/ufc/522012/feelings-is-not-for-the-cage-jiri-prochazka-promises-to-be-a-weapon-like-never-before-in-ufc-qatar-main-event",
+          "date": "2026-11-18T14:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305050053.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Morning Report: Joe Rogan thinks it’s ‘crazy’ Ciryl Gane didn’t lose point for Josh Hokit eye poke",
           "link": "https://www.mmafighting.com/ufc/521990/morning-report-joe-rogan-thinks-its-crazy-ciryl-gane-didnt-lose-point-for-josh-hokit-eye-poke",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522050/tommy-mcmillen-reveals-details-of-his-overdose-my-body-just-gave-out",
           "date": "2026-11-17T21:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/gettyimages-2294954178.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "RAF exec: Dana White’s criticism about security protocols ‘unfair’ after Usman Nurmagomedov’s attack on Merab Dvalishvili",
-          "link": "https://www.mmafighting.com/raf-wrestling/521853/raf-exec-dana-whites-criticism-about-security-protocols-unfair-after-usman-nurmagomedovs-attack-on-merab-dvalishvili",
-          "date": "2026-11-17T20:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305012157.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
