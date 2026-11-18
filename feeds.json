@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-18T17:48:04.342Z",
+  "generatedAt": "2026-11-18T18:41:11.686Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "UFC 335 will feature a fighter’s commentary debut amid current criticism of the broadcast team",
+          "link": "https://bloodyelbow.com/2026/11/18/ufc-335-will-feature-a-fighters-commentary-debut-amid-current-criticism-of-the-broadcast-team/",
+          "date": "2026-11-18T18:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/08/GettyImages-2222661295-scaled.jpg"
+        },
         {
           "title": "GTA V vs GTA VI: Which Rockstar era had the better UFC champions at release?",
           "link": "https://bloodyelbow.com/2026/11/18/gta-v-vs-gta-vi-which-rockstar-era-had-the-better-ufc-champions-at-release/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/18/rat-behaviour-fans-reacted-to-umar-nurmagomedovs-alleged-role-in-merab-dvalishvili-brawl/",
           "date": "2026-11-18T14:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/08/GettyImages-2188609439-scaled.jpg"
-        },
-        {
-          "title": "Josh Hokit argues professionalism is ‘killing’ MMA in explanation of why he flipped off Bruce Buffer",
-          "link": "https://bloodyelbow.com/2026/11/18/josh-hokit-argues-professionalism-is-killing-mma-in-explanation-of-why-he-flipped-off-bruce-buffer/",
-          "date": "2026-11-18T13:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Bruce-Buffer-Josh-Hokit-2305176601.png"
         }
       ]
     },
@@ -93,6 +93,18 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "Aljamain Sterling loses all respect for Khabib's team after brawl",
+          "link": "https://www.sherdog.com/news/news/Aljamain-Sterling-loses-all-respect-for-Khabibs-team-after-brawl-203685",
+          "date": "2026-11-18T18:21:23.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118062123_sterling.JPEG"
+        },
+        {
+          "title": "Pedro Rizzo questions why Amanda Nunes grappled with Kayla Harrison",
+          "link": "https://www.sherdog.com/news/news/Pedro-Rizzo-questions-why-Amanda-Nunes-grappled-with-Kayla-Harrison-203684",
+          "date": "2026-11-18T18:01:34.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118060134_rizzo.JPEG"
+        },
+        {
           "title": "Josh Hokit reveals why he flipped off Bruce Buffer at UFC 334",
           "link": "https://www.sherdog.com/news/news/Josh-Hokit-reveals-why-he-flipped-off-Bruce-Buffer-at-UFC-334-203683",
           "date": "2026-11-18T04:15:57.000Z",
@@ -115,18 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Chris-Duncan-drove-four-hours-to-confront-troll-praising-his-mothers-killer-203680",
           "date": "2026-11-18T03:29:32.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261118032932_duncan_troll_mom.JPG"
-        },
-        {
-          "title": "Curtis Blaydes calls Ciryl Gane's strikes 'pillow punches'",
-          "link": "https://www.sherdog.com/news/news/Curtis-Blaydes-calls-Ciryl-Ganes-strikes-pillow-punches-203679",
-          "date": "2026-11-18T03:08:24.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118030824_blaydes_on_jokit_gane.JPG"
-        },
-        {
-          "title": "Aljamain Sterling claims Umar Nurmagomedov punched Merab Dvalishvili",
-          "link": "https://www.sherdog.com/news/news/Aljamain-Sterling-claims-Umar-Nurmagomedov-punched-Merab-Dvalishvili-203678",
-          "date": "2026-11-18T02:50:20.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118025020_sterling_aljo_umar.JPG"
         }
       ]
     }
