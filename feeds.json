@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-18T18:41:11.686Z",
+  "generatedAt": "2026-11-18T19:47:38.021Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Jon Jones shares his main issue with the UFC 334 commentary amid petition to remove Daniel Cormier",
+          "link": "https://bloodyelbow.com/2026/11/18/jon-jones-shares-his-main-issue-with-the-ufc-334-commentary-amid-petition-to-remove-daniel-cormier/",
+          "date": "2026-11-18T19:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305139479-scaled.jpg"
+        },
         {
           "title": "UFC 335 will feature a fighter’s commentary debut amid current criticism of the broadcast team",
           "link": "https://bloodyelbow.com/2026/11/18/ufc-335-will-feature-a-fighters-commentary-debut-amid-current-criticism-of-the-broadcast-team/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/18/kayla-harrison-begins-search-for-husband-after-ufc-334-win-gotta-be-equally-yoked/",
           "date": "2026-11-18T15:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305173510-scaled.jpg"
-        },
-        {
-          "title": "‘Rat behaviour’… Fans reacted to Umar Nurmagomedov’s alleged role in Merab Dvalishvili brawl",
-          "link": "https://bloodyelbow.com/2026/11/18/rat-behaviour-fans-reacted-to-umar-nurmagomedovs-alleged-role-in-merab-dvalishvili-brawl/",
-          "date": "2026-11-18T14:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/08/GettyImages-2188609439-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Khamzat Chimaev to wrestle Rashad Evans for crossover title at RAF 19",
+          "link": "https://www.mmafighting.com/raf-wrestling/522142/khamzat-chimaev-to-wrestle-rashad-evans-for-crossover-title-at-raf-19",
+          "date": "2026-11-18T19:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Khamzat-Woodley.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Between the Links: UFC 334 fallout, Mike Perry re-signs, UFC Qatar, Josh Hokit vs. Jon Jones Twitter beef",
           "link": "https://www.mmafighting.com/ufc/522147/between-the-links-ufc-334-fallout-mike-perry-re-signs-ufc-qatar-josh-hokit-vs-jon-jones-twitter-beef",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522012/feelings-is-not-for-the-cage-jiri-prochazka-promises-to-be-a-weapon-like-never-before-in-ufc-qatar-main-event",
           "date": "2026-11-18T14:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305050053.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Morning Report: Joe Rogan thinks it’s ‘crazy’ Ciryl Gane didn’t lose point for Josh Hokit eye poke",
-          "link": "https://www.mmafighting.com/ufc/521990/morning-report-joe-rogan-thinks-its-crazy-ciryl-gane-didnt-lose-point-for-josh-hokit-eye-poke",
-          "date": "2026-11-18T13:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305179424.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
@@ -92,6 +92,18 @@
       "name": "Sherdog",
       "site": "https://www.sherdog.com/",
       "items": [
+        {
+          "title": "Jon Jones rips Josh Hokit's takedown argument after UFC 334 loss",
+          "link": "https://www.sherdog.com/news/news/Jon-Jones-rips-Josh-Hokits-takedown-argument-after-UFC-334-loss-203688",
+          "date": "2026-11-18T19:36:15.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118073615_jones.JPEG"
+        },
+        {
+          "title": "Jiri Prochazka says Navajo Stirling is like fighting his younger self",
+          "link": "https://www.sherdog.com/news/news/Jiri-Prochazka-says-Navajo-Stirling-is-like-fighting-his-younger-self-203687",
+          "date": "2026-11-18T19:27:17.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118072717_jiri.JPEG"
+        },
         {
           "title": "Aljamain Sterling loses all respect for Khabib's team after brawl",
           "link": "https://www.sherdog.com/news/news/Aljamain-Sterling-loses-all-respect-for-Khabibs-team-after-brawl-203685",
@@ -105,28 +117,16 @@
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261118060134_rizzo.JPEG"
         },
         {
+          "title": "Jai Opetaia out of Deontay Wilder fight on Fury-Joshua undercard",
+          "link": "https://www.sherdog.com/news/news/Jai-Opetaia-out-of-Deontay-Wilder-fight-on-FuryJoshua-undercard-203686",
+          "date": "2026-11-18T13:04:03.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118070403_boxing.JPEG"
+        },
+        {
           "title": "Josh Hokit reveals why he flipped off Bruce Buffer at UFC 334",
           "link": "https://www.sherdog.com/news/news/Josh-Hokit-reveals-why-he-flipped-off-Bruce-Buffer-at-UFC-334-203683",
           "date": "2026-11-18T04:15:57.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261118041557_hokit_buff_bird_prof.JPG"
-        },
-        {
-          "title": "Mike Winkeljohn says he's loyal to Josh Hokit amid Jon Jones feud",
-          "link": "https://www.sherdog.com/news/news/Mike-Winkeljohn-says-hes-loyal-to-Josh-Hokit-amid-Jon-Jones-feud-203682",
-          "date": "2026-11-18T04:05:01.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118040501_hokit_jaxwink.JPG"
-        },
-        {
-          "title": "Conor McGregor names Josh Hokit the UFC's ‘biggest draw’ behind him",
-          "link": "https://www.sherdog.com/news/news/Conor-McGregor-names-Josh-Hokit-the-UFCs-biggest-draw-behind-him-203681",
-          "date": "2026-11-18T03:44:09.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118034409_hokit_conor.JPG"
-        },
-        {
-          "title": "Chris Duncan drove four hours to confront troll praising his mother’s killer",
-          "link": "https://www.sherdog.com/news/news/Chris-Duncan-drove-four-hours-to-confront-troll-praising-his-mothers-killer-203680",
-          "date": "2026-11-18T03:29:32.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118032932_duncan_troll_mom.JPG"
         }
       ]
     }
