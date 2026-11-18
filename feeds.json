@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-18T19:47:38.021Z",
+  "generatedAt": "2026-11-18T20:43:10.016Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Ciryl Gane avoided point deduction due to NYSAC rule that doesn’t exist in Vegas",
+          "link": "https://bloodyelbow.com/2026/11/18/ciryl-gane-avoided-point-deduction-due-to-nysac-rule-that-doesnt-exist-in-vegas/",
+          "date": "2026-11-18T20:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305179929-scaled.jpg"
+        },
         {
           "title": "Jon Jones shares his main issue with the UFC 334 commentary amid petition to remove Daniel Cormier",
           "link": "https://bloodyelbow.com/2026/11/18/jon-jones-shares-his-main-issue-with-the-ufc-334-commentary-amid-petition-to-remove-daniel-cormier/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/18/ufc-releases-top-contender-just-13-months-after-title-fight/",
           "date": "2026-11-18T15:34:40.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2269860970-scaled.jpg"
-        },
-        {
-          "title": "Kayla Harrison begins search for husband after UFC 334 win: ‘Gotta be equally yoked’",
-          "link": "https://bloodyelbow.com/2026/11/18/kayla-harrison-begins-search-for-husband-after-ufc-334-win-gotta-be-equally-yoked/",
-          "date": "2026-11-18T15:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305173510-scaled.jpg"
         }
       ]
     },
@@ -49,12 +49,6 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
-        {
-          "title": "Khamzat Chimaev to wrestle Rashad Evans for crossover title at RAF 19",
-          "link": "https://www.mmafighting.com/raf-wrestling/522142/khamzat-chimaev-to-wrestle-rashad-evans-for-crossover-title-at-raf-19",
-          "date": "2026-11-18T19:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Khamzat-Woodley.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
         {
           "title": "Between the Links: UFC 334 fallout, Mike Perry re-signs, UFC Qatar, Josh Hokit vs. Jon Jones Twitter beef",
           "link": "https://www.mmafighting.com/ufc/522147/between-the-links-ufc-334-fallout-mike-perry-re-signs-ufc-qatar-josh-hokit-vs-jon-jones-twitter-beef",
@@ -84,6 +78,12 @@
           "link": "https://www.mmafighting.com/ufc/522012/feelings-is-not-for-the-cage-jiri-prochazka-promises-to-be-a-weapon-like-never-before-in-ufc-qatar-main-event",
           "date": "2026-11-18T14:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305050053.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Morning Report: Joe Rogan thinks it’s ‘crazy’ Ciryl Gane didn’t lose point for Josh Hokit eye poke",
+          "link": "https://www.mmafighting.com/ufc/521990/morning-report-joe-rogan-thinks-its-crazy-ciryl-gane-didnt-lose-point-for-josh-hokit-eye-poke",
+          "date": "2026-11-18T13:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305179424.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
@@ -92,6 +92,24 @@
       "name": "Sherdog",
       "site": "https://www.sherdog.com/",
       "items": [
+        {
+          "title": "Navajo Stirling says Jiri Prochazka 'gets hit a lot,' expects easy work",
+          "link": "https://www.sherdog.com/news/news/Navajo-Stirling-says-Jiri-Prochazka-gets-hit-a-lot-expects-easy-work-203691",
+          "date": "2026-11-18T20:21:16.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118082117_stirling.JPEG"
+        },
+        {
+          "title": "Khamzat Chimaev to defend RAF title against UFC legend Rashad Evans",
+          "link": "https://www.sherdog.com/news/news/Khamzat-Chimaev-to-defend-RAF-title-against-UFC-legend-Rashad-Evans-203690",
+          "date": "2026-11-18T20:10:37.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118081037_raf.PNG"
+        },
+        {
+          "title": "Joe Rogan calls Ilia Topuria vs. Paddy Pimblett a 'big money fight'",
+          "link": "https://www.sherdog.com/news/news/Joe-Rogan-calls-Ilia-Topuria-vs-Paddy-Pimblett-a-big-money-fight-203689",
+          "date": "2026-11-18T20:00:43.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118080043_rogan.JPEG"
+        },
         {
           "title": "Jon Jones rips Josh Hokit's takedown argument after UFC 334 loss",
           "link": "https://www.sherdog.com/news/news/Jon-Jones-rips-Josh-Hokits-takedown-argument-after-UFC-334-loss-203688",
@@ -109,24 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Aljamain-Sterling-loses-all-respect-for-Khabibs-team-after-brawl-203685",
           "date": "2026-11-18T18:21:23.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261118062123_sterling.JPEG"
-        },
-        {
-          "title": "Pedro Rizzo questions why Amanda Nunes grappled with Kayla Harrison",
-          "link": "https://www.sherdog.com/news/news/Pedro-Rizzo-questions-why-Amanda-Nunes-grappled-with-Kayla-Harrison-203684",
-          "date": "2026-11-18T18:01:34.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118060134_rizzo.JPEG"
-        },
-        {
-          "title": "Jai Opetaia out of Deontay Wilder fight on Fury-Joshua undercard",
-          "link": "https://www.sherdog.com/news/news/Jai-Opetaia-out-of-Deontay-Wilder-fight-on-FuryJoshua-undercard-203686",
-          "date": "2026-11-18T13:04:03.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118070403_boxing.JPEG"
-        },
-        {
-          "title": "Josh Hokit reveals why he flipped off Bruce Buffer at UFC 334",
-          "link": "https://www.sherdog.com/news/news/Josh-Hokit-reveals-why-he-flipped-off-Bruce-Buffer-at-UFC-334-203683",
-          "date": "2026-11-18T04:15:57.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118041557_hokit_buff_bird_prof.JPG"
         }
       ]
     }
