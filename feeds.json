@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-18T15:46:26.697Z",
+  "generatedAt": "2026-11-18T16:51:59.264Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Why Alistair Overeem refused to box Jake Paul before booking a fight on his undercard",
+          "link": "https://bloodyelbow.com/2026/11/18/why-alistair-overeem-refused-to-box-jake-paul-before-booking-a-fight-on-his-undercard/",
+          "date": "2026-11-18T16:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/03/GettyImages-1189649394-scaled.jpg"
+        },
         {
           "title": "UFC releases top contender just 13 months after title fight",
           "link": "https://bloodyelbow.com/2026/11/18/ufc-releases-top-contender-just-13-months-after-title-fight/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/18/who-is-watching-this-fans-push-back-against-khamzat-chimaevs-next-matchup-following-raf-announcement/",
           "date": "2026-11-18T12:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/05/GettyImages-2275390568-scaled.jpg"
-        },
-        {
-          "title": "Jon Anik defends Daniel Cormier as firing petition tops 7,000 signatures after UFC 334",
-          "link": "https://bloodyelbow.com/2026/11/18/jon-anik-defends-daniel-cormier-as-firing-petition-tops-7000-signatures-after-ufc-334/",
-          "date": "2026-11-18T10:06:27.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2024/10/GettyImages-2166977419-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Josh Hokit explains why he flipped off Bruce Buffer at UFC 334: ‘It’s gonna be f*ck you every time’",
+          "link": "https://www.mmafighting.com/ufc/522223/josh-hokit-explains-why-he-flipped-off-bruce-buffer-at-ufc-334-its-gonna-be-fck-you-every-time",
+          "date": "2026-11-18T16:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305176601.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "UFC releases former title contender Virna Jandiroba: ‘I was caught off guard by this decision’",
           "link": "https://www.mmafighting.com/ufc/522228/ufc-releases-former-title-contender-virna-jandiroba-i-was-caught-off-guard-by-this-decision",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522136/uros-medic-says-kevin-holland-milked-the-foul-at-ufc-334-holland-responds",
           "date": "2026-11-18T00:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305166572.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Conor McGregor calls rising star ‘biggest draw in the UFC’—besides himself",
-          "link": "https://www.mmafighting.com/ufc/522043/conor-mcgregor-calls-rising-star-biggest-draw-in-the-ufc-besides-himself",
-          "date": "2026-11-17T23:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2285438844.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
