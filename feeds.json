@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-19T16:28:17.438Z",
+  "generatedAt": "2026-11-19T17:26:15.867Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "‘John Pork’ Magomed Zaynukov gets rebooked after missing UFC Qatar in list of new UFC Dallas bouts",
+          "link": "https://bloodyelbow.com/2026/11/19/john-pork-magomed-zaynukov-gets-rebooked-after-missing-ufc-qatar-in-list-of-new-ufc-dallas-bouts/",
+          "date": "2026-11-19T16:52:45.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/01/GettyImages-2239852568-scaled.jpg"
+        },
         {
           "title": "Ciryl Gane’s coach claims UFC want Josh Hokit rematch but have an ‘ethical’ problem preventing it",
           "link": "https://bloodyelbow.com/2026/11/19/ciryl-ganes-coach-claims-ufc-want-josh-hokit-rematch-but-have-an-ethical-problem-preventing-it/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/19/tom-aspinall-provides-return-update-following-ufc-334-heavyweight-title-fight/",
           "date": "2026-11-19T12:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2265100324-scaled.jpg"
-        },
-        {
-          "title": "Daniel Cormier goes in on Jon Jones for mocking Josh Hokit after UFC 334 loss",
-          "link": "https://bloodyelbow.com/2026/11/19/daniel-cormier-goes-in-on-jon-jones-for-mocking-josh-hokit-after-ufc-334-loss/",
-          "date": "2026-11-19T10:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305139479-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,18 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Dan Hooker welcomes pressure that comes with 3 straight losses: ‘Surely I can beat Brian Ortega’",
+          "link": "https://www.mmafighting.com/ufc/522299/dan-hooker-welcomes-pressure-that-comes-along-with-3-straight-losses-surely-i-can-beat-brian-ortega",
+          "date": "2026-11-19T16:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2293716633.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Amanda Nunes pushes back on Kayla Harrison calling shots on potential rematch: ‘This is not PFL, baby’",
+          "link": "https://www.mmafighting.com/ufc/522362/amanda-nunes-pushes-back-on-kayla-harrison-calling-shots-on-potential-rematch-this-is-not-pfl-baby",
+          "date": "2026-11-19T15:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305173919.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Brian Ortega reveals crazy coincidence about famous Tracy Cortez lip tattoo",
           "link": "https://www.mmafighting.com/ufc/522271/brian-ortega-reveals-crazy-coincidence-about-his-famous-tracy-cortez-lip-tattoo",
@@ -72,18 +84,6 @@
           "link": "https://www.mmafighting.com/one/522253/one-championship-strips-christian-lee-of-welterweight-title-after-4-years-of-inactivity",
           "date": "2026-11-18T23:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-835760938.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Opinion: Where does UFC 334 rank among the 10 Madison Square Garden UFC cards?",
-          "link": "https://www.mmafighting.com/ufc/522148/opinion-where-does-ufc-334-rank-among-the-10-madison-square-garden-ufc-cards",
-          "date": "2026-11-18T21:30:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305177512.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Ryan Hall parts ways with UFC 5 years after last fight",
-          "link": "https://www.mmafighting.com/ufc/522274/ryan-hall-parts-ways-with-ufc-5-years-after-last-fight",
-          "date": "2026-11-18T20:51:28.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-1358490092.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
