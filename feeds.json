@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-19T10:50:41.278Z",
+  "generatedAt": "2026-11-19T12:54:30.769Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Tom Aspinall provides return update following UFC 334 heavyweight title fight",
+          "link": "https://bloodyelbow.com/2026/11/19/tom-aspinall-provides-return-update-following-ufc-334-heavyweight-title-fight/",
+          "date": "2026-11-19T12:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2265100324-scaled.jpg"
+        },
         {
           "title": "Daniel Cormier goes in on Jon Jones for mocking Josh Hokit after UFC 334 loss",
           "link": "https://bloodyelbow.com/2026/11/19/daniel-cormier-goes-in-on-jon-jones-for-mocking-josh-hokit-after-ufc-334-loss/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/18/khabib-nurmagomedov-holds-firm-as-jake-paul-makes-face-to-face-200-million-comeback-pitch/",
           "date": "2026-11-19T00:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/08/GettyImages-2288530917-scaled.jpg"
-        },
-        {
-          "title": "Former Ilia Topuria opponent who went 5-1 in the UFC gets removed from the roster",
-          "link": "https://bloodyelbow.com/2026/11/18/former-ilia-topuria-opponent-who-went-5-1-in-the-ufc-gets-removed-from-the-roster/",
-          "date": "2026-11-18T22:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-1328066952-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Morning Report | Daniel Cormier reacts to Jon Jones-Josh Hokit feud: ‘We’re talking about Jon Jones when it really isn’t his story anymore’",
+          "link": "https://www.mmafighting.com/ufc/520735/morning-report-daniel-cormier-reacts-to-jon-jones-josh-hokit-feud-were-talking-about-jon-jones-when-it-really-isnt-his-story-anymore",
+          "date": "2026-11-19T12:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305163764.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "UFC signee fails drug test after 98-second knockout win at DWCS",
           "link": "https://www.mmafighting.com/ufc/522295/ufc-signee-fails-drug-test-after-98-second-knockout-win-at-dwcs",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/raf-wrestling/522142/khamzat-chimaev-to-wrestle-rashad-evans-for-crossover-title-at-raf-19",
           "date": "2026-11-18T19:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Khamzat-Woodley.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Between the Links: UFC 334 fallout, Mike Perry re-signs, UFC Qatar, Josh Hokit vs. Jon Jones Twitter beef",
-          "link": "https://www.mmafighting.com/ufc/522147/between-the-links-ufc-334-fallout-mike-perry-re-signs-ufc-qatar-josh-hokit-vs-jon-jones-twitter-beef",
-          "date": "2026-11-18T17:30:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/btl-clean-9.18.26.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
