@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-19T19:28:36.595Z",
+  "generatedAt": "2026-11-19T20:25:11.440Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Paddy Pimblett’s 14-0 teammate Luke Riley reportedly books UFC 335 return",
+          "link": "https://bloodyelbow.com/2026/11/19/paddy-pimbletts-14-0-teammate-luke-riley-reportedly-books-ufc-335-return/",
+          "date": "2026-11-19T20:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/11/GettyImages-2247954900-scaled.jpg"
+        },
         {
           "title": "14-7 UFC fighter claims he could have been the ‘GOAT’ if he didn’t change his style",
           "link": "https://bloodyelbow.com/2026/11/19/14-7-ufc-fighter-claims-he-could-have-been-the-goat-if-he-didnt-change-his-style/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/19/daniel-cormier-has-no-issue-if-ufc-snubs-alexander-volkov-again-to-do-ciryl-gane-vs-josh-hokit-2/",
           "date": "2026-11-19T15:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305176230-scaled.jpg"
-        },
-        {
-          "title": "Israel Adesanya sees only one path to victory for Jiri Prochazka against his ex-teammate at UFC Qatar",
-          "link": "https://bloodyelbow.com/2026/11/19/israel-adesanya-sees-only-one-path-to-victory-for-jiri-prochazka-against-his-ex-teammate-at-ufc-qatar/",
-          "date": "2026-11-19T14:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/10/GettyImages-2239286275-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Merab Dvalishvili calls for Song Yadong next, expects Sean O’Malley to get title shot",
+          "link": "https://www.mmafighting.com/ufc/522460/merab-dvalishvili-calls-for-song-yadong-next-expects-sean-omalley-to-get-title-shot",
+          "date": "2026-11-19T20:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2301822425.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "On To the Next One: What’s next for Ciryl Gane, Josh Hokit after Fight of the Year contender at UFC 334?",
           "link": "https://www.mmafighting.com/ufc/521654/on-to-the-next-one-whats-next-for-ciryl-gane-josh-hokit-after-fight-of-the-year-contender-at-ufc-334",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522271/brian-ortega-reveals-crazy-coincidence-about-his-famous-tracy-cortez-lip-tattoo",
           "date": "2026-11-19T14:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2231142649.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Morning Report | Daniel Cormier reacts to Jon Jones-Josh Hokit feud: ‘We’re talking about Jon Jones when it really isn’t his story anymore’",
-          "link": "https://www.mmafighting.com/ufc/520735/morning-report-daniel-cormier-reacts-to-jon-jones-josh-hokit-feud-were-talking-about-jon-jones-when-it-really-isnt-his-story-anymore",
-          "date": "2026-11-19T12:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305163764.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
@@ -92,6 +92,12 @@
       "name": "Sherdog",
       "site": "https://www.sherdog.com/",
       "items": [
+        {
+          "title": "Amanda Nunes warns Kayla Harrison: 'This is not PFL, baby'",
+          "link": "https://www.sherdog.com/news/news/Amanda-Nunes-warns-Kayla-Harrison-This-is-not-PFL-baby-203695",
+          "date": "2026-11-19T19:30:36.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261119073036_nunes.JPG"
+        },
         {
           "title": "UFC contract winner Igor Cavalcanti suspended after positive drug test",
           "link": "https://www.sherdog.com/news/news/UFC-contract-winner-Igor-Cavalcanti-suspended-after-positive-drug-test-203694",
@@ -105,28 +111,22 @@
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261119071144_aspinall.JPEG"
         },
         {
-          "title": "Navajo Stirling says Jiri Prochazka 'gets hit a lot,' expects easy work",
-          "link": "https://www.sherdog.com/news/news/Navajo-Stirling-says-Jiri-Prochazka-gets-hit-a-lot-expects-easy-work-203691",
-          "date": "2026-11-18T20:21:16.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118082117_stirling.JPEG"
+          "title": "Ryan Hall leaves UFC roster nearly five years after his last fight",
+          "link": "https://www.sherdog.com/news/news/Ryan-Hall-leaves-UFC-roster-nearly-five-years-after-his-last-fight-203696",
+          "date": "2026-11-19T18:39:16.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261119073916_hall.JPEG"
         },
         {
-          "title": "Khamzat Chimaev to defend RAF title against UFC legend Rashad Evans",
-          "link": "https://www.sherdog.com/news/news/Khamzat-Chimaev-to-defend-RAF-title-against-UFC-legend-Rashad-Evans-203690",
-          "date": "2026-11-18T20:10:37.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118081037_raf.PNG"
+          "title": "One Championship vacates Christian Lee's welterweight title",
+          "link": "https://www.sherdog.com/news/news/One-Championship-vacates-Christian-Lees-welterweight-title-203697",
+          "date": "2026-11-19T17:47:38.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261119074739_one.JPEG"
         },
         {
-          "title": "Joe Rogan calls Ilia Topuria vs. Paddy Pimblett a 'big money fight'",
-          "link": "https://www.sherdog.com/news/news/Joe-Rogan-calls-Ilia-Topuria-vs-Paddy-Pimblett-a-big-money-fight-203689",
-          "date": "2026-11-18T20:00:43.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118080043_rogan.JPEG"
-        },
-        {
-          "title": "Jon Jones rips Josh Hokit's takedown argument after UFC 334 loss",
-          "link": "https://www.sherdog.com/news/news/Jon-Jones-rips-Josh-Hokits-takedown-argument-after-UFC-334-loss-203688",
-          "date": "2026-11-18T19:36:15.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261118073615_jones.JPEG"
+          "title": "Victor Ortiz vs. Robert Duran Jr. headlines full BKB 62 fight card",
+          "link": "https://www.sherdog.com/news/news/Victor-Ortiz-vs-Robert-Duran-Jr-headlines-full-BKB-62-fight-card-203699",
+          "date": "2026-11-19T16:11:57.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261119081158_bkb.JPG"
         }
       ]
     }
