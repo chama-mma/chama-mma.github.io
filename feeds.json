@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-19T04:27:41.801Z",
+  "generatedAt": "2026-11-19T06:55:30.987Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Islam Makhachev makes his pick for potential MMA fight between Jake Paul and Nate Diaz",
+          "link": "https://bloodyelbow.com/2026/11/19/islam-makhachev-makes-his-pick-for-potential-mma-fight-between-jake-paul-and-nate-diaz/",
+          "date": "2026-11-19T06:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/11/GettyImages-1593019769-scaled.jpg"
+        },
         {
           "title": "New UFC signing suspended two months after his 98-second knockout in front of Dana White",
           "link": "https://bloodyelbow.com/2026/11/18/new-ufc-signing-suspended-two-months-after-his-98-second-knockout-in-front-of-dana-white/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/18/amanda-nunes-reacts-as-kayla-harrison-registers-interest-in-title-fight-against-valentina-shevchenko/",
           "date": "2026-11-18T21:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305172622-1-scaled.jpg"
-        },
-        {
-          "title": "Ciryl Gane avoided point deduction due to NYSAC rule that doesn’t exist in Vegas",
-          "link": "https://bloodyelbow.com/2026/11/18/ciryl-gane-avoided-point-deduction-due-to-nysac-rule-that-doesnt-exist-in-vegas/",
-          "date": "2026-11-18T20:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305179929-scaled.jpg"
         }
       ]
     },
