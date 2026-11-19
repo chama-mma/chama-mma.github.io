@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-19T17:26:15.867Z",
+  "generatedAt": "2026-11-19T18:16:35.289Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "UFC star named as one of GQ’s ‘Men of the Year’ in regional list following breakout year",
+          "link": "https://bloodyelbow.com/2026/11/19/ufc-star-named-as-one-of-gqs-men-of-the-year-in-regional-list-following-breakout-year/",
+          "date": "2026-11-19T18:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/05/GettyImages-2276315611-scaled.jpg"
+        },
         {
           "title": "‘John Pork’ Magomed Zaynukov gets rebooked after missing UFC Qatar in list of new UFC Dallas bouts",
           "link": "https://bloodyelbow.com/2026/11/19/john-pork-magomed-zaynukov-gets-rebooked-after-missing-ufc-qatar-in-list-of-new-ufc-dallas-bouts/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/19/ariel-helwani-slams-team-nurmagomedov-after-barbaric-new-allegations-from-merab-dvalishvili-attack/",
           "date": "2026-11-19T13:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2194649933-scaled.jpg"
-        },
-        {
-          "title": "Tom Aspinall provides return update following UFC 334 heavyweight title fight",
-          "link": "https://bloodyelbow.com/2026/11/19/tom-aspinall-provides-return-update-following-ufc-334-heavyweight-title-fight/",
-          "date": "2026-11-19T12:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2265100324-scaled.jpg"
         }
       ]
     },
