@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-19T20:25:11.440Z",
+  "generatedAt": "2026-11-19T21:16:03.172Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Jon Jones insists Josh Hokit will never become champion in the ‘stacked’ UFC heavyweight division",
+          "link": "https://bloodyelbow.com/2026/11/19/jon-jones-insists-josh-hokit-will-never-become-champion-in-the-stacked-ufc-heavyweight-division/",
+          "date": "2026-11-19T21:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305179411-scaled.jpg"
+        },
         {
           "title": "Paddy Pimblett’s 14-0 teammate Luke Riley reportedly books UFC 335 return",
           "link": "https://bloodyelbow.com/2026/11/19/paddy-pimbletts-14-0-teammate-luke-riley-reportedly-books-ufc-335-return/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/19/ciryl-ganes-coach-claims-ufc-want-josh-hokit-rematch-but-have-an-ethical-problem-preventing-it/",
           "date": "2026-11-19T15:58:57.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305014484-scaled.jpg"
-        },
-        {
-          "title": "Daniel Cormier has no issue if UFC snubs Alexander Volkov again to do Ciryl Gane vs Josh Hokit 2",
-          "link": "https://bloodyelbow.com/2026/11/19/daniel-cormier-has-no-issue-if-ufc-snubs-alexander-volkov-again-to-do-ciryl-gane-vs-josh-hokit-2/",
-          "date": "2026-11-19T15:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305176230-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Derek Brunson ready for Darren Till or Yoel Romero in BKFC after ‘Mike Perry left because he didn’t want to fight me’",
+          "link": "https://www.mmafighting.com/bkfc/522440/derek-brunson-ready-for-darren-till-or-yoel-romero-in-bkfc-after-mike-perry-left-because-he-didnt-want-to-fight-me",
+          "date": "2026-11-19T21:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-1471323230.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Merab Dvalishvili calls for Song Yadong next, expects Sean O’Malley to get title shot",
           "link": "https://www.mmafighting.com/ufc/522460/merab-dvalishvili-calls-for-song-yadong-next-expects-sean-omalley-to-get-title-shot",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522362/amanda-nunes-pushes-back-on-kayla-harrison-calling-shots-on-potential-rematch-this-is-not-pfl-baby",
           "date": "2026-11-19T15:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305173919.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Brian Ortega reveals crazy coincidence about famous Tracy Cortez lip tattoo",
-          "link": "https://www.mmafighting.com/ufc/522271/brian-ortega-reveals-crazy-coincidence-about-his-famous-tracy-cortez-lip-tattoo",
-          "date": "2026-11-19T14:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2231142649.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
@@ -97,6 +97,12 @@
           "link": "https://www.sherdog.com/news/news/Amanda-Nunes-warns-Kayla-Harrison-This-is-not-PFL-baby-203695",
           "date": "2026-11-19T19:30:36.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261119073036_nunes.JPG"
+        },
+        {
+          "title": "UFC adds six fights to 2027 Dallas card, including Magomed Zaynukov",
+          "link": "https://www.sherdog.com/news/news/UFC-adds-six-fights-to-2027-Dallas-card-including-Magomed-Zaynukov-203700",
+          "date": "2026-11-19T19:30:34.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261119082619_ufc_dallas.JPEG"
         },
         {
           "title": "UFC contract winner Igor Cavalcanti suspended after positive drug test",
@@ -121,12 +127,6 @@
           "link": "https://www.sherdog.com/news/news/One-Championship-vacates-Christian-Lees-welterweight-title-203697",
           "date": "2026-11-19T17:47:38.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261119074739_one.JPEG"
-        },
-        {
-          "title": "Victor Ortiz vs. Robert Duran Jr. headlines full BKB 62 fight card",
-          "link": "https://www.sherdog.com/news/news/Victor-Ortiz-vs-Robert-Duran-Jr-headlines-full-BKB-62-fight-card-203699",
-          "date": "2026-11-19T16:11:57.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261119081158_bkb.JPG"
         }
       ]
     }
