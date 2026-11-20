@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-20T13:42:49.010Z",
+  "generatedAt": "2026-11-20T14:45:37.505Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "MMA fighter Sho Sekihara remains in critical condition 13 days on from slam KO loss as RIZIN shares update",
+          "link": "https://bloodyelbow.com/2026/11/20/mma-fighter-sho-sekihara-remains-in-critical-condition-13-days-on-from-slam-ko-loss-as-rizin-shares-update/",
+          "date": "2026-11-20T14:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2163903234-scaled.jpg"
+        },
         {
           "title": "UFC star announces retirement to make final Octagon appearance a send-off for both fighters",
           "link": "https://bloodyelbow.com/2026/11/20/ufc-star-announces-retirement-to-make-final-octagon-appearance-a-send-off-for-both-fighters/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/20/ufc-qatar-fighter-fined-after-missing-weight-for-matchup-with-24-fight-octagon-veteran/",
           "date": "2026-11-20T09:19:35.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305411471-scaled.jpg"
-        },
-        {
-          "title": "Amanda Nunes’ UFC future debated by fans as Dana White gets told when he should ‘retire her’",
-          "link": "https://bloodyelbow.com/2026/11/19/amanda-nunes-ufc-future-debated-by-fans-as-dana-white-gets-told-when-he-should-retire-her/",
-          "date": "2026-11-20T04:30:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305172623-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "‘I don’t want no f*cking soft, sorry ass motherf*cker’: Navajo Stirling reacts to Jiri Prochazka’s no-remorse approach to UFC Qatar",
+          "link": "https://www.mmafighting.com/ufc/522293/i-dont-want-no-fcking-soft-sorry-ass-motherfcker-navajo-stirling-reacts-to-jiri-prochazkas-no-remorse-approach-to-ufc-qatar",
+          "date": "2026-11-20T14:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305050287.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Morning Report | Tito Ortiz looks back at cancelled Dana White boxing match: ‘I would have knocked his ass out’",
           "link": "https://www.mmafighting.com/ufc/522374/morning-report-tito-ortiz-looks-back-at-cancelled-dana-white-boxing-match-i-would-have-knocked-his-ass-out",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522477/former-ufc-title-challenger-manon-fiorot-suspended-3-months-for-anti-doping-violation",
           "date": "2026-11-19T23:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2294950446.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Muhammad Ali Boxing Revival Act passes Senate unanimously, likely heads to President Trump soon",
-          "link": "https://www.mmafighting.com/boxing/522473/muhammad-ali-boxing-revival-act-passes-senate-unanimously-likely-heads-to-president-trump-soon",
-          "date": "2026-11-19T22:30:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2302051998.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
