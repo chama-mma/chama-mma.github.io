@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-20T20:39:27.718Z",
+  "generatedAt": "2026-11-20T21:37:01.513Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Merab Dvalishvili lets slip UFC bantamweight plans as he reveals likely next opponent",
+          "link": "https://bloodyelbow.com/2026/11/20/merab-dvalishvili-lets-slip-ufc-bantamweight-plans-as-he-reveals-likely-next-opponent/",
+          "date": "2026-11-20T21:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/12/GettyImages-2250452202-scaled.jpg"
+        },
         {
           "title": "Marc Goddard criticized for not punishing Ciryl Gane in UFC referees rant: ‘Not the toughest job’",
           "link": "https://bloodyelbow.com/2026/11/20/marc-goddard-criticized-for-not-punishing-ciryl-gane-in-ufc-referees-rant-not-the-toughest-job/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/20/dana-white-set-to-pay-out-100000-of-his-own-money-to-match-donald-trumps-ufc-freedom-250-bonus/",
           "date": "2026-11-20T16:08:52.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281638199-scaled.jpg"
-        },
-        {
-          "title": "Umar Nurmagomedov shares cryptic message to fans after brother Usman released from prison",
-          "link": "https://bloodyelbow.com/2026/11/20/umar-nurmagomedov-shares-cryptic-message-to-fans-after-brother-usman-released-from-prison/",
-          "date": "2026-11-20T15:23:15.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/08/GettyImages-2243287880-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,18 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "MMA fighter arrested for murdering dog, kicked out of The Fighting Nerds",
+          "link": "https://www.mmafighting.com/ufc/522579/mma-fighter-arrested-for-murdering-dog-kicked-out-of-the-fighting-nerds",
+          "date": "2026-11-20T21:30:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/dias.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "UFC Qatar’s Alessandro Costa seeks 4th win in 2026, pitches backup role for Joshua Van vs. Manel Kape",
+          "link": "https://www.mmafighting.com/ufc/522187/ufc-qatars-alessandro-costa-seeks-4th-win-in-2026-pitches-backup-role-for-joshua-van-vs-manel-kape",
+          "date": "2026-11-20T21:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-1449941010.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Usman Nurmagomedov breaks silence after release from jail; Brendan Schaub rips him",
           "link": "https://www.mmafighting.com/ufc/522581/usman-nurmagomedov-breaks-silence-after-release-from-jail-brendan-schaub-rips-him",
@@ -72,18 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522557/there-will-be-no-excuses-and-no-mercy-jiri-prochazka-and-navajo-stirling-have-intense-final-faceoff-before-ufc-qatar",
           "date": "2026-11-20T15:41:03.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-20-at-10.38.28-AM.png?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Brian Ortega blames UFC for backlash with Renato Moicano situation: ‘This is why I’m pissed’",
-          "link": "https://www.mmafighting.com/ufc/522480/brian-ortega-blames-ufc-for-backlash-with-renato-moicano-situation-this-is-why-im-pissed",
-          "date": "2026-11-20T15:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/01/gettyimages-2231631494.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "‘I don’t want no f*cking soft, sorry ass motherf*cker’: Navajo Stirling reacts to Jiri Prochazka’s no-remorse approach to UFC Qatar",
-          "link": "https://www.mmafighting.com/ufc/522293/i-dont-want-no-fcking-soft-sorry-ass-motherfcker-navajo-stirling-reacts-to-jiri-prochazkas-no-remorse-approach-to-ufc-qatar",
-          "date": "2026-11-20T14:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305050287.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
