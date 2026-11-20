@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-20T12:21:35.092Z",
+  "generatedAt": "2026-11-20T13:42:49.010Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "UFC star announces retirement to make final Octagon appearance a send-off for both fighters",
+          "link": "https://bloodyelbow.com/2026/11/20/ufc-star-announces-retirement-to-make-final-octagon-appearance-a-send-off-for-both-fighters/",
+          "date": "2026-11-20T13:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2302722944-scaled.jpg"
+        },
         {
           "title": "Alex Pereira provides weight update weeks out from UFC 335 following criticized heavyweight approach",
           "link": "https://bloodyelbow.com/2026/11/20/alex-pereira-provides-weight-update-weeks-out-from-ufc-335-following-criticized-heavyweight-approach/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/19/amanda-nunes-ufc-future-debated-by-fans-as-dana-white-gets-told-when-he-should-retire-her/",
           "date": "2026-11-20T04:30:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305172623-scaled.jpg"
-        },
-        {
-          "title": "NFL star Jahmyr Gibbs believes he has ‘good chance’ of becoming an elite MMA fighter in career switch",
-          "link": "https://bloodyelbow.com/2026/11/19/nfl-star-jahmyr-gibbs-believes-he-has-good-chance-of-becoming-an-elite-mma-fighter-in-career-switch/",
-          "date": "2026-11-20T03:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2304182366-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Morning Report | Tito Ortiz looks back at cancelled Dana White boxing match: ‘I would have knocked his ass out’",
+          "link": "https://www.mmafighting.com/ufc/522374/morning-report-tito-ortiz-looks-back-at-cancelled-dana-white-boxing-match-i-would-have-knocked-his-ass-out",
+          "date": "2026-11-20T13:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-148080588.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "UFC Qatar weigh-in results: Jiri Prochazka vs. Navajo Stirling official, 1 fighter misses weight",
           "link": "https://www.mmafighting.com/ufc/522520/ufc-qatar-weigh-in-results-jiri-prochazka-vs-navajo-stirling-official-1-fighter-misses-weight",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/boxing/522473/muhammad-ali-boxing-revival-act-passes-senate-unanimously-likely-heads-to-president-trump-soon",
           "date": "2026-11-19T22:30:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2302051998.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "No Bets Barred | Can Jiri Prochazka get back on track against Navajo Stirling at UFC Qatar?",
-          "link": "https://www.mmafighting.com/ufc/522317/no-bets-barred-can-jiri-prochazka-get-back-on-track-against-navajo-stirling-at-ufc-qatar",
-          "date": "2026-11-19T22:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305050287.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
@@ -92,6 +92,12 @@
       "name": "Sherdog",
       "site": "https://www.sherdog.com/",
       "items": [
+        {
+          "title": "UFC Qatar weigh-in results: Jiri Prochazka returns; 1 fighter heavy",
+          "link": "https://www.sherdog.com/news/news/UFC-Qatar-weighin-results-Jiri-Prochazka-returns-1-fighter-heavy-203702",
+          "date": "2026-11-20T13:00:58.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261120010058_Screenshot_20261120_at_7_59_37AM.PNG"
+        },
         {
           "title": "Amanda Nunes warns Kayla Harrison: 'This is not PFL, baby'",
           "link": "https://www.sherdog.com/news/news/Amanda-Nunes-warns-Kayla-Harrison-This-is-not-PFL-baby-203695",
@@ -121,12 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Ryan-Hall-leaves-UFC-roster-nearly-five-years-after-his-last-fight-203696",
           "date": "2026-11-19T18:39:16.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261119073916_hall.JPEG"
-        },
-        {
-          "title": "One Championship vacates Christian Lee's welterweight title",
-          "link": "https://www.sherdog.com/news/news/One-Championship-vacates-Christian-Lees-welterweight-title-203697",
-          "date": "2026-11-19T17:47:38.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261119074739_one.JPEG"
         }
       ]
     }
