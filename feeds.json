@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-20T01:40:21.239Z",
+  "generatedAt": "2026-11-20T02:41:56.835Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "UFC Qatar preview: Jiri Prochazka vs. Navajo Stirling, start time, full card, and how to watch",
+          "link": "https://bloodyelbow.com/2026/11/19/ufc-qatar-preview-jiri-prochazka-vs-navajo-stirling-start-time-full-card-and-how-to-watch/",
+          "date": "2026-11-20T02:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305050287-scaled.jpg"
+        },
         {
           "title": "Josh Hokit left his mark on Ciryl Gane ‘for life’ says champion’s coach amid rematch push",
           "link": "https://bloodyelbow.com/2026/11/19/josh-hokit-left-his-mark-on-ciryl-gane-for-life-says-champions-coach-amid-rematch-push/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/19/jon-jones-insists-josh-hokit-will-never-become-champion-in-the-stacked-ufc-heavyweight-division/",
           "date": "2026-11-19T21:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305179411-scaled.jpg"
-        },
-        {
-          "title": "Paddy Pimblett’s 14-0 teammate Luke Riley reportedly books UFC 335 return",
-          "link": "https://bloodyelbow.com/2026/11/19/paddy-pimbletts-14-0-teammate-luke-riley-reportedly-books-ufc-335-return/",
-          "date": "2026-11-19T20:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/11/GettyImages-2247954900-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,24 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "New UFC Dallas fights include former title challenger, return of ‘Chanco’",
+          "link": "https://www.mmafighting.com/ufc/522430/new-ufc-dallas-fights-include-former-title-challenger-return-of-chanco",
+          "date": "2026-11-20T00:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2240320241.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Former UFC title challenger Manon Fiorot suspended 3 months for anti-doping violation",
+          "link": "https://www.mmafighting.com/ufc/522477/former-ufc-title-challenger-manon-fiorot-suspended-3-months-for-anti-doping-violation",
+          "date": "2026-11-19T23:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2294950446.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Muhammad Ali Boxing Revival Act passes Senate unanimously, likely heads to President Trump soon",
+          "link": "https://www.mmafighting.com/boxing/522473/muhammad-ali-boxing-revival-act-passes-senate-unanimously-likely-heads-to-president-trump-soon",
+          "date": "2026-11-19T22:30:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2302051998.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "No Bets Barred | Can Jiri Prochazka get back on track against Navajo Stirling at UFC Qatar?",
           "link": "https://www.mmafighting.com/ufc/522317/no-bets-barred-can-jiri-prochazka-get-back-on-track-against-navajo-stirling-at-ufc-qatar",
@@ -66,24 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522460/merab-dvalishvili-calls-for-song-yadong-next-expects-sean-omalley-to-get-title-shot",
           "date": "2026-11-19T20:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2301822425.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "On To the Next One: What’s next for Ciryl Gane, Josh Hokit after Fight of the Year contender at UFC 334?",
-          "link": "https://www.mmafighting.com/ufc/521654/on-to-the-next-one-whats-next-for-ciryl-gane-josh-hokit-after-fight-of-the-year-contender-at-ufc-334",
-          "date": "2026-11-19T19:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/ottno334clean.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Tom Aspinall provides key date as he deals with ongoing eye issues",
-          "link": "https://www.mmafighting.com/ufc/522377/tom-aspinall-provides-key-date-as-he-deals-with-ongoing-eye-issues",
-          "date": "2026-11-19T18:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2242964861.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Dan Hooker welcomes pressure that comes with 3 straight losses: ‘Surely I can beat Brian Ortega’",
-          "link": "https://www.mmafighting.com/ufc/522299/dan-hooker-welcomes-pressure-that-comes-along-with-3-straight-losses-surely-i-can-beat-brian-ortega",
-          "date": "2026-11-19T16:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2293716633.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
