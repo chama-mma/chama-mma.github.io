@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-20T21:37:01.513Z",
+  "generatedAt": "2026-11-20T22:35:51.066Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Sean O’Malley’s next outing announced against former UFC bantamweight champion",
+          "link": "https://bloodyelbow.com/2026/11/20/sean-omalleys-next-outing-announced-against-former-ufc-bantamweight-champion/",
+          "date": "2026-11-20T22:31:40.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281624619-scaled.jpg"
+        },
+        {
+          "title": "Josh Hokit returns to training under a week after first-ever loss as he suggests title fight rule change",
+          "link": "https://bloodyelbow.com/2026/11/20/josh-hokit-returns-to-training-under-a-week-after-first-ever-loss-as-he-suggests-title-fight-rule-change/",
+          "date": "2026-11-20T22:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305176326-scaled.jpg"
+        },
         {
           "title": "Merab Dvalishvili lets slip UFC bantamweight plans as he reveals likely next opponent",
           "link": "https://bloodyelbow.com/2026/11/20/merab-dvalishvili-lets-slip-ufc-bantamweight-plans-as-he-reveals-likely-next-opponent/",
@@ -29,18 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/20/saba-lazishvili-credits-conor-mcgregor-with-starting-his-interest-in-mma-as-ufc-legend-shows-support/",
           "date": "2026-11-20T18:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Screenshot-2026-11-14-at-18.17.09.png"
-        },
-        {
-          "title": "Merab Dvalishvili won’t rule out Usman Nurmagomedov UFC clash but unsure on Umar rematch",
-          "link": "https://bloodyelbow.com/2026/11/20/merab-dvalishvili-wont-rule-out-usman-nurmagomedov-ufc-clash-but-unsure-on-umar-rematch/",
-          "date": "2026-11-20T17:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/01/GettyImages-2194453227-scaled.jpg"
-        },
-        {
-          "title": "Dana White set to pay out $100,000 of his own money to match Donald Trump’s UFC Freedom 250 bonus",
-          "link": "https://bloodyelbow.com/2026/11/20/dana-white-set-to-pay-out-100000-of-his-own-money-to-match-donald-trumps-ufc-freedom-250-bonus/",
-          "date": "2026-11-20T16:08:52.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281638199-scaled.jpg"
         }
       ]
     },
@@ -50,40 +50,40 @@
       "site": "https://www.mmafighting.com/",
       "items": [
         {
-          "title": "MMA fighter arrested for murdering dog, kicked out of The Fighting Nerds",
-          "link": "https://www.mmafighting.com/ufc/522579/mma-fighter-arrested-for-murdering-dog-kicked-out-of-the-fighting-nerds",
-          "date": "2026-11-20T21:30:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/dias.jpg?quality=90&strip=all&crop=0,0,100,100"
+          "title": "Muhammad Ali Boxing Revival Act passes Senate unanimously, likely heads to President Trump soon",
+          "link": "https://www.mmafighting.com/boxing/522473/muhammad-ali-boxing-revival-act-passes-senate-unanimously-likely-heads-to-president-trump-soon",
+          "date": "2026-11-19T22:30:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2302051998.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "UFC Qatar’s Alessandro Costa seeks 4th win in 2026, pitches backup role for Joshua Van vs. Manel Kape",
-          "link": "https://www.mmafighting.com/ufc/522187/ufc-qatars-alessandro-costa-seeks-4th-win-in-2026-pitches-backup-role-for-joshua-van-vs-manel-kape",
-          "date": "2026-11-20T21:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-1449941010.jpg?quality=90&strip=all&crop=0,0,100,100"
+          "title": "No Bets Barred | Can Jiri Prochazka get back on track against Navajo Stirling at UFC Qatar?",
+          "link": "https://www.mmafighting.com/ufc/522317/no-bets-barred-can-jiri-prochazka-get-back-on-track-against-navajo-stirling-at-ufc-qatar",
+          "date": "2026-11-19T22:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305050287.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "Usman Nurmagomedov breaks silence after release from jail; Brendan Schaub rips him",
-          "link": "https://www.mmafighting.com/ufc/522581/usman-nurmagomedov-breaks-silence-after-release-from-jail-brendan-schaub-rips-him",
-          "date": "2026-11-20T20:30:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2288530469.jpg?quality=90&strip=all&crop=0,0,100,100"
+          "title": "Derek Brunson ready for Darren Till or Yoel Romero in BKFC after ‘Mike Perry left because he didn’t want to fight me’",
+          "link": "https://www.mmafighting.com/bkfc/522440/derek-brunson-ready-for-darren-till-or-yoel-romero-in-bkfc-after-mike-perry-left-because-he-didnt-want-to-fight-me",
+          "date": "2026-11-19T21:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-1471323230.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "Kevin Vallejos expects title shot with UFC Qatar win over Aljamain Sterling: ‘I’m next’",
-          "link": "https://www.mmafighting.com/ufc/521924/kevin-vallejos-expects-title-shot-with-ufc-qatar-win-over-aljamain-sterling-im-next",
-          "date": "2026-11-20T19:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2266556586.jpg?quality=90&strip=all&crop=0,0,100,100"
+          "title": "Merab Dvalishvili calls for Song Yadong next, expects Sean O’Malley to get title shot",
+          "link": "https://www.mmafighting.com/ufc/522460/merab-dvalishvili-calls-for-song-yadong-next-expects-sean-omalley-to-get-title-shot",
+          "date": "2026-11-19T20:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2301822425.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "Divisional Rankings: Ciryl Gane is UFC’s defending champion, but is he MMA’s true No. 1 heavyweight?",
-          "link": "https://www.mmafighting.com/rankings/521827/divisional-rankings-ciryl-gane-is-ufcs-defending-champion-but-is-he-mmas-true-no-1-heavyweight",
-          "date": "2026-11-20T17:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305177545.jpg?quality=90&strip=all&crop=0,0,100,100"
+          "title": "On To the Next One: What’s next for Ciryl Gane, Josh Hokit after Fight of the Year contender at UFC 334?",
+          "link": "https://www.mmafighting.com/ufc/521654/on-to-the-next-one-whats-next-for-ciryl-gane-josh-hokit-after-fight-of-the-year-contender-at-ufc-334",
+          "date": "2026-11-19T19:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/ottno334clean.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "‘There will be no excuses, and no mercy’: Jiri Prochazka and Navajo Stirling have intense final faceoff before UFC Qatar",
-          "link": "https://www.mmafighting.com/ufc/522557/there-will-be-no-excuses-and-no-mercy-jiri-prochazka-and-navajo-stirling-have-intense-final-faceoff-before-ufc-qatar",
-          "date": "2026-11-20T15:41:03.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-20-at-10.38.28-AM.png?quality=90&strip=all&crop=0,0,100,100"
+          "title": "Tom Aspinall provides key date as he deals with ongoing eye issues",
+          "link": "https://www.mmafighting.com/ufc/522377/tom-aspinall-provides-key-date-as-he-deals-with-ongoing-eye-issues",
+          "date": "2026-11-19T18:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2242964861.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
