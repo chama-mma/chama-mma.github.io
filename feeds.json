@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-20T15:45:31.439Z",
+  "generatedAt": "2026-11-20T16:48:33.638Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Dana White set to pay out $100,000 of his own money to match Donald Trump’s UFC Freedom 250 bonus",
+          "link": "https://bloodyelbow.com/2026/11/20/dana-white-set-to-pay-out-100000-of-his-own-money-to-match-donald-trumps-ufc-freedom-250-bonus/",
+          "date": "2026-11-20T16:08:52.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281638199-scaled.jpg"
+        },
         {
           "title": "Umar Nurmagomedov shares cryptic message to fans after brother Usman released from prison",
           "link": "https://bloodyelbow.com/2026/11/20/umar-nurmagomedov-shares-cryptic-message-to-fans-after-brother-usman-released-from-prison/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/20/alex-pereira-provides-weight-update-weeks-out-from-ufc-335-following-criticized-heavyweight-approach/",
           "date": "2026-11-20T12:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281409649-scaled.jpg"
-        },
-        {
-          "title": "Usman Nurmagomedov breaks silence with first post since Merab Dvalishvili clash in Abu Dhabi",
-          "link": "https://bloodyelbow.com/2026/11/20/usman-nurmagomedov-breaks-silence-with-first-post-since-merab-dvalishvili-clash-in-abu-dhabi/",
-          "date": "2026-11-20T11:04:40.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/01/GettyImages-2170781499-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,18 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "‘There will be no excuses, and no mercy’: Jiri Prochazka and Navajo Stirling have intense final faceoff before UFC Qatar",
+          "link": "https://www.mmafighting.com/ufc/522557/there-will-be-no-excuses-and-no-mercy-jiri-prochazka-and-navajo-stirling-have-intense-final-faceoff-before-ufc-qatar",
+          "date": "2026-11-20T15:41:03.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-20-at-10.38.28-AM.png?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Brian Ortega blames UFC for backlash with Renato Moicano situation: ‘This is why I’m pissed’",
+          "link": "https://www.mmafighting.com/ufc/522480/brian-ortega-blames-ufc-for-backlash-with-renato-moicano-situation-this-is-why-im-pissed",
+          "date": "2026-11-20T15:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/01/gettyimages-2231631494.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "‘I don’t want no f*cking soft, sorry ass motherf*cker’: Navajo Stirling reacts to Jiri Prochazka’s no-remorse approach to UFC Qatar",
           "link": "https://www.mmafighting.com/ufc/522293/i-dont-want-no-fcking-soft-sorry-ass-motherfcker-navajo-stirling-reacts-to-jiri-prochazkas-no-remorse-approach-to-ufc-qatar",
@@ -72,18 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522425/ufc-qatar-weigh-in-video-prochazka-vs-stirling",
           "date": "2026-11-20T07:29:41.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2270776164.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "New UFC Dallas fights include former title challenger, return of ‘Chanco’",
-          "link": "https://www.mmafighting.com/ufc/522430/new-ufc-dallas-fights-include-former-title-challenger-return-of-chanco",
-          "date": "2026-11-20T00:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2240320241.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Former UFC title challenger Manon Fiorot suspended 3 months for anti-doping violation",
-          "link": "https://www.mmafighting.com/ufc/522477/former-ufc-title-challenger-manon-fiorot-suspended-3-months-for-anti-doping-violation",
-          "date": "2026-11-19T23:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2294950446.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
