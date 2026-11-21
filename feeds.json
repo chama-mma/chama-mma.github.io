@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-21T21:08:16.065Z",
+  "generatedAt": "2026-11-21T22:06:36.473Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "‘Strip that scumbag’… Dan Hooker demands title fight after snapping three-fight skid at UFC Qatar",
+          "link": "https://bloodyelbow.com/2026/11/21/strip-that-scumbag-dan-hooker-demands-title-fight-after-snapping-three-fight-skid-at-ufc-qatar/",
+          "date": "2026-11-21T22:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2306245005-scaled.jpg"
+        },
         {
           "title": "Jiri Prochazka vs Navajo Stirling UFC Qatar result: Ex-world champion viciously knocked out in Doha",
           "link": "https://bloodyelbow.com/2026/11/21/jiri-prochazka-vs-navajo-stirling-ufc-qatar-result-former-world-champion-viciously-knocked-out-in-doha/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/21/cut-them-both-fans-rage-about-shamil-gaziev-vs-tallison-teixeira-snoozefest-at-ufc-qatar/",
           "date": "2026-11-21T17:55:39.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2306228124-scaled.jpg"
-        },
-        {
-          "title": "Chris Leben ends 13-year MMA layoff with win over retiring UFC rival",
-          "link": "https://bloodyelbow.com/2026/11/21/chris-leben-ends-13-year-mma-layoff-with-win-over-retiring-ufc-rival/",
-          "date": "2026-11-21T16:17:32.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-1300883030-scaled.jpg"
         }
       ]
     },
@@ -50,13 +50,19 @@
       "site": "https://www.mmafighting.com/",
       "items": [
         {
+          "title": "‘Need to go to 185’: Pros react to Jiri Prochazka suffering disappointing knockout to Navajo Stirling at UFC Qatar",
+          "link": "https://www.mmafighting.com/ufc/522822/need-to-go-to-185-pros-react-to-jiri-prochazka-suffering-disappointing-knockout-to-navajo-stirling-at-ufc-qatar",
+          "date": "2026-11-21T21:19:01.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305719845.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
           "title": "Navajo Stirling delivers devastating knockout to beat Jiri Prochazka in UFC Qatar main event",
           "link": "https://www.mmafighting.com/ufc/522771/navajo-stirling-delivers-devastating-knockout-to-beat-jiri-prochazka-in-ufc-qatar-main-event",
           "date": "2026-11-21T20:59:34.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306253319.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "LIVE UFC Qatar Results: Prochazka vs. Stirling",
+          "title": "UFC Qatar Results: Prochazka vs. Stirling",
           "link": "https://www.mmafighting.com/ufc/522605/ufc-qatar-results-prochazka-vs-stirling",
           "date": "2026-11-21T20:51:04.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306073003.jpg?quality=90&strip=all&crop=0,0,100,100"
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522743/ufc-qatar-results-kevin-vallejos-calls-for-title-shot-after-winning-decision-over-aljamain-sterling",
           "date": "2026-11-21T20:25:21.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306249095.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "UFC Qatar live blog: Aljamain Sterling vs. Kevin Vallejos",
-          "link": "https://www.mmafighting.com/ufc/522613/ufc-qatar-live-blog-aljamain-sterling-vs-kevin-vallejos",
-          "date": "2026-11-21T19:52:54.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306073226.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
@@ -92,6 +92,18 @@
       "name": "Sherdog",
       "site": "https://www.sherdog.com/",
       "items": [
+        {
+          "title": "UFC Qatar bonuses: Navajo Stirling, 3 more earn $100,000",
+          "link": "https://www.sherdog.com/news/news/UFC-Qatar-bonuses-Navajo-Stirling-3-more-earn-36100000-203711",
+          "date": "2026-11-21T23:12:08.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261121092701_Screenshot_20261121_at_3_54_04PM.PNG"
+        },
+        {
+          "title": "Navajo Stirling knocks out Jiri Prochazka in UFC Qatar main event",
+          "link": "https://www.sherdog.com/news/news/Navajo-Stirling-knocks-out-Jiri-Prochazka-in-UFC-Qatar-main-event-203710",
+          "date": "2026-11-21T23:12:07.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261121091001_GettyImages2306253482.JPG"
+        },
         {
           "title": "UFC Qatar ‘Prochazka vs. Stirling’ play-by-play, results & round scoring",
           "link": "https://www.sherdog.com/news/news/UFC-Qatar-Prochazka-vs-Stirling-playbyplay-results-round-scoring-203707",
@@ -115,18 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Amanda-Nunes-warns-Kayla-Harrison-This-is-not-PFL-baby-203695",
           "date": "2026-11-19T19:30:36.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261119073036_nunes.JPG"
-        },
-        {
-          "title": "UFC adds six fights to 2027 Dallas card, including Magomed Zaynukov",
-          "link": "https://www.sherdog.com/news/news/UFC-adds-six-fights-to-2027-Dallas-card-including-Magomed-Zaynukov-203700",
-          "date": "2026-11-19T19:30:34.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261119082619_ufc_dallas.JPEG"
-        },
-        {
-          "title": "UFC contract winner Igor Cavalcanti suspended after positive drug test",
-          "link": "https://www.sherdog.com/news/news/UFC-contract-winner-Igor-Cavalcanti-suspended-after-positive-drug-test-203694",
-          "date": "2026-11-19T19:21:48.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261119072148_igor.JPEG"
         }
       ]
     }
