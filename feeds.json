@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-21T19:17:42.956Z",
+  "generatedAt": "2026-11-21T20:08:15.247Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Brian Ortega retires after losing every round against Dan Hooker at UFC Qatar",
+          "link": "https://bloodyelbow.com/2026/11/21/brian-ortega-retires-after-losing-every-round-against-dan-hooker-at-ufc-qatar/",
+          "date": "2026-11-21T19:48:39.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2306245031-scaled.jpg"
+        },
         {
           "title": "Ilia Topuria watches as his brother suffers first loss in 11 years at UFC Qatar",
           "link": "https://bloodyelbow.com/2026/11/21/ilia-topuria-watches-as-his-brother-suffers-first-loss-in-11-years-at-ufc-qatar/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/21/jiri-prochazka-is-surprised-ufc-let-carlos-ulberg-stay-champ-after-telling-him-to-vacate-in-2022/",
           "date": "2026-11-21T15:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/04/GettyImages-2270933067-scaled.jpg"
-        },
-        {
-          "title": "Watch UFC veteran Derek Brunson land three knockdowns in his BKFC debut before Darren Till callout",
-          "link": "https://bloodyelbow.com/2026/11/21/watch-ufc-veteran-derek-brunson-land-three-knockdowns-in-his-bkfc-debut-before-darren-till-callout/",
-          "date": "2026-11-21T14:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/08/GettyImages-1471323230-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,24 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "UFC Qatar live blog: Aljamain Sterling vs. Kevin Vallejos",
+          "link": "https://www.mmafighting.com/ufc/522613/ufc-qatar-live-blog-aljamain-sterling-vs-kevin-vallejos",
+          "date": "2026-11-21T19:52:54.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306073226.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "UFC Qatar results: Dan Hooker calls out Max Holloway after win, Brian Ortega announces retirement",
+          "link": "https://www.mmafighting.com/ufc/522721/ufc-qatar-results-dan-hooker-calls-out-max-holloway-after-winning-brian-ortega-announces-his-retirement",
+          "date": "2026-11-21T19:50:37.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306244664.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "LIVE UFC Qatar Results: Prochazka vs. Stirling",
+          "link": "https://www.mmafighting.com/ufc/522605/ufc-qatar-results-prochazka-vs-stirling",
+          "date": "2026-11-21T19:41:16.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306073003.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "UFC Qatar results: Kyoji Horiguchi apologizes after winning ‘boring fight’ against Asu Almabayev",
           "link": "https://www.mmafighting.com/ufc/522703/ufc-qatar-results-kyoji-horiguchi-apologizes-after-winning-boring-fight-against-asu-almabayev",
@@ -66,24 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522694/ufc-qatar-results-ikram-aliskerov-puts-on-suffocating-grappling-performance-to-beat-jared-cannonier",
           "date": "2026-11-21T18:40:21.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306237120.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "LIVE UFC Qatar Results: Prochazka vs. Stirling",
-          "link": "https://www.mmafighting.com/ufc/522605/ufc-qatar-results-prochazka-vs-stirling",
-          "date": "2026-11-21T18:38:21.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306073003.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "UFC Qatar video: Amir Albazi loses point for fence grab, scores epic comeback submission against Alessandro Costa",
-          "link": "https://www.mmafighting.com/ufc/522663/ufc-qatar-video-amir-albazi-loses-point-for-fence-grab-scores-epic-comeback-submission-against-alessandro-costa",
-          "date": "2026-11-21T17:20:46.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306225397.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Dan Hooker confident Alexander Volkanovski can beat Justin Gaethje: ‘That’s a very winnable fight for him’",
-          "link": "https://www.mmafighting.com/ufc/522470/dan-hooker-confident-alexander-volkanovski-can-beat-justin-gaethje-thats-a-very-winnable-fight-for-him",
-          "date": "2026-11-21T13:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2301828323.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
