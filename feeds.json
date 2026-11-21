@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-21T12:08:36.439Z",
+  "generatedAt": "2026-11-21T13:27:52.252Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Ilia Topuria predicts timeline for his 7-1 brother to become UFC bantamweight champion",
+          "link": "https://bloodyelbow.com/2026/11/21/ilia-topuria-predicts-timeline-for-his-7-1-brother-to-become-ufc-bantamweight-champion/",
+          "date": "2026-11-21T13:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/05/GettyImages-2247940521-scaled.jpg"
+        },
         {
           "title": "Bruce Buffer looks unimpressed as UFC fan recreates Josh Hokit’s middle finger jab in public",
           "link": "https://bloodyelbow.com/2026/11/21/bruce-buffer-looks-unimpressed-as-ufc-fan-recreates-josh-hokits-middle-finger-jab-in-public/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/20/ciryl-gane-sets-goal-to-break-heavyweight-record-set-by-the-divisions-greatest-champion/",
           "date": "2026-11-21T00:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305177542-scaled.jpg"
-        },
-        {
-          "title": "Sean O’Malley’s next outing announced against former UFC bantamweight title challenger",
-          "link": "https://bloodyelbow.com/2026/11/20/sean-omalleys-next-outing-announced-against-former-ufc-bantamweight-champion/",
-          "date": "2026-11-20T22:31:40.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281624619-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Dan Hooker confident Alexander Volkanovski can beat Justin Gaethje: ‘That’s a very winnable fight for him’",
+          "link": "https://www.mmafighting.com/ufc/522470/dan-hooker-confident-alexander-volkanovski-can-beat-justin-gaethje-thats-a-very-winnable-fight-for-him",
+          "date": "2026-11-21T13:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2301828323.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "UFC Qatar Results: Prochazka vs. Stirling",
           "link": "https://www.mmafighting.com/ufc/522605/ufc-qatar-results-prochazka-vs-stirling",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522550/ufc-qatar-preview-show-is-this-do-or-die-for-jiri-prochazka-against-navajo-stirling",
           "date": "2026-11-20T22:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/UFC-QATAR-CLEAN.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "MMA fighter arrested for murdering dog, kicked out of The Fighting Nerds",
-          "link": "https://www.mmafighting.com/ufc/522579/mma-fighter-arrested-for-murdering-dog-kicked-out-of-the-fighting-nerds",
-          "date": "2026-11-20T21:30:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/dias.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
