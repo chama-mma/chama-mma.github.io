@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-20T23:36:23.381Z",
+  "generatedAt": "2026-11-21T00:43:45.150Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Ciryl Gane sets goal to break heavyweight record set by the division’s greatest champion",
+          "link": "https://bloodyelbow.com/2026/11/20/ciryl-gane-sets-goal-to-break-heavyweight-record-set-by-the-divisions-greatest-champion/",
+          "date": "2026-11-21T00:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305177542-scaled.jpg"
+        },
         {
           "title": "Sean O’Malley’s next outing announced against former UFC bantamweight title challenger",
           "link": "https://bloodyelbow.com/2026/11/20/sean-omalleys-next-outing-announced-against-former-ufc-bantamweight-champion/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/20/bkfc-announces-new-host-city-and-venue-for-knucklemania-after-two-years-in-philadelphia/",
           "date": "2026-11-20T19:01:19.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/07/Conor-McGregor-and-David-Feldman-scaled.jpg"
-        },
-        {
-          "title": "Saba Lazishvili credits Conor McGregor with starting his interest in MMA as UFC legend shows support",
-          "link": "https://bloodyelbow.com/2026/11/20/saba-lazishvili-credits-conor-mcgregor-with-starting-his-interest-in-mma-as-ufc-legend-shows-support/",
-          "date": "2026-11-20T18:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Screenshot-2026-11-14-at-18.17.09.png"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "UFC Qatar predictions",
+          "link": "https://www.mmafighting.com/ufc/522566/ufc-qatar-predictions",
+          "date": "2026-11-21T00:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305197391.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Tallison Teixeira learned heel hooks training with Valter Walker, Shamil Gaziev ‘in trouble’ at UFC Qatar",
           "link": "https://www.mmafighting.com/ufc/521975/tallison-teixeira-learned-heel-hooks-training-with-valter-walker-shamil-gaziev-in-trouble-at-ufc-qatar",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522187/ufc-qatars-alessandro-costa-seeks-4th-win-in-2026-pitches-backup-role-for-joshua-van-vs-manel-kape",
           "date": "2026-11-20T21:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-1449941010.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Usman Nurmagomedov breaks silence after release from jail; Brendan Schaub rips him",
-          "link": "https://www.mmafighting.com/ufc/522581/usman-nurmagomedov-breaks-silence-after-release-from-jail-brendan-schaub-rips-him",
-          "date": "2026-11-20T20:30:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2288530469.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
@@ -93,16 +93,22 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
-          "title": "From Sylvester Stallone's 'Tulsa King' to Bare-Knuckle Boxing: Branden Smith's next act",
-          "link": "https://www.sherdog.com/news/news/From-Sylvester-Stallones-Tulsa-King-to-BareKnuckle-Boxing-Branden-Smiths-next-act-203705",
-          "date": "2026-11-20T20:06:59.000Z",
-          "image": "https://www2-cdn.sherdog.com/apple-touch-icon.png"
+          "title": "UFC Qatar ‘Prochazka vs. Stirling’ play-by-play, results & round scoring",
+          "link": "https://www.sherdog.com/news/news/UFC-Qatar-Prochazka-vs-Stirling-playbyplay-results-round-scoring-203707",
+          "date": "2026-11-21T23:12:05.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261120112808_pbp_cover.JPG"
         },
         {
           "title": "UFC Qatar weigh-in results: Jiri Prochazka returns; 1 fighter heavy",
           "link": "https://www.sherdog.com/news/news/UFC-Qatar-weighin-results-Jiri-Prochazka-returns-1-fighter-heavy-203702",
-          "date": "2026-11-20T13:00:58.000Z",
+          "date": "2026-11-20T23:59:58.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261120010058_Screenshot_20261120_at_7_59_37AM.PNG"
+        },
+        {
+          "title": "From Sylvester Stallone's 'Tulsa King' to Bare-Knuckle Boxing: Branden Smith's next act",
+          "link": "https://www.sherdog.com/news/news/From-Sylvester-Stallones-Tulsa-King-to-BareKnuckle-Boxing-Branden-Smiths-next-act-203705",
+          "date": "2026-11-20T20:06:59.000Z",
+          "image": "https://www2-cdn.sherdog.com/apple-touch-icon.png"
         },
         {
           "title": "Amanda Nunes warns Kayla Harrison: 'This is not PFL, baby'",
@@ -121,12 +127,6 @@
           "link": "https://www.sherdog.com/news/news/UFC-contract-winner-Igor-Cavalcanti-suspended-after-positive-drug-test-203694",
           "date": "2026-11-19T19:21:48.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261119072148_igor.JPEG"
-        },
-        {
-          "title": "Tom Aspinall gives eye injury update, still has no UFC return date",
-          "link": "https://www.sherdog.com/news/news/Tom-Aspinall-gives-eye-injury-update-still-has-no-UFC-return-date-203693",
-          "date": "2026-11-19T19:11:44.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261119071144_aspinall.JPEG"
         }
       ]
     }
