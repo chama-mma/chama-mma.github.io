@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-21T17:09:58.776Z",
+  "generatedAt": "2026-11-21T18:05:00.916Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "‘Cut them both’… Fans rage about Shamil Gaziev vs. Tallison Teixeira snoozefest at UFC Qatar",
+          "link": "https://bloodyelbow.com/2026/11/21/cut-them-both-fans-rage-about-shamil-gaziev-vs-tallison-teixeira-snoozefest-at-ufc-qatar/",
+          "date": "2026-11-21T17:55:39.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2306228124-scaled.jpg"
+        },
         {
           "title": "Chris Leben ends 13-year MMA layoff with win over retiring UFC rival",
           "link": "https://bloodyelbow.com/2026/11/21/chris-leben-ends-13-year-mma-layoff-with-win-over-retiring-ufc-rival/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/21/ilia-topuria-predicts-timeline-for-his-7-1-brother-to-become-ufc-bantamweight-champion/",
           "date": "2026-11-21T13:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/05/GettyImages-2247940521-scaled.jpg"
-        },
-        {
-          "title": "Bruce Buffer looks unimpressed as UFC fan recreates Josh Hokit’s middle finger jab in public",
-          "link": "https://bloodyelbow.com/2026/11/21/bruce-buffer-looks-unimpressed-as-ufc-fan-recreates-josh-hokits-middle-finger-jab-in-public/",
-          "date": "2026-11-21T12:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305176747-scaled.jpg"
         }
       ]
     },
@@ -50,16 +50,10 @@
       "site": "https://www.mmafighting.com/",
       "items": [
         {
-          "title": "LIVE UFC Qatar Results: Prochazka vs. Stirling",
+          "title": "UFC Qatar Results: Prochazka vs. Stirling",
           "link": "https://www.mmafighting.com/ufc/522605/ufc-qatar-results-prochazka-vs-stirling",
-          "date": "2026-11-21T16:41:27.000Z",
+          "date": "2026-11-21T05:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306073003.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Dan Hooker confident Alexander Volkanovski can beat Justin Gaethje: ‘That’s a very winnable fight for him’",
-          "link": "https://www.mmafighting.com/ufc/522470/dan-hooker-confident-alexander-volkanovski-can-beat-justin-gaethje-thats-a-very-winnable-fight-for-him",
-          "date": "2026-11-21T13:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2301828323.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
           "title": "UFC Qatar predictions",
@@ -84,6 +78,12 @@
           "link": "https://www.mmafighting.com/ufc/522550/ufc-qatar-preview-show-is-this-do-or-die-for-jiri-prochazka-against-navajo-stirling",
           "date": "2026-11-20T22:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/UFC-QATAR-CLEAN.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "MMA fighter arrested for murdering dog, kicked out of The Fighting Nerds",
+          "link": "https://www.mmafighting.com/ufc/522579/mma-fighter-arrested-for-murdering-dog-kicked-out-of-the-fighting-nerds",
+          "date": "2026-11-20T21:30:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/dias.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
