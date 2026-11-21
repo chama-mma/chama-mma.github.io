@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-21T15:13:33.617Z",
+  "generatedAt": "2026-11-21T16:11:36.485Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Why aren’t there any ring girls at UFC Qatar? Octagon girls’ absence explained",
+          "link": "https://bloodyelbow.com/2026/11/21/why-arent-there-any-ring-girls-at-ufc-qatar-octagon-girls-absence-explained/",
+          "date": "2026-11-21T16:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305146991-scaled.jpg"
+        },
         {
           "title": "Jiri Prochazka is ‘surprised’ UFC let Carlos Ulberg stay champ after telling him to vacate in 2022",
           "link": "https://bloodyelbow.com/2026/11/21/jiri-prochazka-is-surprised-ufc-let-carlos-ulberg-stay-champ-after-telling-him-to-vacate-in-2022/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/21/two-time-ufc-main-event-star-among-three-victims-in-the-promotions-latest-roster-purge/",
           "date": "2026-11-21T10:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/12/GettyImages-2246903990-scaled.jpg"
-        },
-        {
-          "title": "Is Dillon Danis in GTA VI? MMA fans react to NPC who looks and acts exactly like controversial star",
-          "link": "https://bloodyelbow.com/2026/11/21/is-dillon-danis-in-gta-vi-mma-fans-react-to-npc-who-looks-and-acts-exactly-like-controversial-star/",
-          "date": "2026-11-21T05:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Dillon-Danis.png"
         }
       ]
     },
@@ -50,16 +50,16 @@
       "site": "https://www.mmafighting.com/",
       "items": [
         {
+          "title": "LIVE UFC Qatar Results: Prochazka vs. Stirling",
+          "link": "https://www.mmafighting.com/ufc/522605/ufc-qatar-results-prochazka-vs-stirling",
+          "date": "2026-11-21T15:38:29.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306073003.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
           "title": "Dan Hooker confident Alexander Volkanovski can beat Justin Gaethje: ‘That’s a very winnable fight for him’",
           "link": "https://www.mmafighting.com/ufc/522470/dan-hooker-confident-alexander-volkanovski-can-beat-justin-gaethje-thats-a-very-winnable-fight-for-him",
           "date": "2026-11-21T13:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2301828323.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "LIVE UFC Qatar Results: Prochazka vs. Stirling",
-          "link": "https://www.mmafighting.com/ufc/522605/ufc-qatar-results-prochazka-vs-stirling",
-          "date": "2026-11-21T05:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306073003.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
           "title": "UFC Qatar predictions",
