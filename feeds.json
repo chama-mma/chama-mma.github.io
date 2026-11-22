@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-22T22:08:09.098Z",
+  "generatedAt": "2026-11-22T23:08:18.776Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Stephen Thompson reveals why he asked to be on the prelims for his UFC 334 retirement fight",
+          "link": "https://bloodyelbow.com/2026/11/22/stephen-thompson-reveals-why-he-asked-to-be-on-the-prelims-for-his-ufc-334-retirement-fight/",
+          "date": "2026-11-22T23:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305158644-scaled.jpg"
+        },
         {
           "title": "Former UFC heavyweight confidently proclaims Alex Pereira will lose after hearing his current weight",
           "link": "https://bloodyelbow.com/2026/11/22/former-ufc-heavyweight-confidently-proclaims-alex-pereira-will-lose-after-hearing-his-current-weight/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/22/conor-mcgregor-protege-james-gallagher-announces-retirement-days-after-turning-30/",
           "date": "2026-11-22T18:30:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/05/GettyImages-1171557671-scaled.jpg"
-        },
-        {
-          "title": "Brian Ortega had already decided to retire hours before UFC Qatar loss: ‘I don’t want to hurt people’",
-          "link": "https://bloodyelbow.com/2026/11/22/brian-ortega-had-already-decided-to-retire-hours-before-ufc-qatar-loss-i-dont-want-to-hurt-people/",
-          "date": "2026-11-22T18:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2306243788-scaled.jpg"
         }
       ]
     },
@@ -93,6 +93,24 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "Ilia Topuria reveals Aleksandre Topuria’s early injury in UFC Qatar loss",
+          "link": "https://www.sherdog.com/news/news/Ilia-Topuria-reveals-Aleksandre-Topurias-early-injury-in-UFC-Qatar-loss-203724",
+          "date": "2026-11-22T16:00:17.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261122092017_ilia_on_aleks_loss_injury.JPG"
+        },
+        {
+          "title": "Alex Pereira emerges as a potential target for unbeaten Navajo Stirling",
+          "link": "https://www.sherdog.com/news/news/Alex-Pereira-emerges-as-a-potential-target-for-unbeaten-Navajo-Stirling-203723",
+          "date": "2026-11-22T15:55:14.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261122091314_navajo_on_poatan_and_ank.JPG"
+        },
+        {
+          "title": "Dan Hooker wants ‘scumbag’ Charles Oliveira stripped of the BMF title",
+          "link": "https://www.sherdog.com/news/news/Dan-Hooker-wants-scumbag-Charles-Oliveira-stripped-of-the-BMF-title-203722",
+          "date": "2026-11-22T15:50:08.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261122090608_hooker_oli_max_bmf.JPG"
+        },
+        {
           "title": "Navajo Stirling knocks out Jiri Prochazka, then questions his rituals",
           "link": "https://www.sherdog.com/news/news/Navajo-Stirling-knocks-out-Jiri-Prochazka-then-questions-his-rituals-203721",
           "date": "2026-11-22T15:45:00.000Z",
@@ -109,24 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Joshua-Van-reacts-to-reports-of-potential-UFC-event-in-India-203719",
           "date": "2026-11-22T15:40:36.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261122085036_van_ufc_fight_night_india.JPG"
-        },
-        {
-          "title": "'No more like this': Jiri Prochazka promises changes after latest KO loss",
-          "link": "https://www.sherdog.com/news/news/No-more-like-this-Jiri-Prochazka-promises-changes-after-latest-KO-loss-203718",
-          "date": "2026-11-22T15:35:11.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261122084611_jiri_on_2b2_losses.JPG"
-        },
-        {
-          "title": "Kevin Vallejos fires back at Aljamain Sterling & Lerone Murphy over UFC Qatar decision",
-          "link": "https://www.sherdog.com/news/news/Kevin-Vallejos-fires-back-at-Aljamain-Sterling-Lerone-Murphy-over-UFC-Qatar-decision-203717",
-          "date": "2026-11-22T15:30:35.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261122083935_sterling_vallejos_decision.JPG"
-        },
-        {
-          "title": "UFC Qatar bonuses: Navajo Stirling, 3 more earn $100,000",
-          "link": "https://www.sherdog.com/news/news/UFC-Qatar-bonuses-Navajo-Stirling-3-more-earn-36100000-203711",
-          "date": "2026-11-21T23:12:08.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261121092701_Screenshot_20261121_at_3_54_04PM.PNG"
         }
       ]
     }
