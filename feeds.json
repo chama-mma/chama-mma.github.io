@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-22T18:03:39.619Z",
+  "generatedAt": "2026-11-22T19:19:35.160Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Aljamain Sterling theorizes what ‘swayed the judges’ after being told to appeal UFC Qatar decision",
+          "link": "https://bloodyelbow.com/2026/11/22/aljamain-sterling-theorizes-what-swayed-the-judges-after-being-told-to-appeal-ufc-qatar-decision/",
+          "date": "2026-11-22T19:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2306249095-scaled.jpg"
+        },
+        {
+          "title": "Conor McGregor protege James Gallagher announces retirement days after turning 30",
+          "link": "https://bloodyelbow.com/2026/11/22/conor-mcgregor-protege-james-gallagher-announces-retirement-days-after-turning-30/",
+          "date": "2026-11-22T18:30:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/05/GettyImages-1171557671-scaled.jpg"
+        },
         {
           "title": "Brian Ortega had already decided to retire hours before UFC Qatar loss: ‘I don’t want to hurt people’",
           "link": "https://bloodyelbow.com/2026/11/22/brian-ortega-had-already-decided-to-retire-hours-before-ufc-qatar-loss-i-dont-want-to-hurt-people/",
@@ -29,18 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/22/josh-hokit-says-vision-is-still-blurry-after-ciryl-ganes-ufc-334-eye-poke-as-he-reveals-big-regret/",
           "date": "2026-11-22T15:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305174890-scaled.jpg"
-        },
-        {
-          "title": "Aleksandre Topuria breaks his silence after suffering first loss since 2015 at UFC Qatar",
-          "link": "https://bloodyelbow.com/2026/11/22/aleksandre-topuria-breaks-his-silence-after-suffering-first-loss-since-2015-at-ufc-qatar/",
-          "date": "2026-11-22T14:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2306231948-scaled.jpg"
-        },
-        {
-          "title": "‘I’ll fight you’… Justin Gaethje clashes with reporter after Alexander Volkanovski question",
-          "link": "https://bloodyelbow.com/2026/11/22/ill-fight-you-justin-gaethje-clashes-with-reporter-after-alexander-volkanovski-question/",
-          "date": "2026-11-22T13:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Gaethje.png"
         }
       ]
     },
@@ -49,12 +49,6 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
-        {
-          "title": "Umar Nurmagomedov issues first statement since Merab Dvalishvili attack, and release from prison",
-          "link": "https://www.mmafighting.com/ufc/522926/umar-nurmagomedov-issues-first-statement-since-merab-dvalishvili-attack-and-release-from-prison",
-          "date": "2026-11-22T18:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2292564700.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
         {
           "title": "Brian Ortega reveals he told coach ‘I think I’m done’ before calling it a career at UFC Qatar",
           "link": "https://www.mmafighting.com/ufc/522856/brian-ortega-reveals-he-told-coach-i-think-im-done-before-calling-it-a-career-at-ufc-qatar",
@@ -84,6 +78,12 @@
           "link": "https://www.mmafighting.com/ufc/522901/jiri-prochazka-releases-statement-following-ufc-qatar-loss",
           "date": "2026-11-22T01:04:31.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306254586.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Aljamain Sterling reacts to controversial loss to Kevin Vallejos at UFC Qatar: ‘What can you do?’",
+          "link": "https://www.mmafighting.com/ufc/522835/aljamain-sterling-reacts-to-controversial-loss-to-kevin-vallejos-at-ufc-qatar-what-can-you-do",
+          "date": "2026-11-21T23:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306248541.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
