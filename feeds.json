@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-21T23:06:03.693Z",
+  "generatedAt": "2026-11-22T01:40:21.122Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Oktagon MMA cancels main event mid-show after fighter suffers injury backstage",
+          "link": "https://bloodyelbow.com/2026/11/21/oktagon-mma-cancels-main-event-mid-show-after-fighter-suffers-injury-backstage/",
+          "date": "2026-11-22T00:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/85_OKT98WP_Kikinder_low-scaled.jpg"
+        },
         {
           "title": "Chrisean Rock tears her opponent’s shirt off in bizarre face-off ahead of rescheduled boxing fight",
           "link": "https://bloodyelbow.com/2026/11/21/chrisean-rock-tears-her-opponents-shirt-off-in-bizarre-face-off-ahead-of-rescheduled-boxing-fight/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/21/brian-ortega-retires-after-losing-every-round-against-dan-hooker-at-ufc-qatar/",
           "date": "2026-11-21T19:48:39.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2306245031-scaled.jpg"
-        },
-        {
-          "title": "Ilia Topuria watches as his brother suffers first loss in 11 years at UFC Qatar",
-          "link": "https://bloodyelbow.com/2026/11/21/ilia-topuria-watches-as-his-brother-suffers-first-loss-in-11-years-at-ufc-qatar/",
-          "date": "2026-11-21T18:15:40.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2306233532-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Jiri Prochazka releases statement following UFC Qatar loss",
+          "link": "https://www.mmafighting.com/ufc/522901/jiri-prochazka-releases-statement-following-ufc-qatar-loss",
+          "date": "2026-11-22T01:04:31.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306254586.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Aljamain Sterling reacts to controversial loss to Kevin Vallejos at UFC Qatar: ‘What can you do?’",
           "link": "https://www.mmafighting.com/ufc/522835/aljamain-sterling-reacts-to-controversial-loss-to-kevin-vallejos-at-ufc-qatar-what-can-you-do",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522768/robbery-pros-react-to-kevin-vallejos-narrow-win-over-aljamain-sterling-at-ufc-qatar",
           "date": "2026-11-21T20:36:46.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306249864.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "UFC Qatar live blog: Jiri Prochazka vs. Navajo Stirling",
-          "link": "https://www.mmafighting.com/ufc/522610/ufc-qatar-live-blog-jiri-prochazka-vs-navajo-stirling",
-          "date": "2026-11-21T20:27:26.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306073002.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
