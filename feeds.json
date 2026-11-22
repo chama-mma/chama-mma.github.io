@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-22T11:08:12.309Z",
+  "generatedAt": "2026-11-22T12:05:48.784Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Carlos Ulberg reacts to Jiri Prochazka getting KO’d by teammate Navajo Stirling at UFC Qatar",
+          "link": "https://bloodyelbow.com/2026/11/22/carlos-ulberg-reacts-to-jiri-prochazka-getting-kod-by-teammate-navajo-stirling-at-ufc-qatar/",
+          "date": "2026-11-22T12:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2306253336-scaled.jpg"
+        },
         {
           "title": "Ilia Topuria reveals brother suffered dislocated shoulder, blasts critics after UFC Qatar loss",
           "link": "https://bloodyelbow.com/2026/11/22/ilia-topuria-reveals-brother-suffered-dislocated-shoulder-blasts-critics-after-ufc-qatar-loss/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/21/ex-ufc-heavyweight-viciously-kod-by-hollywood-stuntman-in-wild-bkb-bare-knuckle-double-knockdown/",
           "date": "2026-11-22T02:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/20261120_FIGHTS_655-scaled.jpg"
-        },
-        {
-          "title": "Marc Goddard reveals horrific message that led him to make social media pages private",
-          "link": "https://bloodyelbow.com/2026/11/21/marc-goddard-reveals-horrific-message-that-led-him-to-make-social-media-pages-private/",
-          "date": "2026-11-22T01:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/08/GettyImages-2230536926-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,18 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Jiri Prochazka releases statement following UFC Qatar loss",
+          "link": "https://www.mmafighting.com/ufc/522901/jiri-prochazka-releases-statement-following-ufc-qatar-loss",
+          "date": "2026-11-22T01:04:31.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306254586.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Aljamain Sterling reacts to controversial loss to Kevin Vallejos at UFC Qatar: ‘What can you do?’",
+          "link": "https://www.mmafighting.com/ufc/522835/aljamain-sterling-reacts-to-controversial-loss-to-kevin-vallejos-at-ufc-qatar-what-can-you-do",
+          "date": "2026-11-21T23:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306248541.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "‘Need to go to 185’: Pros react to Jiri Prochazka suffering disappointing knockout to Navajo Stirling at UFC Qatar",
           "link": "https://www.mmafighting.com/ufc/522822/need-to-go-to-185-pros-react-to-jiri-prochazka-suffering-disappointing-knockout-to-navajo-stirling-at-ufc-qatar",
@@ -72,18 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522768/robbery-pros-react-to-kevin-vallejos-narrow-win-over-aljamain-sterling-at-ufc-qatar",
           "date": "2026-11-21T20:36:46.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306249864.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "UFC Qatar live blog: Jiri Prochazka vs. Navajo Stirling",
-          "link": "https://www.mmafighting.com/ufc/522610/ufc-qatar-live-blog-jiri-prochazka-vs-navajo-stirling",
-          "date": "2026-11-21T20:27:26.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306073002.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "UFC Qatar results: Kevin Vallejos calls for title shot after winning decision over Aljamain Sterling",
-          "link": "https://www.mmafighting.com/ufc/522743/ufc-qatar-results-kevin-vallejos-calls-for-title-shot-after-winning-decision-over-aljamain-sterling",
-          "date": "2026-11-21T20:25:21.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306249095.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
