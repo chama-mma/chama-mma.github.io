@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-22T17:10:03.683Z",
+  "generatedAt": "2026-11-22T18:03:39.619Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Brian Ortega had already decided to retire hours before UFC Qatar loss: ‘I don’t want to hurt people’",
+          "link": "https://bloodyelbow.com/2026/11/22/brian-ortega-had-already-decided-to-retire-hours-before-ufc-qatar-loss-i-dont-want-to-hurt-people/",
+          "date": "2026-11-22T18:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2306243788-scaled.jpg"
+        },
         {
           "title": "Jiri Prochazka avoids hospital trip after UFC Qatar as Ilia Topuria’s brother one of two sent for scans",
           "link": "https://bloodyelbow.com/2026/11/22/jiri-prochazka-avoids-hospital-trip-after-ufc-qatar-as-ilia-topurias-brother-one-of-two-sent-for-scans/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/22/ill-fight-you-justin-gaethje-clashes-with-reporter-after-alexander-volkanovski-question/",
           "date": "2026-11-22T13:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Gaethje.png"
-        },
-        {
-          "title": "Carlos Ulberg reacts to Jiri Prochazka getting KO’d by teammate Navajo Stirling at UFC Qatar",
-          "link": "https://bloodyelbow.com/2026/11/22/carlos-ulberg-reacts-to-jiri-prochazka-getting-kod-by-teammate-navajo-stirling-at-ufc-qatar/",
-          "date": "2026-11-22T12:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2306253336-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Umar Nurmagomedov issues first statement since Merab Dvalishvili attack, and release from prison",
+          "link": "https://www.mmafighting.com/ufc/522926/umar-nurmagomedov-issues-first-statement-since-merab-dvalishvili-attack-and-release-from-prison",
+          "date": "2026-11-22T18:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2292564700.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Brian Ortega reveals he told coach ‘I think I’m done’ before calling it a career at UFC Qatar",
           "link": "https://www.mmafighting.com/ufc/522856/brian-ortega-reveals-he-told-coach-i-think-im-done-before-calling-it-a-career-at-ufc-qatar",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522901/jiri-prochazka-releases-statement-following-ufc-qatar-loss",
           "date": "2026-11-22T01:04:31.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306254586.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Aljamain Sterling reacts to controversial loss to Kevin Vallejos at UFC Qatar: ‘What can you do?’",
-          "link": "https://www.mmafighting.com/ufc/522835/aljamain-sterling-reacts-to-controversial-loss-to-kevin-vallejos-at-ufc-qatar-what-can-you-do",
-          "date": "2026-11-21T23:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306248541.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
