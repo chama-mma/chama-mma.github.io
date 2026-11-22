@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-22T21:11:04.249Z",
+  "generatedAt": "2026-11-22T22:08:09.098Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Former UFC heavyweight confidently proclaims Alex Pereira will lose after hearing his current weight",
+          "link": "https://bloodyelbow.com/2026/11/22/former-ufc-heavyweight-confidently-proclaims-alex-pereira-will-lose-after-hearing-his-current-weight/",
+          "date": "2026-11-22T22:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281409649-scaled.jpg"
+        },
         {
           "title": "Islam Makhachev claims Usman and Umar Nurmagomedov ‘did nothing wrong’ in violent brawl that saw eight jailed",
           "link": "https://bloodyelbow.com/2026/11/22/islam-makhachev-claims-usman-and-umar-nurmagomedov-did-nothing-wrong-in-violent-brawl-that-saw-eight-jailed/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/22/brian-ortega-had-already-decided-to-retire-hours-before-ufc-qatar-loss-i-dont-want-to-hurt-people/",
           "date": "2026-11-22T18:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2306243788-scaled.jpg"
-        },
-        {
-          "title": "Jiri Prochazka avoids hospital trip after UFC Qatar as Ilia Topuria’s brother one of two sent for scans",
-          "link": "https://bloodyelbow.com/2026/11/22/jiri-prochazka-avoids-hospital-trip-after-ufc-qatar-as-ilia-topurias-brother-one-of-two-sent-for-scans/",
-          "date": "2026-11-22T17:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2306232840-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Video: Fighter earns submission with airtight leg scissor choke",
+          "link": "https://www.mmafighting.com/latest-news/522870/video-fighter-earns-submission-with-airtight-leg-scissor-choke",
+          "date": "2026-11-22T22:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-21-at-5.17.17-PM.png?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Kevin Vallejos reveals cageside chat with exec after UFC Qatar win included profane message for Jean Silva, Lerone Murphy",
           "link": "https://www.mmafighting.com/ufc/522875/kevin-vallejos-reveals-cageside-chat-with-exec-after-ufc-qatar-win-included-profane-message-for-jean-silva-lerone-murphy",
@@ -68,7 +74,7 @@
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2304054933.jpg?quality=90&strip=all&crop=0,0,100,100"
         },
         {
-          "title": "Umar Nurmagomedov issues first statement since Merab Dvalishvili attack, and release from prison",
+          "title": "Umar Nurmagomedov issues first statement since Merab Dvalishvili attack and release from prison",
           "link": "https://www.mmafighting.com/ufc/522926/umar-nurmagomedov-issues-first-statement-since-merab-dvalishvili-attack-and-release-from-prison",
           "date": "2026-11-22T18:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2292564700.jpg?quality=90&strip=all&crop=0,0,100,100"
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522856/brian-ortega-reveals-he-told-coach-i-think-im-done-before-calling-it-a-career-at-ufc-qatar",
           "date": "2026-11-22T17:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305704128.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Ilia Topuria reveals injury Aleksndre Topuria suffered at UFC Qatar, vows ‘2027, we’re coming for everything’",
-          "link": "https://www.mmafighting.com/ufc/522912/ilia-topuria-reveals-injury-aleksndre-topuria-suffered-at-ufc-qatar-vows-2027-were-coming-for-everything",
-          "date": "2026-11-22T16:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2247934662.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
@@ -93,40 +93,40 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "Navajo Stirling knocks out Jiri Prochazka, then questions his rituals",
+          "link": "https://www.sherdog.com/news/news/Navajo-Stirling-knocks-out-Jiri-Prochazka-then-questions-his-rituals-203721",
+          "date": "2026-11-22T15:45:00.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261122090200_stirling_jiri.JPG"
+        },
+        {
+          "title": "Manon Fiorot gets 3-month suspension after ostarine found in supplements",
+          "link": "https://www.sherdog.com/news/news/Manon-Fiorot-gets-3month-suspension-after-ostarine-found-in-supplements-203720",
+          "date": "2026-11-22T15:40:43.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261122085643_manon_ban.JPG"
+        },
+        {
+          "title": "Joshua Van reacts to reports of potential UFC event in India",
+          "link": "https://www.sherdog.com/news/news/Joshua-Van-reacts-to-reports-of-potential-UFC-event-in-India-203719",
+          "date": "2026-11-22T15:40:36.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261122085036_van_ufc_fight_night_india.JPG"
+        },
+        {
+          "title": "'No more like this': Jiri Prochazka promises changes after latest KO loss",
+          "link": "https://www.sherdog.com/news/news/No-more-like-this-Jiri-Prochazka-promises-changes-after-latest-KO-loss-203718",
+          "date": "2026-11-22T15:35:11.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261122084611_jiri_on_2b2_losses.JPG"
+        },
+        {
+          "title": "Kevin Vallejos fires back at Aljamain Sterling & Lerone Murphy over UFC Qatar decision",
+          "link": "https://www.sherdog.com/news/news/Kevin-Vallejos-fires-back-at-Aljamain-Sterling-Lerone-Murphy-over-UFC-Qatar-decision-203717",
+          "date": "2026-11-22T15:30:35.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261122083935_sterling_vallejos_decision.JPG"
+        },
+        {
           "title": "UFC Qatar bonuses: Navajo Stirling, 3 more earn $100,000",
           "link": "https://www.sherdog.com/news/news/UFC-Qatar-bonuses-Navajo-Stirling-3-more-earn-36100000-203711",
           "date": "2026-11-21T23:12:08.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261121092701_Screenshot_20261121_at_3_54_04PM.PNG"
-        },
-        {
-          "title": "Navajo Stirling knocks out Jiri Prochazka in UFC Qatar main event",
-          "link": "https://www.sherdog.com/news/news/Navajo-Stirling-knocks-out-Jiri-Prochazka-in-UFC-Qatar-main-event-203710",
-          "date": "2026-11-21T23:12:07.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261121091001_GettyImages2306253482.JPG"
-        },
-        {
-          "title": "UFC Qatar ‘Prochazka vs. Stirling’ play-by-play, results & round scoring",
-          "link": "https://www.sherdog.com/news/news/UFC-Qatar-Prochazka-vs-Stirling-playbyplay-results-round-scoring-203707",
-          "date": "2026-11-21T23:12:05.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261120112808_pbp_cover.JPG"
-        },
-        {
-          "title": "UFC Qatar weigh-in results: Jiri Prochazka returns; 1 fighter heavy",
-          "link": "https://www.sherdog.com/news/news/UFC-Qatar-weighin-results-Jiri-Prochazka-returns-1-fighter-heavy-203702",
-          "date": "2026-11-20T23:59:58.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261120010058_Screenshot_20261120_at_7_59_37AM.PNG"
-        },
-        {
-          "title": "From Sylvester Stallone's 'Tulsa King' to Bare-Knuckle Boxing: Branden Smith's next act",
-          "link": "https://www.sherdog.com/news/news/From-Sylvester-Stallones-Tulsa-King-to-BareKnuckle-Boxing-Branden-Smiths-next-act-203705",
-          "date": "2026-11-20T20:06:59.000Z",
-          "image": "https://www2-cdn.sherdog.com/apple-touch-icon.png"
-        },
-        {
-          "title": "Amanda Nunes warns Kayla Harrison: 'This is not PFL, baby'",
-          "link": "https://www.sherdog.com/news/news/Amanda-Nunes-warns-Kayla-Harrison-This-is-not-PFL-baby-203695",
-          "date": "2026-11-19T19:30:36.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261119073036_nunes.JPG"
         }
       ]
     }
