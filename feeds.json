@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-22T23:08:18.776Z",
+  "generatedAt": "2026-11-23T00:06:53.582Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Umar Nurmagomedov returns to the gym after alleged involvement in Merab Dvalishvili brawl",
+          "link": "https://bloodyelbow.com/2026/11/22/umar-nurmagomedov-returns-to-the-gym-after-alleged-involvement-in-merab-dvalishvili-brawl/",
+          "date": "2026-11-23T00:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/10/GettyImages-2243274517-scaled.jpg"
+        },
         {
           "title": "Stephen Thompson reveals why he asked to be on the prelims for his UFC 334 retirement fight",
           "link": "https://bloodyelbow.com/2026/11/22/stephen-thompson-reveals-why-he-asked-to-be-on-the-prelims-for-his-ufc-334-retirement-fight/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/22/aljamain-sterling-theorizes-what-swayed-the-judges-after-being-told-to-appeal-ufc-qatar-decision/",
           "date": "2026-11-22T19:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2306249095-scaled.jpg"
-        },
-        {
-          "title": "Conor McGregor protege James Gallagher announces retirement days after turning 30",
-          "link": "https://bloodyelbow.com/2026/11/22/conor-mcgregor-protege-james-gallagher-announces-retirement-days-after-turning-30/",
-          "date": "2026-11-22T18:30:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/05/GettyImages-1171557671-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "James Gallagher retires from MMA at age 30",
+          "link": "https://www.mmafighting.com/bellator/522942/james-gallagher-retires-from-mma-at-age-30",
+          "date": "2026-11-23T00:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-631411086.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Video: Fighter earns submission with airtight leg scissor choke",
           "link": "https://www.mmafighting.com/latest-news/522870/video-fighter-earns-submission-with-airtight-leg-scissor-choke",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522926/umar-nurmagomedov-issues-first-statement-since-merab-dvalishvili-attack-and-release-from-prison",
           "date": "2026-11-22T18:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2292564700.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Brian Ortega reveals he told coach ‘I think I’m done’ before calling it a career at UFC Qatar",
-          "link": "https://www.mmafighting.com/ufc/522856/brian-ortega-reveals-he-told-coach-i-think-im-done-before-calling-it-a-career-at-ufc-qatar",
-          "date": "2026-11-22T17:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305704128.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
