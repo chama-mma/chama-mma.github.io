@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-23T01:47:26.332Z",
+  "generatedAt": "2026-11-23T02:47:09.067Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "‘Slimed out like Nickelodeon’… Israel Adesanya’s hilarious reaction to Navajo Stirling’s UFC Qatar KO",
+          "link": "https://bloodyelbow.com/2026/11/22/slimed-out-like-nickelodeon-israel-adesanyas-hilarious-reaction-to-navajo-stirlings-ufc-qatar-ko/",
+          "date": "2026-11-23T02:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Israel-Adesanya-Navajo-Stirling.png"
+        },
         {
           "title": "Derek Brunson sends Dana White surprise UFC request after BKFC debut win",
           "link": "https://bloodyelbow.com/2026/11/22/derek-brunson-sends-dana-white-surprise-ufc-request-after-bkfc-debut-win/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/22/islam-makhachev-claims-usman-and-umar-nurmagomedov-did-nothing-wrong-in-violent-brawl-that-saw-eight-jailed/",
           "date": "2026-11-22T20:43:20.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/02/Khabib-Usman.png"
-        },
-        {
-          "title": "‘I’ll never stop fighting’… UFC Qatar star reacts after shocking transformation goes viral",
-          "link": "https://bloodyelbow.com/2026/11/22/ill-never-stop-fighting-ufc-qatar-star-reacts-after-shocking-transformation-goes-viral/",
-          "date": "2026-11-22T20:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2306216873-1-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "James Gallagher retires from MMA at age 30",
+          "link": "https://www.mmafighting.com/bellator/522942/james-gallagher-retires-from-mma-at-age-30",
+          "date": "2026-11-23T00:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-631411086.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Video: Fighter earns submission with airtight leg scissor choke",
           "link": "https://www.mmafighting.com/latest-news/522870/video-fighter-earns-submission-with-airtight-leg-scissor-choke",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522926/umar-nurmagomedov-issues-first-statement-since-merab-dvalishvili-attack-and-release-from-prison",
           "date": "2026-11-22T18:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2292564700.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Brian Ortega reveals he told coach ‘I think I’m done’ before calling it a career at UFC Qatar",
-          "link": "https://www.mmafighting.com/ufc/522856/brian-ortega-reveals-he-told-coach-i-think-im-done-before-calling-it-a-career-at-ufc-qatar",
-          "date": "2026-11-22T17:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305704128.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
