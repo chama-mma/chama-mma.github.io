@@ -1,17 +1,7 @@
 {
-  "updated": "2026-11-23T19:53:41.222Z",
+  "updated": "2026-11-23T21:40:38.386Z",
   "source": "https://www.ufc.com/events",
   "events": [
-    {
-      "name": "UFC Fight Night",
-      "main": "Prochazka vs Stirling",
-      "start": "2026-11-21T18:00:00.000Z",
-      "prelims": "2026-11-21T15:00:00.000Z",
-      "venue": "ABHA Arena",
-      "city": "Doha",
-      "country": "Qatar",
-      "url": "https://www.ufc.com/event/ufc-fight-night-november-21-2026"
-    },
     {
       "name": "UFC Fight Night",
       "main": "Adesanya vs Magomedov",
@@ -81,6 +71,16 @@
       "city": "Cleveland",
       "country": "United States",
       "url": "https://www.ufc.com/event/ufc-fight-night-february-13-2027"
+    },
+    {
+      "name": "UFC 337",
+      "main": "",
+      "start": "2027-02-20T22:00:00.000Z",
+      "prelims": "2027-02-20T20:00:00.000Z",
+      "venue": "Kia Center",
+      "city": "Orlando",
+      "country": "United States",
+      "url": "https://www.ufc.com/event/ufc-337"
     }
   ]
 }
