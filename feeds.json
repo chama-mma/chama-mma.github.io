@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-23T14:17:39.200Z",
+  "generatedAt": "2026-11-23T15:31:57.691Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Dana White reveals Deontay Wilder’s new opponent for fight on Fury vs Joshua card",
+          "link": "https://bloodyelbow.com/2026/11/23/dana-white-reveals-deontay-wilders-new-opponent-for-fight-on-fury-vs-joshua-card/",
+          "date": "2026-11-23T14:24:45.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/04/GettyImages-2155655175-scaled.jpg"
+        },
         {
           "title": "UFC Dallas update: Yair Rodriguez card complete with 13 fights confirmed",
           "link": "https://bloodyelbow.com/2026/11/23/ufc-dallas-update-yair-rodriguez-card-complete-with-13-fights-confirmed/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/22/conor-mcgregor-returns-to-training-for-final-ufc-fight-after-acl-injury-cost-him-comeback/",
           "date": "2026-11-23T03:30:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Conor-McGregor-pads.png"
-        },
-        {
-          "title": "‘Slimed out like Nickelodeon’… Israel Adesanya’s hilarious reaction to Navajo Stirling’s UFC Qatar KO",
-          "link": "https://bloodyelbow.com/2026/11/22/slimed-out-like-nickelodeon-israel-adesanyas-hilarious-reaction-to-navajo-stirlings-ufc-qatar-ko/",
-          "date": "2026-11-23T02:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Israel-Adesanya-Navajo-Stirling.png"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Deontay Wilder gets new opponent for Fury vs. Joshua co-main event",
+          "link": "https://www.mmafighting.com/boxing/523007/deontay-wilder-gets-new-opponent-for-fury-vs-joshua-co-main-event",
+          "date": "2026-11-23T15:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2269842539.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Stephen ‘Wonderboy’ Thompson details ‘epic’ ending to final fight, addresses if he’s really staying retired",
           "link": "https://www.mmafighting.com/ufc/522949/stephen-wonderboy-thompson-details-epic-ending-to-final-fight-addresses-if-hes-really-staying-retired",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522875/kevin-vallejos-reveals-cageside-chat-with-exec-after-ufc-qatar-win-included-profane-message-for-jean-silva-lerone-murphy",
           "date": "2026-11-22T21:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305711793.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Video: Chris Leben eats soccer kick from Yoshihiro Akiyama, wins split decision in return to MMA",
-          "link": "https://www.mmafighting.com/ufc/522919/video-chris-leben-eats-soccer-kick-from-yoshihiro-akiyama-wins-split-decision-in-return-to-mma",
-          "date": "2026-11-22T20:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-22-at-10.13.44-AM.png?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
