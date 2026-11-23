@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T19:47:40.845Z",
+  "updated": "2026-11-23T19:53:41.222Z",
   "source": "https://www.ufc.com/events",
   "events": [
     {
@@ -44,7 +44,7 @@
     },
     {
       "name": "UFC Fight Night",
-      "main": "Bonfim vs Brady",
+      "main": "Brady vs Bonfim",
       "start": "2027-01-24T01:00:00.000Z",
       "prelims": "2027-01-23T22:00:00.000Z",
       "venue": "Meta APEX",
