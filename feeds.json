@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-23T02:47:09.067Z",
+  "generatedAt": "2026-11-23T03:49:59.424Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Conor McGregor returns to training for final UFC fight after ACL injury cost him comeback",
+          "link": "https://bloodyelbow.com/2026/11/22/conor-mcgregor-returns-to-training-for-final-ufc-fight-after-acl-injury-cost-him-comeback/",
+          "date": "2026-11-23T03:30:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Conor-McGregor-pads.png"
+        },
         {
           "title": "‘Slimed out like Nickelodeon’… Israel Adesanya’s hilarious reaction to Navajo Stirling’s UFC Qatar KO",
           "link": "https://bloodyelbow.com/2026/11/22/slimed-out-like-nickelodeon-israel-adesanyas-hilarious-reaction-to-navajo-stirlings-ufc-qatar-ko/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/22/former-ufc-heavyweight-confidently-proclaims-alex-pereira-will-lose-after-hearing-his-current-weight/",
           "date": "2026-11-22T22:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/06/GettyImages-2281409649-scaled.jpg"
-        },
-        {
-          "title": "Islam Makhachev claims Usman and Umar Nurmagomedov ‘did nothing wrong’ in violent brawl that saw eight jailed",
-          "link": "https://bloodyelbow.com/2026/11/22/islam-makhachev-claims-usman-and-umar-nurmagomedov-did-nothing-wrong-in-violent-brawl-that-saw-eight-jailed/",
-          "date": "2026-11-22T20:43:20.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/02/Khabib-Usman.png"
         }
       ]
     },
