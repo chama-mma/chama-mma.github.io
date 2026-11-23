@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-23T17:49:26.670Z",
+  "generatedAt": "2026-11-23T18:46:22.378Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Ilia Topuria pitches UFC super card with Conor McGregor on the prelims",
+          "link": "https://bloodyelbow.com/2026/11/23/ilia-topuria-pitches-ufc-super-card-with-conor-mcgregor-on-the-prelims/",
+          "date": "2026-11-23T18:22:10.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2281639453-scaled.jpg"
+        },
         {
           "title": "Stephen Thompson keen to continue working with UFC after Dana White’s TV offer",
           "link": "https://bloodyelbow.com/2026/11/23/stephen-thompson-keen-to-continue-working-with-ufc-after-dana-whites-tv-offer/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/23/magomed-ankalaev-responds-to-navajo-stirling-callout-after-stunning-jiri-prochazka-ko-at-ufc-qatar/",
           "date": "2026-11-23T13:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/10/GettyImages-2240685422-scaled.jpg"
-        },
-        {
-          "title": "Tai Tuivasa reportedly set for chance to snap 8-fight losing streak at UFC Sydney",
-          "link": "https://bloodyelbow.com/2026/11/23/tai-tuivasa-reportedly-set-for-chance-to-snap-eight-fight-losing-streak-at-ufc-sydney/",
-          "date": "2026-11-23T12:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/01/GettyImages-2259004081-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Ilia Topuria pitches TUF coaching gig with Paddy Pimblett, mocks Justin Gaethje and Conor McGregor",
+          "link": "https://www.mmafighting.com/ufc/523055/ilia-topuria-pitches-tuf-coaching-gig-with-paddy-pimblett-mocks-justin-gaethje-and-conor-mcgregor",
+          "date": "2026-11-23T18:30:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/11/gettyimages-2222691657.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Islam Makhachev says Usman Nurmagomedov-Merab Dvalishvili situation ‘got blown way out of proportion’",
           "link": "https://www.mmafighting.com/ufc/523011/islam-makhachev-says-usman-nurmagomedov-merab-dvalishvili-situation-got-blown-way-out-of-proportion",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/522254/morning-report-josh-hokit-claims-his-vision-is-still-blurry-after-ufc-334-promises-consequences-for-ciryl-gane-next-time",
           "date": "2026-11-23T13:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305177257.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "James Gallagher retires from MMA at age 30",
-          "link": "https://www.mmafighting.com/bellator/522942/james-gallagher-retires-from-mma-at-age-30",
-          "date": "2026-11-23T00:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-631411086.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
