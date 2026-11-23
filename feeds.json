@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-23T22:41:20.819Z",
+  "generatedAt": "2026-11-23T23:39:39.273Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Tyson Fury’s 15-year-old son set to make boxing debut on PPV this Saturday",
+          "link": "https://bloodyelbow.com/2026/11/23/tyson-furys-15-year-old-son-set-to-make-boxing-debut-on-ppv-this-saturday/",
+          "date": "2026-11-23T23:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Prince-Fury-2294198043.png"
+        },
         {
           "title": "Dustin Poirier calls out Ilia Topuria for ‘disrespecting’ Justin Gaethje with super card proposal",
           "link": "https://bloodyelbow.com/2026/11/23/dustin-poirier-calls-out-ilia-topuria-for-disrespecting-justin-gaethje-with-super-card-proposal/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/23/ilia-topuria-pitches-ufc-super-card-with-conor-mcgregor-on-the-prelims/",
           "date": "2026-11-23T18:22:10.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2281639453-scaled.jpg"
-        },
-        {
-          "title": "Stephen Thompson keen to continue working with UFC after Dana White’s TV offer",
-          "link": "https://bloodyelbow.com/2026/11/23/stephen-thompson-keen-to-continue-working-with-ufc-after-dana-whites-tv-offer/",
-          "date": "2026-11-23T16:59:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305163744-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "On To the Next One: Matches to make after UFC Qatar",
+          "link": "https://www.mmafighting.com/ufc/522903/on-to-the-next-one-matches-to-make-after-ufc-qatar",
+          "date": "2026-11-23T22:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305711793.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Tyson Fury reveals he was diagnosed with schizophrenia after Wladimir Klitschko win",
           "link": "https://www.mmafighting.com/boxing/523044/tyson-fury-reveals-he-was-diagnosed-with-schizophrenia-after-wladimir-klitschko-win",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/523011/islam-makhachev-says-usman-nurmagomedov-merab-dvalishvili-situation-got-blown-way-out-of-proportion",
           "date": "2026-11-23T17:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2164976449.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Video: Kevin Holland calls for Mike Perry fight with creative GTA 6 scene",
-          "link": "https://www.mmafighting.com/ufc/523008/video-kevin-holland-calls-for-mike-perry-fight-with-creative-gta-6-scene",
-          "date": "2026-11-23T16:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-23-at-9.31.46-AM.png?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
