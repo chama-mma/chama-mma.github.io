@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-23T16:49:16.636Z",
+  "generatedAt": "2026-11-23T17:49:26.670Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Stephen Thompson keen to continue working with UFC after Dana White’s TV offer",
+          "link": "https://bloodyelbow.com/2026/11/23/stephen-thompson-keen-to-continue-working-with-ufc-after-dana-whites-tv-offer/",
+          "date": "2026-11-23T16:59:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305163744-scaled.jpg"
+        },
         {
           "title": "UFC should strip Islam Makhachev of welterweight title after Carlos Prates snub, says former champion",
           "link": "https://bloodyelbow.com/2026/11/23/ufc-should-strip-islam-makhachev-of-welterweight-title-after-carlos-prates-snub-says-former-champion/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/23/tai-tuivasa-reportedly-set-for-chance-to-snap-eight-fight-losing-streak-at-ufc-sydney/",
           "date": "2026-11-23T12:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/01/GettyImages-2259004081-scaled.jpg"
-        },
-        {
-          "title": "Chrisean Rock reveals why she tore opponent’s top off in viral face-off",
-          "link": "https://bloodyelbow.com/2026/11/22/chrisean-rock-reveals-why-she-tore-opponents-top-off-in-viral-face-off/",
-          "date": "2026-11-23T04:59:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Chrisean-Rock-backstage.png"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Islam Makhachev says Usman Nurmagomedov-Merab Dvalishvili situation ‘got blown way out of proportion’",
+          "link": "https://www.mmafighting.com/ufc/523011/islam-makhachev-says-usman-nurmagomedov-merab-dvalishvili-situation-got-blown-way-out-of-proportion",
+          "date": "2026-11-23T17:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2164976449.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Video: Kevin Holland calls for Mike Perry fight with creative GTA 6 scene",
           "link": "https://www.mmafighting.com/ufc/523008/video-kevin-holland-calls-for-mike-perry-fight-with-creative-gta-6-scene",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/bellator/522942/james-gallagher-retires-from-mma-at-age-30",
           "date": "2026-11-23T00:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-631411086.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Video: Fighter earns submission with airtight leg scissor choke",
-          "link": "https://www.mmafighting.com/latest-news/522870/video-fighter-earns-submission-with-airtight-leg-scissor-choke",
-          "date": "2026-11-22T22:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/Screenshot-2026-11-21-at-5.17.17-PM.png?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
