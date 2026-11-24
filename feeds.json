@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-24T15:29:02.859Z",
+  "generatedAt": "2026-11-24T16:37:40.683Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Jiri Prochazka called out by former champion after claiming he will continue fighting",
+          "link": "https://bloodyelbow.com/2026/11/24/jiri-prochazka-called-out-by-former-champion-after-claiming-he-will-continue-fighting/",
+          "date": "2026-11-24T16:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2306253520-scaled.jpg"
+        },
         {
           "title": "Dan Hooker reveals why the UFC shut down his Max Holloway fight callout",
           "link": "https://bloodyelbow.com/2026/11/24/dan-hooker-reveals-why-the-ufc-shut-down-his-max-holloway-fight-callout/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/24/josh-hokit-breaks-character-to-reveal-his-true-opinion-of-ciryl-gane/",
           "date": "2026-11-24T10:09:18.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305176230-scaled.jpg"
-        },
-        {
-          "title": "Two UFC Qatar stars jump into the top 3 of the rankings following impressive wins",
-          "link": "https://bloodyelbow.com/2026/11/24/two-ufc-qatar-stars-jump-into-the-top-3-of-the-rankings-following-impressive-wins/",
-          "date": "2026-11-24T05:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2306254105-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,18 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Between the Links: What’s next for Jiri Prochazka? Josh Hokit wants Ciryl Gane rematch, more",
+          "link": "https://www.mmafighting.com/ufc/523018/between-the-links-whats-next-for-jiri-prochazka-josh-hokit-wants-ciryl-gane-rematch-more",
+          "date": "2026-11-24T16:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/BTL-CLEAN-11.24.26.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "title": "Nikolas Motta shows off ghastly facial injuries following UFC Qatar loss",
+          "link": "https://www.mmafighting.com/ufc/523170/nikolas-motta-shows-off-ghastly-facial-injuries-following-ufc-qatar-loss",
+          "date": "2026-11-24T15:31:28.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306215554.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Olympic champion Kyle Snyder defends crossover matches in RAF despite repeated fights, brawls",
           "link": "https://www.mmafighting.com/raf-wrestling/523082/olympic-champion-kyle-snyder-defends-crossover-matches-in-raf-despite-repeated-fights-brawls",
@@ -72,18 +84,6 @@
           "link": "https://www.mmafighting.com/pfl/523032/14-fights-official-for-pfls-last-card-before-mvp-mma-transition-in-2027",
           "date": "2026-11-24T00:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2175287611.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "On To the Next One: Matches to make after UFC Qatar",
-          "link": "https://www.mmafighting.com/ufc/522903/on-to-the-next-one-matches-to-make-after-ufc-qatar",
-          "date": "2026-11-23T22:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305711793.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Tyson Fury reveals he was diagnosed with schizophrenia after Wladimir Klitschko win",
-          "link": "https://www.mmafighting.com/boxing/523044/tyson-fury-reveals-he-was-diagnosed-with-schizophrenia-after-wladimir-klitschko-win",
-          "date": "2026-11-23T21:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2297392347.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
