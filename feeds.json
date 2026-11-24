@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-24T00:44:40.334Z",
+  "generatedAt": "2026-11-24T02:05:50.968Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Josh Hokit teases diss-track he is working on for Jon Jones following their bitter feud",
+          "link": "https://bloodyelbow.com/2026/11/23/josh-hokit-teases-diss-track-he-is-working-on-for-jon-jones-following-their-bitter-feud/",
+          "date": "2026-11-24T02:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305176326-scaled.jpg"
+        },
+        {
+          "title": "Aljamain Sterling suggests a change to judging as he calls for rematch against Kevin Vallejos",
+          "link": "https://bloodyelbow.com/2026/11/23/aljamain-sterling-suggests-a-change-to-judging-as-he-calls-for-rematch-against-kevin-vallejos/",
+          "date": "2026-11-24T01:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2306246903-scaled.jpg"
+        },
         {
           "title": "Tyson Fury’s 15-year-old son set to make boxing debut on PPV this Saturday",
           "link": "https://bloodyelbow.com/2026/11/23/tyson-furys-15-year-old-son-set-to-make-boxing-debut-on-ppv-this-saturday/",
@@ -29,18 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/23/dillon-danis-leaks-dm-sent-by-jon-jones-as-the-two-clashed-via-messages/",
           "date": "2026-11-23T20:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/04/GettyImages-2270927771-scaled.jpg"
-        },
-        {
-          "title": "Chrisean Rock admits she ‘can’t keep making a habit of slapping white people’ after wild face-off",
-          "link": "https://bloodyelbow.com/2026/11/23/chrisean-rock-admits-she-cant-keep-making-a-habit-of-slapping-white-people-after-wild-face-off/",
-          "date": "2026-11-23T19:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/09/Chrisean-Rock-flex.png"
-        },
-        {
-          "title": "Ilia Topuria pitches UFC super card with Conor McGregor on the prelims",
-          "link": "https://bloodyelbow.com/2026/11/23/ilia-topuria-pitches-ufc-super-card-with-conor-mcgregor-on-the-prelims/",
-          "date": "2026-11-23T18:22:10.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2281639453-scaled.jpg"
         }
       ]
     },
@@ -93,6 +93,18 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "Elijah Smith re-signs with UFC after Davey Grant knockout",
+          "link": "https://www.sherdog.com/news/news/Elijah-Smith-resigns-with-UFC-after-Davey-Grant-knockout-203733",
+          "date": "2026-11-23T14:35:49.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261123024849_Elijah_Smith_new_deal_next_fight.JPG"
+        },
+        {
+          "title": "Giga Chikadze exits UFC after seven years with the promotion",
+          "link": "https://www.sherdog.com/news/news/Giga-Chikadze-exits-UFC-after-seven-years-with-the-promotion-203728",
+          "date": "2026-11-23T14:30:17.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261123023917_giga_ufc_exit.JPG"
+        },
+        {
           "title": "Ilia Topuria reveals Aleksandre Topuria’s early injury in UFC Qatar loss",
           "link": "https://www.sherdog.com/news/news/Ilia-Topuria-reveals-Aleksandre-Topurias-early-injury-in-UFC-Qatar-loss-203724",
           "date": "2026-11-22T16:00:17.000Z",
@@ -115,18 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Navajo-Stirling-knocks-out-Jiri-Prochazka-then-questions-his-rituals-203721",
           "date": "2026-11-22T15:45:00.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261122090200_stirling_jiri.JPG"
-        },
-        {
-          "title": "Manon Fiorot gets 3-month suspension after ostarine found in supplements",
-          "link": "https://www.sherdog.com/news/news/Manon-Fiorot-gets-3month-suspension-after-ostarine-found-in-supplements-203720",
-          "date": "2026-11-22T15:40:43.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261122085643_manon_ban.JPG"
-        },
-        {
-          "title": "Joshua Van reacts to reports of potential UFC event in India",
-          "link": "https://www.sherdog.com/news/news/Joshua-Van-reacts-to-reports-of-potential-UFC-event-in-India-203719",
-          "date": "2026-11-22T15:40:36.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261122085036_van_ufc_fight_night_india.JPG"
         }
       ]
     }
