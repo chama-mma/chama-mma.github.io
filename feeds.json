@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:05:50.968Z",
+  "generatedAt": "2026-11-24T03:18:35.676Z",
   "sources": [
     {
       "id": "bloodyelbow",
@@ -93,6 +93,24 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "Alex Pereira adds Glory heavyweight to training camp for Sergei Pavlovich bout",
+          "link": "https://www.sherdog.com/news/news/Alex-Pereira-adds-Glory-heavyweight-to-training-camp-for-Sergei-Pavlovich-bout-203729",
+          "date": "2026-11-23T14:50:04.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261123024104_poatan_glory_kb_sergei_pav_335.JPG"
+        },
+        {
+          "title": "GTA VI question sparks Islam Makhachev's gaming confession",
+          "link": "https://www.sherdog.com/news/news/GTA-VI-question-sparks-Islam-Makhachevs-gaming-confession-203732",
+          "date": "2026-11-23T14:45:25.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261123024525_islam_gaming_gta_6.JPG"
+        },
+        {
+          "title": "Tai Tuivasa reportedly set for UFC return amid 8-fight slump",
+          "link": "https://www.sherdog.com/news/news/Tai-Tuivasa-reportedly-set-for-UFC-return-amid-8fight-slump-203731",
+          "date": "2026-11-23T14:40:27.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261123024427_tai_tui_ufc_sydney_8_loss.JPG"
+        },
+        {
           "title": "Elijah Smith re-signs with UFC after Davey Grant knockout",
           "link": "https://www.sherdog.com/news/news/Elijah-Smith-resigns-with-UFC-after-Davey-Grant-knockout-203733",
           "date": "2026-11-23T14:35:49.000Z",
@@ -109,24 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Ilia-Topuria-reveals-Aleksandre-Topurias-early-injury-in-UFC-Qatar-loss-203724",
           "date": "2026-11-22T16:00:17.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261122092017_ilia_on_aleks_loss_injury.JPG"
-        },
-        {
-          "title": "Alex Pereira emerges as a potential target for unbeaten Navajo Stirling",
-          "link": "https://www.sherdog.com/news/news/Alex-Pereira-emerges-as-a-potential-target-for-unbeaten-Navajo-Stirling-203723",
-          "date": "2026-11-22T15:55:14.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261122091314_navajo_on_poatan_and_ank.JPG"
-        },
-        {
-          "title": "Dan Hooker wants ‘scumbag’ Charles Oliveira stripped of the BMF title",
-          "link": "https://www.sherdog.com/news/news/Dan-Hooker-wants-scumbag-Charles-Oliveira-stripped-of-the-BMF-title-203722",
-          "date": "2026-11-22T15:50:08.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261122090608_hooker_oli_max_bmf.JPG"
-        },
-        {
-          "title": "Navajo Stirling knocks out Jiri Prochazka, then questions his rituals",
-          "link": "https://www.sherdog.com/news/news/Navajo-Stirling-knocks-out-Jiri-Prochazka-then-questions-his-rituals-203721",
-          "date": "2026-11-22T15:45:00.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261122090200_stirling_jiri.JPG"
         }
       ]
     }
