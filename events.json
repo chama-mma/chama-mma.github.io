@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T21:40:38.386Z",
+  "updated": "2026-11-24T23:39:42.884Z",
   "source": "https://www.ufc.com/events",
   "events": [
     {
@@ -55,8 +55,8 @@
     {
       "name": "UFC Fight Night",
       "main": "Salkilld vs Saint Denis",
-      "start": "2027-02-06T22:00:00.000Z",
-      "prelims": "2027-02-06T20:00:00.000Z",
+      "start": "2027-02-07T01:00:00.000Z",
+      "prelims": "2027-02-06T22:00:00.000Z",
       "venue": "Afterpay Arena",
       "city": "Sydney Olympic Park",
       "country": "Australia",
