@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T03:18:35.676Z",
+  "generatedAt": "2026-11-24T04:29:32.966Z",
   "sources": [
     {
       "id": "bloodyelbow",
@@ -93,6 +93,24 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "Jon Jones hints at UFC return with deleted social media post",
+          "link": "https://www.sherdog.com/news/news/Jon-Jones-hints-at-UFC-return-with-deleted-social-media-post-203727",
+          "date": "2026-11-23T15:10:15.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261123023815_Jones_teases_ufc_return.JPG"
+        },
+        {
+          "title": "Islam Makhachev defends Nurmagomedov brothers after infamous Abu Dhabi brawl",
+          "link": "https://www.sherdog.com/news/news/Islam-Makhachev-defends-Nurmagomedov-brothers-after-infamous-Abu-Dhabi-brawl-203726",
+          "date": "2026-11-23T15:00:02.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261123023702_usman_islam_umar_brawl_merab.JPG"
+        },
+        {
+          "title": "Josh Hokit reveals lingering vision problems, regrets not fouling Ciryl Gane",
+          "link": "https://www.sherdog.com/news/news/Josh-Hokit-reveals-lingering-vision-problems-regrets-not-fouling-Ciryl-Gane-203730",
+          "date": "2026-11-23T14:55:43.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261123024243_hokit_gane_vision_issues.JPG"
+        },
+        {
           "title": "Alex Pereira adds Glory heavyweight to training camp for Sergei Pavlovich bout",
           "link": "https://www.sherdog.com/news/news/Alex-Pereira-adds-Glory-heavyweight-to-training-camp-for-Sergei-Pavlovich-bout-203729",
           "date": "2026-11-23T14:50:04.000Z",
@@ -109,24 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Tai-Tuivasa-reportedly-set-for-UFC-return-amid-8fight-slump-203731",
           "date": "2026-11-23T14:40:27.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261123024427_tai_tui_ufc_sydney_8_loss.JPG"
-        },
-        {
-          "title": "Elijah Smith re-signs with UFC after Davey Grant knockout",
-          "link": "https://www.sherdog.com/news/news/Elijah-Smith-resigns-with-UFC-after-Davey-Grant-knockout-203733",
-          "date": "2026-11-23T14:35:49.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261123024849_Elijah_Smith_new_deal_next_fight.JPG"
-        },
-        {
-          "title": "Giga Chikadze exits UFC after seven years with the promotion",
-          "link": "https://www.sherdog.com/news/news/Giga-Chikadze-exits-UFC-after-seven-years-with-the-promotion-203728",
-          "date": "2026-11-23T14:30:17.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261123023917_giga_ufc_exit.JPG"
-        },
-        {
-          "title": "Ilia Topuria reveals Aleksandre Topuria’s early injury in UFC Qatar loss",
-          "link": "https://www.sherdog.com/news/news/Ilia-Topuria-reveals-Aleksandre-Topurias-early-injury-in-UFC-Qatar-loss-203724",
-          "date": "2026-11-22T16:00:17.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261122092017_ilia_on_aleks_loss_injury.JPG"
         }
       ]
     }
