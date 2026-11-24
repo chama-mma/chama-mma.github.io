@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-24T19:52:53.891Z",
+  "generatedAt": "2026-11-24T20:43:10.115Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Sean Strickland and Bryce Mitchell lose ‘whites v blacks’ basketball game featuring fellow UFC stars",
+          "link": "https://bloodyelbow.com/2026/11/24/sean-strickland-and-bryce-mitchell-lose-whites-v-blacks-basketball-game-featuring-fellow-ufc-stars/",
+          "date": "2026-11-24T20:30:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Screenshot-2026-11-24-at-19.03.52.png"
+        },
         {
           "title": "UFC re-signs 24-year-old prospect despite claim that the promotion weren’t re-signing unranked fighters",
           "link": "https://bloodyelbow.com/2026/11/24/ufc-re-signs-24-year-old-prospect-despite-claim-that-the-promotion-werent-re-signing-unranked-fighters/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/24/dan-hooker-reveals-why-the-ufc-shut-down-his-max-holloway-fight-callout/",
           "date": "2026-11-24T15:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2306245004-scaled.jpg"
-        },
-        {
-          "title": "Israel Adesanya hints at ‘disrespect’ and ‘manipulation’ as he opens up on City Kickboxing split",
-          "link": "https://bloodyelbow.com/2026/11/24/israel-adesanya-hints-at-disrespect-and-manipulation-as-he-opens-up-on-city-kickboxing-split/",
-          "date": "2026-11-24T14:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/08/GettyImages-1276908584-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Israel Adesanya compares City Kickboxing split to bad breakup: ‘I ripped the Band-Aid off’",
+          "link": "https://www.mmafighting.com/ufc/523090/israel-adesanya-compares-city-kickboxing-split-to-bad-breakup-i-ripped-the-band-aid-off",
+          "date": "2026-11-24T20:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/03/gettyimages-2268352040.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Daniel Cormier warns Navajo Stirling if he’s unwilling to fight teammate Carlos Ulberg, then Alex Pereira can get ‘title fight right away’",
           "link": "https://www.mmafighting.com/ufc/523146/daniel-cormier-warns-navajo-stirling-if-hes-unwilling-to-fight-teammate-carlos-ulberg-then-alex-pereira-can-get-title-fight-right-away",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/raf-wrestling/523082/olympic-champion-kyle-snyder-defends-crossover-matches-in-raf-despite-repeated-fights-brawls",
           "date": "2026-11-24T15:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2302170071.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Matt Brown defends Josh Hokit’s complaints about eye poke in Ciryl Gane fight: ‘A f*cking point deduction at minimum’",
-          "link": "https://www.mmafighting.com/ufc/523076/matt-brown-defends-josh-hokits-complaints-about-eye-poke-in-ciryl-gane-fight-a-fcking-point-deduction-at-minimum",
-          "date": "2026-11-24T14:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305180305.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
