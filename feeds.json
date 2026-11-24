@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-24T18:44:54.709Z",
+  "generatedAt": "2026-11-24T19:52:53.891Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "UFC re-signs 24-year-old prospect despite claim that the promotion weren’t re-signing unranked fighters",
+          "link": "https://bloodyelbow.com/2026/11/24/ufc-re-signs-24-year-old-prospect-despite-claim-that-the-promotion-werent-re-signing-unranked-fighters/",
+          "date": "2026-11-24T19:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2304053591-scaled.jpg"
+        },
         {
           "title": "Paddy Pimblett says he and Ilia Topuria would ‘bring The Ultimate Fighter back’ as he sends message to UFC",
           "link": "https://bloodyelbow.com/2026/11/24/paddy-pimblett-says-he-and-ilia-topuria-would-bring-the-ultimate-fighter-back-as-he-sends-message-to-ufc/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/24/israel-adesanya-hints-at-disrespect-and-manipulation-as-he-opens-up-on-city-kickboxing-split/",
           "date": "2026-11-24T14:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/08/GettyImages-1276908584-scaled.jpg"
-        },
-        {
-          "title": "UFC 336 update: Gable Steveson’s return and three other fights confirmed",
-          "link": "https://bloodyelbow.com/2026/11/24/ufc-336-update-gable-stevesons-return-and-three-other-fights-confirmed/",
-          "date": "2026-11-24T13:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/09/GettyImages-2296152856-scaled.jpg"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Daniel Cormier warns Navajo Stirling if he’s unwilling to fight teammate Carlos Ulberg, then Alex Pereira can get ‘title fight right away’",
+          "link": "https://www.mmafighting.com/ufc/523146/daniel-cormier-warns-navajo-stirling-if-hes-unwilling-to-fight-teammate-carlos-ulberg-then-alex-pereira-can-get-title-fight-right-away",
+          "date": "2026-11-24T19:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305008496.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Raoni Barcelos confident he will fight again after scary collapse: ‘I really want to come back’",
           "link": "https://www.mmafighting.com/ufc/523149/raoni-barcelos-confident-he-will-fight-again-after-scary-collapse-i-really-want-to-come-back",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/523076/matt-brown-defends-josh-hokits-complaints-about-eye-poke-in-ciryl-gane-fight-a-fcking-point-deduction-at-minimum",
           "date": "2026-11-24T14:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305180305.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Morning Report: Drew Dober recounts wild story of second-ever MMA fight against ‘Sawed Off’ after no-show opponent",
-          "link": "https://www.mmafighting.com/ufc/522968/morning-report-drew-dober-recounts-wild-story-of-his-second-ever-mma-fight-against-sawed-off-after-no-show-opponent",
-          "date": "2026-11-24T13:00:00.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305155600.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
