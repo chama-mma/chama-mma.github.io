@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-25T00:48:03.243Z",
+  "generatedAt": "2026-11-25T02:12:57.243Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Kayla Harrison’s undefeated teammate admits she is open to title fight against champion",
+          "link": "https://bloodyelbow.com/2026/11/24/kayla-harrisons-undefeated-teammate-admits-she-is-open-to-title-fight-against-champion/",
+          "date": "2026-11-25T01:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305173510-scaled.jpg"
+        },
         {
           "title": "Kevin Holland names Mike Perry among UFC legends on his five-fight hitlist",
           "link": "https://bloodyelbow.com/2026/11/24/kevin-holland-names-mike-perry-among-ufc-legends-on-his-five-fight-hitlist/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/24/ufc-re-signs-24-year-old-prospect-despite-claim-that-the-promotion-werent-re-signing-unranked-fighters/",
           "date": "2026-11-24T19:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2304053591-scaled.jpg"
-        },
-        {
-          "title": "Paddy Pimblett says he and Ilia Topuria would ‘bring The Ultimate Fighter back’ as he sends message to UFC",
-          "link": "https://bloodyelbow.com/2026/11/24/paddy-pimblett-says-he-and-ilia-topuria-would-bring-the-ultimate-fighter-back-as-he-sends-message-to-ufc/",
-          "date": "2026-11-24T18:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/09/GettyImages-2297802931-scaled.jpg"
         }
       ]
     },
@@ -93,10 +93,22 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "UFC’s Jean Silva seeks justice after alleged hit-and-run",
+          "link": "https://www.sherdog.com/news/news/UFCs-Jean-Silva-seeks-justice-after-alleged-hitandrun-203736",
+          "date": "2026-11-25T02:03:42.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261125020342_jean_silva_accident.JPG"
+        },
+        {
+          "title": "Amanda Nunes' former coach warns of tougher Kayla Harrison rematch",
+          "link": "https://www.sherdog.com/news/news/Amanda-Nunes-former-coach-warns-of-tougher-Kayla-Harrison-rematch-203735",
+          "date": "2026-11-25T01:07:34.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261125010734_33.JPG"
+        },
+        {
           "title": "Brazil launches MMA reality show to select its first military team",
           "link": "https://www.sherdog.com/news/news/Brazil-launches-MMA-reality-show-to-select-its-first-military-team-203734",
           "date": "2026-11-25T00:40:35.000Z",
-          "image": null
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261125124035_joao.JPG"
         },
         {
           "title": "Jon Jones hints at UFC return with deleted social media post",
@@ -115,18 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Josh-Hokit-reveals-lingering-vision-problems-regrets-not-fouling-Ciryl-Gane-203730",
           "date": "2026-11-23T14:55:43.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261123024243_hokit_gane_vision_issues.JPG"
-        },
-        {
-          "title": "Alex Pereira adds Glory heavyweight to training camp for Sergei Pavlovich bout",
-          "link": "https://www.sherdog.com/news/news/Alex-Pereira-adds-Glory-heavyweight-to-training-camp-for-Sergei-Pavlovich-bout-203729",
-          "date": "2026-11-23T14:50:04.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261123024104_poatan_glory_kb_sergei_pav_335.JPG"
-        },
-        {
-          "title": "GTA VI question sparks Islam Makhachev's gaming confession",
-          "link": "https://www.sherdog.com/news/news/GTA-VI-question-sparks-Islam-Makhachevs-gaming-confession-203732",
-          "date": "2026-11-23T14:45:25.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261123024525_islam_gaming_gta_6.JPG"
         }
       ]
     }
