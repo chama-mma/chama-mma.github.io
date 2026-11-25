@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-25T02:12:57.243Z",
+  "generatedAt": "2026-11-25T03:27:35.818Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Kevin Holland fought UFC champions like Khamzat Chimaev – but one BKFC star hit harder than any",
+          "link": "https://bloodyelbow.com/2026/11/24/kevin-holland-fought-ufc-champions-like-khamzat-chimaev-but-one-bkfc-star-hit-harder-than-any/",
+          "date": "2026-11-25T01:30:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/kevin-holland-1795569892358.jpg"
+        },
         {
           "title": "Kayla Harrison’s undefeated teammate admits she is open to title fight against champion",
           "link": "https://bloodyelbow.com/2026/11/24/kayla-harrisons-undefeated-teammate-admits-she-is-open-to-title-fight-against-champion/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/24/sean-strickland-and-bryce-mitchell-lose-whites-v-blacks-basketball-game-featuring-fellow-ufc-stars/",
           "date": "2026-11-24T20:30:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Screenshot-2026-11-24-at-19.03.52.png"
-        },
-        {
-          "title": "UFC re-signs 24-year-old prospect despite claim that the promotion weren’t re-signing unranked fighters",
-          "link": "https://bloodyelbow.com/2026/11/24/ufc-re-signs-24-year-old-prospect-despite-claim-that-the-promotion-werent-re-signing-unranked-fighters/",
-          "date": "2026-11-24T19:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2304053591-scaled.jpg"
         }
       ]
     },
@@ -93,6 +93,24 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "Kevin Vallejos and Aljamain Sterling go back and forth over greasing claims",
+          "link": "https://www.sherdog.com/news/news/Kevin-Vallejos-and-Aljamain-Sterling-go-back-and-forth-over-greasing-claims-203739",
+          "date": "2026-11-25T03:21:57.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261125032157_vallejos_sterling_greasing_claims.JPG"
+        },
+        {
+          "title": "Carlos Prates says ‘street fights have no rules’ after Abu Dhabi brawl",
+          "link": "https://www.sherdog.com/news/news/Carlos-Prates-says-street-fights-have-no-rules-after-Abu-Dhabi-brawl-203738",
+          "date": "2026-11-25T02:56:14.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261125025615_prates_on_usman_merab_brawl.JPG"
+        },
+        {
+          "title": "Stephen Thompson wants to wrestle after UFC retirement, but needs time to prepare",
+          "link": "https://www.sherdog.com/news/news/Stephen-Thompson-wants-to-wrestle-after-UFC-retirement-but-needs-time-to-prepare-203737",
+          "date": "2026-11-25T02:27:14.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261125022715_wonderboy_on_raf.JPG"
+        },
+        {
           "title": "UFC’s Jean Silva seeks justice after alleged hit-and-run",
           "link": "https://www.sherdog.com/news/news/UFCs-Jean-Silva-seeks-justice-after-alleged-hitandrun-203736",
           "date": "2026-11-25T02:03:42.000Z",
@@ -109,24 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Brazil-launches-MMA-reality-show-to-select-its-first-military-team-203734",
           "date": "2026-11-25T00:40:35.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261125124035_joao.JPG"
-        },
-        {
-          "title": "Jon Jones hints at UFC return with deleted social media post",
-          "link": "https://www.sherdog.com/news/news/Jon-Jones-hints-at-UFC-return-with-deleted-social-media-post-203727",
-          "date": "2026-11-23T15:10:15.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261123023815_Jones_teases_ufc_return.JPG"
-        },
-        {
-          "title": "Islam Makhachev defends Nurmagomedov brothers after Abu Dhabi brawl",
-          "link": "https://www.sherdog.com/news/news/Islam-Makhachev-defends-Nurmagomedov-brothers-after-Abu-Dhabi-brawl-203726",
-          "date": "2026-11-23T15:00:02.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261123023702_usman_islam_umar_brawl_merab.JPG"
-        },
-        {
-          "title": "Josh Hokit reveals lingering vision problems, regrets not fouling Ciryl Gane",
-          "link": "https://www.sherdog.com/news/news/Josh-Hokit-reveals-lingering-vision-problems-regrets-not-fouling-Ciryl-Gane-203730",
-          "date": "2026-11-23T14:55:43.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261123024243_hokit_gane_vision_issues.JPG"
         }
       ]
     }
