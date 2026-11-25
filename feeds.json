@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-25T03:27:35.818Z",
+  "generatedAt": "2026-11-25T04:37:59.179Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Tributes paid as Henry Cejudo and Jon Jones’ legendary coach Eddie Cha passes away",
+          "link": "https://bloodyelbow.com/2026/11/24/tributes-paid-as-henry-cejudo-and-jon-jones-legendary-coach-eddie-cha-passes-away/",
+          "date": "2026-11-25T03:33:41.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Eddie-Cha-Jon-Jones.png"
+        },
         {
           "title": "Kevin Holland fought UFC champions like Khamzat Chimaev – but one BKFC star hit harder than any",
           "link": "https://bloodyelbow.com/2026/11/24/kevin-holland-fought-ufc-champions-like-khamzat-chimaev-but-one-bkfc-star-hit-harder-than-any/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/24/usman-nurmagomedov-returns-to-russia-after-being-released-from-abu-dhabi-prison/",
           "date": "2026-11-24T21:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/10/GettyImages-2239056849-scaled-e1759533035222.jpg"
-        },
-        {
-          "title": "Sean Strickland and Bryce Mitchell lose ‘whites v blacks’ basketball game featuring fellow UFC stars",
-          "link": "https://bloodyelbow.com/2026/11/24/sean-strickland-and-bryce-mitchell-lose-whites-v-blacks-basketball-game-featuring-fellow-ufc-stars/",
-          "date": "2026-11-24T20:30:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Screenshot-2026-11-24-at-19.03.52.png"
         }
       ]
     },
@@ -93,6 +93,18 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "Gable Steveson books UFC return after historic 12-second KO loss",
+          "link": "https://www.sherdog.com/news/news/Gable-Steveson-books-UFC-return-after-historic-12second-KO-loss-203741",
+          "date": "2026-11-25T04:19:37.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261125041937_gable_next_fight_ufc_336.JPG"
+        },
+        {
+          "title": "Jiri Prochazka gets called out after back-to-back KO losses",
+          "link": "https://www.sherdog.com/news/news/Jiri-Prochazka-gets-called-out-after-backtoback-KO-losses-203740",
+          "date": "2026-11-25T03:51:29.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261125035129_jan_jiri_call_out_postufcqatar.JPG"
+        },
+        {
           "title": "Kevin Vallejos and Aljamain Sterling go back and forth over greasing claims",
           "link": "https://www.sherdog.com/news/news/Kevin-Vallejos-and-Aljamain-Sterling-go-back-and-forth-over-greasing-claims-203739",
           "date": "2026-11-25T03:21:57.000Z",
@@ -115,18 +127,6 @@
           "link": "https://www.sherdog.com/news/news/UFCs-Jean-Silva-seeks-justice-after-alleged-hitandrun-203736",
           "date": "2026-11-25T02:03:42.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261125020342_jean_silva_accident.JPG"
-        },
-        {
-          "title": "Amanda Nunes' former coach warns of tougher Kayla Harrison rematch",
-          "link": "https://www.sherdog.com/news/news/Amanda-Nunes-former-coach-warns-of-tougher-Kayla-Harrison-rematch-203735",
-          "date": "2026-11-25T01:07:34.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261125010734_33.JPG"
-        },
-        {
-          "title": "Brazil launches MMA reality show to select its first military team",
-          "link": "https://www.sherdog.com/news/news/Brazil-launches-MMA-reality-show-to-select-its-first-military-team-203734",
-          "date": "2026-11-25T00:40:35.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261125124035_joao.JPG"
         }
       ]
     }
