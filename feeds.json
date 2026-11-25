@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-24T23:39:40.782Z",
+  "generatedAt": "2026-11-25T00:48:03.243Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Kevin Holland names Mike Perry among UFC legends on his five-fight hitlist",
+          "link": "https://bloodyelbow.com/2026/11/24/kevin-holland-names-mike-perry-among-ufc-legends-on-his-five-fight-hitlist/",
+          "date": "2026-11-24T23:55:23.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/kevin-holland-1795563264045.jpg"
+        },
         {
           "title": "Dana White reveals potentially record-breaking idea involving Conor McGregor and Khabib Nurmagomedov",
           "link": "https://bloodyelbow.com/2026/11/24/dana-white-reveals-potentially-record-breaking-idea-involving-conor-mcgregor-and-khabib-nurmagomedov/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/24/paddy-pimblett-says-he-and-ilia-topuria-would-bring-the-ultimate-fighter-back-as-he-sends-message-to-ufc/",
           "date": "2026-11-24T18:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/09/GettyImages-2297802931-scaled.jpg"
-        },
-        {
-          "title": "Josh Hokit fires back at Bruce Buffer over UFC 334 middle finger incident: ‘You’d get beat up’",
-          "link": "https://bloodyelbow.com/2026/11/24/josh-hokit-fires-back-at-bruce-buffer-over-ufc-334-middle-finger-incident-youd-get-beat-up/",
-          "date": "2026-11-24T16:59:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/Bruce-Buffer-Josh-Hokit-2305176601.png"
         }
       ]
     },
@@ -49,6 +49,12 @@
       "name": "MMA Fighting",
       "site": "https://www.mmafighting.com/",
       "items": [
+        {
+          "title": "Gabriel Bonfim vs. Sean Brady fight night event adds slew of undercard fights",
+          "link": "https://www.mmafighting.com/ufc/523204/gabriel-bonfim-vs-sean-brady-fight-night-event-adds-slew-of-undercard-fights",
+          "date": "2026-11-25T00:00:00.000Z",
+          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2282552782.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
         {
           "title": "Aljamain Sterling questions judging ‘conspiracy,’ Kevin Vallejos’ slippery takedown defense in UFC Qatar loss",
           "link": "https://www.mmafighting.com/ufc/523185/aljamain-sterling-questions-judging-conspiracy-kevin-vallejos-slippery-takedown-defense-in-ufc-qatar-loss",
@@ -78,12 +84,6 @@
           "link": "https://www.mmafighting.com/ufc/523018/between-the-links-whats-next-for-jiri-prochazka-josh-hokit-wants-ciryl-gane-rematch-more",
           "date": "2026-11-24T16:00:00.000Z",
           "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/BTL-CLEAN-11.24.26.jpg?quality=90&strip=all&crop=0,0,100,100"
-        },
-        {
-          "title": "Nikolas Motta shows off ghastly facial injuries following UFC Qatar loss",
-          "link": "https://www.mmafighting.com/ufc/523170/nikolas-motta-shows-off-ghastly-facial-injuries-following-ufc-qatar-loss",
-          "date": "2026-11-24T15:31:28.000Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2306215554.jpg?quality=90&strip=all&crop=0,0,100,100"
         }
       ]
     },
@@ -92,6 +92,12 @@
       "name": "Sherdog",
       "site": "https://www.sherdog.com/",
       "items": [
+        {
+          "title": "Brazil launches MMA reality show to select its first military team",
+          "link": "https://www.sherdog.com/news/news/Brazil-launches-MMA-reality-show-to-select-its-first-military-team-203734",
+          "date": "2026-11-25T00:40:35.000Z",
+          "image": null
+        },
         {
           "title": "Jon Jones hints at UFC return with deleted social media post",
           "link": "https://www.sherdog.com/news/news/Jon-Jones-hints-at-UFC-return-with-deleted-social-media-post-203727",
@@ -121,12 +127,6 @@
           "link": "https://www.sherdog.com/news/news/GTA-VI-question-sparks-Islam-Makhachevs-gaming-confession-203732",
           "date": "2026-11-23T14:45:25.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261123024525_islam_gaming_gta_6.JPG"
-        },
-        {
-          "title": "Tai Tuivasa reportedly set for UFC return amid 8-fight slump",
-          "link": "https://www.sherdog.com/news/news/Tai-Tuivasa-reportedly-set-for-UFC-return-amid-8fight-slump-203731",
-          "date": "2026-11-23T14:40:27.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261123024427_tai_tui_ufc_sydney_8_loss.JPG"
         }
       ]
     }
