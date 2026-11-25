@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-25T04:37:59.179Z",
+  "generatedAt": "2026-11-25T05:50:05.916Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "Carlos Prates dismisses interim belt as ‘not a real title’ ahead of Michael Morales clash at UFC 336",
+          "link": "https://bloodyelbow.com/2026/11/25/carlos-prates-dismisses-interim-belt-as-not-a-real-title-ahead-of-michael-morales-clash-at-ufc-336/",
+          "date": "2026-11-25T05:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/04/GettyImages-2212164838-1-scaled.jpg"
+        },
         {
           "title": "Tributes paid as Henry Cejudo and Jon Jones’ legendary coach Eddie Cha passes away",
           "link": "https://bloodyelbow.com/2026/11/24/tributes-paid-as-henry-cejudo-and-jon-jones-legendary-coach-eddie-cha-passes-away/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/24/dana-white-reveals-potentially-record-breaking-idea-involving-conor-mcgregor-and-khabib-nurmagomedov/",
           "date": "2026-11-24T22:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/08/GettyImages-1046917518-scaled.jpg"
-        },
-        {
-          "title": "Usman Nurmagomedov returns to Russia after being released from Abu Dhabi prison",
-          "link": "https://bloodyelbow.com/2026/11/24/usman-nurmagomedov-returns-to-russia-after-being-released-from-abu-dhabi-prison/",
-          "date": "2026-11-24T21:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2025/10/GettyImages-2239056849-scaled-e1759533035222.jpg"
         }
       ]
     },
@@ -93,6 +93,18 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "Carlos Prates says UFC interim title isn't the 'real' championship",
+          "link": "https://www.sherdog.com/news/news/Carlos-Prates-says-UFC-interim-title-isnt-the-real-championship-203743",
+          "date": "2026-11-25T05:05:36.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261125050536_prates_on_interim_title.JPG"
+        },
+        {
+          "title": "Josh Hokit wants to settle Jon Jones feud behind closed doors",
+          "link": "https://www.sherdog.com/news/news/Josh-Hokit-wants-to-settle-Jon-Jones-feud-behind-closed-doors-203742",
+          "date": "2026-11-25T04:41:19.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261125044119_hokit_throws_down_challenge_to_jones.JPG"
+        },
+        {
           "title": "Gable Steveson books UFC return after historic 12-second KO loss",
           "link": "https://www.sherdog.com/news/news/Gable-Steveson-books-UFC-return-after-historic-12second-KO-loss-203741",
           "date": "2026-11-25T04:19:37.000Z",
@@ -115,18 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Carlos-Prates-says-street-fights-have-no-rules-after-Abu-Dhabi-brawl-203738",
           "date": "2026-11-25T02:56:14.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261125025615_prates_on_usman_merab_brawl.JPG"
-        },
-        {
-          "title": "Stephen Thompson wants to wrestle after UFC retirement, but needs time to prepare",
-          "link": "https://www.sherdog.com/news/news/Stephen-Thompson-wants-to-wrestle-after-UFC-retirement-but-needs-time-to-prepare-203737",
-          "date": "2026-11-25T02:27:14.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261125022715_wonderboy_on_raf.JPG"
-        },
-        {
-          "title": "UFC’s Jean Silva seeks justice after alleged hit-and-run",
-          "link": "https://www.sherdog.com/news/news/UFCs-Jean-Silva-seeks-justice-after-alleged-hitandrun-203736",
-          "date": "2026-11-25T02:03:42.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261125020342_jean_silva_accident.JPG"
         }
       ]
     }
