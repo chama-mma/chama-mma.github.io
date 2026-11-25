@@ -1,5 +1,5 @@
 {
- "updated": "Nov. 24, 2026",
+ "updated": "Nov. 25, 2026",
  "source": "https://www.ufc.com/rankings",
  "divisions": [
   {
@@ -69,21 +69,21 @@
    "name": "Featherweight",
    "champion": "Alexander Volkanovski",
    "fighters": [
-    "Movsar Evloev",
     "Diego Lopes",
+    "Movsar Evloev",
     "Lerone Murphy",
-    "Aljamain Sterling",
     "Jean Silva",
+    "Kevin Vallejos",
+    "Aljamain Sterling",
     "Arnold Allen",
     "Yair Rodriguez",
     "Youssef Zalal",
-    "Kevin Vallejos",
     "Steve Garcia",
     "Aaron Pico",
     "Patricio Pitbull",
-    "Brian Ortega",
+    "Pat Sabatini",
     "David Onama",
-    "Pat Sabatini"
+    "Josh Emmett"
    ]
   },
   {
@@ -121,8 +121,8 @@
     "Leon Edwards",
     "Mike Malott",
     "Kamaru Usman",
-    "Yaroslav Amosov",
     "Uroš Medić",
+    "Yaroslav Amosov",
     "Joaquin Buckley",
     "Kevin Holland",
     "Daniel Rodriguez"
@@ -142,11 +142,11 @@
     "Anthony Hernandez",
     "Israel Adesanya",
     "Christian Leroy Duncan",
-    "Abus Magomedov",
-    "Jared Cannonier",
     "Ikram Aliskerov",
+    "Abus Magomedov",
     "Bo Nickal",
-    "Shara Magomedov"
+    "Shara Magomedov",
+    "Jared Cannonier"
    ]
   },
   {
@@ -154,12 +154,12 @@
    "champion": "Carlos Ulberg",
    "fighters": [
     "Magomed Ankalaev",
+    "Navajo Stirling",
     "Jiří Procházka",
     "Alex Pereira",
     "Khalil Rountree Jr.",
-    "Navajo Stirling",
-    "Paulo Costa",
     "Dominick Reyes",
+    "Paulo Costa",
     "Bogdan Guskov",
     "Azamat Murzakanov",
     "Robert Whittaker",
@@ -201,15 +201,15 @@
     "Natalia Silva",
     "Mackenzie Dern",
     "Alexa Grasso",
+    "Amanda Nunes",
     "Manon Fiorot",
     "Tatiana Suarez",
     "Jasmine Jasudavicius",
-    "Amanda Nunes",
     "Erin Blanchfield",
     "Julianna Peña",
-    "Virna Jandiroba",
     "Rose Namajunas",
-    "Denise Gomes"
+    "Denise Gomes",
+    "Joselyne Edwards"
    ]
   },
   {
@@ -218,7 +218,6 @@
    "fighters": [
     "Zhang Weili",
     "Tatiana Suarez",
-    "Virna Jandiroba",
     "Denise Gomes",
     "Gillian Robertson",
     "Fatima Kline",
@@ -230,7 +229,8 @@
     "Jéssica Andrade",
     "Amanda Ribas",
     "Piera Rodriguez",
-    "Angela Hill"
+    "Angela Hill",
+    "Mizuki"
    ]
   },
   {
@@ -264,8 +264,8 @@
     "Ailin Perez",
     "Luana Santos",
     "Yana Santos",
-    "Raquel Pennington",
     "Bia Mesquita",
+    "Raquel Pennington",
     "Jacqueline Cavalcanti",
     "Karol Rosa",
     "Michelle Montague",
