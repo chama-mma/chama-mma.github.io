@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T05:49:39.868Z",
+  "generatedAt": "2026-11-26T06:56:36.678Z",
   "sources": [
     {
       "id": "bloodyelbow",
@@ -93,6 +93,18 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "UFC champion Carlos Ulberg & Navajo Stirling will never fight, coach says",
+          "link": "https://www.sherdog.com/news/news/UFC-champion-Carlos-Ulberg-Navajo-Stirling-will-never-fight-coach-says-203752",
+          "date": "2026-11-26T06:24:15.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261126062415_ckb_lhw_ulberg_nav.JPG"
+        },
+        {
+          "title": "Josh Hokit hits back after Ethyn Ewing predicts his fame won't last",
+          "link": "https://www.sherdog.com/news/news/Josh-Hokit-hits-back-after-Ethyn-Ewing-predicts-his-fame-wont-last-203751",
+          "date": "2026-11-26T06:01:13.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261126060113_hokit_slams_ewing_and_tate.JPG"
+        },
+        {
           "title": "'You better be ready to work for free': Chris Leben on MMA officiating",
           "link": "https://www.sherdog.com/news/news/You-better-be-ready-to-work-for-free-Chris-Leben-on-MMA-officiating-203750",
           "date": "2026-11-26T05:23:12.000Z",
@@ -115,18 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Joaquin-Buckley-challenges-former-UFC-champion-to-public-debate-203746",
           "date": "2026-11-26T03:34:02.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261126041620_buckley_karen_n_word_debate.JPG"
-        },
-        {
-          "title": "Kevin Vallejos eyes UFC gold or BMF fight against Tommy McMillen",
-          "link": "https://www.sherdog.com/news/news/Kevin-Vallejos-eyes-UFC-gold-or-BMF-fight-against-Tommy-McMillen-203745",
-          "date": "2026-11-26T03:12:30.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261126031230_kevin_vallejos_bmf_tommy_or_ufc_gold.JPG"
-        },
-        {
-          "title": "MMA coach Eddie Cha dies at 53, fighters pay tribute",
-          "link": "https://www.sherdog.com/news/news/MMA-coach-Eddie-Cha-dies-at-53-fighters-pay-tribute-203744",
-          "date": "2026-11-26T03:07:17.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261126030718_eddie_cha_RIP.JPG"
         }
       ]
     }
