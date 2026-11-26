@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-26T04:33:58.565Z",
+  "generatedAt": "2026-11-26T05:49:39.868Z",
   "sources": [
     {
       "id": "bloodyelbow",
       "name": "Bloody Elbow",
       "site": "https://bloodyelbow.com/",
       "items": [
+        {
+          "title": "‘Shush’: Dan Hooker weighs in on public falling out between Israel Adesanya and Carlos Ulberg",
+          "link": "https://bloodyelbow.com/2026/11/26/shush-dan-hooker-weighs-in-on-public-falling-out-between-israel-adesanya-and-carlos-ulberg/",
+          "date": "2026-11-26T05:00:00.000Z",
+          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/07/GettyImages-1441092535-scaled.jpg"
+        },
         {
           "title": "Floyd Mayweather vs. Ryan Garcia blocked with warm-up fight also in jeopardy",
           "link": "https://bloodyelbow.com/2026/11/25/floyd-mayweather-vs-ryan-garcia-blocked-with-warm-up-fight-also-in-jeopardy/",
@@ -35,12 +41,6 @@
           "link": "https://bloodyelbow.com/2026/11/25/king-green-calls-out-dan-hooker-after-the-ufc-turned-down-hangmans-max-holloway-proposal/",
           "date": "2026-11-25T22:00:00.000Z",
           "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2306245005-scaled.jpg"
-        },
-        {
-          "title": "Tyson Fury vs. Anthony Joshua start time confirmed with UK fans set to be up through the night",
-          "link": "https://bloodyelbow.com/2026/11/25/tyson-fury-vs-anthony-joshua-start-time-confirmed-with-uk-fans-set-to-be-up-through-the-night/",
-          "date": "2026-11-25T21:00:00.000Z",
-          "image": "https://cdn1.bloodyelbow.com/uploads/1/2026/10/GettyImages-2297395834-scaled.jpg"
         }
       ]
     },
@@ -93,6 +93,18 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "'You better be ready to work for free': Chris Leben on MMA officiating",
+          "link": "https://www.sherdog.com/news/news/You-better-be-ready-to-work-for-free-Chris-Leben-on-MMA-officiating-203750",
+          "date": "2026-11-26T05:23:12.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261126052312_leben_on_officials.JPG"
+        },
+        {
+          "title": "Jon Jones’ teammate fires back at Josh Hokit: ‘I owe Jon my life’",
+          "link": "https://www.sherdog.com/news/news/Jon-Jones-teammate-fires-back-at-Josh-Hokit-I-owe-Jon-my-life-203749",
+          "date": "2026-11-26T04:49:33.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261126044933_jones_hokit_teammate_spat_statement.JPG"
+        },
+        {
           "title": "Carlos Ulberg takes a shot at Israel Adesanya over CKB split",
           "link": "https://www.sherdog.com/news/news/Carlos-Ulberg-takes-a-shot-at-Israel-Adesanya-over-CKB-split-203747",
           "date": "2026-11-26T03:55:14.000Z",
@@ -115,18 +127,6 @@
           "link": "https://www.sherdog.com/news/news/MMA-coach-Eddie-Cha-dies-at-53-fighters-pay-tribute-203744",
           "date": "2026-11-26T03:07:17.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261126030718_eddie_cha_RIP.JPG"
-        },
-        {
-          "title": "Carlos Prates says UFC interim title isn't the 'real' championship, eyes undisputed gold",
-          "link": "https://www.sherdog.com/news/news/Carlos-Prates-says-UFC-interim-title-isnt-the-real-championship-eyes-undisputed-gold-203743",
-          "date": "2026-11-25T05:05:36.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261125050536_prates_on_interim_title.JPG"
-        },
-        {
-          "title": "Josh Hokit wants to settle Jon Jones feud behind closed doors",
-          "link": "https://www.sherdog.com/news/news/Josh-Hokit-wants-to-settle-Jon-Jones-feud-behind-closed-doors-203742",
-          "date": "2026-11-25T04:41:19.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261125044119_hokit_throws_down_challenge_to_jones.JPG"
         }
       ]
     }
