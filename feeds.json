@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T02:11:04.619Z",
+  "generatedAt": "2026-11-26T03:25:01.713Z",
   "sources": [
     {
       "id": "bloodyelbow",
@@ -93,6 +93,18 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "Kevin Vallejos eyes UFC gold or BMF fight against Tommy McMillen",
+          "link": "https://www.sherdog.com/news/news/Kevin-Vallejos-eyes-UFC-gold-or-BMF-fight-against-Tommy-McMillen-203745",
+          "date": "2026-11-26T03:12:30.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261126031230_kevin_vallejos_bmf_tommy_or_ufc_gold.JPG"
+        },
+        {
+          "title": "MMA coach Eddie Cha dies at 53, fighters pay tribute",
+          "link": "https://www.sherdog.com/news/news/MMA-coach-Eddie-Cha-dies-at-53-fighters-pay-tribute-203744",
+          "date": "2026-11-26T03:07:17.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261126030718_eddie_cha_RIP.JPG"
+        },
+        {
           "title": "Carlos Prates says UFC interim title isn't the 'real' championship, eyes undisputed gold",
           "link": "https://www.sherdog.com/news/news/Carlos-Prates-says-UFC-interim-title-isnt-the-real-championship-eyes-undisputed-gold-203743",
           "date": "2026-11-25T05:05:36.000Z",
@@ -115,18 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Jiri-Prochazka-gets-called-out-after-backtoback-KO-losses-203740",
           "date": "2026-11-25T03:51:29.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261125035129_jan_jiri_call_out_postufcqatar.JPG"
-        },
-        {
-          "title": "Kevin Vallejos and Aljamain Sterling go back and forth over greasing claims",
-          "link": "https://www.sherdog.com/news/news/Kevin-Vallejos-and-Aljamain-Sterling-go-back-and-forth-over-greasing-claims-203739",
-          "date": "2026-11-25T03:21:57.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261125032157_vallejos_sterling_greasing_claims.JPG"
-        },
-        {
-          "title": "Carlos Prates says ‘street fights have no rules’ after Abu Dhabi brawl",
-          "link": "https://www.sherdog.com/news/news/Carlos-Prates-says-street-fights-have-no-rules-after-Abu-Dhabi-brawl-203738",
-          "date": "2026-11-25T02:56:14.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261125025615_prates_on_usman_merab_brawl.JPG"
         }
       ]
     }
