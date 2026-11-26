@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T03:25:01.713Z",
+  "generatedAt": "2026-11-26T04:33:58.565Z",
   "sources": [
     {
       "id": "bloodyelbow",
@@ -93,6 +93,18 @@
       "site": "https://www.sherdog.com/",
       "items": [
         {
+          "title": "Carlos Ulberg takes a shot at Israel Adesanya over CKB split",
+          "link": "https://www.sherdog.com/news/news/Carlos-Ulberg-takes-a-shot-at-Israel-Adesanya-over-CKB-split-203747",
+          "date": "2026-11-26T03:55:14.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261126040557_ulberg_izzy_tension.JPG"
+        },
+        {
+          "title": "Joaquin Buckley challenges former UFC champion to public debate",
+          "link": "https://www.sherdog.com/news/news/Joaquin-Buckley-challenges-former-UFC-champion-to-public-debate-203746",
+          "date": "2026-11-26T03:34:02.000Z",
+          "image": "https://www1-cdn.sherdog.com/_images/headers/20261126041620_buckley_karen_n_word_debate.JPG"
+        },
+        {
           "title": "Kevin Vallejos eyes UFC gold or BMF fight against Tommy McMillen",
           "link": "https://www.sherdog.com/news/news/Kevin-Vallejos-eyes-UFC-gold-or-BMF-fight-against-Tommy-McMillen-203745",
           "date": "2026-11-26T03:12:30.000Z",
@@ -115,18 +127,6 @@
           "link": "https://www.sherdog.com/news/news/Josh-Hokit-wants-to-settle-Jon-Jones-feud-behind-closed-doors-203742",
           "date": "2026-11-25T04:41:19.000Z",
           "image": "https://www1-cdn.sherdog.com/_images/headers/20261125044119_hokit_throws_down_challenge_to_jones.JPG"
-        },
-        {
-          "title": "Gable Steveson books UFC return after historic 12-second KO loss",
-          "link": "https://www.sherdog.com/news/news/Gable-Steveson-books-UFC-return-after-historic-12second-KO-loss-203741",
-          "date": "2026-11-25T04:19:37.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261125041937_gable_next_fight_ufc_336.JPG"
-        },
-        {
-          "title": "Jiri Prochazka gets called out after back-to-back KO losses",
-          "link": "https://www.sherdog.com/news/news/Jiri-Prochazka-gets-called-out-after-backtoback-KO-losses-203740",
-          "date": "2026-11-25T03:51:29.000Z",
-          "image": "https://www1-cdn.sherdog.com/_images/headers/20261125035129_jan_jiri_call_out_postufcqatar.JPG"
         }
       ]
     }
