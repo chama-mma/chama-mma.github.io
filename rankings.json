@@ -1,5 +1,5 @@
 {
- "updated": "Nov. 25, 2026",
+ "updated": "Nov. 26, 2026",
  "source": "https://www.ufc.com/rankings",
  "divisions": [
   {
@@ -27,8 +27,8 @@
    "name": "Flyweight",
    "champion": "Joshua Van",
    "fighters": [
-    "Manel Kape",
     "Alexandre Pantoja",
+    "Manel Kape",
     "Brandon Royval",
     "Tatsuro Taira",
     "Kyoji Horiguchi",
@@ -59,8 +59,8 @@
     "Aiemann Zahabi",
     "Raul Rosas Jr.",
     "Marlon Vera",
-    "Marcus McGhee",
     "Deiveson Figueiredo",
+    "Marcus McGhee",
     "Raoni Barcelos",
     "Bryce Mitchell"
    ]
@@ -69,8 +69,8 @@
    "name": "Featherweight",
    "champion": "Alexander Volkanovski",
    "fighters": [
-    "Movsar Evloev",
     "Diego Lopes",
+    "Movsar Evloev",
     "Lerone Murphy",
     "Jean Silva",
     "Kevin Vallejos",
